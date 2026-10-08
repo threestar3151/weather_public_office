@@ -16,59 +16,63 @@
         --rain:#6EA2FF; --hot:#FB923C; --cold:#8FB1E6; --focus:#6EA2FF;}
 }
 *{box-sizing:border-box}
-html{background:var(--bg)}
-body{margin:0;color:var(--ink);line-height:1.6;font-size:16px;-webkit-text-size-adjust:100%}
-.wrap{max-width:1080px;margin:0 auto;padding:32px 20px 64px}
+html{background:var(--bg);font-size:calc(100% * var(--scale,1.2))}
+body{margin:0;color:var(--ink);line-height:1.6;font-size:1rem;-webkit-text-size-adjust:100%}
+.wrap{max-width:1240px;margin:0 auto;padding:32px 20px 64px}
 a{color:inherit}
 :focus-visible{outline:3px solid var(--focus);outline-offset:2px;border-radius:4px}
-
+ 
 header{display:flex;justify-content:space-between;align-items:flex-end;gap:16px;flex-wrap:wrap;margin-bottom:28px}
-header h1{margin:0;font-size:clamp(30px,5vw,46px);line-height:1.15;font-weight:800;letter-spacing:-0.02em}
-header p{margin:6px 0 0;color:var(--muted);font-size:15px}
-.stamp{color:var(--muted);font-size:14px;text-align:right}
-
-h2{font-size:19px;margin:0 0 12px;font-weight:700;letter-spacing:-0.01em}
-
+header h1{margin:0;font-size:clamp(1.9rem,5vw,2.9rem);line-height:1.15;font-weight:800;letter-spacing:-0.02em}
+header p{margin:6px 0 0;color:var(--muted);font-size:.95rem}
+.stamp{color:var(--muted);font-size:.9rem;text-align:right}
+ 
+h2{font-size:1.3rem;margin:0 0 12px;font-weight:700;letter-spacing:-0.01em}
+ 
 /* weather */
 .tabs{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px}
-.tabs button{font:inherit;font-size:15px;padding:6px 14px;border-radius:999px;border:1px solid var(--line);background:transparent;color:var(--ink);cursor:pointer}
+.tabs button{font:inherit;font-size:.95rem;padding:7px 16px;border-radius:999px;border:1px solid var(--line);background:transparent;color:var(--ink);cursor:pointer}
 .tabs button[aria-selected="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
-.summary{margin:0 0 14px;font-size:16px}
+.summary{margin:0 0 16px;font-size:1.05rem;font-weight:600}
 .shelf{display:grid;grid-template-columns:repeat(7,minmax(0,1fr));gap:10px}
-.tag{position:relative;background:var(--tag);border-radius:6px 6px 10px 10px;padding:26px 12px 14px;border-top:5px solid var(--line);display:flex;flex-direction:column;gap:2px;min-height:196px}
+.tag{position:relative;background:var(--tag);border-radius:6px 6px 10px 10px;padding:28px 12px 16px;border-top:5px solid var(--line);display:flex;flex-direction:column;gap:2px;min-height:15rem}
 .tag::before{content:"";position:absolute;top:8px;left:50%;width:10px;height:10px;margin-left:-5px;border-radius:50%;background:var(--bg);box-shadow:inset 0 0 0 1px var(--line)}
 .tag.today{background:var(--ink);color:var(--bg);border-top-color:var(--ink)}
 .tag.today .sub{color:inherit;opacity:.75}
 .tag.rainy{border-top-color:var(--rain)}
 .tag.hot{border-top-color:var(--hot)}
 .tag.cold{border-top-color:var(--cold)}
-.tag .dow{font-weight:700;font-size:17px}
-.tag .date{font-size:13px;color:var(--muted)}
+.tag .dow{font-weight:700;font-size:1.15rem}
+.tag .date{font-size:.85rem;color:var(--muted)}
 .tag.today .date{color:inherit;opacity:.75}
-.tag .ico{font-size:30px;line-height:1.3;margin:4px 0 0}
-.tag .cond{font-size:14px}
-.tag .temp{font-size:20px;font-weight:800;letter-spacing:-0.02em;margin-top:2px}
-.tag .temp .lo{font-weight:500;opacity:.65;font-size:16px}
-.tag .sub{font-size:13px;color:var(--muted)}
-.flag{margin-top:auto;padding-top:6px;font-size:13px;font-weight:700}
+.tag .ico{font-size:2.1rem;line-height:1.3;margin:4px 0 0}
+.tag .cond{font-size:.95rem}
+.tag .temp{font-size:1.4rem;font-weight:800;letter-spacing:-0.02em;margin-top:2px}
+.tag .temp .lo{font-weight:500;opacity:.65;font-size:1.05rem}
+.tag .sub{font-size:.85rem;color:var(--muted)}
+.flag{margin-top:auto;padding-top:6px;font-size:.9rem;font-weight:700}
 .rainy .flag{color:var(--rain)} .hot .flag{color:var(--hot)} .cold .flag{color:var(--cold)}
 .today.rainy .flag,.today.hot .flag,.today.cold .flag{color:inherit}
-
+ 
 /* news */
 .news{display:grid;grid-template-columns:1fr 1fr;gap:40px;margin-top:44px}
 .list{list-style:none;margin:0;padding:0;border-top:2px solid var(--ink)}
-.list li{padding:12px 0;border-bottom:1px solid var(--line)}
-.list a{text-decoration:none;font-weight:600;line-height:1.45;display:block}
+.list li{padding:14px 0;border-bottom:1px solid var(--line)}
+.list a{text-decoration:none;font-weight:600;font-size:1.05rem;line-height:1.45;display:block}
 .list a:hover{text-decoration:underline}
-.meta{display:flex;gap:10px;font-size:13px;color:var(--muted);margin-top:3px}
-.empty{padding:16px 0;color:var(--muted);font-size:15px}
-.note{margin-top:44px;color:var(--muted);font-size:13px}
-
+.meta{display:flex;gap:10px;font-size:.85rem;color:var(--muted);margin-top:3px}
+.empty{padding:16px 0;color:var(--muted);font-size:.95rem}
+.note{margin-top:44px;color:var(--muted);font-size:.85rem}
+ 
 @media (max-width:860px){
   .news{grid-template-columns:1fr;gap:36px}
   .shelf{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;padding-bottom:8px}
-  .tag{flex:0 0 120px;scroll-snap-align:start}
+  .tag{flex:0 0 9rem;scroll-snap-align:start}
 }
+ 
+.sizes{display:flex;gap:6px;justify-content:flex-end;margin-top:8px}
+.sizes button{font:inherit;border:1px solid var(--line);background:transparent;color:var(--ink);border-radius:8px;padding:4px 12px;cursor:pointer;line-height:1.2}
+.sizes button[aria-pressed="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
 </style>
 </head>
 <body>
@@ -78,21 +82,21 @@ h2{font-size:19px;margin:0 0 12px;font-weight:700;letter-spacing:-0.01em}
       <h1 id="today">오늘의 유통 브리핑</h1>
       <p>주간 날씨와 오늘 나온 유통 관련 법·제도, 뉴스</p>
     </div>
-    <div class="stamp" id="stamp"></div>
+    <div><div class="stamp" id="stamp"></div><div class="sizes" id="sizes" role="group" aria-label="글자 크기"></div></div>
   </header>
-
+ 
   <section aria-labelledby="wx-h">
     <h2 id="wx-h">이번 주 날씨</h2>
     <div class="tabs" role="tablist" id="tabs"></div>
     <p class="summary" id="summary" aria-live="polite"></p>
     <div class="shelf" id="shelf"></div>
   </section>
-
+ 
   <div class="news" id="news"></div>
-
+ 
   <p class="note">날씨는 Open-Meteo, 뉴스는 Google 뉴스 검색 결과를 자동 수집한 것이며 기사 원문은 각 언론사에 있습니다. 법령 개정 여부는 국가법령정보센터에서 확인하세요.</p>
 </div>
-
+ 
 <script src="data/news.js"></script>
 <script>
 // 지역을 바꾸려면 이 목록만 고치면 됩니다 (위도, 경도).
@@ -106,7 +110,7 @@ const CITIES = [
   {name:"서울", lat:37.5665, lon:126.9780}
 ];
 const DOW = ["일","월","화","수","목","금","토"];
-
+ 
 function wmo(code){
   if(code===0) return ["맑음","☀️"];
   if(code<=2) return ["구름 조금","🌤️"];
@@ -125,16 +129,16 @@ function el(tag, cls, text){
   if(text!==undefined) e.textContent=text;
   return e;
 }
-
+ 
 /* ---------- 날짜 ---------- */
 const now = new Date();
 document.getElementById("today").textContent =
   `${now.getMonth()+1}월 ${now.getDate()}일 ${DOW[now.getDay()]}요일`;
-
+ 
 /* ---------- 날씨 ---------- */
 let weather = [];
 let current = 0;
-
+ 
 function judge(d,i){
   const pop=d.precipitation_probability_max[i], mm=d.precipitation_sum[i];
   const hi=d.temperature_2m_max[i], lo=d.temperature_2m_min[i];
@@ -200,7 +204,7 @@ async function loadWeather(){
       "날씨를 불러오지 못했습니다. 인터넷 연결을 확인하고 새로고침하세요.";
   }
 }
-
+ 
 /* ---------- 뉴스 ---------- */
 function ago(iso){
   const min = Math.max(0, Math.round((Date.now()-new Date(iso))/60000));
@@ -242,10 +246,31 @@ function renderNews(){
     root.append(box);
   });
 }
-
+ 
+/* ---------- 글자 크기 (선택값은 이 기기에 기억) ---------- */
+(function(){
+  const SCALES=[1,1.2,1.45], LABELS=["보통","크게","아주 크게"], PX=[15,19,24];
+  let cur=1;
+  try{ const v=localStorage.getItem("fs"); if(v!==null && SCALES[+v]) cur=+v; }catch(e){}
+  const box=document.getElementById("sizes");
+  function apply(){
+    document.documentElement.style.setProperty("--scale",SCALES[cur]);
+    [...box.children].forEach((b,i)=>b.setAttribute("aria-pressed", i===cur));
+    try{ localStorage.setItem("fs",cur); }catch(e){}
+  }
+  SCALES.forEach((_,i)=>{
+    const b=el("button","","가");
+    b.style.fontSize=PX[i]+"px";
+    b.setAttribute("aria-label","글자 크기 "+LABELS[i]);
+    b.addEventListener("click",()=>{cur=i;apply();});
+    box.append(b);
+  });
+  apply();
+})();
+ 
 renderNews();
 loadWeather();
-
+ 
 /* 화면을 켜둔 채로 13시가 되면 한 번 새로고침 (그 시각 이전에 열린 페이지만) */
 (function(){
   const loadedAt = Date.now();
@@ -258,3 +283,4 @@ loadWeather();
 </script>
 </body>
 </html>
+ 
