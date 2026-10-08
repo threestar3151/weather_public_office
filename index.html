@@ -1,0 +1,260 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>오늘의 유통 브리핑</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css">
+<style>
+:root{
+  --bg:#E9EEEC; --ink:#17262E; --muted:#5B6B72; --tag:#FFFFFF; --line:#C9D4D0;
+  --rain:#2563C9; --hot:#C2410C; --cold:#3B5B8C; --focus:#2563C9;
+  font-family:"Pretendard",-apple-system,"Malgun Gothic","Apple SD Gothic Neo",sans-serif;
+}
+@media (prefers-color-scheme:dark){
+  :root{--bg:#10191E; --ink:#E6EEF0; --muted:#93A4AB; --tag:#1A272D; --line:#2C3C44;
+        --rain:#6EA2FF; --hot:#FB923C; --cold:#8FB1E6; --focus:#6EA2FF;}
+}
+*{box-sizing:border-box}
+html{background:var(--bg)}
+body{margin:0;color:var(--ink);line-height:1.6;font-size:16px;-webkit-text-size-adjust:100%}
+.wrap{max-width:1080px;margin:0 auto;padding:32px 20px 64px}
+a{color:inherit}
+:focus-visible{outline:3px solid var(--focus);outline-offset:2px;border-radius:4px}
+
+header{display:flex;justify-content:space-between;align-items:flex-end;gap:16px;flex-wrap:wrap;margin-bottom:28px}
+header h1{margin:0;font-size:clamp(30px,5vw,46px);line-height:1.15;font-weight:800;letter-spacing:-0.02em}
+header p{margin:6px 0 0;color:var(--muted);font-size:15px}
+.stamp{color:var(--muted);font-size:14px;text-align:right}
+
+h2{font-size:19px;margin:0 0 12px;font-weight:700;letter-spacing:-0.01em}
+
+/* weather */
+.tabs{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px}
+.tabs button{font:inherit;font-size:15px;padding:6px 14px;border-radius:999px;border:1px solid var(--line);background:transparent;color:var(--ink);cursor:pointer}
+.tabs button[aria-selected="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.summary{margin:0 0 14px;font-size:16px}
+.shelf{display:grid;grid-template-columns:repeat(7,minmax(0,1fr));gap:10px}
+.tag{position:relative;background:var(--tag);border-radius:6px 6px 10px 10px;padding:26px 12px 14px;border-top:5px solid var(--line);display:flex;flex-direction:column;gap:2px;min-height:196px}
+.tag::before{content:"";position:absolute;top:8px;left:50%;width:10px;height:10px;margin-left:-5px;border-radius:50%;background:var(--bg);box-shadow:inset 0 0 0 1px var(--line)}
+.tag.today{background:var(--ink);color:var(--bg);border-top-color:var(--ink)}
+.tag.today .sub{color:inherit;opacity:.75}
+.tag.rainy{border-top-color:var(--rain)}
+.tag.hot{border-top-color:var(--hot)}
+.tag.cold{border-top-color:var(--cold)}
+.tag .dow{font-weight:700;font-size:17px}
+.tag .date{font-size:13px;color:var(--muted)}
+.tag.today .date{color:inherit;opacity:.75}
+.tag .ico{font-size:30px;line-height:1.3;margin:4px 0 0}
+.tag .cond{font-size:14px}
+.tag .temp{font-size:20px;font-weight:800;letter-spacing:-0.02em;margin-top:2px}
+.tag .temp .lo{font-weight:500;opacity:.65;font-size:16px}
+.tag .sub{font-size:13px;color:var(--muted)}
+.flag{margin-top:auto;padding-top:6px;font-size:13px;font-weight:700}
+.rainy .flag{color:var(--rain)} .hot .flag{color:var(--hot)} .cold .flag{color:var(--cold)}
+.today.rainy .flag,.today.hot .flag,.today.cold .flag{color:inherit}
+
+/* news */
+.news{display:grid;grid-template-columns:1fr 1fr;gap:40px;margin-top:44px}
+.list{list-style:none;margin:0;padding:0;border-top:2px solid var(--ink)}
+.list li{padding:12px 0;border-bottom:1px solid var(--line)}
+.list a{text-decoration:none;font-weight:600;line-height:1.45;display:block}
+.list a:hover{text-decoration:underline}
+.meta{display:flex;gap:10px;font-size:13px;color:var(--muted);margin-top:3px}
+.empty{padding:16px 0;color:var(--muted);font-size:15px}
+.note{margin-top:44px;color:var(--muted);font-size:13px}
+
+@media (max-width:860px){
+  .news{grid-template-columns:1fr;gap:36px}
+  .shelf{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;padding-bottom:8px}
+  .tag{flex:0 0 120px;scroll-snap-align:start}
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div>
+      <h1 id="today">오늘의 유통 브리핑</h1>
+      <p>주간 날씨와 오늘 나온 유통 관련 법·제도, 뉴스</p>
+    </div>
+    <div class="stamp" id="stamp"></div>
+  </header>
+
+  <section aria-labelledby="wx-h">
+    <h2 id="wx-h">이번 주 날씨</h2>
+    <div class="tabs" role="tablist" id="tabs"></div>
+    <p class="summary" id="summary" aria-live="polite"></p>
+    <div class="shelf" id="shelf"></div>
+  </section>
+
+  <div class="news" id="news"></div>
+
+  <p class="note">날씨는 Open-Meteo, 뉴스는 Google 뉴스 검색 결과를 자동 수집한 것이며 기사 원문은 각 언론사에 있습니다. 법령 개정 여부는 국가법령정보센터에서 확인하세요.</p>
+</div>
+
+<script src="data/news.js"></script>
+<script>
+// 지역을 바꾸려면 이 목록만 고치면 됩니다 (위도, 경도).
+const CITIES = [
+  {name:"대전", lat:36.3504, lon:127.3845},
+  {name:"세종", lat:36.4800, lon:127.2890},
+  {name:"천안(충남)", lat:36.8151, lon:127.1139},
+  {name:"전주(전북)", lat:35.8242, lon:127.1480},
+  {name:"광주", lat:35.1595, lon:126.8526},
+  {name:"목포(전남)", lat:34.8118, lon:126.3922},
+  {name:"서울", lat:37.5665, lon:126.9780}
+];
+const DOW = ["일","월","화","수","목","금","토"];
+
+function wmo(code){
+  if(code===0) return ["맑음","☀️"];
+  if(code<=2) return ["구름 조금","🌤️"];
+  if(code===3) return ["흐림","☁️"];
+  if(code<=48) return ["안개","🌫️"];
+  if(code<=57) return ["이슬비","🌦️"];
+  if(code<=67) return ["비","🌧️"];
+  if(code<=77) return ["눈","🌨️"];
+  if(code<=82) return ["소나기","🌦️"];
+  if(code<=86) return ["눈 소나기","🌨️"];
+  return ["뇌우","⛈️"];
+}
+function el(tag, cls, text){
+  const e=document.createElement(tag);
+  if(cls) e.className=cls;
+  if(text!==undefined) e.textContent=text;
+  return e;
+}
+
+/* ---------- 날짜 ---------- */
+const now = new Date();
+document.getElementById("today").textContent =
+  `${now.getMonth()+1}월 ${now.getDate()}일 ${DOW[now.getDay()]}요일`;
+
+/* ---------- 날씨 ---------- */
+let weather = [];
+let current = 0;
+
+function judge(d,i){
+  const pop=d.precipitation_probability_max[i], mm=d.precipitation_sum[i];
+  const hi=d.temperature_2m_max[i], lo=d.temperature_2m_min[i];
+  if(pop>=60 || mm>=5) return ["rainy","비 예상"];
+  if(hi>=33) return ["hot","무더위"];
+  if(lo<=-10) return ["cold","강추위"];
+  return ["",""];
+}
+function renderWeather(){
+  const d = weather[current].daily;
+  const shelf = document.getElementById("shelf");
+  shelf.replaceChildren();
+  const rainDays=[];
+  d.time.forEach((iso,i)=>{
+    const [y,m,dd]=iso.split("-").map(Number);
+    const dt=new Date(y,m-1,dd);
+    const [cond,ico]=wmo(d.weather_code[i]);
+    const [cls,label]=judge(d,i);
+    if(cls==="rainy") rainDays.push(i===0?"오늘":DOW[dt.getDay()]);
+    const t=el("div",`tag ${i===0?"today ":""}${cls}`);
+    t.append(el("div","dow", i===0?"오늘":DOW[dt.getDay()]));
+    t.append(el("div","date",`${m}/${dd}`));
+    t.append(el("div","ico",ico));
+    t.append(el("div","cond",cond));
+    const temp=el("div","temp",`${Math.round(d.temperature_2m_max[i])}°`);
+    temp.append(el("span","lo",` / ${Math.round(d.temperature_2m_min[i])}°`));
+    t.append(temp);
+    t.append(el("div","sub",`강수 ${d.precipitation_probability_max[i]??0}%`));
+    t.append(el("div","sub",`바람 ${Math.round(d.wind_speed_10m_max[i])}m/s`));
+    if(label) t.append(el("div","flag",label));
+    shelf.append(t);
+  });
+  document.getElementById("summary").textContent = rainDays.length
+    ? `${CITIES[current].name}은 ${rainDays.join(", ")}에 비 소식이 있습니다.`
+    : `${CITIES[current].name}은 이번 주 뚜렷한 비 소식이 없습니다.`;
+}
+function renderTabs(){
+  const tabs=document.getElementById("tabs");
+  tabs.replaceChildren();
+  CITIES.forEach((c,i)=>{
+    const b=el("button","",c.name);
+    b.setAttribute("role","tab");
+    b.setAttribute("aria-selected", i===current);
+    b.addEventListener("click",()=>{current=i;renderTabs();renderWeather();});
+    tabs.append(b);
+  });
+}
+async function loadWeather(){
+  const q = new URLSearchParams({
+    latitude: CITIES.map(c=>c.lat).join(","),
+    longitude: CITIES.map(c=>c.lon).join(","),
+    daily: "weather_code,temperature_2m_max,temperature_2m_min,precipitation_probability_max,precipitation_sum,wind_speed_10m_max",
+    timezone: "Asia/Seoul", forecast_days: "7", wind_speed_unit: "ms"
+  });
+  try{
+    const r = await fetch("https://api.open-meteo.com/v1/forecast?"+q);
+    if(!r.ok) throw new Error(r.status);
+    const j = await r.json();
+    weather = Array.isArray(j)?j:[j];
+    renderTabs(); renderWeather();
+  }catch(e){
+    document.getElementById("summary").textContent =
+      "날씨를 불러오지 못했습니다. 인터넷 연결을 확인하고 새로고침하세요.";
+  }
+}
+
+/* ---------- 뉴스 ---------- */
+function ago(iso){
+  const min = Math.max(0, Math.round((Date.now()-new Date(iso))/60000));
+  if(min<60) return `${min}분 전`;
+  if(min<60*24) return `${Math.floor(min/60)}시간 전`;
+  return `${Math.floor(min/1440)}일 전`;
+}
+function renderNews(){
+  const root=document.getElementById("news");
+  const data=window.NEWS;
+  if(data && data.updated){
+    const u=new Date(data.updated);
+    document.getElementById("stamp").textContent =
+      `뉴스 갱신 ${u.getMonth()+1}/${u.getDate()} ${String(u.getHours()).padStart(2,"0")}:${String(u.getMinutes()).padStart(2,"0")}`;
+  }
+  const sections = (data && data.sections) || [
+    {title:"법·제도",items:[]},{title:"유통 뉴스",items:[]}
+  ];
+  sections.forEach(s=>{
+    const box=el("section");
+    box.append(el("h2","",s.title));
+    if(!s.items.length){
+      box.append(el("p","empty","아직 수집된 기사가 없습니다. scripts/fetch_news.py를 실행하거나 GitHub Actions를 한 번 실행하세요."));
+    }else{
+      const ul=el("ul","list");
+      s.items.forEach(it=>{
+        const li=el("li");
+        const a=el("a","",it.title);
+        a.href=it.link; a.target="_blank"; a.rel="noopener noreferrer";
+        li.append(a);
+        const m=el("div","meta");
+        m.append(el("span","",it.source||""));
+        m.append(el("span","",ago(it.published)));
+        li.append(m);
+        ul.append(li);
+      });
+      box.append(ul);
+    }
+    root.append(box);
+  });
+}
+
+renderNews();
+loadWeather();
+
+/* 화면을 켜둔 채로 13시가 되면 한 번 새로고침 (그 시각 이전에 열린 페이지만) */
+(function(){
+  const loadedAt = Date.now();
+  setInterval(function(){
+    const n = new Date(), t = new Date(n);
+    t.setHours(13,0,0,0);
+    if(n >= t && loadedAt < t.getTime()) location.reload();
+  }, 30000);
+})();
+</script>
+</body>
+</html>
