@@ -245,6 +245,12 @@ function renderNews(){
 
 renderNews();
 loadWeather();
+  (function () {
+  const n = new Date(), t = new Date(n);
+  t.setHours(13, 0, 0, 0);
+  if (t <= n) t.setDate(t.getDate() + 1);
+  setTimeout(() => location.reload(), t - n);
+})();
 </script>
 </body>
 </html>
