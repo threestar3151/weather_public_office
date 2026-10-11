@@ -1,14 +1,86 @@
 window.NEWS = {
- "updated": "2026-10-10T18:34:53+09:00",
+ "updated": "2026-10-11T09:02:26+09:00",
  "sections": [
   {
    "id": "law",
    "title": "법·제도",
    "items": [
     {
+     "title": "\"보복성 저인망식 조사\" 쿠팡, 공정위 현장조사 거부 '2차 갈등' - 머니투데이",
+     "source": "머니투데이",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwVVlJNkMtY1gzZ0w4elQzbkk1UEdLYWw3NUV3eU9DR01WajZpanp5aUZPYzZRTHZxTlZxU3hEMHdxQjN5M3hlS19uNXpKWHlVWld5Um5rLVcwUnU5SllJSFlpb0FMSFUxM0HSAW9BVV95cUxQV3lNQ2Voa0ZBaVhVa0htRnRPNVZSSDVOTHBCeEZ4d1hsRmhmTm4tYVBuTnNzZ2RRcEJadkRpWnVGMDFySnQ2S3BHUWtUczVIanJWYzU5bHA5eHRCY09zLTVYYjl2eHlReGRNYnRkUTQ?oc=5",
+     "published": "2026-10-11T07:50:00+09:00"
+    },
+    {
+     "title": "[대형마트 휴무일] 이마트·홈플러스·롯데마트·코스트코, 오늘(11일) 문 여나",
+     "source": "싱글리스트",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBYN0dTTmRMOVpvRjlaZF9mdURUSFkzR3I5ZGV1ekF1ZjlZYUlkSmVDcXdmUmRNdl9VR1hHUDUwWDdJc1dLb0Q1TGtaZ1VTZ1pQWS1NU3dUbTQ2TEZwdndiM1FjdUFzdw?oc=5",
+     "published": "2026-10-11T06:53:33+09:00"
+    },
+    {
+     "title": "국감 2주차…노란봉투법·강제조사권·항만공사 통합 등 공방 예고",
+     "source": "MTN 머니투데이방송",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1GVUpfM25BcTJhQzFSeTdMSVFUb2lsRnNTOEo0ZXEtNnRzdXVGX0dQblZ3RkgyR1JMUGdzdGt0cWozME9SLWtBTXEwYkxUZDNvREkzLW81NW9SLVBmWC1JbVMteHI?oc=5",
+     "published": "2026-10-11T06:00:01+09:00"
+    },
+    {
+     "title": "이마트·홈플러스·롯데마트·코스트코 휴무일, 10월 11일(일) 대형마트 영업하나?",
+     "source": "한국강사신문",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zUkNzbW5VMlV0NWd5cGFTZ0tkZ2NRQ3BjaVFCTUxwdmhhNE5KNFJESXNLcUEwMzhvZnhjYk5jU3duR284bkpsQktJNW1hcV82Q3JQRk05c2Q5RmhGYnR1aTRySjBhZEFQU3Naa3pjMmI?oc=5",
+     "published": "2026-10-11T06:00:00+09:00"
+    },
+    {
+     "title": "[인터뷰] 나명석 프랜차이즈산업협회장 “점주 10% 단체와 의무협의?… 대표성 보완해야” - 조선비즈",
+     "source": "Chosunbiz",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTkhyYlRkVjhLYVQ3RlFfdHRHaVdpLXRVYjQ0ZHNNdjJKTWxwamdlM3pWU0l0b2l4aUdKZU5LZnZHTFFJdjViSWpMbjFPcDRkc3E3dl9JMm85VHJhT05odWtCbTRzV09ySDZRdjgyYnk3WXhsbDZIQkhneGY2eV83d3pUeUk5eGFJY0HSAZ4BQVVfeXFMUEtITkFTMUJQVHBGelFXVU82ejhxekFWcnNRNjlfQnhJOUJpRjBzSm1jTkNPdk9ZWmpGODJOWWUyR3h2QTNzZmhGdDVBQjNSaUVWS1ZaUjhSWUlJRXM3SEYwLWdoR1loQUFaTlcwVGQtWUlLY2JUTmlsU29IWU5PdV93OFZQdjNzX2xSZ19ZUGZYXzl4ZUNUX1RsbnZUM1E?oc=5",
+     "published": "2026-10-11T06:00:00+09:00"
+    },
+    {
+     "title": "설탕·밀가루·전분당 담합…삼양사, 공정위 과징금 1위 불명예",
+     "source": "연합뉴스",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GdWs5Q1FiVko5SGVDVVdDeS1qSVN3LXFXeVRfRlRrZEktYVFqTWdRSF9HeUhUSVFxRWpGXzNTdzhJdUp4d1d0cW5sRkZrUHZFS3dKX2k2LS11ZmdnbVFlMtIBYEFVX3lxTE5GdWs5Q1FiVko5SGVDVVdDeS1qSVN3LXFXeVRfRlRrZEktYVFqTWdRSF9HeUhUSVFxRWpGXzNTdzhJdUp4d1d0cW5sRkZrUHZFS3dKX2k2LS11ZmdnbVFlMg?oc=5",
+     "published": "2026-10-11T05:49:01+09:00"
+    },
+    {
+     "title": "이마트 롯데마트 홈플러스 대형마트 휴무일 우리 동네도 쉴까",
+     "source": "뉴스클레임",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5CUUh2X3pvbHMwOTlGbDJPZ3A2NTVHQnVxbHREYnBhTHkzeTZJckEtbjBkdkpfaDNaejVjQUJ0SWpSNmhvUGt2bE0ydjZjdFBEd1E3RmI4OEdHYm5PTWxUR0lYd0RGcW8wa2pEdHhGZExlR1RM0gF0QVVfeXFMTkJRSHZfem9sczA5OUZsMk9ncDY1NUdCdXFsdERicGFMeTN5NklyQS1uMGR2Sl9oM1p6NWNBQnRJalI2aG9Qa3ZsTTJ2NmN0UER3UTdGYjg4R0dibk9NbFRHSVh3REZxbzBrakR0eEZkTGVHVEw?oc=5",
+     "published": "2026-10-11T01:03:29+09:00"
+    },
+    {
+     "title": "[의원 리뷰] 윤후덕 의원, 세제·공정거래 입법에 집중… 예산통 경험 살린 재정경제통",
+     "source": "CEO경제신문",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJZ18xNmpUZ0dVTWlqbkQwZUc5SmJGZ0tUeUI5emNLaWlIMDg3QUFKS0J6LUxHbEJyOVZNQ3htZFJieGI0UG1kV01oV29jOWxUb1EycFB5Qmp4bjRFR2J0VlZIamdSUkhYQXNZYg?oc=5",
+     "published": "2026-10-11T00:55:22+09:00"
+    },
+    {
+     "title": "10월 11일 대형마트 휴무…홈플러스 희망퇴직 접수",
+     "source": "비건뉴스",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1nZ3NQMkhkcERxSnh1bi1wazl1UVVSYUFieWw0WVlNdnhQZzBNaFVsMEZaTGp0Y3otWUlPMGdaWmp4VEpZeml6eXAzWnJ1eUlqcjhrOTVjVWVxT2E2SU1XM2VvQTg1dw?oc=5",
+     "published": "2026-10-11T00:17:21+09:00"
+    },
+    {
+     "title": "'홈플러스 폐점에 희망퇴직' 10월 11일 대형마트 휴무일 확인",
+     "source": "국제뉴스",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xM245amxnOV9vcHJCTERzRFZfVE04cVNHN3NGemlsa190QmN6U3d3X2FJdkg2SmlpeWVEV0tqNHhHNnVIS21wVHFtQ0tDXzljemdUVWM1cDJQLVB2SC1LbFN1S0o3N0RrZkVoaVJn?oc=5",
+     "published": "2026-10-11T00:04:00+09:00"
+    },
+    {
+     "title": "대형마트 휴무일, 이마트·롯데마트·홈플러스·코스트코 ‘문 여는 곳?’",
+     "source": "BNT뉴스",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Sdk5ibVREZVpXV0hHbWJoMnREeGJLei1lMXFCNnpiMDgtd19oRFRxVU1Td0ZYU2xMUVh0M3dMX0xZcUY0SDMyZ1g0cEtKV3VXcnNYY2ppUldtUGVtNi1vUDQ1TnA?oc=5",
+     "published": "2026-10-11T00:01:01+09:00"
+    },
+    {
+     "title": "[의원 리뷰] 강민국 의원, 금융·유통 공정거래 입법 집중… 법안 반영률 평균의 두 배 넘는 실무형",
+     "source": "CEO경제신문",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Val9qa21YR2lLQ3F0ZHVEMklBOV9vc01KRnBVSEJlTnppYkRJbi1Tc3NWZUxDVDFzd1Z2Q2VVM0ZLZlkzZnhXMkhaT3Z6aDYzVlBfX2JVbUw3TVFhM0J2MEVEM0taeHB0Mlc3UQ?oc=5",
+     "published": "2026-10-10T21:14:51+09:00"
+    },
+    {
      "title": "통신사가 생색낸 멤버십 혜택, 가맹점주가 할인비 25~50% 부담",
      "source": "세계일보",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1UNnlmT2QtSFB6cWhiV3hvLWN1VjEwOS1BUFNtMV94V2VXTmVuSnhKT25WQWRvZWhoSHpRVGZ3MDNQUHE4cy1fdmJFRVFuUVBPMzFFcdIBVEFVX3lxTE1UNnlmT2QtSFB6cWhiV3hvLWN1VjEwOS1BUFNtMV94V2VXTmVuSnhKT25WQWRvZWhoSHpRVGZ3MDNQUHE4cy1fdmJFRVFuUVBPMzFFcQ?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRU3FxVEs5ZnVsemFwdTBYVnYyVXJfZkpoanJZTjRVTWY3NjYwd0FNTHl1WmpCbVRzR3lscUFZNlVfaTN1TTFXVi1zazB2VW410gFUQVVfeXFMTVQ2eWZPZC1IUHpxaGJXeG8tY3VWMTA5LUFQU20xX3hXZVdOZW5KeEpPblZBZG9laGhIelFUZncwM1BQcThzLV92YkVFUW5RUE8zMUVx?oc=5",
      "published": "2026-10-10T16:00:00+09:00"
     },
     {
@@ -28,84 +100,6 @@ window.NEWS = {
      "source": "네이버 프리미엄콘텐츠",
      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9XQlRDSm9JOU9mVU5KMExqM1BtbDZGYWk5Sll3eEt6Qkk4Y1dtSXFHLVNweklTV1IwQ0MtdWhTa1pVNV9RRW56SVJOcUhmdzhrT3Y1QmZOVk5YRDdNNUdzbk93Q0ExLW5uQWM5a2U2SkdDTGtLbV9NQjRManZuZw?oc=5",
      "published": "2026-10-10T09:35:00+09:00"
-    },
-    {
-     "title": "“알리·테무 살리려고 다이소 잡는다?”...논란 번진 이유는",
-     "source": "서울경제",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9GaFJ5UWJSVThmbVhjMmRQS0RTbGswLV9DRXAxblJFRm83LS1kUnFjanBWN1RXdG5BbFNvNmRGNGJ5Qk1qQ1Jjd2U1cmNZbjBNUkHSAVNBVV95cUxObXFzT2tnTnQ3RlR3NWZzLTFYaU52N1A1RWo3MjZ5ZXJMTnZ6UlpkUEtmc0Y3S3Q5a09MOTZ2YlVPRFZFVmx1cmY0RkNoNVcxV1VqTQ?oc=5",
-     "published": "2026-10-10T08:00:00+09:00"
-    },
-    {
-     "title": "[자본시장 역사의 역설 (69)] 일본 세븐일레븐 8만 점포…이토 가문 지분은 9%뿐",
-     "source": "자본시장뉴스",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9NTWl5OU8zR19DTEV0NmFEc0g3eDAzYVRVU2ZUZnJDZjExMHEyOG1YaDFsQTBvZFdnSU9qTTBzdVZiblBmOXRYTmZ4blVOYTFqbURIdTgwb01haldiSTJWVWNuTVhvLU0?oc=5",
-     "published": "2026-10-10T08:00:00+09:00"
-    },
-    {
-     "title": "이마트·홈플러스·롯데마트·코스트코 휴무일, 10월 10일(토) 대형마트 영업하나?",
-     "source": "한국강사신문",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1JSkp2cDdQRnUyRnZfQ2YyWGZzVEdXNHdVaFVSLW5nX0pyTnEwclNBQThzb2tyOWllai1CcmJoRnBjaFZDTGU3VktkSDlPMFlyX3NRODFOMEZGaTVDMjNIYVlBY01MMGNPMDFiWDFxWW0?oc=5",
-     "published": "2026-10-10T07:58:20+09:00"
-    },
-    {
-     "title": "쿠팡·홈플러스 줄소환…공정위 국감 앞두고 유통업계 '긴장'",
-     "source": "MTN 머니투데이방송",
-     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UMF9kX1F4TFpZMUN2QlQ4a3dKQktTQzlXZTRBU0F1eG1fajFnd1VIQnBvYnVsdl9ET19ROEtCVm1VQl9RQ1QyZVNjTXBJMGtYWHhiYzZOMFF6eG9USVdxSFh2TFg?oc=5",
-     "published": "2026-10-10T06:04:02+09:00"
-    },
-    {
-     "title": "MBK 지분 털어냈지만…홈플러스 새 주인 찾기, 대형마트 규제완화 지연에 관심 '뚝' - 머니투데이",
-     "source": "머니투데이",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBXVG5xbFM5MmNrVGlqMXRGanZ0bUNyMDhiSXdkSnpTcTEweFMwalpFcFJRbmszS0psVDNfaV9FWDF5Y2VuckI4YUlDWWIwMHd3Wl92SHM4VUVkRWNpdDE0dWVrZGRQZDJQWjBJLU00WdIBb0FVX3lxTFBXVG5xbFM5MmNrVGlqMXRGanZ0bUNyMDhiSXdkSnpTcTEweFMwalpFcFJRbmszS0psVDNfaV9FWDF5Y2VuckI4YUlDWWIwMHd3Wl92SHM4VUVkRWNpdDE0dWVrZGRQZDJQWjBJLU00WQ?oc=5",
-     "published": "2026-10-10T06:00:00+09:00"
-    },
-    {
-     "title": "토토 등수 심벌 확대 표시의 의미",
-     "source": "Calgary Roughnecks",
-     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVW9DVS1QMUk3YUQ2bWVRbDRfSDlFSHFndE1fMExjbUZHeURMUGNZaTdMTWpBVUc1bzk3cDUxcTR3VXdRMmVDRFBzZkNMVWJKRDZFTWdYcEg1ak1KRVZsMDJZWm1IN2JLd3BQRlJnbmtWenVPZDJnWGJkOWgwS2otYlRCb3pjN2thLU54b1MtYmVkT0FHZG9VTTF6ZzZ0bTZmam5FX2FTNnpBeE5xMFZKdTkyTzk5RTRjUGp2RFBRbUpERE41eEc0ZVctSlJNX0hLOEYwUHNnQU0?oc=5",
-     "published": "2026-10-10T05:38:19+09:00"
-    },
-    {
-     "title": "10/10~11 이마트·홈플러스·롯데마트·코스트코, 휴무일... 영업하는 지점·영업시간 확인하세요",
-     "source": "센트럴경제",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkQ3dlazkxMVc4QWotTDE1WER2RFFxaGZqQ3NudXJlLWhSVGZjR0F2UmcxTkhSM2NvUHV5WUROZGtwaTJUaFdRdDRKWTEyOThzbU1MMm13aGpVZlhnbWlGZ0RNSHQ5Q2fSAWpBVV95cUxNbS01czZ1V2VHaWhNX2dZLUJ5X3YycUZxVEVGck04RUFuanhjampVTTdBa2g4ZUVWY05xSnhIZGZESm8ySzNENHpHUFZXeGk2eUswQ3dIeGNkcmREbmF3ejNPS2NmYlhialpn?oc=5",
-     "published": "2026-10-10T00:06:00+09:00"
-    },
-    {
-     "title": "대형마트 휴무일? 이마트·롯데마트·홈플러스·코스트코 ‘가을맛 할인전’",
-     "source": "BNT뉴스",
-     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5LLU9RbTNNMzVYd3dnSHFUT0R1SGRXWUxXVmF3Y00tVkdaYUU5SUdOWUdCa25BTGhvbTllTl9qX2hrWXZ6NnJrQ0N5UHpidXIzeVlpdFJFcVQwc0RMN1dLbmtiV1I?oc=5",
-     "published": "2026-10-10T00:01:01+09:00"
-    },
-    {
-     "title": "롯데마트 이마트 홈플러스 대형마트 휴무일 10월 두 번째 일요일?",
-     "source": "뉴스클레임",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1JTXNHeXM3OV9DZ0NXYnhxYkdhRnJfUVVSbjJoSjNYaVE3RktkSFhNSGtZVUJkdENJU3BMcU1ZMTlzVUE4aDZQNUkyT0w0SWJMNWVNeGR2NlZTd1l6OTd3ZElMOEtENUNlMFZDSUx5UdIBdEFVX3lxTFBDeGJrR2FISE9KTmd4QmdENV9mQl9JVDdnUWFmaWdhaXJjYy05WGk0SlhQQ1g4YkpZTEZ0Qk9GRWVEb0ZLbmxZTUI1Z3dZREpkSXVpcUdsbDRIakZrSmExc04wdmg0ZVMzMGxibE12QUJFRWVk?oc=5",
-     "published": "2026-10-10T00:00:00+09:00"
-    },
-    {
-     "title": "게임 정보가 서로 다를 때 확인할 스포츠 토토 최대 당첨금 버전",
-     "source": "Calgary Roughnecks",
-     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBJZnZKUXpuN0l1NFhZT2pnQV9DZUhJVjE3dzJxYjNsTTA1SjRKdEN0a0JIdWpoWFFHZmpoVFpkdHVDOFJ4dVVldk5Canl3cXlCd0FzZDRJRWJzSTRaakQxVVBsSjRISkZQZm1GQjFNOHg5X2ZrYUlCUndqSQ?oc=5",
-     "published": "2026-10-09T23:46:53+09:00"
-    },
-    {
-     "title": "조작이 간단한지 궁금할 때 보는 코인 파워볼",
-     "source": "Calgary Roughnecks",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeWZfYXAycUN0blpVWUtLMXJwNlZDSk5KLWx4eXdUY0U2WDFZa0FYQlJ0THlYUHJTcWNUbjUtc2ZIS2JkSEZrb2RxNnVxS1RFeTlLamM3QkRHM1JfTE9vY2hmckpkUE12NXRCVmV3ZDE5d0JPbGI5UkwwMzlIVHBRU2lFR2dKZXREMTAydmFhOW04RUFYcDdhdFgyWHdVdG05TkhqVEpQZkFlMnpvQ0xzNHRn?oc=5",
-     "published": "2026-10-09T23:29:41+09:00"
-    },
-    {
-     "title": "같은 숫자라도 의미가 다른 벅샷 룰렛 이미지 표시 항목",
-     "source": "Calgary Roughnecks",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY1pXODktVUxLWk14ajF1MzFHOHptazBfdXJjMzU0ZkhORUlrVXR5X2NrNDNtejJPazRxSjR0NDA3NjczcFlVV2FlSFVGcW9WMUE3WEx3cHJ3Rl8zM3FlOVNVU1NvWHVUWjlWTzdDcGkxQzVrTVpzUVM1aUZWUnplcThJTDlSYUFpVXZVMllpRFpOVXNtNVEyX0doRjJJQTRUcjVXdkV2cDJxUXFaUEE?oc=5",
-     "published": "2026-10-09T23:03:22+09:00"
-    },
-    {
-     "title": "‘추적 60분’ “1년이면 투자금 회수한다더니”…무인 매장 창업의 충격적인 현실",
-     "source": "위키트리",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yTzZwX25XOXNTNEFzWTdFa1NwV1RIblFHSmgzNjEzbUFxMnBqaHA1dXBSUlEtWWFDX3BfTG9rOTdycGlDcVk1WEJxQURENkdwbjhVNF9R?oc=5",
-     "published": "2026-10-09T20:39:00+09:00"
     }
    ]
   },
@@ -114,124 +108,124 @@ window.NEWS = {
    "title": "유통 뉴스",
    "items": [
     {
-     "title": "선 애비뉴 아파트 단지 주민 회의는 부정행위로 얼룩졌으며, 투표 결과 무효화 여부가 검토되고 있습니다.",
-     "source": "Vietnam.vn",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZWozclRnYzhYV3YxLVZRM0d1VnNlWmJNbWVwUUYxQmFwemIwZGR0dk9IWGxaNDhUal93UjRaTEhLektvaV9LWlVPUjZidXVReVBQVVZ0czRQNDRCTFFJbjgtdkliZXBlcmM3aG5MMEkxX2pyX1ZJUVA0WXFOcDdYLVlZdGUwcDI4b2pLRUM1U2dSYnpRUEFfR0hmWXl0T0tiYnpuSnBxamRJM1d6N3p5ZGRYWQ?oc=5",
-     "published": "2026-10-10T18:00:02+09:00"
+     "title": "홈플러스, 통매각 불발 시 분리매각 수순",
+     "source": "전파신문",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96V0dLa3YwZHdjUEJUSk1WY1kxY2lHNldwREdvek5uSFRvMzNYTGVOdzJCbXpONXBZWTl4OEhycTZuR3hDVkVvTWFrTGxfRjY5ZEhRWmdYNEZuVDZZV1Q2QWp4WnZnclliSkE?oc=5",
+     "published": "2026-10-11T08:58:00+09:00"
     },
     {
-     "title": "패션업계는 뷰티사업 뛰어드는데…패션에 눈길 안 주는 뷰티업계 왜?",
-     "source": "매일경제",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPUVlKMEFHbzZFbVBycDJtd2lrSGlJQ0hNTFRUbXdRU25TWUFBaFM4cm11UzQtTFNEYjJrZ3gxS0VPZE5FRUlGTnRHRjBsMU9LZi1SSnpR?oc=5",
-     "published": "2026-10-10T17:11:50+09:00"
+     "title": "\"신선식품 구매액 과일·채소 최상위…편의점 구매액 20% 증가\"",
+     "source": "연합뉴스 한민족센터",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8xZ0dpdG00dmtXNWh0ck9mbS05bTJKU1RaYTd5bjloMXd2R25zcTgzaGxJdTBHdHpKcU52Y1dnQjRHUURYU1QzUlg3Q1MzMHBJak4xQXAtRUVXa1c3Zk5EZnZnYUhpZU1XWnJLZ0RaSXR1Rmdu?oc=5",
+     "published": "2026-10-11T08:30:00+09:00"
     },
     {
-     "title": "CU, 콘파이·애플파이 출시…동절기 즉석 먹거리 확대",
-     "source": "신아일보",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE02eEJ2V2ptQXpaeFJ6YTQzWVVSaDZkNWpvZm5LWk44aXF3TEg3TnhkT3lWLUx4eEk1eE9kMmllNXl3alpSNXFyb1hBbkN1R3podnNMSXhCbzJOamQ4TEFzMUppQUZpbHlkcUxNWXdvUU4?oc=5",
-     "published": "2026-10-10T17:10:00+09:00"
+     "title": "CU, 김천김밥축제 우승작 ‘중화식 고추잡채 김밥’ 출시",
+     "source": "싱글리스트",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1nUVFYUXd3TV9TUHlQY296SDNyRmtrQjhqVG9XdEhDZUJDNUlZQVVabmd0VDN4elNHbHY4NzNIZFVYVEVsQWRxREQ2STloMFdBQUlGNzE2VldsMkV1bjlDVmRxaFBLZw?oc=5",
+     "published": "2026-10-11T08:26:56+09:00"
     },
     {
-     "title": "\"남편이 흉기로...\" 경찰 '코드제로' 발령했는데, 황당 반전",
-     "source": "이데일리",
-     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPV1NmOHVFN0kxd3JVa3p4d29aUXFXWWhhWURtckxuUUttdDh2aXZsblg1N05pS2dnSGJNb2twdk1POHV1YnJEcWFVTkx0TUYtYWdUY1JxVjZqWkJ1NFZ3Z2VvYWdKUDNzWWZmM25sRW11NHFOenFCeGQ0YWsyakhPbA?oc=5",
-     "published": "2026-10-10T17:00:41+09:00"
+     "title": "CU, 김천김밥축제 우승작 전국 판매…역대 상품 100만개 팔렸다",
+     "source": "이투데이",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBsdlBSRjN1SnFBQklZMnBkN1RIZlJKalEtZzRvc0c0aWtVY292LXlLOVFaQU1Kem9kQXN6bXBVQzhTUERQUFFLMy1rR3I0RzdWZ1Y1aWtiZjAwRFBCOHlYVmlSUjNhSzBnYU5YeEdB?oc=5",
+     "published": "2026-10-11T08:18:00+09:00"
     },
     {
-     "title": "[속보] 사진 찍어 가짜 5만원권 만든 20대…지인이 담배 사고 거스름돈 챙겨",
-     "source": "부산일보",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1nR0dMNGsxYTU5VWFIYUpsMmFySWV6UmJST1hEeFpQVGVnT2diMTlBbHhyNzlFTS1VVDBsRWhMREVOZmFDU196NWlvellQSG5mZk1WdmsyOW5WMDRsWWlyYmlLU3UwSTRrMVhJLVdQVUhXUGNi?oc=5",
-     "published": "2026-10-10T16:54:25+09:00"
+     "title": "CU, 김천김밥축제 경연대회 우승작 ‘중화식 고추잡채 김밥’ 출시",
+     "source": "한국경제",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kUS0xQTFCS1VoUE5lOXJZR28yX0lWZnpJNXJNYndzME8tQkMxZXpXQWtDVVBsQTVINUZUcUlmM1ZpbFhiYUZQRHBUNXBaMG9hejNxOXBSVVRYZw?oc=5",
+     "published": "2026-10-11T08:01:46+09:00"
     },
     {
-     "title": "A4용지로 찍어낸 5만원권…노린 곳은 중·노년층 일하는 편의점",
-     "source": "아시아경제",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuLV8ycy05RUlwYmhOOGR4YUlfOXJQRGkzVGthUDlWSFFCcHl0bGxPZHpERnpiNkc1WVRYdFVPUHlxMm0xV0ZzMWlnTDBqMC1SMnJETGpuOWdGOVFZeGp4NA?oc=5",
-     "published": "2026-10-10T16:13:17+09:00"
+     "title": "피자 얹고, 요거트 넣고…2030 입맛 홀린 ‘떡지순례’ 뭐길래 [권용훈의 트렌드워치]",
+     "source": "한국경제",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hbzh0WngtMmJQbXV6Z1Q2eGplUnFxcGstNjJuNjRzeTllcXVHaGNzcHhYUUxNRU9ZZzd1WFAzN09lcHk4aWd2V0tPZTIyTlo0Y2xTRWFPQ0FOUQ?oc=5",
+     "published": "2026-10-11T08:00:01+09:00"
     },
     {
-     "title": "이충우표 농업혁신, 전국 GS25로 뻗는다...대왕님표 여주꾸마 판로 확대",
-     "source": "아주경제",
-     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ZdUtGMUNqMTd2bE95ekdzYWd2TWJyS3htTGR4SjVKOG1pVDNqVXQ5S0VyMDBUeGVyUGNSOUUzbmllWDltZGE5YXlOWVJucjY2bWNFa1Zrb2fSAVhBVV95cUxOWXVLRjFDajE3dmxPeXpHc2Fndk1ickt4bUxkeEo1SjhtaVQzalV0OUtFcjAwVHhlclBjUjlFM25pZVg5bWRhOWF5TllSbnI2Nm1jRWtWa29n?oc=5",
-     "published": "2026-10-10T16:11:35+09:00"
+     "title": "세븐일레븐, '윤남노 복담주' 20만병 완판...'토마토 즐토막' 출시",
+     "source": "싱글리스트",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE84aFdVLWxkTkdDWTJTTFp0TVNRczZOLVFXcGQyQXBfRVNxeGNvVVBOYXlNeVVHZVNLRVpkWGtrMlRuSzlDTUk3Q3VibVQwMHlnblYzcEkxUERwMktVay1hS0NZTjJXdw?oc=5",
+     "published": "2026-10-11T07:19:54+09:00"
     },
     {
-     "title": "중·노년층이 일하는 편의점 노렸다… 5만 원권 위조한 20대 '실형'",
-     "source": "위키트리",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5OOGNpUHF1YnhXbmpadU9KbnlsTVBtNnpERDU1RV9MM2J6TEpGb1BYaVFZTUZ2VG1LNnB2NTluaEhudXJ1MVdRcjZIaEtsaGpOLU92X2Rn?oc=5",
-     "published": "2026-10-10T16:08:00+09:00"
+     "title": "세븐일레븐,“ 토마토 코어 반영한 ‘즐토막’으로 이색 전통주 인기 이어간다”",
+     "source": "팝콘뉴스",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ZZW1ZSmYzaWdIT3g3WElvMzNWN294elRUNkNFcmU3aC1DZFlETnVaNkVyb2E4Z2t2eTMwN3hDQS03Y3ZVN3ZGSFE5QmtXOU5NRTRfT2wzMEt6NzRyX2J5dG9DakxlWHkyekFfc2JJeDNod9IBckFVX3lxTE9ZZW1ZSmYzaWdIT3g3WElvMzNWN294elRUNkNFcmU3aC1DZFlETnVaNkVyb2E4Z2t2eTMwN3hDQS03Y3ZVN3ZGSFE5QmtXOU5NRTRfT2wzMEt6NzRyX2J5dG9DakxlWHkyekFfc2JJeDNodw?oc=5",
+     "published": "2026-10-11T07:02:18+09:00"
     },
     {
-     "title": "통신사가 생색낸 멤버십 혜택, 가맹점주가 할인비 25~50% 부담",
-     "source": "세계일보",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1UNnlmT2QtSFB6cWhiV3hvLWN1VjEwOS1BUFNtMV94V2VXTmVuSnhKT25WQWRvZWhoSHpRVGZ3MDNQUHE4cy1fdmJFRVFuUVBPMzFFcdIBVEFVX3lxTE1UNnlmT2QtSFB6cWhiV3hvLWN1VjEwOS1BUFNtMV94V2VXTmVuSnhKT25WQWRvZWhoSHpRVGZ3MDNQUHE4cy1fdmJFRVFuUVBPMzFFcQ?oc=5",
-     "published": "2026-10-10T16:00:00+09:00"
+     "title": "방한객 21% 늘었는데⋯면세점 매출 1.8%↑·백화점은 '1조 시대'",
+     "source": "아이뉴스24",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1WdWI4RVRJb2tlUzdWbHZOWlhia1ByVVR3SndNVW5XM2xNTm91aW1LM2Z1SkJzWFdNbTdudmhKaUhPOF9FQ2R6cjdlaw?oc=5",
+     "published": "2026-10-11T07:00:01+09:00"
     },
     {
-     "title": "노인분들의 안정적인 정착을 돕는 일.",
-     "source": "Vietnam.vn",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjbUMyMUIyaVVBQTI1UkRsb2J2YXQwME83bzJTaFJtR05JREVHNUpLYmlUaWRDV0h2ZEFqRGFwQUR3ODNWUEloaC1Pb20zSGRmM1hZS1BhTEhEcGZiVExtWA?oc=5",
-     "published": "2026-10-10T15:56:18+09:00"
+     "title": "[Weekly 쇼핑] 다이소·컬리·홈앤쇼핑·NS홈쇼핑 外",
+     "source": "오늘경제",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA1azZ0NUtMZGxJaE1DcWQ3M0xid2piNzF4T0J5Nzc5UEJHYlViOW5qVHlLWUpmTWlqNEJLcWJCQUlDVWdkaHpXWGpqakZGYWFjSFJWTmZBVmFkeU1JQVJLLUlZQVhMMTBnVDl2QkxkUE5JdDA?oc=5",
+     "published": "2026-10-11T07:00:00+09:00"
     },
     {
-     "title": "이수현, 독하게 -30kg 성공→7kg 더 뺀다더니…”관리할 땐 편의점서 식단 해결” [RE:뷰]",
-     "source": "TV리포트",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1IUy01V1hDMzktOE5uRTFnZG56N21ZeTlrSlliY2JObEpFbnJQck5STjJtVjZpbF9GdV9XSEFjcXE1NDdWdlYyWkZBa3doT0pCSTVRSi1vV3U5b2pTMkdLQmpTWdIBaEFVX3lxTFBsbHAybkRnbVNwSEVlUVc0WTJSUW15UXJsMnhTY2w1VVBILUZyeW14eXRrQTNRQXVZQnBGVUswM2tsbVJnTGo5bWtJY3R6clgzeEZCU0Q3TTAyV3duekhpVkE0MU5iZVND?oc=5",
-     "published": "2026-10-10T15:50:22+09:00"
+     "title": "Weverse LIVE de NCT DREAM - 박지성 - JISUNG",
+     "source": "Weverse",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Nd2xWZ25SMG9vUEtRNk8yRnE3Tm5lNkoxdlVmWWFYczhrMnZLMm1VVThGT3JUZGtmdGp0N0ZoaTUwempTVFl5cy0td2I0a3ZMRjBsaHkydFFvMnhrc0dr?oc=5",
+     "published": "2026-10-11T06:57:25+09:00"
     },
     {
-     "title": "캪틴큐 CU 점포 발주 마감…소비자 판매는 14일",
-     "source": "비건뉴스",
-     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yeldwaWN3Q21qUVB0UzlSeUVIMWFxV3prVV9Ha3BMaE1aYmlLVkYxYy13Z0Qwa09pSFBZbmFoWXZVeTJtWktxZGFnWmZsTmxGNjFVU3pMTE9DQm1Mc1dHaHRfOThidw?oc=5",
-     "published": "2026-10-10T15:11:17+09:00"
-    },
-    {
-     "title": "GS리테일, 여주시와 지역 농산물 가공식품 개발 및 협력 상생 업무협약 체결",
-     "source": "마일드경제",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9INDBseG9lYkRRQTUwdk92VEhXTnp4NjRKTVl5NU1YNVBWMEJPd1VYVFpqYngzRi1LYWdEMXRwRWduMktXVjVHaUZGd0wxZU5pVk9HOVQwbFNTYng5Q2RzY3lSZGo2S09COFpZ?oc=5",
-     "published": "2026-10-10T15:02:23+09:00"
-    },
-    {
-     "title": "중국 밀크티 홍대 몰려…차백도 해외 72곳 중 32곳 한국",
-     "source": "자본시장뉴스",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ndl9tX19hQi02UFpHUXgyUmIyTVhQT1hqMUN5Uno5NnBSaWdRLTJ1UFZJV29vNl9TUDd4R0RKdW81VnNMeXRmcGdnZXlPRVo1QnNmN3pjNFFpeWRfZWJ4S0F0T292OEU?oc=5",
-     "published": "2026-10-10T14:30:00+09:00"
-    },
-    {
-     "title": "울릉도 청정 용출수로 만든 ‘독도스위밍라거’, 전국 소비자와 만난다",
-     "source": "경북매일",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VSktPX1d0ZzR0eHZmbGlxT1JRdEZyZjFKRTBEMjItb0wwbmJ6aWZVY3lhVXc2MVByRTVFVFJyVElhLVRtM3lQZ2xaYmJVVVVHbFh0cFFib2JtZw?oc=5",
-     "published": "2026-10-10T14:25:00+09:00"
-    },
-    {
-     "title": "FIFA 회장 인판티노는 유력 후보들이 사퇴하면서 재선에 대한 확실한 길을 걷고 있다.",
-     "source": "Vietnam.vn",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNenlQT0liN3NleFVjWVp3enE2S2ZtYmczQXBLZEpEbUIwcXNwQl8yaU9xRUNHWHpXdlJzSjgweGFyeG5WM3c5d0tXTDNRUjc4ZG55NUJTTHBiLWZGV19fY1lwQ2l1NDNqVlA0UHVTMnctMEhOR0RRSzJmOFdiUGtCaW10eUNncDZlSVpzb0ZyRVoyUUVQUUUxVXN1bmxLMlBpZmpzbQ?oc=5",
-     "published": "2026-10-10T14:12:58+09:00"
-    },
-    {
-     "title": "\"8천원대 모찌에 새벽 6시 대기 마감\"…고디바도 '떡픈런'",
+     "title": "\"포카·가챠 뽑아볼까\"…'뽑파민'에 놀이터 된 편의점",
      "source": "뉴시스",
-     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBxSk9CbVBsS3M3SDVPaDF2TWhrR0VTYzdwWEYxdnZXemNZaTgtWks5Rm0wcUFmdG0xd09EUkczREEyN0RPdkk5V0QzZWZwNEdHeGVwSER0RjNnb3dGSFlSU1ZuMjNBUjBLdFY5Sm0wa1hlUzjSAXhBVV95cUxNNXNFclFDTmMxS2xaSGNFQ2YwS1RueFlPTm5qZXh3SzlET1BmTENLdjlQbTNOSF9Lc0JVUjJPQW85ZHkzYzUxZTZRY2x6WWJoZmhobEIzdEE2VlExakJZTzhQS1RDdjJfSkcteUlsa0xXQ193UUh2R2k?oc=5",
-     "published": "2026-10-10T14:09:01+09:00"
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9fX0VoV29UcHJ4Nmt3SUhCbDNRSmtHMjZKVkpialpDN0J1b0NOaDJyNXBmZ19vbVlmdEl4S0QyeDJFZG9EMlNaN1NoMWFRcFZ2UVpXc1FkV05vRVp4REx5Y0Y3azJGcVZ2eFdjNlVsWWRTQ2hDVG9UatIBeEFVX3lxTE9fX0VoV29UcHJ4Nmt3SUhCbDNRSmtHMjZKVkpialpDN0J1b0NOaDJyNXBmZ19vbVlmdEl4S0QyeDJFZG9EMlNaN1NoMWFRcFZ2UVpXc1FkV05vRVp4REx5Y0Y3azJGcVZ2eFdjNlVsWWRTQ2hDVG9Uag?oc=5",
+     "published": "2026-10-11T06:00:00+09:00"
     },
     {
-     "title": "호치민시 간부학원은 437명의 신규 졸업생에게 졸업장을 수여했습니다.",
-     "source": "Vietnam.vn",
-     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQR2VGTXBfZFowWWdtME1yaDQxa3hMblhkNkIyNllKaDdwdHdVX0ptRDFXS1dyRTVLX2Rldjk4Q2daTkUyVHNmM1o1UzJVcXpLODlkNktzR3NOS0ZZQVhwd0hYaVNLTTZpVmZfcGR1WUtKMFZaRkN3SllldEVpbGFVUFhaT0kzQ0tGLVRaSWJ4ZXlwdw?oc=5",
-     "published": "2026-10-10T14:07:00+09:00"
+     "title": "이마트·홈플러스·롯데마트·코스트코 휴무일, 10월 11일(일) 대형마트 영업하나?",
+     "source": "한국강사신문",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zUkNzbW5VMlV0NWd5cGFTZ0tkZ2NRQ3BjaVFCTUxwdmhhNE5KNFJESXNLcUEwMzhvZnhjYk5jU3duR284bkpsQktJNW1hcV82Q3JQRk05c2Q5RmhGYnR1aTRySjBhZEFQU3Naa3pjMmI?oc=5",
+     "published": "2026-10-11T06:00:00+09:00"
     },
     {
-     "title": "DB손해보험, 한국프랜차이즈산업협회와 공제조합 설립 지원 협약 체결",
-     "source": "이즈보험",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4xUWxSOEI5ckc1RVltdlVEemhySFA3MjdYblEzLXhZSFcwWmRhbWs4LVYyTEp1M0I1YzVjNVFPVXFLZWtMNkpIT04wV0lqSFViWm1HalNuR1hCdkxLR2cyZE5xS0ZRWEQ4TkE?oc=5",
-     "published": "2026-10-10T14:06:59+09:00"
+     "title": "[인터뷰] 나명석 프랜차이즈산업협회장 “점주 10% 단체와 의무협의?… 대표성 보완해야” - 조선비즈",
+     "source": "Chosunbiz",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTkhyYlRkVjhLYVQ3RlFfdHRHaVdpLXRVYjQ0ZHNNdjJKTWxwamdlM3pWU0l0b2l4aUdKZU5LZnZHTFFJdjViSWpMbjFPcDRkc3E3dl9JMm85VHJhT05odWtCbTRzV09ySDZRdjgyYnk3WXhsbDZIQkhneGY2eV83d3pUeUk5eGFJY0HSAZ4BQVVfeXFMUEtITkFTMUJQVHBGelFXVU82ejhxekFWcnNRNjlfQnhJOUJpRjBzSm1jTkNPdk9ZWmpGODJOWWUyR3h2QTNzZmhGdDVBQjNSaUVWS1ZaUjhSWUlJRXM3SEYwLWdoR1loQUFaTlcwVGQtWUlLY2JUTmlsU29IWU5PdV93OFZQdjNzX2xSZ19ZUGZYXzl4ZUNUX1RsbnZUM1E?oc=5",
+     "published": "2026-10-11T06:00:00+09:00"
     },
     {
-     "title": "“인기 끝난 줄 알았는데”…K편의점 외국인 필수템 된 두쫀쿠",
+     "title": "캄보디아 카지노 라이센스 화면 속 물음표 버튼의 역할",
+     "source": "Calgary Roughnecks",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRzVMWDVxTHNEVHZFZm1jY0dSbGZCbWJTWGlOVmhLVVVVcHVWUG0tNHJ2Um9mMXc4RUtSZkpXWFJkTmhqMm9pMkhRaHNkUzYxRTFHOERyY3RqRDUxcVVnc3BSTHB5bHQ4aUNQV1Y0cjRIdkMwRHdfaWhTVkZNOGMzS1plYnR4VVExT0diVlRBZDgzQklPbDRxTDYxZkk4cUFqYWVTVzhPUjZoMEVMR2ZuT0pnc2E1WFhFX09J?oc=5",
+     "published": "2026-10-11T02:45:15+09:00"
+    },
+    {
+     "title": "유통업계, 외국인 매출 '규모는 명동·성장은 지방'",
+     "source": "그린포스트코리아",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9icS00a3RQZ0ZUSGJPbmtQaU5RREtickxENHAwTHBMVHRVeHVsTWk5bThLek56Tk1IUUhMXzVnMkQyZjFWUDB6VFNJeUN1QktFWHVOb3J5VTRJRkJHMDllUHhOS1NnVWxzNllfdGJCUkRlZHVLd2fSAXpBVV95cUxPOG1HdUpOWTFORG5XWlJuVk5BSDZHSmFxbVBFYUFsSmpxVjhPMHE3cURNTW9sQVRyZUpSWElBdWJaRkZ4X1ROVWNFcUNmUmZsREVrVzJIM3RkdXJvS2pwcHl1dzRtLS1JUUVCbnYySWtyUGNNOHVERVRzUQ?oc=5",
+     "published": "2026-10-11T02:44:41+09:00"
+    },
+    {
+     "title": "휴대폰으로 찍고 A4 용지에 뽑았다…어르신들 일하는 편의점서 사용한 20대 결국",
      "source": "서울경제",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmYlZsQXg0b0xZS0l0RzNQTEo3VnJDU1Q4UU5zNTR5Q0o0aU1sek1acjY5SWhQY2VYbUhweEdEWlR5anpYbUtISkZTa25BTUFmdFHSAVNBVV95cUxQRkNKUGlNUU9EX0dwUGdGTkM3dUxrWW5PUGVwQ0xuR1ZSQTlTX2ZOdlZFV0lqQWhOQzJLQ3J5Y1JtRHNaSjdCT2NpYWd6VGt6QVBINA?oc=5",
-     "published": "2026-10-10T14:01:00+09:00"
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GSEdfQlc1ano1b2RTMTdIUkppaWtyX2tmRkNKNExOMmdVcVJqSTJtNlY3UTlBeGptRU9lZ1plZW91VmdmVUpUWm1mRTdCV2ZTTmfSAVNBVV95cUxNdHVncUV3WnpHV3EtczBPTTFfNFRQY2lhdHVfekF6cmNYd2l2bmVZVE1iS3QyUGZja2Vpc3NiT2dFc0ktZFJ1TmRFVk4yVDUzS3ltbw?oc=5",
+     "published": "2026-10-11T02:00:00+09:00"
+    },
+    {
+     "title": "홍수 피해 지역 주민들의 주거 문제.",
+     "source": "Vietnam.vn",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAyNFVwZFJPS0RTZW9sQWM1Z3BoMkVJdnlOZ1REaGlwem83ZFBBaF9WNXBnTlQzVER2OW1OeE1wVVhCWmlrc0JEUDczaXhGaURVVmt4OTB5TmNLQ1FhZUlMOTJQOUJ2TjRjcms1TQ?oc=5",
+     "published": "2026-10-11T01:52:51+09:00"
+    },
+    {
+     "title": "파파존스, 자라섬재즈페스티벌 15년 연속 후원…현장서 피자 판매",
+     "source": "한국면세뉴스",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94ZV9rS0FPLXctcUF2akRiSVAyNUZnSjJ0Y29sMUEzYkhEcFZPcTZtSk9qOVdJc0NkZGlSdm5jQnEyQWgwRWxzOFE3ZkFDSE5NU3BCUUZVUTd2bFY5bTRqZlVnVnV4dy1nanc?oc=5",
+     "published": "2026-10-11T01:27:15+09:00"
+    },
+    {
+     "title": "\"비대면 처방은 정산 불가\"…제약사들 CSO 수수료 빗장",
+     "source": "데일리팜",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfSTR0d2c3MHhNZ1hTczZZQWF2SlIwekJXSUNaYnBVWnQzT1RCTXlzbVZYOEZUMC14dVlCSUdFTWltOUh0QkZLb0tKaWRFcDlFTTJubnF3?oc=5",
+     "published": "2026-10-11T01:00:11+09:00"
     }
    ]
   }
