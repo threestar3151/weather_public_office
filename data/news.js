@@ -1,10 +1,28 @@
 window.NEWS = {
- "updated": "2026-10-14T17:30:30+09:00",
+ "updated": "2026-10-15T08:34:39+09:00",
  "sections": [
   {
    "id": "law",
    "title": "법·제도",
    "items": [
+    {
+     "title": "GS25 편의점 물류 공급 중 통행세 의혹…공정위, 법 위반 소지 검토",
+     "source": "스포츠조선",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4wWEd5QVVDT0dJak1PQy1TUHEwckw3QlhxVENmekNwY0FvckxOX1VHNjMzQlRUNFg3OTQ1UG11aTczU3ozeUJXMjVZa0ZZUmFkUFgzSFZCeGZaclFXR3VVMG53STQ3aVlpSUlGYWtuZnVyWDhfZWQ5Tg?oc=5",
+     "published": "2026-10-15T07:35:47+09:00"
+    },
+    {
+     "title": "사용도 못한 폐쇄 상가, 관리비는 내야 한다",
+     "source": "로톡",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nbVh5eTNWbF8tdWNYT2x0MWM0MXo2VFEtT2U2YUZ4UjBrS2VjczJJNk9lVENISE9kekdTOXlzN0ppeHYybS13NXdsaXV0QXBnU1BYcEVR?oc=5",
+     "published": "2026-10-15T03:33:37+09:00"
+    },
+    {
+     "title": "술·콜라 심지어 마약류까지 넣어 흡입하는 ‘유사 담배’, 안전성 검증하고 규제해야",
+     "source": "sisakoreanews.kr",
+     "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBmWXBwNzlFaHlDLW9SbWY5M1dEN2pQRFRWenlUMlRjTlhrV2FWN2xpNFRGVGZCN1UwdnFrWW9qZW5MUzFYV1E?oc=5",
+     "published": "2026-10-14T18:53:00+09:00"
+    },
     {
      "title": "니코틴이냐 아니냐 헌법소원까지…무(無)니코틴 풍선효과도 우려",
      "source": "미주중앙일보",
@@ -26,8 +44,14 @@ window.NEWS = {
     {
      "title": "부활한 '재계 저승사자' 1호 사건은 밥상 물가 잡기...김치·두부·햇반까지",
      "source": "ABC뉴스",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5VOFVaQlgyb2lSem1FSElGb1Q1b2VFdmtIWUU1ZGdkSTlEMk5vOXRaUFJEU0JvSEdzb3JtS25iMGxaN2p5VDJWWkpGdXpVT2x6djk2bTBoaXdLMUt3ZjVROFh0M1VMUzDSAWdBVV95cUxOVThVWkJYMm9pUnptRUhJRm9UNW9lRXZrSFlFNWRnZEk5RDJObzl0WlBSRFNCb0hHc29ybUtuYjBsWjdqeVQyVlpKRnV6VU9senY5Nm0waGl3SzFLd2Y1UThYdDNVTFMw?oc=5",
-     "published": "2026-10-14T14:26:12+09:00"
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5PbHN5WUN6eE5ZOHBaNGtuMnI0emJSa3lTcTBwcktSTWNjSHZBMkFNa2JPM2Uxa2UyaVA5a2VXS3ZRSmJTVFNPNklBbUxJdmhBdlI4VEMzV2hnWS14TDM0OGpDZ9IBZ0FVX3lxTE5VOFVaQlgyb2lSem1FSElGb1Q1b2VFdmtIWUU1ZGdkSTlEMk5vOXRaUFJEU0JvSEdzb3JtS25iMGxaN2p5VDJWWkpGdXpVT2x6djk2bTBoaXdLMUt3ZjVROFh0M1VMUzA?oc=5",
+     "published": "2026-10-14T14:08:31+09:00"
+    },
+    {
+     "title": "부활한 재계 저승사자…대상·오뚜기·CJ제일제당 조사",
+     "source": "SBS Biz",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vdmhzcFhfVlBBbWNRYktGMGVZVW05VGxoUWt0UTZEYnUwWHZKeFhXbGhXN1pYbUpBVTc0eU9JWlFYX1QxejFNdlhPY3J4SnBteHdScWczU03SAVhBVV95cUxOb3Zoc3BYX1ZQQW1jUWJLRjBlWVVtOVRsaFFrdFE2RGJ1MFh2SnhYV2xoVzdaWG1KQVU3NHlPSVpRWF9UMXoxTXZYT2NyeEpwbXh3UnFnM1NN?oc=5",
+     "published": "2026-10-14T13:51:00+09:00"
     },
     {
      "title": "돌아온 '재계 저승사자' 첫 업무는 먹거리 담합 조사",
@@ -42,6 +66,12 @@ window.NEWS = {
      "published": "2026-10-14T13:12:54+09:00"
     },
     {
+     "title": "술·음료 넣는 ‘유사 담배’ 안전관리 공백…남인순 “흡입 방식 기준으로 규제해야”",
+     "source": "안티에이징뉴스",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8xaXJpMkxfQm1SOVB1TjZCYmZwSUNVX05BalRvcVZCZjZKbkxaWmFwZ1RXM0RsYmliQWtuRDI3UmlLeUFhTHlZSHNac1ZYeGxkXzBwRkI0RzE?oc=5",
+     "published": "2026-10-14T12:35:37+09:00"
+    },
+    {
      "title": "[속보] 공정위 중점조사기획단 1호 대상·오뚜기·CJ제일제당 현장조사",
      "source": "SBS Biz",
      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ST0JrUDhEaXBReU1fb1ZwLW5lYkU5ZWZ2MnhjUDhzQWhnbVNId3UtSE1NVjFRazh1X3VySnRZQ3d5enc0anRuMTdMV2dXXzNnb24wRWV2dEfSAVhBVV95cUxPUk9Ca1A4RGlwUXlNX29WcC1uZWJFOWVmdjJ4Y1A4c0FoZ21TSHd1LUhNTVYxUWs4dV91ckp0WUN3eXp3NGp0bjE3TFdnV18zZ29uMEVldnRH?oc=5",
@@ -52,24 +82,6 @@ window.NEWS = {
      "source": "약사공론",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9iZm4wS0ctMjdGMmhZU2VSWUFxWWRNaDQ5TmxOWW51T2E5d0JpNnUzZkdlSGZnNlk4OTZpaS1kVlFOSW51YkNIQlVZSURkdThmcTZid29LZS1jNVN3bHRuMTNEbk1fWC1lanZjWQ?oc=5",
      "published": "2026-10-14T10:52:00+09:00"
-    },
-    {
-     "title": "이마트·홈플러스·롯데마트·코스트코 휴무일, 10월 17일(토) 대형마트 영업하나?",
-     "source": "한국강사신문",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9lbTQtWGR4MGx5YU0yZDFsUHFDV2VtWEtEVWRBOGNSamRzYjNXSUZXOEN1bzBWS09XbFk1blIxUHdiMlRJRXAzMnNTV24xSk9pQlVPQzlwcHZaWlZzLWVFRUl2U25xR0RiYk43NXR3bVY?oc=5",
-     "published": "2026-10-14T07:35:06+09:00"
-    },
-    {
-     "title": "최저임금 1만320원…주 15시간 알바 주휴수당 3만960원",
-     "source": "매일신문",
-     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBjYTNhOWF2cnJzbFo3aW0yenhCRWJWYlF5bkowNlVvMlJHLXNBRDcxZy1SVlZSXzlPZGtNeEs1MXZvUmtOS1Ewd3lKeVhIcEpkSjBUMzR1ZmxfT1RsYThHcjdn?oc=5",
-     "published": "2026-10-13T17:58:47+09:00"
-    },
-    {
-     "title": "담배 유해성분 44종 28일 첫 공개… 전자담배 `덜 해롭다` 검증대",
-     "source": "매일신문",
-     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5hbVl5Z1BRSnlrWExuQnE5V3p1VW93MzdVNlV3VGNGWDBYZGYzbm56UUpMeUstd1V4RFZWTVdOakdUQkpZQXZ5ZjUtQl92N3NkSlN4amRMRmF3MlF2VHVic0pR?oc=5",
-     "published": "2026-10-13T17:53:00+09:00"
     }
    ]
   },
@@ -78,124 +90,124 @@ window.NEWS = {
    "title": "유통 뉴스",
    "items": [
     {
-     "title": "\"통신사 할인은 왜 해서\"…가맹점주들 속앓이 왜",
-     "source": "지디넷코리아",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yaEM0RkVFa3FGcE5tVDcwamdCRzFETnNkQmNfWFlySmFpV21RRjNJVEdETkt1Q1NVMTdreTBhbWJPOU9kTzdrejE3N05INFRVUXByMC1R?oc=5",
-     "published": "2026-10-14T17:19:00+09:00"
-    },
-    {
-     "title": "청송군, 농어촌 기본소득 사용처 확대…주민 편의·지역 소비 높인다",
-     "source": "스포츠동아",
-     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE10Uk5xdzJOUjBvYXlUdXMtQUMyMGR1X0NyUTkxd3hoQUl3SGtSSU4yVGVjY0NOeFZTSkJqbDBUSlNuOU5kdmZMZFFYM2duNFZ2ajNReGYxQzc4VlZtWDY2azJ3UldzUVlKNGQ2TmJWZ2ZaQQ?oc=5",
-     "published": "2026-10-14T17:12:12+09:00"
-    },
-    {
-     "title": "배구 티켓·굿즈 반값… 편의점·교통 5%↓",
-     "source": "서울신문",
-     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE54aENnVHd6Ul8tMWhLaEt0TURqNlJ0T1VWemw1eUhLMUxqTDJWVEZXR1lIVF92QWt5MXItNWtoZEtzeHhpRS1kWDFvWTVxdkdKM01lNTVUSGxYRTBQbTFnWVVBY21sUUltNmJCbFFOQnhvRDZqR0JJeEpR?oc=5",
-     "published": "2026-10-14T17:08:01+09:00"
-    },
-    {
-     "title": "게임 팬덤 잡으니 객단가 4배… GS25, 편의점을 ‘IP 플랫폼’으로",
-     "source": "이코노미톡뉴스",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45T2dGbkpiLVBDczhTTTNhRzI0YlVXZlRJZVdmWWk0R292Zkw2VWxWNzdBblBwVWc5ZzdGelhva0RXam11OG1ELWRndXJsOThkbF9xTUVaVmxCUnVjS0xKd2RadnNDR0hTM3g3Wg?oc=5",
-     "published": "2026-10-14T17:00:59+09:00"
-    },
-    {
-     "title": "카카오페이, '멤버십 사후 적립' 론칭…결제 후 포인트 적립 지원",
-     "source": "파이낸셜신문",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5PbW1jdDctdHZLMGxiamt3NkIzLXBDbEZTVHVKMkVYTmY3R2NRZzFvQVFLTGttWFdWMVNyTUdXd2o5N3BFM2RCVXNXTWhpbllUX2M4c1NoRmRrSk5GRjFjOFdGUzU5aC1PZG44?oc=5",
-     "published": "2026-10-14T16:49:47+09:00"
-    },
-    {
-     "title": "편의점 식위법 위반 5년새 2배…GS25 201% 급증 : 소비자",
-     "source": "재경일보",
-     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBGVE9INWQ5YW5pT0ZBZmotbENVbmpIUktnUUVQR3VQcmhXTXEyXzVOanZ6MktGZjBsUXlGV0prM3llQjk1Ti1uTmZRNA?oc=5",
-     "published": "2026-10-14T16:41:00+09:00"
-    },
-    {
-     "title": "1인가구도 부담 없는 집김장… 빨라진 절임배추 예약 전쟁",
+     "title": "\"끼니만 때우던 편의점은 옛말\"…이마트24의 새로운 실험",
      "source": "한국경제",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xSGdmemY2ZmVtejlRcnZwYnR6X1ctT3ZVcV81WDh4cHpHaUtqbnAtbVM4b2NUeGcyMm91OExlRFpIR2FkQ1FuTjFkbTIzTy1xaG5HUWdWSU1lZw?oc=5",
-     "published": "2026-10-14T16:36:27+09:00"
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94MGFhYTZIWmppQy04cTE1MEk2QUZBM18zUjhHYVpnbVc1LXRHMHNZNzZka0lIVTBQZEdPYjRTUDU1S0NQamgtQ2hteTJCQWEwaUdOTk5PcE8yZw?oc=5",
+     "published": "2026-10-15T08:27:18+09:00"
     },
     {
-     "title": "알코올 든 맥주도 `0.00` 표기…“비알코올 표기 소비자 혼란”",
-     "source": "부산일보",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBOUUJDTUZJQlR2Vi1tVVlBZ29DWUtycjZUcGRjejJ6cGRaVUdRNVFJOHluV3lSNzZJc1pMMHlZc2l6R1RINWVEMEtiSW02bkhhUVJpMDFEU0IyUDR4dnktMks4NU9BYVBMS2h4RDhFQzhfaV9o?oc=5",
-     "published": "2026-10-14T16:33:57+09:00"
+     "title": "전국푸드뱅크-세븐일레븐, ‘세계 식량의 날’ 맞이 농산물 및 식료품 전달식 개최",
+     "source": "복지타임즈",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5OOXdHdWFFOWJIa2lMbnZobFJkLWRDSXFrZkZUQzRlbVJDM2hiaXJEM3JFQ1R6OFpYOERQNmJkUnBPdnBPMDlwR2R3R2hnUU9sWmhOWFgyMW5HTkJHSURrbnBvLVRqMlprZ0J3?oc=5",
+     "published": "2026-10-15T08:25:00+09:00"
     },
     {
-     "title": "청소년 주류 판매한 편의점...신분확인 했는데 CCTV엔 안 남아, 변호사 의견은?",
-     "source": "로톡뉴스",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HUkpJWDl0UGx5YXNvUllncHhTc3hFRGxJTFlWd090cnBtYktJako5ZEgyRW9yOHloZndLRzhLaEZVX3hsVFBvdjdLNjdLc1VuNVJxQ2MxcGRldw?oc=5",
-     "published": "2026-10-14T16:24:00+09:00"
+     "title": "CU, get모닝 꼬마김밥 400만 개 돌파… 아침 간편식 시장 강세",
+     "source": "www.2news.co.kr",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxRXBMY2l1UG9CenFCLUFfaEhOQy03UE1kSENtUFk1Y0Z4VVRkUGlaZHF1TEZUZFRRMFZHd1lzM0xtSDY3a080aUUyOTdVajd1TlJsX3Z1YnRRLUJxWWdRLXQ3MU1PZTBR?oc=5",
+     "published": "2026-10-15T08:23:00+09:00"
     },
     {
-     "title": "순천시, 코스트코 입점 대응…상생협약 밑그림 그린다",
-     "source": "남도일보",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ObGgyVnQtVGM3LWlvNUhWSUc1WDZ0SnVaTTJ0WVJYcU1zcG53b2loeHBpd1dDZWZHQ3psVmxSWDNPWWFjRHZCOHV2U3VOY2ItbEFST1NRWldOUVJZVkdGMnplTHl4SGtPWE5COdIBcEFVX3lxTE9VSndNY01NbnJJVXVGdk9UYmRhNkFTd19Ma0pHQW5hNEJFNHpGMjhhOTFUcFdoclpvNk5jQm93MGMxdGJ4OG9UREFvazJSMjh3cmVIbHNYaVY2aEc4QnhiLXRKZEJETEJUc1BKcWpjSFY?oc=5",
-     "published": "2026-10-14T16:21:00+09:00"
-    },
-    {
-     "title": "카카오페이, 마이데이터 기반 '멤버십 사후적립' 서비스 출시…첫 제휴처 CU",
-     "source": "아시아경제",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OY3c5SWl3TUVEOVNYN0dDQlY1ZDhoQXVvcUdaR3VVY3lQSS1qTWNueG9ZQlI4ZkQ5dWN1OWhYRVcxb1Utemk5a0NSTENIQ1lpTzNmSTBpNUFkY3lsTlBmQw?oc=5",
-     "published": "2026-10-14T16:19:00+09:00"
-    },
-    {
-     "title": "청송 농어촌 기본소득, 문구점·체육시설 이어 택시까지",
-     "source": "매일신문",
-     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zQnlSYVFKeUlJcFc2OGtWZmt6a0NDRXhKYWkyNkNfUXJpZDZIU2xFdjd3dklmOXQxMzJUQ3o1SE9EdW5LZ0h4Z3FaNU92NE91ak1qYkpOeFZxTUd0RDNXcHF3?oc=5",
-     "published": "2026-10-14T16:17:56+09:00"
-    },
-    {
-     "title": "공정위 중점조사기획단, 1호 사건으로 식품업계 겨냥",
-     "source": "뉴스저널리즘",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TTWpHS2F1TDRqQkl3c3dvUnVIMGhXdkZwUDlRM2NZUUpxTDBQVElLR2EyVl9qRmt1NkRpWEtwNER2bFpfV1FGQkcwcWdVTmlPa0RtbG4xWVdKZTRpelFIc3otMlhHZ3lueUMw?oc=5",
-     "published": "2026-10-14T16:16:27+09:00"
-    },
-    {
-     "title": "청송군, 농어촌 기본소득 사용처 확대…주유소·편의점, 택시까지",
+     "title": "\"아침엔 한입 김밥\" CU, 'get모닝 꼬마김밥' 400만개 팔렸다",
      "source": "뉴시스",
-     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB2bkt6ZnlOMjk2d0Q4ZzNHMXM5WEJRcXFJamNsdU9OWHhSbnUwejMwZXZDM1RjaWhmLTc1M0o5Vms0YjFBa0R1TUVPdzluQmd3djIzcGYzUWZfU292ZUM3V1hJSk8zRjMzaWczS29sbWxWUHBIVllwOdIBeEFVX3lxTFB2bkt6ZnlOMjk2d0Q4ZzNHMXM5WEJRcXFJamNsdU9OWHhSbnUwejMwZXZDM1RjaWhmLTc1M0o5Vms0YjFBa0R1TUVPdzluQmd3djIzcGYzUWZfU292ZUM3V1hJSk8zRjMzaWczS29sbWxWUHBIVllwOQ?oc=5",
-     "published": "2026-10-14T16:11:56+09:00"
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pY2JiQ09iZHJ6VmRGTTFqaTJ6ejFLMUhjbFBPVWczd3dZaEJWZW1nZkxGbUVtMDBHcWdPbjZ5WUYxQkNobGZZUDJYQVhvSVRGeVY4cVJZbFotd3NNVzI3VNIBeEFVX3lxTFBOb0ZLcmd4RjU0Q3N2VVA0b0RDYlhGUHNVTjN1cHBvZ1VfRVFPYWE3dllqMUZXc3JjeXprY1diT0xIRC1maS16U014QVRVLUNSMkFXZUt0ZHdraHpEcHRWWHFUZVExSGdRM0h3RjdTbUM3OS1nLWdveg?oc=5",
+     "published": "2026-10-15T08:21:10+09:00"
     },
     {
-     "title": "k채널/순천시, 코스트코 입점 대비 지역상생협의체 출범",
-     "source": "K채널",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lenBzd0Z0aldSZXZXWFlBbVdEWU56NDBhcGJ3QnBkbTdWTlk5cVZDRk0ydlZicmNUYTJwWEVCbnNnZDFqbTE4Vms1QTludzIzYk9Kdko3al9jd2hZc2hkbmpzcnFfT2dHTkE?oc=5",
-     "published": "2026-10-14T15:56:12+09:00"
+     "title": "CU 'get모닝' 꼬마김밥 400만 개 판매…아침 매출 비중도 확대",
+     "source": "뉴스1",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zRUM1cGVYdHYzb2FmWDVDNVNWR1RNTTAzZ01JN0tybkFQV2M4YnVVNDM2U1FlS0dfdDU5QlVTYktzc0NxUXJRZmRMbC1FVVJpUVNjamtYOEpMQTZ1c3ZJ?oc=5",
+     "published": "2026-10-15T08:17:42+09:00"
     },
     {
-     "title": "일본 세븐일레븐 매장에서 베트남 반미의 풍미를 만나보세요.",
-     "source": "Vietnam.vn",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMThtalk0SkVuaFNsdG90elhSQ21aZHg3YVUxVXFndHowWG5OQ3c2NjZ2WDJvdEIwSWVDdWZGNXV5dG13YmRNMmZVbWRObDFBUEdsMmhEZEFiMmtuRHlhbjAzaVdaeW1CRlkyOXBKdEl4MDNranBVTkxBSlNrenJ3UkN0VjdVWE9XcnA5S1VuamNPWkhDSDdrall6TkRMNGtvOC10aEd3?oc=5",
-     "published": "2026-10-14T15:46:24+09:00"
+     "title": "세 집 중 한 집은 반려동물 양육···식품·유통업계 펫심 공략",
+     "source": "아주경제",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00QnFkMTgxTjhEdWxORy04anBBNDM3VHZSbEVxbjhwMXRFMnNQLW9Na3VlUTliM2dISEljdlRsSHJIQXVVQ1VfcUp5RHpGRUQ5QnN5NW9GY0RnZ9IBWEFVX3lxTE42XzBOU29mSmQxZUJaZmZGRzA1NFgyTDV3a2Y1bWYxaENkNzV1b0I0dXQ4aEhxRzBIUDY3ckl0U1BjQXIxX1pzWXc3aEEydDExWXMzb1Axc04?oc=5",
+     "published": "2026-10-15T08:08:12+09:00"
     },
     {
-     "title": "오늘부터 가을야구...역대급 빅매치에 '치맥·편의점'도 매출 홈런 노린다 - 머니투데이",
-     "source": "머니투데이",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LemZIZDdRRDlRVDBlTDVfUGYxd1RxaE1NSGxBWGd0UnJrSUFKSjRqZ3liaW91NEZFUjA0blR2RDdBVm81NThBa1R0VlMxYWdHdFozOFNtN2VVUEphSExUYlA0UnY3N2dVOHfSAW9BVV95cUxPMi1rZkNVMkxMRkJhaTNxS3pUb0d3bzFuNWpZcmpxMUoyS0xpV25zcEVYb0ZQOGswLXpndjkyei1KWVZMWDhZNk5KY0tEaDBfS1JNUHQxSGFlNk9aQ3V5MTdQelJWNE5nLUpab0FjOWM?oc=5",
-     "published": "2026-10-14T15:42:55+09:00"
+     "title": "세븐일레븐, ‘지역 상생 프로젝트’ 마무리…농산물·식료품 지원",
+     "source": "파이낸셜포스트",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hOFdoSDhqOEpaSmkxVEFWemhLRkdNWWpac0lsMlhoMi00WGNRQXhaOWw5LUxTUnNtT1V6QjAybVJoYlJ4QUFWN2h4V0ZoVk9yWUc1Q254dXBscENMbzc2bkFUQUdKT1BZMjYtaGRRYnlhQTcx?oc=5",
+     "published": "2026-10-15T08:01:44+09:00"
     },
     {
-     "title": "카카오페이 \"놓친 멤버십 포인트 찾아드려요\"…마이데이터 서비스",
-     "source": "뉴시스",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBxNVo1ZURiaXRMVndkZGlHSlpRMEdweTlDOXZlMnR2WHhEUWZuRUJLQmpuUGp1and4aUtHTEdlX2lJcFpoZjF2RnAyTWdRNlFZWVVodWpZY0s4VlFEaDJMetIBeEFVX3lxTE8xRW14T1lXbGpXOXJIdi1JeWlWeHhIX2E1alp5TzV2ampBWEU2a09YMkh4TFk1MjNkNWhVMzZRU2pWMV8zQ0R2RVFLeDg1U2ljcmtVODBySGRMT0xBemhuczk5OW1YTnBpeGRWN2hZaVd3RDVUNks0UA?oc=5",
-     "published": "2026-10-14T15:40:14+09:00"
+     "title": "GS25, 가맹 경영주가 그린 작품…카페25 컵홀더 선봬",
+     "source": "파이낸셜포스트",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BV1dHZXVwWEZBM2w1bWppcmtveE9HVVpuUlRLR3pnZEdRZFJYVE13UHJBY3BfdFI1M3BsNlRiS0lTQmpvNWQ0NXNpU19LNFpILWs3MU80aDUxdERqeEdwR1hENURBckpkMVBnb29XXzZmS2FZ?oc=5",
+     "published": "2026-10-15T07:52:47+09:00"
     },
     {
-     "title": "카카오페이, 결제 후에도 멤버십 포인트 적립…CU부터 적용",
-     "source": "더퍼블릭",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5pc0ZiLUdNZ0VwclotOEZ5S2V1YzNHN3hXMzBRcTdjVi1mYTZTUjhCUlBQOVg4YUF1X0pnUXZOdHowMGp1TzNyOVZUT0EtbkJGSXRLNndHdmYteDhrN2lJT2VOQXduemxiRFZXaDdVTdIBb0FVX3lxTE5pc0ZiLUdNZ0VwclotOEZ5S2V1YzNHN3hXMzBRcTdjVi1mYTZTUjhCUlBQOVg4YUF1X0pnUXZOdHowMGp1TzNyOVZUT0EtbkJGSXRLNndHdmYteDhrN2lJT2VOQXduemxiRFZXaDdVTQ?oc=5",
-     "published": "2026-10-14T15:38:49+09:00"
+     "title": "세븐일레븐, 전국 그냥드림 사업장에 지역 우수 농산물·식료품 후원",
+     "source": "싱글리스트",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14NWZybU1jd3ZMZWtfWl9oU0l4M2xvdmtlQnJzZkN4WnRNa09ERjdReEdadExDYWtmc01LMTEtd1I4VHVHZzZRNnpiRUFuTkpkMy1PTnd6bkdSb3BxcjloNmJyU0Z1UQ?oc=5",
+     "published": "2026-10-15T07:52:15+09:00"
     },
     {
-     "title": "신한은행 ‘슈퍼SOL’서 모바일 신분증 발급·이용한다…은행·편의점·관공서서 활용",
-     "source": "더퍼블릭",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9mWjhpb3ZPSUotaGdxbjVya0VPbHhMZXNBeHN6S2VHbG4zTDdIZE1pYlBMdnBOY25obW8zY1JRa3Ezd0htWWNDV3Etb21hZkJiLXpXRC1hMGR1SVcxTmszSy1iNVc4MExVM25kY0c4SdIBb0FVX3lxTE9mWjhpb3ZPSUotaGdxbjVya0VPbHhMZXNBeHN6S2VHbG4zTDdIZE1pYlBMdnBOY25obW8zY1JRa3Ezd0htWWNDV3Etb21hZkJiLXpXRC1hMGR1SVcxTmszSy1iNVc4MExVM25kY0c4SQ?oc=5",
-     "published": "2026-10-14T15:38:48+09:00"
+     "title": "세븐일레븐, 전국 60개 '그냥드림'에 3500만원 상당 먹거리 후원",
+     "source": "뉴스후플러스",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBqTTA0Y2RhQVJaaS1ldFNMekg0QThvVnBBTW1TTFhOWFJBX0NQMDJ5enFPeDFqTnE5MWVJQk5TekFNeE9QNUJmNjlYay1vS3U3dEppRU9ESUMway1Yd0VwWE13aUdzbjg5RlNCUUJn?oc=5",
+     "published": "2026-10-15T07:46:52+09:00"
+    },
+    {
+     "title": "GS25, 가맹 경영주 그림 담은 '카페25 컵홀더' 선봬",
+     "source": "싱글리스트",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE42TURtaVJGVjRBU1dnTnJHTmRXelJKYkZ6a3VDWkZuMk5IOXk5akpVNnZMSkRaWXdjZUxmWDdfV0VudVFlaVE1WFl1SzY4NlRuSEVxNk4xMWthakFVYVNabkJyYlFRdw?oc=5",
+     "published": "2026-10-15T07:37:30+09:00"
+    },
+    {
+     "title": "GS25 편의점 물류 공급 중 통행세 의혹…공정위, 법 위반 소지 검토",
+     "source": "스포츠조선",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4wWEd5QVVDT0dJak1PQy1TUHEwckw3QlhxVENmekNwY0FvckxOX1VHNjMzQlRUNFg3OTQ1UG11aTczU3ozeUJXMjVZa0ZZUmFkUFgzSFZCeGZaclFXR3VVMG53STQ3aVlpSUlGYWtuZnVyWDhfZWQ5Tg?oc=5",
+     "published": "2026-10-15T07:35:47+09:00"
+    },
+    {
+     "title": "CU, 'get모닝 꼬마김밥' 돌풍...400만개 판매",
+     "source": "싱글리스트",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5GVWdPelBtOHlOSUhuQ1RsN1YyUld3TzJDMVFIcERwUWRLQlR3T3FyS3Zicm5YdWFqbk96ajUtOGFIb1I1NW9WM0x3VEFHQzVFRnNSTmZCT2pISWxDUnIzUUhWUlhHUQ?oc=5",
+     "published": "2026-10-15T07:30:07+09:00"
+    },
+    {
+     "title": "\"추억을 삽니다\"…편의점에 부는 '포켓몬 카드' 열풍",
+     "source": "비즈워치",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90VThtd2tqR01wSGdDTnVCZHJ1TFV1TFJINjJ4Yk1KZWFFTmZoOGdXWkotbkF1dE9vOFpKcVB4NFItVGVQdG1IZ3ozVzhNTEJuRXhGUjRaWjJCR3FpcVc0bFRxbE94b2thLXF4Mg?oc=5",
+     "published": "2026-10-15T07:20:02+09:00"
+    },
+    {
+     "title": "GS25, “편의점 점주가 그린 그림 ‘카페25 컵홀더’에 담았다 ”",
+     "source": "팝콘뉴스",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1FbjA2OEZRU0NrbDJucm82UnpZcHdWaU1GUzFnQktxbW9DV1BFNzNPdUVobS0yRHRXMU5lT2FHcUJMdXo0Z1ZwbmhIWkFZUjdEWjJhb2YyMFJCOE1wZUdIZ2o0WkxiVzRVNmFvaFJfUdIBckFVX3lxTE1BZmlFV0cxbDF1Nl9IN3NQR3FlQ2U1aVJOT0NJVUoxYUl4VDZyNDhOQ04ySk9iSVRXQ1I2eUhHcXoyQkpxSnpMTFRNQmlZdzJhS3o3S1padlNabmRxT3N2Ty1id2ppS0hadzZrb1ZZb2lhZw?oc=5",
+     "published": "2026-10-15T07:11:27+09:00"
+    },
+    {
+     "title": "밤엔 적자, 문 닫으면 혜택 달라져…편의점 3사 심야영업 딜레마",
+     "source": "스마트투데이",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82MU93VXB6T0duQmZNVzVrSHNTUXluaVBGbHNVbDh2VG8yZW5fYktLeEJWYUJ0bmVKVU1lcW5NT2s4Z3NaMHJfcHRPZk5lS1M0WkVHajkwSkdUQ3lXM2Nr?oc=5",
+     "published": "2026-10-15T07:00:00+09:00"
+    },
+    {
+     "title": "GS25 위생법 위반 201% 급증…본사 가맹점 관리 제대로 하나",
+     "source": "경인방송 뉴스",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ISDVKY1RKeVcycmotNFpTbUQxak9LNjhPenptaVZIMnZrUGNlNjFfRkY1aHptVkxESWZ4S2VyTVRteDgzdTJlcUIzRkV4YnoyLU9tYTBhMURrMnJlUm5aQzZWcm_SAWhBVV95cUxPSjMxbG5zOS1ZRHpNeWhkblhVSEI0WHNhcDM1b0s0STA3YUM4OUVvT1Y0VHE0RHNkS1kzUk41Ql92a1RTY3gtZTJwcDZYZ0R0NzVFblNNaFdYRGh1SHVnRTNyT2p5OEgzNw?oc=5",
+     "published": "2026-10-15T07:00:00+09:00"
+    },
+    {
+     "title": "11년 만에 돌아온 캪틴큐…1300세트 예약 완판·편의점 발주도 마감",
+     "source": "뉴스1",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZRl9zcTBhQmpnUWhncTZNNExlV1dtWEttMTk0c3MwT0Y5ZUtuc01TeTVHbGg2Z3BvcGJwMXhldFd3OGJJZkJEbEpfeWcxNjYzaWFXQzJfNVZRWjZfQ0Fr?oc=5",
+     "published": "2026-10-15T06:30:00+09:00"
+    },
+    {
+     "title": "“1주만 담아도 20% 할인”…유통가, ‘배당+쇼핑’ 카드 꺼냈다",
+     "source": "직썰",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ieFVVeE5IaGRiOHVKN01waHE1ZWYwaWVrWUFQc01aeGV6SXBXUnZsZ0huWGlVajg0dmI1MGlvQ3l3X2R5LWxjLVNjWnJjTXl1Ry1ObGFoenpuTkxVeHJVWkFTM0dGckNaU1lSWdIBbEFVX3lxTE9ieFVVeE5IaGRiOHVKN01waHE1ZWYwaWVrWUFQc01aeGV6SXBXUnZsZ0huWGlVajg0dmI1MGlvQ3l3X2R5LWxjLVNjWnJjTXl1Ry1ObGFoenpuTkxVeHJVWkFTM0dGckNaU1lSWQ?oc=5",
+     "published": "2026-10-15T06:12:32+09:00"
+    },
+    {
+     "title": "아침 식사 시장 잡아라··· CU, get모닝 꼬마김밥 400만 개 판매!",
+     "source": "한국경제",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FTF9jUEtwUUtKTWh4cXVtV0NkakNPX3RYem9pU3BxNEpqOXpVTkJ6TktUbHlLV0FtekdxMkktRndELXVYX3ZOall0RVRLaDFrbGp5TmhTeUF5QQ?oc=5",
+     "published": "2026-10-15T06:01:36+09:00"
     }
    ]
   }
