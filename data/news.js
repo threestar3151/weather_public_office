@@ -1,10 +1,16 @@
 window.NEWS = {
- "updated": "2026-10-13T19:17:26+09:00",
+ "updated": "2026-10-14T09:03:20+09:00",
  "sections": [
   {
    "id": "law",
    "title": "법·제도",
    "items": [
+    {
+     "title": "이마트·홈플러스·롯데마트·코스트코 휴무일, 10월 17일(토) 대형마트 영업하나?",
+     "source": "한국강사신문",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9lbTQtWGR4MGx5YU0yZDFsUHFDV2VtWEtEVWRBOGNSamRzYjNXSUZXOEN1bzBWS09XbFk1blIxUHdiMlRJRXAzMnNTV24xSk9pQlVPQzlwcHZaWlZzLWVFRUl2U25xR0RiYk43NXR3bVY?oc=5",
+     "published": "2026-10-14T07:35:06+09:00"
+    },
     {
      "title": "최저임금 1만320원…주 15시간 알바 주휴수당 3만960원",
      "source": "매일신문",
@@ -16,6 +22,12 @@ window.NEWS = {
      "source": "매일신문",
      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5hbVl5Z1BRSnlrWExuQnE5V3p1VW93MzdVNlV3VGNGWDBYZGYzbm56UUpMeUstd1V4RFZWTVdOakdUQkpZQXZ5ZjUtQl92N3NkSlN4amRMRmF3MlF2VHVic0pR?oc=5",
      "published": "2026-10-13T17:53:00+09:00"
+    },
+    {
+     "title": "공정위 과징금 액수 1위 삼양사, 4위까지 설탕·밀가루 기업",
+     "source": "조선일보",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTmtQMG5vVDU3NGRXQ3g5bjU4UW5xSWFBaldqY0Q4Wmhtc3ByVEdEcXJlOGVyeG5QdWQ1OUcteHQ1aUpKTlNTTk1Iby01UmdjWkxkeVJJenVwMGhQUUUzMWhXdlktaFozRHJSRUE5MWxMNU04cGlGeHBuTndVZlB3RHZnSDBuMVNwYmFSZFR3?oc=5",
+     "published": "2026-10-13T17:52:26+09:00"
     },
     {
      "title": "“누가 결정했나” 묻자 끝내 침묵…쿠팡, 책임 떠넘기기 공방",
@@ -30,22 +42,28 @@ window.NEWS = {
      "published": "2026-10-13T15:23:37+09:00"
     },
     {
+     "title": "[국감 26] '조사 거부 아닌 권리구제'…쿠팡, 국감서 정면 해명 나선 이유",
+     "source": "테크M",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBoanBSN2JwYmlMMTBrMmw0QXhya05YT2NTTUlNRUQ1R2p1czJjM1VRaFRYOFB0UmZieV9SSmN4YktrM0ZXRXpGNjdYenpUcDVxN3VEVmlSZDh5UmwzM0cybXItWWktUdIBakFVX3lxTE13MjFLUWQyZ0FmVnctbmgtYXhJd1ZuQWxMNWlGUkpfOV9VR21FVjRXSHhfbl9rcjZaSkpXd0NGbWFHQnZJc0tIeWtQOWRqbHlIMWJ2SC1wTGZUdURZQkdHX0Fnb29yZ05EU0E?oc=5",
+     "published": "2026-10-13T14:29:32+09:00"
+    },
+    {
      "title": "프랜차이즈소송, 가맹점주 개인회생 신청만으로 계약 종료할 수 있을까 [김수한 변호사 칼럼]",
      "source": "미디어파인",
      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBEWGpfV2hxV25FcHJjeE5uSWRNZnJZSlViN01TNlRzbUZGLXpxNlFkNVVmZUcxbTBZOTdYMWNTRzUtXzdZNTZRN1JaaEtyUHhMRGE5SzFBMmF6cmlURU1PNXhHbnpLcWpnN01KYmFR?oc=5",
      "published": "2026-10-13T14:17:12+09:00"
     },
     {
-     "title": "[이슈&논란] \"직원 3명·거래 170억\" GS리테일 '벤더 끼워넣기' 의혹…공정위 \"법위반 살펴볼 것\"",
-     "source": "뉴스스페이스",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBWOU5kUWs4V0c1ODhYQTlzbTNRSFJmMWNJcWcxV0JuOFoxSzhxdFJsT3V4SUFHSGRQRXNNbjI0WjFHRkthQTdQNWl1WnY0bWQ2XzhUa0EwYW1KNFBnN0F5bg?oc=5",
-     "published": "2026-10-13T14:04:09+09:00"
-    },
-    {
      "title": "[2026 국감] GS25 벤더 거래에 '통행세' 의혹…공정위, 위법 여부 살핀다",
      "source": "프라임경제",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrVmNCcFlJekRYYXNmZVFtd2Z5MW9sQW5mZ0hLVm5zdk85ME1PUm43V0cySDZlM25NdVI1NnNGdXVqUno4UE1fM1NGVzB2R0R2dVBoX01INUQwTVNfb2c4aA?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBGU2l5MDhDTUJpVmVwWjR2RzZiRTQ1THVCclNSeFdpaHVVSWhRTF9qUFhPNzdsdVI4alZFOGQ1THh2T1VKanZrSWQxNnR5SE1WUU0xS2R1RUpaTkJiNklXYUNCRQ?oc=5",
      "published": "2026-10-13T14:03:10+09:00"
+    },
+    {
+     "title": "공정위, 치킨3사 담합조사...가격결정은 어떻게?",
+     "source": "주간한국",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9lb0RZLWF3N2lBdFNudVRXMVptNVpFLVlLTDJrMTdxLU9SN2VrTkNjdjEtWTNVWkZBSXRhbHdycDdaeXhXRHZ0NGhZcDAtYUJwcU9uTFFQTGtGMC1RempvS0JZLWRCMlB6MUVhQmhPOWzSAXRBVV95cUxNb2hqNGlQX21TTzRRNnk1VTA2dGtEcWF6VUJ3U0tlRzdHUjA0Ul81TFRVNkFubzBfUWdZNkdLMzhTaThSRGZiRzVxT3NIZzBTeXItNktROVNvMFloTkxyWVFHdmVCU3gtc1pXallFQ2FwamlaeA?oc=5",
+     "published": "2026-10-13T13:00:00+09:00"
     },
     {
      "title": "[국감] 건전지 공급가 CU보다 120% 높아···GS리테일, 국감서 '벤더 통행세' 의혹",
@@ -66,10 +84,10 @@ window.NEWS = {
      "published": "2026-10-13T10:39:00+09:00"
     },
     {
-     "title": "자극적인 연출과 별개로 읽는 게임 영상학과 결과 수치",
-     "source": "Calgary Roughnecks",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjaXVid3hrSkNqdkdRNXBPVDZtdW5zNmY0X0Q5dGtzLV9XenBpTGEyd1NFZWpTNDZnMF9yakZ2VG9uWVM2OTk4Z3lLT09rMjJaZUZ5ZGtZX3V0TlNNcEVoOFRSMUFqSHBRZ0E?oc=5",
-     "published": "2026-10-13T10:25:10+09:00"
+     "title": "\"재벌이 대한민국 착취\" 소신 유지한 주병기… '反기업' 시각은 부인",
+     "source": "더퍼블릭",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YM2M5SXo2UEJPQU5CbnBiUFZWVXZYaHJLSndKQmpZLUg2YWdmYzRMQnFhZURhdEpTeUxSb0EwQm5lUGp3dkVZbUszT0ZpVGdTX3pSdDgxbUlPREFFRmZtMFpGaUZKLUNMdFVj?oc=5",
+     "published": "2026-10-13T10:16:48+09:00"
     },
     {
      "title": "시청은 주4.5일제, 현장은 공휴일 반납…천안시 ‘365일 개방’의 두 얼굴",
@@ -78,52 +96,28 @@ window.NEWS = {
      "published": "2026-10-13T10:15:16+09:00"
     },
     {
+     "title": "[이슈&논란] \"직원 3명·거래 170억\" GS리테일 '벤더 끼워넣기' 의혹…공정위 \"법위반 살펴볼 것\"",
+     "source": "뉴스스페이스",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBWOU5kUWs4V0c1ODhYQTlzbTNRSFJmMWNJcWcxV0JuOFoxSzhxdFJsT3V4SUFHSGRQRXNNbjI0WjFHRkthQTdQNWl1WnY0bWQ2XzhUa0EwYW1KNFBnN0F5bg?oc=5",
+     "published": "2026-10-13T10:03:46+09:00"
+    },
+    {
      "title": "[국감 '26] '직원 3명·재고자산 0원' 업체가 170억 거래…GS25의 '수상한 벤더'",
      "source": "www.ebn.co.kr",
      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB0MDltZnRza3gxNlc2LUNwNk9CaWVTRU0zc29BRGJCelBfTHJVdl94OTBNMTU0b1ZYS01zZGJIbldieHp5RjZDa1IzLTU3aHJaV3ZRVHlzUEtBRElLRXdtbWcwa3A3ajV6?oc=5",
      "published": "2026-10-13T09:58:42+09:00"
     },
     {
-     "title": "[이슈국감] 편의점, 납품업체 광고비 전가 논란…공정위 조사 확대 검토",
-     "source": "한스경제",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBqUW1ZLUVsNmR1V3JINnBXb1dfZldlNmN5LUIxN0NKSlY2RXdaSkdoR2FKRW9na1hJbnVHZ20ydDBlNWtGdnItSDE0X0t6WFBXMnNqOWFRWWR3WUswS2VxalJQZVNuSldzckhv0gFvQVVfeXFMTk9mcXFqOHBabEdZS1RQcGg2OWJnQW96b1Y0THl6cFdWTnFsZUZ0VElCYTdRWjFPRXVmLU84UElDcUY0ZWxoTWtoeEI4WnVRMldmem5FZFpDQWtZWWNRVnR0SjNLMGxUVXU0Q1RnNkw4?oc=5",
-     "published": "2026-10-13T09:25:27+09:00"
-    },
-    {
      "title": "[2026국감] GS25 납품에 ‘벤더 끼워넣기’ 의혹…공정위, GS리테일 거래 들여다본다",
      "source": "파이낸셜투데이",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBDS00zeVc3X25PbnJ4YnVGcVpSUGVELVotSjlhZ2JIQmNwNmxtaHVaNjZQcU0xX3JXNm9SVVFyZGZXZDJGWWVwNTI4OERxMGxPY29pRmkxM1lKQ1RaVGlDQ2lJcmlYNWZOV3pV0gFuQVVfeXFMTXJIbTRrdElHV3pMeVEtR21oenVkVWxndFJ5OFhEU24zOVRNZ0p6TDlUQzZ1RDBRMWhFMHhhYk5aN2pxR3ZvYmdaWGl2R3A4U1RIY2VGM1ZzMnlKX084RkwxY3FsUGR2OW5SOEVZQXc?oc=5",
-     "published": "2026-10-13T09:03:35+09:00"
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ySG00a3RJR1d6THlRLUdtaHp1ZFVsZ3RSeThYRFNuMzlUTWdKekw5VEM2dUQwUTFoRTB4YWJOWjdqcUd2b2JnWlhpdkdwOFNUSGNlRjNWczJ5Sl9POEZMMWNxbFBkdjluUjhFWUF30gFuQVVfeXFMTXJIbTRrdElHV3pMeVEtR21oenVkVWxndFJ5OFhEU24zOVRNZ0p6TDlUQzZ1RDBRMWhFMHhhYk5aN2pxR3ZvYmdaWGl2R3A4U1RIY2VGM1ZzMnlKX084RkwxY3FsUGR2OW5SOEVZQXc?oc=5",
+     "published": "2026-10-13T09:38:53+09:00"
     },
     {
-     "title": "가맹점주 10%·1000명 모이면 본부와 협의…12월 31일 '등록단체' 시대",
-     "source": "ISSUE ON (이슈온)",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBTUFdESUdNYUQyeDlycDlMWlZQY1JuczhPYkxhMzlPRG9lMEFNVm1GeDROOWJISC0wZFJXdzNtaFJ4bk54VVJadHBYZE5xdHcyc2Z1UW9zNHdvVk1iQ0pnRnNEMFVuMTdZam13?oc=5",
-     "published": "2026-10-13T08:43:57+09:00"
-    },
-    {
-     "title": "GS리테일 운영 GS25 납품 '벤더 끼워넣기' 의혹…공정위 들여다본다",
-     "source": "파이낸셜포스트",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1La0tMdjh6U1FyQ2JXYllkSk5GR3pDcWM3NFc3Z0pTcDdCbGxWNDl4UWpaV042cFFDOXg4UUVZYTRQR1NDelRjV3c2S3ZobjVpSDlWN0FoZEdkdFZheXBuVEFOMV82OEJiTWI5S0E2M3FxWDVs?oc=5",
-     "published": "2026-10-13T08:43:17+09:00"
-    },
-    {
-     "title": "홈플 폐점 반사이익에 본업 경쟁력 시너지… 이마트, 롯데마트 오랜만의 훈풍 기대",
-     "source": "대한경제",
-     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9hQVUyM25NX0gxMmUybG03ZUdaQ2VlRXZlMWtRa2ZSbkdVY3hSaHJIVHBzemt1U0wzZktua0wybGtibzM4M2F2cXlFd1k2eTdjNkh0ai16UUpQcVRXTG5mWlNhTDZKT01XZ0tRVXpVbW1NQTA?oc=5",
-     "published": "2026-10-13T05:20:19+09:00"
-    },
-    {
-     "title": "명륜진사갈비 본사 명륜당 '고금리 이자 장사', 공정위 '과징금 148억·검찰 고발' 철퇴",
-     "source": "잡포스트",
-     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ENDNKeS1Ca2gzdHZraUZLUnVHV0JkZkNEM3ctSHBhNVhzZFdHWjBqbDlCc3VBbm9iRUlmc0Z6cjY1WS16R2YzdUgzOUJMUDFhU1Zja2NrMzlCUHZOUmFGNlZaU0NVamRlWnRqVjRFVzJzZ9IBckFVX3lxTE1ENDNKeS1Ca2gzdHZraUZLUnVHV0JkZkNEM3ctSHBhNVhzZFdHWjBqbDlCc3VBbm9iRUlmc0Z6cjY1WS16R2YzdUgzOUJMUDFhU1Zja2NrMzlCUHZOUmFGNlZaU0NVamRlWnRqVjRFVzJzZw?oc=5",
-     "published": "2026-10-13T02:27:12+09:00"
-    },
-    {
-     "title": "[사설] 정부 용역 보고서도 “마트 새벽배송, 전통시장 영향 제한적”",
-     "source": "서울경제",
-     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1rcWF5eUZRRFY5Tm9pYUFHSF9XWnFuVkIxc1NnczVmWml6THUwM3NDY1VzWkdZQ0w0d2lhcGUyRHFKd2dGdXUzUVdvVkR5VzVMdkZN0gFTQVVfeXFMTWtxYXl5RlFEVjlOb2lhQUdIX1dacW5WQjFzU2dzNWZaaXpMdTAzc0NjVXNaR1lDTDR3aWFwZTJEcUp3Z0Z1dTNRV29WRHlXNUx2Rk0?oc=5",
-     "published": "2026-10-13T00:10:00+09:00"
+     "title": "[이슈국감] 편의점, 납품업체 광고비 전가 논란…공정위 조사 확대 검토",
+     "source": "한스경제",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5PZnFxajhwWmxHWUtUUHBoNjliZ0Fvem9WNEx5enBXVk5xbGVGdFRJQmE3UVoxT0V1Zi1POFBJQ3FGNGVsaE1raHhCOFp1UTJXZnpuRWRaQ0FrWVljUVZ0dEozSzBsVFV1NENUZzZMONIBb0FVX3lxTE5PZnFxajhwWmxHWUtUUHBoNjliZ0Fvem9WNEx5enBXVk5xbGVGdFRJQmE3UVoxT0V1Zi1POFBJQ3FGNGVsaE1raHhCOFp1UTJXZnpuRWRaQ0FrWVljUVZ0dEozSzBsVFV1NENUZzZMOA?oc=5",
+     "published": "2026-10-13T09:28:25+09:00"
     }
    ]
   },
@@ -132,124 +126,124 @@ window.NEWS = {
    "title": "유통 뉴스",
    "items": [
     {
-     "title": "신세계백화점 센텀시티, 남성 전문관 새단장",
-     "source": "뉴스인사이드",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5UdEtGNWR1Qll4Tll5UjNod2xvZ3dPTlBhZlliR0ozb1RhZFNzWHpaZjRHd1N1SlBkSzFNV0ROT01ld29YakZuNmVjZW5qckFfbHNnX0haTjBEMHlZVWt0UTVZX1RiTFhJQUFSOWhB?oc=5",
-     "published": "2026-10-13T18:11:01+09:00"
+     "title": "GS25, 게임 협업 고객 객단가 4배…'블루 아카이브' 3번째 협업",
+     "source": "뉴스1",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBsekloZFVMUFd3UnhKSXZ2THNqZ01NQm9EOEhNWV83eDdWZnZQel9IRFdFdlN2T3dobm50dmhIemluMEcyRUU1X1I5Q29FSk05X3l0ZGpPYkFINlRRcDdv?oc=5",
+     "published": "2026-10-14T08:53:42+09:00"
     },
     {
-     "title": "롯데백화점 본점, 제니와 함께하는 특별 포토스팟 운영",
-     "source": "뉴스인사이드",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9QRjM0Q3pxckY2a0FUOVNpTWJCYlVfRlBCMVR6c1RKeGxyMWVocUFMbUZaeXNTOXQzZm0tSkdqa09JOXV5N29rYjcwREpYejlOX1Zzd3QzSGxubEdvUGdWZVlvNDBqdGRVenh6T1l3?oc=5",
-     "published": "2026-10-13T18:09:27+09:00"
+     "title": "넥슨 〈블루아카이브〉 GS25 3차 제휴, 대규모 업데이트 실시",
+     "source": "글로벌E",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0yUVY5Zld4aXFXWUt0bzJETFJseXBDVUpJUXQwRlhuYm9sT2t6eHJBblItOW9nVXRuNFJVYjNMVDRQLXpsajdtb2V3WmE2MTZZcmpCczZMc3ZrcVJlUGFLd0U1Skpyd0VxbHJr0gFvQVVfeXFMTjRJbDlGeEdBeGVDVkpGbW5pdVNpWlhXX0Y1Sno4RGY0Z3JHakFwcl9jdURyYjR5ZTVCVFNXTnRZaEVFQ0Rtd2F0eUN6RmdWcFA0UUFRYlFHUE81NUlJTmxkSlZCaWF1ci1kTzQwenlB?oc=5",
+     "published": "2026-10-14T08:44:38+09:00"
     },
     {
-     "title": "파주 편의점 진열대에 소변 본 남성…젖은 상품 약 50만원",
-     "source": "스페셜타임스",
-     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBDSW1SRG9TQl9XLUswd0lLaFlNcE4wN3lLRGJyLU1MY0FDSkl4WXh0ZGY3TklJek1ITmJ5cVhDWHEwRGhJa3pMamc5bnpDNVc5V1B5SlNjay1ZdVJNeU16cVRTMURTa1lBdmlralV1MGZxZw?oc=5",
-     "published": "2026-10-13T18:01:30+09:00"
+     "title": "GS25, 게임 협업 상품 2300만개 판매…객단가 최대 4배 증가",
+     "source": "매일일보",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE42cmp5QVFNY3pza0JkbWdpRXNfeEc1dlVqeW1jelIzSUFiNnAzNUxFNkNLc0RFNDRFeWEtUzE4VURyeHZReG96Tzc5VWZIdDBZYXRCZlZYd1FxZDVycW9rUzhFeF8?oc=5",
+     "published": "2026-10-14T08:41:31+09:00"
     },
     {
-     "title": "[국감 현장] 김윤 의원 “시험기간 고카페인 음료 급증…학원가 관리 시급”",
-     "source": "푸드투데이",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjTnRJSTNBMmJoaGRnOGV4VGdCcFNfekhlMkROTE5BSFZ3RkZRSDd2NkE3Ry00TTAyejJFUUZtaHM5dmw3N1l5bGhCcWVfWGhaWU9kS2xNZEdxVmYzNEJPSXRZR2lzWGZx?oc=5",
-     "published": "2026-10-13T17:50:57+09:00"
-    },
-    {
-     "title": "CU, ‘노래캔디’ 3탄 출시...리센느·츄·이븐 노래 담아 K-팝 상품 확대",
-     "source": "코리아리포트",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfUVpSeldCNzlRRmRwWjFkRzB5eUU2R0ZoSGdGVzNNcWFqdnVKM25OdDc4S1hvTDlYNGRfUEdlRW9iSXN2WnM5SjBZZnJabDBCTm1sS1cxVmg3NmtGaGpMemNYUnJnb1VCTm52MGVVcG8?oc=5",
-     "published": "2026-10-13T17:25:31+09:00"
-    },
-    {
-     "title": "[유통신상] 세븐일레븐·동서식품·농심·삼립",
-     "source": "스포츠한국",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE13YTg5V245SHNpYk5FSGZSZG1la3hRLUNiSzdsN1VBU2VhTnVNMzAzLUJ0ZVAtNmFHMnU1RUozMWc0SjVselJmR0NCcUxHaS1uOGJDWFNPMjZZUm9pZHBVS3NWVXRwRkhHR0k1QW9kMnXSAXRBVV95cUxOd21laGw5bzN5R3hSQkJNRWxzVjd6QlZhemptTlVORDR6TF9jSjBPQ1VVM2tNRmZxWjZSX3NhcmR6RkxaLVJXYjJUdVViQUZCQmZZelVXTDRSRW5tYWYzZnVTcGEtTWlqaDFrbjhFcHNkdTBuUg?oc=5",
-     "published": "2026-10-13T17:23:48+09:00"
-    },
-    {
-     "title": "유통업계, AI 합성소비자로 신제품 반응 예측",
-     "source": "아이보스",
-     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9hbTVRd2RPNTVUOW5xZW5Ld2JaSWVLZjZSOHo0aVZ6cU1Kb3lMaHdDYnJvUFNZeDE0NlVJZUpoWGs0U0lVNGVVT25GeFdmbzQ?oc=5",
-     "published": "2026-10-13T17:23:18+09:00"
-    },
-    {
-     "title": "[AI+리테일] 맥도널드, 외식업계 AI 가격 변동제 선도에 성공할까?",
-     "source": "녹색경제신문",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sVnRQQzYxVUV1dnhfN0V3RHhNb3B1Q090OVdIVGZnempVd2lJaThIZjZsNnVZNi0zaHFxZm1JbHpyVGYwWlZmLTJJekZid0ZSVXNzZlhGaEF2SmJWNk8yNU05RHlKTms?oc=5",
-     "published": "2026-10-13T17:12:49+09:00"
-    },
-    {
-     "title": "영화제부터 음악축제까지… 유통업계, 문화 콘텐츠로 브랜드 경험 넓힌다",
-     "source": "신아일보",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9KR2ZHUEp4TC1vZUI4MzFpV0xSQnA3bS1xSTZYZWhvUDlRdzJtWHpvVE5fMEF2OFNPSUNXSEhScTZMcEhTVElYMVNNdTZGZ2hfbF95R1ktWDQwd2JscmhneVhfQU1uMGdSMzhKd0xUR1g?oc=5",
-     "published": "2026-10-13T17:10:00+09:00"
-    },
-    {
-     "title": "이마트 천호점 부지 재개발…현대百·롯데마트 웃을까...천호역 유통 상권 지각변동",
-     "source": "녹색경제신문",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94X256M3luQnc4cGowdVBmY3JiTWlJRkFzQmNic3ktYktxSC1CSlhmTl9iMV9kSTY2bExKeXR1UUN5RERXa05PYUViT2Z6VEU0UjNLQkFod1M2bWtFVlU1TFdGbWFCZjhn?oc=5",
-     "published": "2026-10-13T17:06:36+09:00"
-    },
-    {
-     "title": "\"냉장고 온도 80도까지 치솟아\"…프랑스 마트 500곳 '초토화'",
-     "source": "한국경제",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSYzQ3aWM3TGNTRmtzX2dkRlRlU3lsbGZxUVNZMmR0amFWcE91M09ZYXNGTU9IUWRFb2JUZWVXaFBwaUtkMDZhWGhUSW9qMVQ4QWE4ZGc5SWNOQQ?oc=5",
-     "published": "2026-10-13T17:06:26+09:00"
-    },
-    {
-     "title": "여주 고구마, 전국 GS25 입점…샐러드 3종 나온다",
-     "source": "주간한국",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1LNnE1NjdmZG1TVXJiLVg2VVA1TE0zZzBjQ0R0MEgzMFNlMWpwWDVxOEdieUVrWkZqYjJTMVJMN1poQi1kYWx3eXNHdzRsNjBhb19feE8xTVRXWk9FN2xUY2o2czFOWmM0R21TYkZ6ZTdheDh60gF0QVVfeXFMTUs2cTU2N2ZkbVNVcmItWDZVUDVMTTNnMGNDRHQwSDMwU2UxanBYNXE4R2J5RWtaRmpiMlMxUkw3WmhCLWRhbHd5c0d3NGw2MGFvX194TzFNVFdaT0U3bFRjajZzMU5aYzRHbVNiRnplN2F4OHo?oc=5",
-     "published": "2026-10-13T17:05:06+09:00"
-    },
-    {
-     "title": "[똑똑한유통] 세븐일레븐, CU, GS리테일, 쿠팡이츠, 우아한형제들, 롯데백화점, 에이블리",
-     "source": "에너지경제신문",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1uSkVhQnphYVU5dEhTU1A1M2xiWkN5QlU0NzJ6UzJkSnFWUk15TjRHTkduX0NxcDN6aXg4WFd6dWhEbVRYekJwTXNfMXUwSG12Mk1nRHdsMzJ4ZWd0ZWs4bnJBcw?oc=5",
-     "published": "2026-10-13T16:43:40+09:00"
-    },
-    {
-     "title": "[2026 국감이슈] 농협하나로유통·농협유통, 5년째 적자 늪…적자 점포 비중도 확대",
-     "source": "뉴스락",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsdXJxRXU5QkdiMS1PRFNsdUJ5TWVlamVxY1cwT2hqaDFXMlU5TzFUWV9BSXhmY3pkbmc2ZU9ocHVfX0VwTm1ud3lRZHNrMFlRdmFtM1VVdmlLc01VWElNT1phb185ZDBvRV9yUA?oc=5",
-     "published": "2026-10-13T16:42:38+09:00"
-    },
-    {
-     "title": "“진열대 앞에서 몸 부르르” 편의점서 소변 보고 도망간 남성",
-     "source": "중앙일보",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1udGVDRDJmcHZUd3RtTnM4cmVkUThRS3RCNmo2cjY4MDh0NjlMNkYyeHVYZU1NRTdfajh0VWp1eHVrSkd0NVhHSURNY3Y4X3IzdEtRTWRB?oc=5",
-     "published": "2026-10-13T16:37:18+09:00"
-    },
-    {
-     "title": "中 국경절 유커, 편의점까지 몰렸다…외국인 매출 최대 91%↑",
+     "title": "넥슨 '블루 아카이브', GS25와 3차 컬래버레이션 진행",
      "source": "아이뉴스24",
-     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBlVjdPb3l2QVYxMWkwQXpIOUV2SWZLMWV6cVRiekc2Sko1b1FGR3NhRG1fbnZJbXQ4SUMzYld1OHhGV1FVYUpmNW9XUQ?oc=5",
-     "published": "2026-10-13T16:36:17+09:00"
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5CTGdkYTNWQUpHNXhfdE5qbjhPZmlCOFR3TGZZSlZtTU10bjUtNGVhYTFYUU9sMzdCX0QtS0RjRUZhUERzYWZ0bUhMaw?oc=5",
+     "published": "2026-10-14T08:41:09+09:00"
     },
     {
-     "title": "[편의점 업황] 10월 2주, 국감 논란 속 특화경쟁",
-     "source": "센머니",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YSjY4eXFhMHFTMXVaT0hPc3VNSkUzNFBVYnpPYXdkby1xV0dnbXNrcUtKMXQ5SGFJX2x0ZjBFRk8xQnhmVDEzei0wdEt6S0RJZ2czeTNSU2JxOWJuOV9VSlpUNEtYX21SWFFwTA?oc=5",
-     "published": "2026-10-13T16:29:01+09:00"
+     "title": "글로벌 확장에 규제 강화까지…유통업계, 보안 조직·인력 확대 분주",
+     "source": "데일리안",
+     "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOOC0yeGc4alRhUDUyU2x6LUxOOC1sbndvSlY0YnRELVBKcVROR3pwNEFZS1FMNmh5Z3BPS3AySlRUcTBZdV9Pb2YxbEFFU1ZtQWZWZ2lyZ0xZZGt1MEx3ODI1VkliWWY1elNBbGNJalBWRFhDajdGLThLUE9fYmpnZTFoMzFBV3VIRkpSQ1c5TWdvRTU0aVZwSUZQekZXdkFxc3VzR2V4dWJuUnladk9BNndwOHlHRkU2R2VPVnJVNDYzeHBaNlJwbEkwdE9mUTVEbjF0M2stcEM5Vm9XajVUN0h1MUpsdXFJa3I1eDlPZkFhNGgzMGdLT1hqMnFJSlE4N2dLaWY0NGNGN3ZwMWVFWXZBR3M1NFB5d0tqVmd4UEtHcVE?oc=5",
+     "published": "2026-10-14T08:40:00+09:00"
     },
     {
-     "title": "편의점 상품 경쟁력, 외부 콘텐츠∙생산자 연결로 확장",
-     "source": "한국면세뉴스",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4yb0l6cExUWXh5RHd2c1RscGVZMEp5N0RqRlpRd3ZPZnNzWHpLR1pWd0dQRkFFUUdKR29VUzFJM3drMWZSRGNIWERIQWkwa3l1N3pwanZ0LTkwOTRyT0FJdDA1N2p3SUVq?oc=5",
-     "published": "2026-10-13T16:08:10+09:00"
+     "title": "GS25, '블루 아카이브'와 3차 협업…전국 팝업스토어도 운영",
+     "source": "매일경제 마켓",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oRlFmSDNxbVRUaEctLWp3SHVvbEtGeFRFajBNUndReGo0QzZNdFBacG1la0ZGR3BScW5qb091eW4xclJOQi1vYk9DVjM4NVd6cnc?oc=5",
+     "published": "2026-10-14T08:34:33+09:00"
     },
     {
-     "title": "50도로 달궈진 냉동고…프랑스 마트 뚫린 날 \"AI, 곧 가전제품 점거\" - 머니투데이",
-     "source": "머니투데이",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1OTWpSb2dwYmQ0NjZna0I3bGtCUmJoaHhVVFJUU2YxQlZCbWRhdXJYdGMyOC1UOEFQSW1Ib3pYNF9nUGJvT25Lb2dJRzBDWEJ2anprVTVmNVdIMHNSM3o5aFRHZEQ5UTgtQjhlTTJR0gFuQVVfeXFMTU5NalJvZ3BiZDQ2NmdrQjdsa0JSYmhoeFVUUlRTZjFCVkJtZGF1clh0YzI4LVQ4QVBJbUhvelg0X2dQYm9PbktvZ0lHMENYQnZqemtVNWY1V0gwc1IzejloVEdkRDlROC1COGVNMlE?oc=5",
-     "published": "2026-10-13T16:05:54+09:00"
+     "title": "GS25, 게임 콜라보 상품 인기…누적 판매량 2300만개 돌파",
+     "source": "더팩트",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mZjZncnBWWFRIV2pfYU1pQlpVSU1rSEEtRDNLaDBoR05HN21ETmVXeWhoV2lZelh5NUlvamswSTJWcWludEt0RV81U0ZhQURCSlItbzEydmF5UdIBVEFVX3lxTFA1ZkRsMUY1eVJkWDRhakUyOVoyZUVtcFVhS1NzUVVzXzdSSGR1eU5hMGZkcGxQZGJTeS04blQxSWw4X3IxMmZ0clJXa3ZsVWxlUlFkUA?oc=5",
+     "published": "2026-10-14T08:31:32+09:00"
     },
     {
-     "title": "편의점 진열대 향해 ‘부르르’…CCTV 확인한 사장 ‘경악’",
-     "source": "헤럴드경제",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iSWItTFd0d2ZpTk8tZ2RFV0VXUFItTmRJOXZuUVVHU1hoU2VWSFV2WmZMMVFrMjhBRXlNUDlNVmRtMllGSEMxN2N0VlZWOXp6cHMxSUJ3?oc=5",
-     "published": "2026-10-13T15:54:53+09:00"
+     "title": "편의점에서 방과후 디저트, 블루 아카이브·GS25 3차 컬래버",
+     "source": "월요신문",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9rSWZ4bERhT041R1BqakpmTDRmTkdSc3k2V1E4b3R6b1ZSNmZFelBnbVI2WDd5aExWcG9NczEweVNMcG5LQm01RHVfZEhmYVRTbXJyLV9lX05NTEt4eEZ3MFYtQktoWE8tTFE?oc=5",
+     "published": "2026-10-14T08:30:00+09:00"
+    },
+    {
+     "title": "GS25, 게임 IP 협업 상품 누적 판매량 2300만개 돌파",
+     "source": "아시아경제",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96c2thS3VvVXFrallPUEwwVWthSDhKazZ0S1BpYVZzeHJvMjFUNGNNSFVadG1BdUVJRXR0T0hVSnFrSmI1OHltQlVlXzRPeEtHY1E0M19wNWl1b19FYTVrRg?oc=5",
+     "published": "2026-10-14T08:21:59+09:00"
+    },
+    {
+     "title": "블루 아카이브, 세 번째 GS25 상륙 돌입",
+     "source": "ER 이코노믹리뷰",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1uNjhCMGZJSzFKUWMzLVZTbnAtUGVGU2dLUHNGYzBRQVJ4ZzBEa0JhTm1GVENEb1pGX2hhSkM4VS05ZFFpZkdZUk5TSzFGT0YxLVhDTi1JN3hHenJIZTVIczBhZy12RFRXcThvOA?oc=5",
+     "published": "2026-10-14T08:21:05+09:00"
+    },
+    {
+     "title": "블루 아카이브, GS25와 3차 컬래버레이션 실시",
+     "source": "베타뉴스",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9fX3pER05EWTZoUlZTby1CRmtxaGFVbDVaNjVOUjlVaDFZdFd0VWxXeGdXWUJvc3BlRlBmUnlTNFZwMjhiTjJ3ZXFlaTlGbTZjOFpYWmpMSDBpYmxVMXpfRkd5ejg?oc=5",
+     "published": "2026-10-14T08:11:01+09:00"
+    },
+    {
+     "title": "삼양1963, 20일 日 세븐일레븐 출격…국물 라면 라인업 강화",
+     "source": "더구루",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Zd1FMd2QyVXRldXlZb2prTGkxUHRzRjFtTi1RRTRNQm1adWJkY0pDQklCZGtZNFJwYVBxZGs5RDMxTTBsYm8wUFZtUTBhd3NnSnFSZ1BVaVZ5NElON1RRYkhJNA?oc=5",
+     "published": "2026-10-14T07:59:28+09:00"
+    },
+    {
+     "title": "K브랜드 해외 판로 여는 유통가…팝업부터 글로벌 유통망까지",
+     "source": "컨슈머타임스",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KRXJWQ2FyMkVXb0xfR0RNZXo0LVA4dG42UEhpdGd1M0lnTDRUb0FZUXVHVW16STF1bTM2OF9hbHhCbllmVjRlc1EzakVPdjZCQmY0YWlON3AzQy1WX0xMbU15NTd4OTdTSUE?oc=5",
+     "published": "2026-10-14T07:51:07+09:00"
+    },
+    {
+     "title": "GS25, 게임 IP 협업 상품 2300만개 판매로 팬덤 마케팅 강화",
+     "source": "뉴스후플러스",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5yY05SNlFOWlIwZzNPd29Jc1ROaXhfZnJaaFYtMEF4RjRSLU1oMjQzSlBqVlY0SnkwNlNNc1p1Z1BEVTFhTHZnRzdqaXQ3NEJxbEJjNXJvRll6Z01XRWkwazlIdTJuNzFQakVVSURR?oc=5",
+     "published": "2026-10-14T07:47:35+09:00"
+    },
+    {
+     "title": "[10/14, 매경부동산 추천매물] 오산시 7%대 본사 직영 편의점 7.5억 등",
+     "source": "매일경제",
+     "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9QbDFmVHVvYlY3dDNEN3B2NHFjcVVKb01fd2NVbWQtUjR5b2VwVlpKZTBQSmlxcHdaM3RFTHlLRUFXZTB0NGc?oc=5",
+     "published": "2026-10-14T07:19:55+09:00"
+    },
+    {
+     "title": "GS25, 게임 IP 협업으로 객단가 상승 효과... '블루 아카이브' 3차 컬래버 진행",
+     "source": "팝콘뉴스",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5uc2pNd3Q4ZGxJSUxQSjVmUEY5WWJrUnh3bzBaNVhwbXc4VHFkZWNXWTJwNm1qZ1VJbnUwem5wTGpLLXRrM2owM1ZNUmprb01RUHB2ZWJvM25lLThZZHdwZUhKLUlKSFJPaHEyV0NDY3hLUdIBckFVX3lxTE5uc2pNd3Q4ZGxJSUxQSjVmUEY5WWJrUnh3bzBaNVhwbXc4VHFkZWNXWTJwNm1qZ1VJbnUwem5wTGpLLXRrM2owM1ZNUmprb01RUHB2ZWJvM25lLThZZHdwZUhKLUlKSFJPaHEyV0NDY3hLUQ?oc=5",
+     "published": "2026-10-14T07:18:07+09:00"
+    },
+    {
+     "title": "GS25, 넥슨 ‘블루 아카이브’ 협업상품 6종 선봬...굿즈 증정·팝업",
+     "source": "싱글리스트",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9wX3NoeVJqTXY5Tm54N3o1eFRubXdTMUdGVEJLYThKMjRvRVZjQWRvZlVvcTAyRjZsTG4zWEUtX0pORzQ4eGliSmNKdWVvUDc0QzFablVXQ0w3MU9VQTZpeHFRZEw4dw?oc=5",
+     "published": "2026-10-14T07:01:20+09:00"
+    },
+    {
+     "title": "앱 ‘재고 있음’, 매장은 ‘품절’…GS25 반영 시차 최대 10분",
+     "source": "스마트투데이",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1GaGRuaHZaQjNqcGJZR2xmSUF5V1B2ZUFPeHNNeFR6eUpGWkRuanlQTDdlTm55d2g4VlhZdk40UFZGTURPNFNkVmxITTNUck5XTUNZNlpSSUc3a0ltNFN3?oc=5",
+     "published": "2026-10-14T07:00:00+09:00"
+    },
+    {
+     "title": "의약품유통업계, 2026 세법 개정에 '승계 비상'",
+     "source": "의학신문",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZM2RvNnVmSHlnV1lsM3YybGZiM29HS2tEd2d3LUoyaUFlZHNGSGVTazk5eE1EVnowQ1ZGLWxfdk9fcU0tQV84aHZQN0FpYmVna1BuUzBDdEF0MkVyTVcxNmZXOUY1VGF6TUE?oc=5",
+     "published": "2026-10-14T06:00:00+09:00"
+    },
+    {
+     "title": "새벽 편의점 진열대 앞 지퍼 열고 '소변' 쪼르르…상품까지 다 적셨다[영상]",
+     "source": "뉴스1",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9vaU1QUk9zSTJ6bUdmYzBlcU9XbWNjajAzbF9pWEF2cWpJMGhYd2RtcXdHQzM4OEtDaHBicERkR2lVYzdIRW4xRElsbXhUSmJUeEd3Q056ZUdzaDRIRWZ1UU93?oc=5",
+     "published": "2026-10-14T05:05:00+09:00"
     }
    ]
   }
