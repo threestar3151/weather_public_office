@@ -1,10 +1,88 @@
 window.NEWS = {
- "updated": "2026-10-18T16:52:31+09:00",
+ "updated": "2026-10-19T07:41:53+09:00",
  "sections": [
   {
    "id": "law",
    "title": "법·제도",
    "items": [
+    {
+     "title": "'기업하기 좋은 나라' 외쳤지만…규제완화 입법 후순위 - 머니투데이",
+     "source": "머니투데이",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82WUJJelRJRmJsZnJvSVNEMWk0RVdNMWlUX3dvdUVnYTUzSlhPTGU0MjdyV09TR1VMVFFlbGxJNkkzMDk0X255ZFV4eUlNMjBTZTctbnJhaXg3NkoxM3dlSVg4RTFUX0oyajd3VVA0WHI4clQxMnVZOVFZcVZ1dnfSAX9BVV95cUxPNllCSXpUSUZibGZyb0lTRDFpNEVXTTFpVF93b3VFZ2E1M0pYT0xlNDI3cldPU0dVTFRRZWxsSTZJMzA5NF9ueWRVeHlJTTIwU2U3LW5yYWl4NzZKMTN3ZUlYOEUxVF9KMmo3d1VQNFhyOHJUMTJ1WTlRWXFWdXZ3?oc=5",
+     "published": "2026-10-19T06:15:00+09:00"
+    },
+    {
+     "title": "[기고] 가맹점사업자단체, 등록만으로 끝나지 않는다",
+     "source": "신아일보",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE85a3RHUWRybXFRZE9LZUVhNkZ1R1liUHIxZ0taOEFobnE0bFZOODRJeGdodDcwdU5KSk5lQUJjVTdmTHFRdElGNDlDZ0Jjb0R0UHVzOWU3Z3U4X0Q5U0VESEZJM01UdzJhRngyU2ZUMU0?oc=5",
+     "published": "2026-10-19T06:00:00+09:00"
+    },
+    {
+     "title": "택배노동자들 3천명 \"쿠팡, 사회적 대화에 성실 참여하라\"",
+     "source": "파이낸셜포스트",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE42U0xvQlhYSWFSOVRCT1lHTGExMGxTQlZPMTNCRUdOVHVPN0dicmVPNnd1RU1RZ2tSU2V2c2lkUlFGLVBoeC0ybGZXczEzT29YQ2oySlFyRkZhYUZCbjctM0V5cGJiamppbUhPWVZlV3BPNzFD?oc=5",
+     "published": "2026-10-19T06:00:00+09:00"
+    },
+    {
+     "title": "[단독] ④ 메가커피, 가맹점 현금 선입금에 미발주 굿즈대금 차감 의혹",
+     "source": "뉴스후플러스",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBEaXRVc3ZrdEdVWjBDbEVLcDF5bS1uTjhOVFBOSDlNc3pzVWJKSW15Z0hfaDZxSWUyTEp5OWlnWG8xSGhkcV9SNU1ZS09QMm5NRlhfMnhjNFhOeHBWSVRfS2NWOG4wTGZpUlpramt3?oc=5",
+     "published": "2026-10-19T05:00:00+09:00"
+    },
+    {
+     "title": "[사설] 기업 환경 개선이 곧 경제·민생 회복이다 - 머니투데이",
+     "source": "머니투데이",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4wc0lEMU84NHJuWjFIZWVLN3djb2NOZGJUSkNZN2VUOGFzN0F2YUJRcnlRTFozS1FjN0hIdEJ2b1FxeUpsZW9OZWdvTUhxcW81YzFEaGdfRmdkY2hhbnBoc09sa29fRlNQSW5ud1VubkTSAXBBVV95cUxOMHNJRDFPODRybloxSGVlSzd3Y29jTmRiVEpDWTdlVDhhczdBdmFCUXJ5UUxaM0tRYzdISHRCdm9RcXlKbGVvTmVnb01IcXFvNWMxRGhnX0ZnZGNoYW5waHNPbGtvX0ZTUElubndVbm5E?oc=5",
+     "published": "2026-10-19T04:05:00+09:00"
+    },
+    {
+     "title": "[2026 국감] 편의점 광고수입, 점주 몫 1.8%…납품업체 광고비는 20% 가까이 늘어",
+     "source": "알티케이뉴스",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PSTZWcWJsQlJpMXpSb1piY2JfTjN1YWZUaENQcVA2ZVpQUGtEVGhXTUl0amZiWXZ6a24wdHJBNjFRUmxXRnhlNGdVTU5FNjRMTUtZSWlEQ01FYmxOYnQ5UEFIN0FSTTNUMnlBaQ?oc=5",
+     "published": "2026-10-19T02:54:19+09:00"
+    },
+    {
+     "title": "\"편의점 하루 176만원 팔아도 月 순수익 230만원…그냥 알바가 낫다\"",
+     "source": "뉴시스",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wY3EyY000MU1uTEZSM0wwTDN2S1lHOEdGN0NGcU9LS3psSTNadmZpOE0xeVl6T293aTUtV0NjQlBuMEJGWm4wamF0S3BERUJsc1Fab2QwV1pLa1NQbFpEdtIBeEFVX3lxTFBCR1NXSzhyWTNwUmFmeVVocVFZbnlEWFVmT0gwR0ZkZTZYTV9QcTFmUFRzR09YU2t4bDFNdm1sSzY2eXVHenJoUmRiWG1vbkVhWU44Z1ZLbEs0YWVPeDBIVWhHNkdjQUxPc1dNTnNGMEFSQU9GME13dw?oc=5",
+     "published": "2026-10-19T00:00:00+09:00"
+    },
+    {
+     "title": "택배 건강권 논의 1년…쿠팡 불참에 제자리",
+     "source": "중소기업신문",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5RVEpnaUxmRDhuV0hUVGtnSC11OVFvZkpaZW5NZTkyQVJOTjEwcDZXcWVIOEN1NXB3UHBBOTRqSUN4UWJ5RlA3bmVXTUtOdHlZenNvZHZHVktzbUhDR0lKQ2lnOUwtN1hlNkZscQ?oc=5",
+     "published": "2026-10-18T21:50:48+09:00"
+    },
+    {
+     "title": "도움말의 제한 조건을 따로 읽는 선시티 카지노 주소 참고 안내",
+     "source": "Calgary Roughnecks",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUUJUYmZUY2pub0NfS3BjR0NxUUVnLUhyNlR4RTJ6U3dlTS1LZVA1RzhRNHFsYTFmdTNuT19wN2lkeHVjTHp2MmRSRUpUeUZRNlNlSklZU2hKTVZ0cE05SmkwRHhoYWNfbzRZa2hoNkFtRnZvbDJSU3cyZk5uLTduS3pkNF9LYk95cWowR2lHTjJYRERjbzh6Si1PUnZMemVDaUdmRDRvUkg5WU1vWU5OM0std2t6eEdBUkl3MkNGUnk2Zw?oc=5",
+     "published": "2026-10-18T18:18:04+09:00"
+    },
+    {
+     "title": "대구·경북 최저임금 위반 신고율, 6년 연속 전국 최고",
+     "source": "경북일보",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBDam5iSlU3WjVIOVgxXzRGR3p5czZ2LVViRGZXc3FhT01DLVRpTFZCSUtHdmZpVGhjeXdRSlZLM2ZtdVloWU83Y28zNmpzWERhd3dpLWJuSF9RT0w1ZDIzVC1uSTViX1U1dDA1ZmJ2WQ?oc=5",
+     "published": "2026-10-18T17:14:12+09:00"
+    },
+    {
+     "title": "택배노조, 숭례문 집회 열어...쿠팡 측에 건강권 사회적 대화 동참 촉구",
+     "source": "생생비즈플러스",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11ODdBUXNhZVBQNHlLZTRvUXllcUZUX0xHQlNKNm9HSTc3bnJjTm5xU0dEbThRdU1mejlUemdwcDVnbm5DZnBDZHpSLU5FSVJoSTNIQzZHRFNsR2g2YmU3bkhZTWxXQXZWVUZYWA?oc=5",
+     "published": "2026-10-18T17:04:39+09:00"
+    },
+    {
+     "title": "순서대로 따라 읽는 벳호텔 토토 한 판 설명",
+     "source": "Calgary Roughnecks",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBqN1c0UXBrNEt2aElCbUNUQjF5V1dTVTlHelFNekhHYmIxeTlTNUFPcld6cVlOWGthQ19MV25vMEhqWlJIV0x0Tnk2NWRRV1FUOG01aWx5bG1aVWh3a3VfZ1dLQmFRYk9kaEJZUmFB?oc=5",
+     "published": "2026-10-18T16:39:37+09:00"
+    },
+    {
+     "title": "처음 이용할 때 바꾸기 쉬운 바카라 뷔페 기본 설정",
+     "source": "Calgary Roughnecks",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOc1p1MFVMVERaM010cnJlNFdaRTNabnczZmY0UDVTbERMM1IwZTUtaWlsZzRSdjB5cXJONlF5cWR4a2pDQU14UkdpZnF2UHhUVHdzMmRlLXctLTJfT250UlFGNG5qakxvLXAtaEZmWjlEMTYxZU9OQU5Ra0hSNURiTm5oSXV2SHh1MUlwbkN4Y3BQWVVoaFVvbEZiRWZ2ZXdMcEU1SmZ4TGZMZw?oc=5",
+     "published": "2026-10-18T15:38:40+09:00"
+    },
     {
      "title": "[2026 국감] 재고자산 없는 벤더가 5년간 170억 납품…편의점 '통행세' 의혹",
      "source": "알티케이뉴스",
@@ -24,70 +102,28 @@ window.NEWS = {
      "published": "2026-10-18T11:39:46+09:00"
     },
     {
+     "title": "블랙 썬 바카라 도움말에서 자주 마주치는 표현",
+     "source": "Calgary Roughnecks",
+     "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNNDdfa2FlNFhWeUFaN2ZDZ1FCTmNMWTh4dGJUeVl2MGEwaGZFZFVUTkR5VEptdU1jZ2U1SVh0THFzMGdnYzhBVzJfZmpJQV9HVk5HSWdiS28yMTJRekpwTTZ6SGk0cEVqN2tSbERrdUpDSlVaY240Z3FuUUc1c04xYVQycnhwYUZBOE5rc0dVcWQ5d1BmSzVDTTkxREZ0b3VhWW1OUUdCOGU4aHdCTEp1WGlpY0xPZ2lfNlFBcVZNWUtfTzNvQ2FYd2RERDJGZ19xdmJaTmJuR2ZlV0stcHFTc2IyVkhMQzA4NnRSQWgySThFTHBKRTFkYjJ1VFU2WWpn?oc=5",
+     "published": "2026-10-18T10:54:39+09:00"
+    },
+    {
      "title": "어떤 항목이 게임 규칙에 속하나요? 뉴욕 카지노 호텔",
      "source": "Calgary Roughnecks",
      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBROEJlQzJjV2FkZ3haVE1reEVScWhweFFYYkVJMkFjVGVHWm5WU3I4U2g1MkZiWGxNQ0JqV19KZlhHS1VGWWs2akxxMUxCclRtd0FtUlFKc0laRGxTOVV3dWxDeUZvQUx0ZzhMUjdkcTdwUWRUbGc?oc=5",
      "published": "2026-10-18T09:47:19+09:00"
     },
     {
-     "title": "[대형마트 휴무일] 이마트·홈플러스·롯데마트·코스트코, 오늘(18일) 문 여나",
-     "source": "싱글리스트",
-     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yQ3pRVEtHMmFuLWFOdU1MVGxUR3F1NXNEdVNjYzN0Sk5lOVQtN2tiR1duanhROGxhWTdoXzlfYWpxVkFjcFY4T2Z1YU1ialFhckRLYUo3dTBMOE92aDZ4dFB6TnFGQQ?oc=5",
-     "published": "2026-10-18T07:00:15+09:00"
-    },
-    {
-     "title": "비슷한 보너스 이름을 구별하는 한게임포커클래식 bj 용어 안내",
+     "title": "영화 평점 사이트 의 모든 측면: 장점, 단점 및 활용 방법",
      "source": "Calgary Roughnecks",
-     "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNTkthVWNfbmlsemZBb19iSE9tbU8yMlpCdzFMV3hJaEtLUmMyTTlTQlNESzVCblVIUks4cy1RRnZaOTliM3lkZlYwSldJTGNlRlJmRlIxbTNZMzFYZlpxQkVIN1I3ODg2dU0tSkYyZnJ3STQ5OFNvUFpQOFhPR0F1SG9zMExMbVRIMzBZdm5jSmJmSFJxTm1BX000a2x5YlhQV0xadGhrOTlWamR3R2pNV0w0Tkd1T0t0QzVwODRKM2x2dDNZM21FZ2htRXBjMnoyRVpNbnVzck5BNXh0ZDktOWpBYXhfb2c3SXdOa1FGM3VnTHFrbm5RaHhfVVdEcWFWcGNhYjJkUzg?oc=5",
-     "published": "2026-10-18T03:39:26+09:00"
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zRnprLU1pb2Jrb2ZnanBWeUgxSklqX2lmRVZ6X1hxRFdQX0RIVlRvWGxOT3ljTTBKZldqcXNCWjQtRHc1VUlYTVZBeGdLZ2k0Q3IxN2NnN19kbGJ2U0hoOUFTNTYwMTRyZmdERWhHMU4tamNxbmc?oc=5",
+     "published": "2026-10-18T09:42:32+09:00"
     },
     {
-     "title": "영주권 도박 베팅 한도 표기 읽는 법",
+     "title": "과천 경마장 입장 방법 배당표 숫자의 기준 단위",
      "source": "Calgary Roughnecks",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVVVfVW1SWC1nTWF2NEhEOEVHal9EZWhsTHI4azlfTmFhRjB1TDFkYjZHekY0anRUOExtX2pXdXdSR2JOVVZOZDZFT2JRWHdyR0k5X2stMjF6TlRveXNZb2VGSmdjZE50SERWYzcwMzl4S2N4ZkphdXlDdGdGMWpjLV96QzdKRXk2VzZWTEtsc0JJN1JXbkx6cHk3ZnpFdUJlZDdKVTFOVzVvQQ?oc=5",
-     "published": "2026-10-18T02:36:29+09:00"
-    },
-    {
-     "title": "한 판을 따라가며 익히는 제주 카지노 내국인 기초 규칙",
-     "source": "Calgary Roughnecks",
-     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUW43dkk1akt2UTNjZFFqWDhUYWhtRXJPMmUwS0Judkg3T1ZkLUhtVG9FRDQwRTJFU0lGM1dGYVQydkhRR2Yzbl9NWm1wNzQxY0x4Ry1SQkhrb3Z5bUhsNXFtZ2laYVRXS0M3MkVjSndLcVBHNG5VSEd1c1I0SlRqVGFZajFDVndWWHVrMENDUVZBZkJKSGJVQUN6NE13VUExT2tYWTczT1A?oc=5",
-     "published": "2026-10-18T02:15:03+09:00"
-    },
-    {
-     "title": "시작 전에 용어 세 가지부터 익히는 농구토토 w 매치",
-     "source": "Calgary Roughnecks",
-     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMnhDeXIxRFBydGFOdmdnbEVnWXB1TzM0czNCNEpuUy1MUDlSeU1VeHI5cjd6R19rblp2TWd5TmhHdmhWd3JIQ0d0MGlkVjR5QXFyZi1PbENmWmtoUk1ZSXJ5MkVHQjRFcC1vRTdyQ1BaSEh6dHpLaTA4RVZmbXdnaTkyRVBlM2hCZUNuTFRqRjZfNVp6WWt3VVpVclBKWDIyRV9xMkh0a3hRWl96cjdNVEJDdXRTU3hYdXRlX21ySFl3RFU3S3VST25JdVJIUk9hQVVsalZOS29rSVU?oc=5",
-     "published": "2026-10-18T00:49:39+09:00"
-    },
-    {
-     "title": "응사이트 - 업계 전문가들의 조언",
-     "source": "Calgary Roughnecks",
-     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOcTVleFJGNTRZYXpwWm03WFgzU21qb1BmS2I3RnBXT3htM3NQOV9yZ3NKU1dtSHpELU83RnJMbE5KUXhsWWszdGEzOGgtYUVyN2dOUWtIZFRwMG1UcUNfTFgxbmNXeDZOdmt0N2RrYlhLYUUzYTB6TVUwSFV4WFZ0YzJXa3FTN01MOE1IZXlYRmNkYlczN2EySkRQdXlSRERYdHJoaUl2OEZPZ2ptbE4wVVRjaG1FZzZ4blVtbk1tbEpCQ2JQR0NsYXVHVzItTW9Vbm8tQV9KZFBLZmhtcGtLVXA5LWo?oc=5",
-     "published": "2026-10-18T00:29:24+09:00"
-    },
-    {
-     "title": "대형마트 휴무일? 이마트·롯데마트·홈플러스·코스트코 ‘할인 장보기’",
-     "source": "BNT뉴스",
-     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9DZlZMNFh5Z0QxYVNidHN6X0ZuN3I5cnhwU0V2Y2h3Qjl1YmVGcVRaR2VYVllqWDVvTERJemlobmtFaUFHV2IwSWU2cnZrN0FHd2h5M0tfZUlGaEkxVVBRd1ZoYl8?oc=5",
-     "published": "2026-10-18T00:01:02+09:00"
-    },
-    {
-     "title": "롯데마트 이마트 홈플러스 대형마트 휴무일 오늘 문 열까",
-     "source": "뉴스클레임",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1oVlQ4OUczQkFyeF84TkFLdEhtbW92RHRBdHNjRWM4TVpabGsyejZWVURQcTdCWGExRGJqR3JCUkIzdUpSalcxaUgyZTNPckdxRWFsZnRzdW5HcHJFdHZLVTdXd2xCV1RzalhkRjUyRDTSAXRBVV95cUxPTC1GQl94LS1tY21heEFUR3ExSktlbG1WTnhEVDZnUUNUZ1Yyb2g2Nmtib2xZZGZaVmg5dy1yUUQxNTVOenZKV0pIQmk3aFY0UVJlTVJ1OERjWklPRnVrRWxrVzUwRVM0ZTNjdjc3SmxQVVBteA?oc=5",
-     "published": "2026-10-18T00:00:00+09:00"
-    },
-    {
-     "title": "편의점 김밥 영양성분 고려해 우유·달걀 함께 섭취하면 좋아",
-     "source": "대구뉴스",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6b2ZIb0lIS2RNamF4bUpnbEUtV3pIemYzSkJkeFhMNXJxQ1dsZ3JtWWZkaHlNbDc5REp3d25KeDA2QnlBcVpvN3NEMGlnWHJLLVAtTEg4Mm45QW1LcjhLdU1zNVQzMXly?oc=5",
-     "published": "2026-10-17T22:46:29+09:00"
-    },
-    {
-     "title": "게임 규칙에서 숫자가 중요한 부분을 찾는 온 카지노 먹튀",
-     "source": "Calgary Roughnecks",
-     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBnOTRsTWdiWm1ocy04Z2hzV3V1OE4tcC1KOUhsbjJoU0Mwb0ZySzZ0S2poTzVoQVpRQ3J5RGUwZDFOa1c4NzQ4VlVpUUNaWXBTc2tnQm5GdDctTS1iOEc3VThOWWlCTG8ydktPeEFBRmhwZVpzbDlIMWpR?oc=5",
-     "published": "2026-10-17T17:54:43+09:00"
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1YNUZ3ejhhV1h6M2NwTmUxVExpc2xJaHZtdEM4T1pDcUpGWkUtc0t2VXYySHdTSVRZOHNBZENoZFUzNktoaWVpWGlpM2dsYTBMWHUybTdMXzJDcGw1dkFqc004clhkWHBQMnEw?oc=5",
+     "published": "2026-10-18T09:20:24+09:00"
     }
    ]
   },
@@ -96,124 +132,124 @@ window.NEWS = {
    "title": "유통 뉴스",
    "items": [
     {
-     "title": "[부동산 포커스-저가커피 한 잔의 가격 뒤에 숨겨진 20가지 사실 ①] 문 닫은 가게는 왜 보이지 않을까",
-     "source": "시사의창",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9YdFlDcGpDTkppalFsWGxKSFpXUWtlMkxPTG9lWEJwZTNqTzdPaUZ0Sk5PcHpzdDlEamZ3Y1JkV0pLR0NBWm9OVTBpUlVrRmhVNTF3Wg?oc=5",
-     "published": "2026-10-18T16:47:28+09:00"
-    },
-    {
-     "title": "홍윤화, 40㎏ 감량 뒤 영양불균형 고백…5㎞ 맛집 러닝 도전",
-     "source": "한국사회복지저널",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Rd2w2eG5MTzJ5RjE0WU95TTJrZ0J3MUVINkZpRHlfMmQwRHZGSjFkUXJFeDRMR1l2Yzdxam1tWEVwZUVsY2ZKNUVLeEhEYXp4azU4WUFYc1lpNGgxelo3VG5hYVdmN3VPNHZv?oc=5",
-     "published": "2026-10-18T16:46:42+09:00"
-    },
-    {
-     "title": "화장품·패션 10배 늘렸다…이마트24, H&B 특화 편의점 첫선",
-     "source": "이투데이",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAwQ1AzTEhUWWU4RDFkUUs1dFE4ZDZNMDhEZ0VkSlktdjdTS2o0WmlZeDNRRHRWdGtRTjd1WC1VeHVjbVl0ZGIwN19JNjVOTGV2S0VfQ2tvUEJ0aGdaOWp3V05jUVFaeDdncW1MTnNn?oc=5",
-     "published": "2026-10-18T16:04:00+09:00"
-    },
-    {
-     "title": "패션과 러닝 더한 롯데百 스타일런, 올해는 자라 손잡고 성료",
-     "source": "한국일보",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9hTlhRdXVORU1vWVIxckJ3YmZQVlU5RFVHRWhZNFo0Vzlpc2NJeW02N25Ed2NtMHBnOG9TRXRzZnlGdVhIc3FHMTRTSTJWYXQwVkRKczRkRnMyQUV5MGFGS3NsS2JKdUVvTmlxTkFn0gFzQVVfeXFMTXNYeFZVTDM1WmdZTTdzWUlmMTZBV0xENzJsZjdnY0pDcGlsZWQ2M0pYNWZhdDl4Z3REd3ZlTDRMdlhoUkVOZmJvQ1AxcTRfNlhXLXJFckJLeHM4ZXVnSUw0a0kxMktfWjlVX1pCLUUweG5mUQ?oc=5",
-     "published": "2026-10-18T16:02:00+09:00"
-    },
-    {
-     "title": "日편의점 인형뽑기 확대…로손 점포당 매출 목표 40% 초과 : 중국/일본",
-     "source": "재경일보",
-     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAwZjhaQnN6Y3BhYUlEUEc5ck0yMlBOMDV3cXd4ZVVhR0MzeFFFNUN0SjdqNjd6M0wwQ1otUGdlc1pDc1V0M0xOM2c1bw?oc=5",
-     "published": "2026-10-18T15:56:51+09:00"
-    },
-    {
-     "title": "K푸드 EU 수출 23.5% 증가…열처리 가금육 수출 492%↑ - 머니투데이",
-     "source": "머니투데이",
-     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE80QkpEanZla1RRcWhCZmRna0FxTDBjMV9JaTJYdG9kc2wxUk5jN0xNVXdVcVQxYmdDd0MzaEkzNW81aWJpWHV1QzVHazdDckpDYWczb2Z5REp2alBySWpqM2ZkcVVzbFJWeVd1N05kWFlZV252UGRySdIBfkFVX3lxTE14TnRyQ2ptUDBhTGo5LTUwLUdJMzk0X1h4b0xlenRQM2U4SllXRmpJc3hlcUtoZFBNOWZxVUZqcEd4ZVhRSGhpLTk0OEs2WkZWVEZCREotcS0wdU9tTndaSlRrU2w4Y3BpcDRVb01iN0NqVk5OS0dSWXd2cjl1Zw?oc=5",
-     "published": "2026-10-18T15:45:47+09:00"
-    },
-    {
-     "title": "이마트24, 헬스·뷰티·패션 특화점포 '올데이케어랩점' 오픈",
+     "title": "CU, ‘술익는집’ 협업 크래프트 맥주 ‘호펜바이세’ 출시",
      "source": "싱글리스트",
-     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5HTXVMVk05YV9tUGZ5bFpyUUlfWjhjRm1RSllIQjRGYW5KODlIakhfcWVZLVcwNUtsUk50X0VqZnMyQkswVnBwS0VfSmExZmhfc3RXY2tVZ2JiNVlJWGFwQ3lTRDVEUQ?oc=5",
-     "published": "2026-10-18T15:45:39+09:00"
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SZ2tJOWNsSmNrdDR2QkYzckx6NnFKY2FVbnB2S2xoUTV5Ym9fbk1UZmMwMlBIMEt1dkVqR3dkbFFneU5QaUhxX2pvLTV1SktiQnk5X0ZvZlJWeGcwY24wcGhyZ1VuZw?oc=5",
+     "published": "2026-10-19T07:24:41+09:00"
     },
     {
-     "title": "롯데백화점, 자라 애슬레틱즈와 손잡은 ‘2026 스타일런’…7천명 러너와 성료",
-     "source": "나눔경제뉴스",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96SWpXRnhqNGo1MjBOc1cwNHotbzJEZm0tV2R5bXFIOTZWRmZsTUczbGxNeUI4VkhfZ2R4b3Z1Vk9YTmtrVE5SZTdnWmFYSnBVZWdvbEowcVJ0WWlPbW9fR2FNV2x2VkJJMXp2VQ?oc=5",
-     "published": "2026-10-18T15:39:42+09:00"
+     "title": "세븐일레븐, 성시경과 ‘꿀배추제육비빔밥’ 선봬...할인 행사",
+     "source": "싱글리스트",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5QRGRYOTBIWmNuZ2gtLVZkVnc5dzJ6bFhOWGh3b2ptMVpTWTRjNGNlcGRHeXZTQjktUzdmV3VzZ0l4QTFpMmZQdENWMWU2Ri1DRG81Z3h5RU1rZ2tmcmgyOWR6ZFpfZw?oc=5",
+     "published": "2026-10-19T07:20:12+09:00"
     },
     {
-     "title": "인형 뽑다 커피까지 샀다…日편의점 ‘추가 구매’ 전략",
-     "source": "한국경제",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9UYjBfNncxeUg3cHFLeElJZmxtenhVZjdfSTgwQ1hoR09WSWpoekVBbzBBaWY5bkZJdFR0bGVmcFRoWlUtUWNFenE0MUU1QVByck5LLUF2Ykt3QQ?oc=5",
-     "published": "2026-10-18T15:30:18+09:00"
+     "title": "세븐일레븐, 가을 배추 담은 '시경 pick 꿀배추제육비빔밥' 출시",
+     "source": "뉴스후플러스",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1RYldDV0YwMTFrdEZhcGFEVG9RLW9ULWR1UHlsakc4MW9EY25YTmI0MDBOeG0wNnBIaUNENzM0ZncxTm5nM2dyWnhaNEJPUnlrb20wRko4NjRWS2dPQ1dPdnY4R1l6TmhBYkQ0YnNR?oc=5",
+     "published": "2026-10-19T07:15:59+09:00"
     },
     {
-     "title": "“어떤 응원 건넬까”…수능 한 달 앞, 선물에 담는 합격 기원 마음",
-     "source": "중부일보",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1veG1rMDlUNkZGNm1iclZwQm1rQ3VMLXYzM0FfemJMejdDMlJCRzVWemR6VERwQ1FwT1F2bURJSEJ1SHBxejBFM1hmNUZkUTBKUnpVQ1A0Z2FHczdGa1NETDFkZnNpczNSaTZZMDRB?oc=5",
-     "published": "2026-10-18T15:11:00+09:00"
+     "title": "CU, '술익는집' 협업 맥주 3탄 '호펜바이세' 출시",
+     "source": "뉴스후플러스",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9aaG03VWh6dkFldk01aEV1QzJlSV96bWRFVENMdGc4aXNPWmoySnJYRlpqdm5pYUZ5TEZhTExlQnZfRGNZaW1wMjEzVm42eE9xOXNzRjFSSFlsOG9lWVZWdTlyQzJIbklPNmVJSXFn?oc=5",
+     "published": "2026-10-19T07:14:28+09:00"
     },
     {
-     "title": "성수서 만나는 J-패션…무신사, 글로벌 유통 허브 꿈꾼다",
-     "source": "세계비즈",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KZG1NTTNmUGdQNlAtU3UwUzZnaVZvMEdiZnl1SmFNYlVpRjIyeDVDS2otUkhHVEFSUEh5aHBHUG1HSFUzdWw4aUhEOUlWY2xsa190U1BGYlpFNmwxSnlwZFdfNVFERTdZTGZaSA?oc=5",
-     "published": "2026-10-18T15:00:00+09:00"
+     "title": "쿠팡, 간편식 브랜드평판 1위…이마트 2위·CU 3위",
+     "source": "핀포인트뉴스",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE51RVpyZ3cyV2E2ejkwTEszbUVsYkt2ZWZPaXhjTG5oU2ZUbkZnY1JFYURBZXQ3djRqRklCWG9VNC1yWUJYdHZFWjhUcmExQnJ5eU9uUl9XVjE1N0VvZU5ESzhyYUd3UTAxSGZVNl9DUmdWLVnSAXdBVV95cUxOd3pTMmtOWHQ0aVEyS3JxMFItMEZ2WnRMTGl4WDB4d3JfQkxySnA4eGpYSHdxdUdwZi14UVpTcUtIMzh2dkNXdjhRRTV4NklRemF2eHh5Wk9aMTdJcmVGVDAxLWRHeVpSeUdXNGZxQzNELXV1MTNndw?oc=5",
+     "published": "2026-10-19T07:09:09+09:00"
     },
     {
-     "title": "새우과자도 감자칩도 아니었다…CU서 가장 잘 팔린 과자는",
-     "source": "이투데이",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9NeVpTRVJnR0hTV0ZveDJFVmFyOXdUeExiTXVFLWZFcHNickNZRXZOMkFfZFc2aWFVZ1RlUDh5UzdPMmVYMkdxMkp0dHFqTEczT0lvay1BWDdnbDNpei12MlFSZUlnam5BUl8xVHRB?oc=5",
-     "published": "2026-10-18T14:50:00+09:00"
+     "title": "홍윤화, 40kg 빼고 7.8km에 2시간 걸렸는데…편의점 보자 갑자기 질주",
+     "source": "매일경제",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1QWM1d2VlTzRnQjlHTWhOc25LMnFRVU9PRXNFdElsR1I4MVBrUUI4TVFHOWdEQU5CQmpNdml4VDg5bjRwaThkeEZKMEJMTTF0WGVkbm9yQQ?oc=5",
+     "published": "2026-10-19T06:59:29+09:00"
     },
     {
-     "title": "CU 트러플하몽스틱, 스낵 매출 1위…3종 150만개 판매",
-     "source": "뉴스핌",
-     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1LOTF6ZFNYWHI2c09oUlVaTWNvS3I4UlVUdG5MLUFyQ2xXVWNQZE0xc3pzNnI4dlp1Y3pldnZLYnExeUJnZW02RUx3VXpWeXlrQWpZM1ZGV2g4MW4y?oc=5",
-     "published": "2026-10-18T14:41:00+09:00"
+     "title": "[빅데이터로본다] 간편식 2026년 10월 브랜드평판... 1위 쿠팡, 2위 이마트, 3위 CU",
+     "source": "일간투데이",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1KY1g0M1dheTNOUEhPWWp5a1lNaW52ajFZUVBIQVNQdXpiWjFlQzJJV3JOM2ZvZEdOSVRxSzZjMlZnUzdlOEdmZlFVdkZEYTY1dnNGam14Rk90WHN4RHZ0SnFyVEZIWEF6Q28w?oc=5",
+     "published": "2026-10-19T06:54:00+09:00"
     },
     {
-     "title": "편의점에서 뷰티·패션까지…이마트24, 특화매장 선봬",
-     "source": "SR타임스",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE95Q1hJVl93YTV6bDFOMFdPTzdON3Nlc1lHX1E2X0RJQ1lSS2E4WDllSDVfdE5XUXdhclBxTmY5c3lPeE1mbk41dVZXSXBkQWEtbWI1VWFSUXhwYU5Gc0FQcnBfWFAxWHhJWnpv0gFrQVVfeXFMT3lDWElWX3dhNXpsMU4wV09PN043c2VzWUdfUTZfRElDWVJLYThYOWVINV90TldRd2FyUHFOZjlzeU94TWZuTjV1VldJcGRBYS1tYjVVYVJReHBhTkZzQVBycF9YUDFYeElaem8?oc=5",
-     "published": "2026-10-18T14:38:55+09:00"
+     "title": "[단독]GS25 \"캄보디아 매장 연다\"…상품 발주 돌입, 연내 진출",
+     "source": "아시아경제",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGak5vUXU3aEUwWUNoX1RZZmltWTBEOTFxemxDVkJOZVlMcFNyME1XU3FfY3pRMWpQUkN3SklZX0xSVnFTNkV4aFhjbzlianNwR0NhMnFRYWF0U0pvYlZYeA?oc=5",
+     "published": "2026-10-19T06:39:00+09:00"
     },
     {
-     "title": "신세계는 그룹 총출동, 롯데는 평일 장보기…유통가 할인전",
-     "source": "아시아투데이",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ZM3kxX21WZWlZU0NDQnNZUFl5TEgxb1BXVm1UbkN5ZDhMaWtfU2dRRlptZGRLcTdXWldOT1BPWWNfbGVMU3l6WW1MaEJMTEFadzlleWsyTUw0dEp5dEFhV0VsdHZ2TTNRZ2F2SEhR?oc=5",
-     "published": "2026-10-18T14:31:57+09:00"
+     "title": "“리센느 빵 있어요?” 편의점 오픈런…아이돌 콜라보상품 쏠쏠하네",
+     "source": "매일경제",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43X1NkamFxY2o0clF2Sm9JbG8tMDgtNXlQaVRTNEV5M3RSZm9GUWFKUHpFbVRuRXp2RGFsYVlObHZPSmtmYmdFa1ZvZ0JNYm5TQ1A0a1hn?oc=5",
+     "published": "2026-10-19T06:37:30+09:00"
     },
     {
-     "title": "세븐일레븐 캪틴큐 9900원…아버지 양주 왜 다시 뜨나",
-     "source": "자본시장뉴스",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaeEtmMnpUT1dfQmVOaFE0a1p1MFRQclFaLWJTV0xoT0lrY0poX1lxVWpvVEo1TFhMd3hSWmFiWnctaHRoSDg5dkxwQTdGNEpldGI4Y1lRTnV0YXRTczNva3pFaXZWRWc?oc=5",
-     "published": "2026-10-18T14:30:00+09:00"
+     "title": "\"서로의 비전이 맞닿았다\"…CU·리센느 협업 성사시킨 비결은 [유통人터뷰]",
+     "source": "뉴스1",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE80WWNZRmM5NW9xVzRwYkJDaHp0OUh2U182LS1talZNZUxTOWV2Vnk4S05SeUhkTndrZklsUGZGdkxpdXVXS1Q3NmhYQ25jTkFtMjhqYVNzUUZ4VkFuVjNB?oc=5",
+     "published": "2026-10-19T06:10:00+09:00"
     },
     {
-     "title": "[겜벤] 넥슨 ‘블루 아카이브’, GS25 3차 컬래버 상품 출시 外",
-     "source": "워크투데이",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GVWU3bkE0c3o0c3Z1cS1ZN1dBUU5nQV9pYmh6bUxob1ZhM0hjN3VSQjdLUXFzMDUwcF9ULV9jS3NfNkcwWXZ0dHE1Mi1LRDAwdnFCNXhiU0gxOGFETjFzVm05SEpYNG1tVG9KNA?oc=5",
-     "published": "2026-10-18T14:23:54+09:00"
-    },
-    {
-     "title": "“점심값 아끼려 여기까지 왔다” 식당 말고 ‘이곳’ 찾는 직장인들…4400원 ‘이 메뉴’ 뭐길래 [이슈, 풀어주리]",
-     "source": "서울경제",
-     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBZVFhQVFBiVkI4cnRIQzN1Vjg5clByMXBFbDdJWHRLN3pQQ1BYMmI5d0UyZWlTOXBvYUEzQlBHQUI4dk5vSEtCb284RmR0ekdnb3U00gFTQVVfeXFMUFlUWFBUUGJWQjhydEhDM3VWODlyUHIxcEVsN0lYdEs3elBDUFgyYjl3RTJlaVM5cG9hQTNCUEdBQjh2Tm9IS0JvbzhGZHR6R2dvdTQ?oc=5",
-     "published": "2026-10-18T14:11:20+09:00"
-    },
-    {
-     "title": "CU, 바람막이·경량패딩 등 겨울 의류 19종 출시",
+     "title": "[기고] 가맹점사업자단체, 등록만으로 끝나지 않는다",
      "source": "신아일보",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9scHVWYVpDRFFkMi1zQms3eDJCYk4xVkhFYmZZSVd5SXk1b3pUWlo3Z0VYWk1oQ1JQRGJCN0pCNk1KN1VtVGw1dGtqQUtNaWM5UjMxb0ttcWR1YU5PSHE0Q1VqbUltd0JNd3dEZ3VHaHg?oc=5",
-     "published": "2026-10-18T14:10:00+09:00"
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE85a3RHUWRybXFRZE9LZUVhNkZ1R1liUHIxZ0taOEFobnE0bFZOODRJeGdodDcwdU5KSk5lQUJjVTdmTHFRdElGNDlDZ0Jjb0R0UHVzOWU3Z3U4X0Q5U0VESEZJM01UdzJhRngyU2ZUMU0?oc=5",
+     "published": "2026-10-19T06:00:00+09:00"
     },
     {
-     "title": "[트렌드 경제] 백화점엔 유니폼 물결, 시장 옥상엔 야구팬…대구 유통가 `삼성 열풍`",
-     "source": "매일신문",
-     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5oQlk5U3puZ1ZsOFFaampfRmY2NWxkMk1KNEVOY1YtWGFmNFp6TjNWdFdjbzRfZUE0OU8wN2pUVGxNSDBkVFZNVGxHTk1GUlFJYzFPaFdWbU5YbnBNSFZYNDNR?oc=5",
-     "published": "2026-10-18T14:09:10+09:00"
+     "title": "'한 끼 수요 잡아라'…편의점, 김밥 경쟁 갈수록 '후끈'",
+     "source": "신아일보",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4OEljb3gtRzRrX1R6SFdDX1dPOXUtblZEaXphU1FZbm5zNFFPcTRzYjhHWm9UYy1CVEZTWG1Td2NwR0tEUVJXYUhHOG5mWEZ6cC04SkJTVWJhbVpQVmZSSmdfVDg0VWVvSWFzZ043V1c?oc=5",
+     "published": "2026-10-19T05:00:00+09:00"
+    },
+    {
+     "title": "메가커피 점주 290명, 617억 반환 요구… 최대 규모 차액가맹금 소송 문 열렸다",
+     "source": "한국일보",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0welB5T19XVnh3a1NWamJ1ZmZZY1REWjl2Rjh6UEVQdjlzRjJDekJaNl9qbDlxSmdIVWV5b0xQU3YzTnBYNzdGZEcwYXpWOVB2QnVHc0lBeUVfRGJmVDU5VFBGQjBTV0RhM0RjcHF3N2xPaEHSAXNBVV95cUxNMHpQeU9fV1Z4d2tTVmpidWZmWWNURFo5dkY4elBFUHY5c0YyQ3pCWjZfamw5cUpnSFVleW9MUFN2M05wWDc3RmRHMGF6VjlQdkJ1R3NJQXlFX0RiZlQ1OVRQRkIwU1dEYTNEY3BxdzdsT2hB?oc=5",
+     "published": "2026-10-19T04:30:00+09:00"
+    },
+    {
+     "title": "[2026 국감] 편의점 광고수입, 점주 몫 1.8%…납품업체 광고비는 20% 가까이 늘어",
+     "source": "알티케이뉴스",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PSTZWcWJsQlJpMXpSb1piY2JfTjN1YWZUaENQcVA2ZVpQUGtEVGhXTUl0amZiWXZ6a24wdHJBNjFRUmxXRnhlNGdVTU5FNjRMTUtZSWlEQ01FYmxOYnQ5UEFIN0FSTTNUMnlBaQ?oc=5",
+     "published": "2026-10-19T02:54:19+09:00"
+    },
+    {
+     "title": "토토 가족방 추천 비타임 : 위험 피하기와 최적화 (2026년 최신판)",
+     "source": "Calgary Roughnecks",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMTdSZjhuZzduQ2ZlNHlROE5BTkpxd0tLd2d2ZHVHZ19jUUdlTFBvN2drZDFTNktPSkMtdUZ5SURDSTJXbWxlU3FxNE1TNUIzajh1VUl3Rk5jSnVpSWE2NGduWDFtSF94amZkaDVDVlJFUmE2N25neWR2S2FwLTNmQkVnMXRNRmVjLWc?oc=5",
+     "published": "2026-10-19T02:48:56+09:00"
+    },
+    {
+     "title": "고립·은둔 청년 담은 쿠키·라면·도시락… 천안에서 특별한 편의점 열린다",
+     "source": "한겨레",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5DbUllUTZwNGJ2RU9mWm4wMms4WkJ5dzc1RFNSMGFRRUdLXzRFd3ZRSWYxblRfN01IMHJGTEs4ckdEZk0tbnhZYmt6MUZQN2hmcm9adUhrT1BxOVZwRW5CWklJRTB1TFBT?oc=5",
+     "published": "2026-10-19T00:29:00+09:00"
+    },
+    {
+     "title": "무료 페니 슬롯 버팔로 심벌 설명에 붙는 예외 문구",
+     "source": "Calgary Roughnecks",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsRzBKZ3JxTnJWb0dWSWdFRDhMa0NHSHF1VzdVT2FPYXB4WHhlVmdJemg2MTNGU2dXYjFqbFVVM1hxLUNielJUVHJ1My1TNms1enVQWGRqZzVtNi16MXpqTGtycHdhaFdD?oc=5",
+     "published": "2026-10-19T00:05:01+09:00"
+    },
+    {
+     "title": "강원 경제인 대거 참석 “지역 상생 ESG 경영 실천 다짐”",
+     "source": "강원도민일보",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkSU1LY3R4NmFQeDc1NElTNU5JUWdJbDlUbmVOSTkwVi1lQXVFNGNOeHM3V2hGTkNMMm5pZnNwTzYtTGdNaGpzTVUyblJoRlBlclZkMHQxdTJUanRWMTJCcmxnMkJIUVk?oc=5",
+     "published": "2026-10-19T00:02:02+09:00"
+    },
+    {
+     "title": "\"편의점 하루 176만원 팔아도 月 순수익 230만원…그냥 알바가 낫다\"",
+     "source": "뉴시스",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wY3EyY000MU1uTEZSM0wwTDN2S1lHOEdGN0NGcU9LS3psSTNadmZpOE0xeVl6T293aTUtV0NjQlBuMEJGWm4wamF0S3BERUJsc1Fab2QwV1pLa1NQbFpEdtIBeEFVX3lxTFBCR1NXSzhyWTNwUmFmeVVocVFZbnlEWFVmT0gwR0ZkZTZYTV9QcTFmUFRzR09YU2t4bDFNdm1sSzY2eXVHenJoUmRiWG1vbkVhWU44Z1ZLbEs0YWVPeDBIVWhHNkdjQUxPc1dNTnNGMEFSQU9GME13dw?oc=5",
+     "published": "2026-10-19T00:00:00+09:00"
+    },
+    {
+     "title": "스타일런 7천 명 질주…러닝, 유통의 승부처로",
+     "source": "중소기업신문",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kUVVPbFMzUmlRS2JQZ01mSmlSRk9fSkt4UlBpVzhvdjVzd0hJSWwxaTdla1ZnODNrc01mb05Ra3oxMXRGTFFvVVlEbktqcm1OVk5ZM0JFT05DRUpKYnR0MHd2T0s0eVg3YlNMUg?oc=5",
+     "published": "2026-10-18T22:07:17+09:00"
     }
    ]
   }
