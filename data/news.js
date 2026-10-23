@@ -1,14 +1,56 @@
 window.NEWS = {
- "updated": "2026-10-23T08:48:00+09:00",
+ "updated": "2026-10-23T17:21:20+09:00",
  "sections": [
   {
    "id": "law",
    "title": "법·제도",
    "items": [
     {
+     "title": "경기도의회 최보라 의원, 노동 예산 대폭 축소에 제동… 취약노동자 지원 복원·주 4.5일제 검증 촉구",
+     "source": "로이슈",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE91anFhSlZ1S1pZZ1oxcTFGTldZODQxbUpwV21pck5iZ2tvNnhtako1N2l6eVlyRkRVYmN1Z1dLOTVrb1dRc25PVWhfR0lHa2lxb252djlOUEZlSnhHeDlUVkZ3RDhlMmV0OENPS0RvRGh3UXFJX1Z6NWRn?oc=5",
+     "published": "2026-10-23T16:26:37+09:00"
+    },
+    {
+     "title": "최보라 경기도의원, “노동국 2027년 본예산 약 60% 삭감… 취약노동자 예산 지켜내지 못하고 4.5일제마저 표류”",
+     "source": "서프라이즈뉴스",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBlRFJpS05ZVnRkNzY4YUtJNHpPVWVKY1JBOGxBSXNqUW9lZkVTRVNWN1RwOHczMzBRUGt5WW9hVDBpVE8xckFrazJrcVpSSm5IS3QzNHZneUw2UnV0ZVhxNzJRS3FBZHFnSDhQS1BiQQ?oc=5",
+     "published": "2026-10-23T13:53:41+09:00"
+    },
+    {
+     "title": "공정위, CJ프레시웨이 현장조사…식자재 입찰 담합 의혹 점검",
+     "source": "조세금융신문",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9TX1RJZzdRS2V2SDJfcXFXM0ZrV3VUUWZiYjFtOXFhM2NIdEpWYnVUcURIVXpFUUZkQVdKVS1iY1Vxd1dTMHdkYktfc3VQWllHNGEzaWd4Uk8ySXhQMHl3dElpZw?oc=5",
+     "published": "2026-10-23T13:28:23+09:00"
+    },
+    {
+     "title": "[이슈] '한국 편의점에 할랄 음식이 없다!.' 저격했다 역풍",
+     "source": "인벤",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ESmFSSVNTN2pENHBQVG9pdEFZaEs3dDFqbVV1VXNJWEtueGdsd094RlBkU3VEUTE0RkhfUkpJRk5WUE9GVDlka2xvRzNEZ1VQREpmXy1reEFKbW5jenNj?oc=5",
+     "published": "2026-10-23T12:43:14+09:00"
+    },
+    {
+     "title": "'노동법 위반 206건 적발'로 노동 리스크 커진 쿠팡 : 미국서 '한국 규제 부당성 알리기' 로비 비용만 48억",
+     "source": "허프포스트코리아",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBzMTYzcWFyTWFSSGYyeXNuNWF5b3hqSUZIdGdDWE5yV1p6WlBqMzlxd1RJRllSN2pNN0lZNVQ3ZjFHekczYWtLWTI4RUlYSnRUNmtlNDZqWQ?oc=5",
+     "published": "2026-10-23T10:29:23+09:00"
+    },
+    {
+     "title": "“가맹점도 힘들고, 본부도 어렵다”…프랜차이즈 CEO의 경영 고민, 해결책은?",
+     "source": "잡포스트",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBONm5MUGQ2MkdrQ0pRZVVsMmJSdlJScThqNEVOZmtCdXA4RjBkYXZUQm5OUmtYcENnd1BXLU1PcWt0UktrcHNCSmdtQkt0ZGtsdkFadjNlem9hVHNHLWNwTkozZkpoM3FwSFlxbUxB0gFyQVVfeXFMT05XWDJ2Z2RjWVJVZVg4R2hRQk42R08xcVBQaFNVRG04cGx3eU96Slp1MVc1QzdmYjFvM0txdTRkVy00TEVUMDZBQ1djZkpZaU5OZVZSamRmbjdoeTV2bnotZ1c4TWpnQ1VCUGtlOFFxT21R?oc=5",
+     "published": "2026-10-23T09:00:00+09:00"
+    },
+    {
+     "title": "쿠팡, 美 로비에 48억 쏟아부었다…중간선거 앞두고 민주당 ‘집중 후원’",
+     "source": "뉴스로드",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50VHIxVkI5b2hBZEE3dXFkNy1IY1FRRzNYb1V0aVhlMVBYWDI3Q3ZGQmt4OG43d2xIRGFfLWVTa3owQ0xnVEM2aWJnY1FqSlJFbmNRVWExNFpxM2s0TnZJcUZGMWFEZG5idzRwMNIBb0FVX3lxTFBuZ3l3T0doSFE5OHU5M2NBbzFfTzRuNFVHMlo5RkZEZzdJZExoQVJWOHFvRDk5VWh1aVRSak9SUk9ySG1waWxkVnFwejBMcEJ3Q2J2a2FDMVNLMHJrYjJwUE9MS01PR0d1ZG5KVFJzcw?oc=5",
+     "published": "2026-10-23T07:47:53+09:00"
+    },
+    {
      "title": "연기 뿜으며 \"담배 아닌데요\"…10대 파고든 '無니코틴 흡입제'",
      "source": "한국일보",
-     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1PS3pKU2RVcWY4TFJROHlMWTctSDlQLXd0QmhMY0V3OXowZXBhd1pURzFJT1dISEJxdE00ZEE4SFhsa2JNU0twZ0ZDNHUtQnZTZndNNzN5dUVXMHBnenBTU04tdFplOTNfZFFIRUM4UjhvTzDSAXNBVV95cUxNT0t6SlNkVXFmOExSUTh5TFk3LUg5UC13dEJoTGNFdzl6MGVwYXdaVEcxSU9XSEhCcXRNNGRBOEhYbGtiTVNLcGdGQzR1LUJ2U2Z3TTczeXVFVzBwZ3pwU1NOLXRaZTkzX2RRSEVDOFI4b08w?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBqT1FkUklZSlJOMlB4QjlpdVRnMGMyeUVMN05SblN6cnktVTJ6TDJ6dEpQU1I4d0ZIbnFDcDJNWVJVUjhBS0ZJdmw3UzF0RWk0NXE5VWdUejE1d29yWGV0V2JuWVFETDZ3ZngxR0930gFzQVVfeXFMTU9LekpTZFVxZjhMUlE4eUxZNy1IOVAtd3RCaExjRXc5ejBlcGF3WlRHMUlPV0hIQnF0TTRkQThIWGxrYk1TS3BnRkM0dS1CdlNmd003M3l1RVcwcGd6cFNTTi10WmU5M19kUUhFQzhSOG9PMA?oc=5",
      "published": "2026-10-23T04:30:00+09:00"
     },
     {
@@ -34,90 +76,6 @@ window.NEWS = {
      "source": "뉴스핌",
      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8yOWRiMmdMSjBpRkRsZjdBT0hYYmstcU1tRWIybEx5b0ZNVUlfbkdHTFJVM0VuUV9PNDFtRmg2QnNNOVhNZm9LeVZyS0hTYnZvdlYzTmpPWXdIVFV1?oc=5",
      "published": "2026-10-22T17:35:00+09:00"
-    },
-    {
-     "title": "가맹본부의 책임경영 강화…프랜차이즈산업협회, 윤리교육 실시",
-     "source": "신아일보",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5MUtwT3hFSE1yR21YejM2Vmxza0xUa3BHUFI5TDZuNjhOWlNFNnBDa3FUYzhUZUVWMHRpOGg0amRkVDBkSnBzaXFoZnQ3bldpV3VNaVVVa0h1UXdBRVY5OHl5NlpfU18zQ3RlZmhxbVQ?oc=5",
-     "published": "2026-10-22T17:10:00+09:00"
-    },
-    {
-     "title": "노동부, 쿠팡서 노동관계법 위반 206건 적발…61건 사법처리",
-     "source": "청년일보",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Yd2JOaVdwOGNQRmEyVDdqNnRfQVFESVR4WE1pWlNKbk9iS2VsSzFFUVBJTTZMMUs4MWhhN0ItdTlXVFlSQjQ2WUtsRndhVVp1alU0T3dmc2M5ZjFxelVEWUVaY1V5VEE?oc=5",
-     "published": "2026-10-22T16:36:23+09:00"
-    },
-    {
-     "title": "노동부, 쿠팡 산재 은폐 정황 확인…노동법 위반 206건 적발",
-     "source": "뉴스웍스",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE16RG1SN04tUGtZcW5FZHRZYnpYNHRUeGlselVGUC1kWGU0WWVja3drOEZTeGUzZHdXa0RodmhwV1U1bHJTTDVqNktzQmNoRTVBeFdZai1CQWtmVGZCSUlPbUJKRk1vQjRVVkVUZ2tXVdIBc0FVX3lxTE1naTlFWFd6MFpoTWtVb0VucHNEVGVUME1FamtNNEJBeEpyQ3VhZVRFRmVnZmV4VFBMWFNMX0FPUVAwRXdhc1QtYjAwRF9nR25WOGJKazAtOXJpNnFvM2JaX2lITVBUN20wQTRBQnRFdnpWWmM?oc=5",
-     "published": "2026-10-22T15:58:43+09:00"
-    },
-    {
-     "title": "쿠팡, 임직원 봉사단 '와우 봉사단' 출범…첫 봉사활동 진행",
-     "source": "청년일보",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTZVh3ckt5RWtzS0F1XzUzazE5S3F1bUgtZUxNZExpU1gtbjBTT3dpeGh3THMyUlppVHFIUVRWQlpSNmtkUC02ajU5SVRtT1AwN1Z5M3k5LWtFMTAxNXZBVVZYNUdBLUE?oc=5",
-     "published": "2026-10-22T15:40:59+09:00"
-    },
-    {
-     "title": "차액가맹금 줄소송에 프랜차이즈 수익구조 '흔들'…로열티 전환하나",
-     "source": "매일일보",
-     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtUWczTkh4U01ZRnR4WktLNllPMEw0ZHl4bWdWMFh1LTJ5RVFsbGRKMHItV1BBSlBUMmkzM0RDMzFRd1VYWUJ3YW5hbXkxRVhaOE0zcE50M2xqdDdDN2QxTWx2b1g?oc=5",
-     "published": "2026-10-22T14:42:11+09:00"
-    },
-    {
-     "title": "[기획] 장보기까지 온라인으로…쿠팡 vs 네이버·컬리, 대형마트는 규제에 발 묶여",
-     "source": "매일일보",
-     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5oUC03V0pjdksyLWpLMldzQXBrQTN0VWVxenpuOG5RQlpxcU1BalpVMWNVM2VHU3lCLWNOM0xYUF9lWGp0eHA1b3J2cjRRUU1DNHg5ZU81XzhTWUNrVFIyVlRkZlM?oc=5",
-     "published": "2026-10-22T14:31:23+09:00"
-    },
-    {
-     "title": "[디자이너의 시선] '불 켜진 정류장’ 편의점은 언제부터 ‘가게’가 아니게 됐나",
-     "source": "월간조선",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1EVnR5c2VWS2V2eDl0a01TRWNKZTRINU9DTEhQRUNKT2VtZ0RfT0ctYmlEbVJnWkJyTG53bnpYTGNlTEt0WmZFM2RCZS1mZDIzbTh4cl9YV0ZpLVdtbVZwZGhNcGlKekV0QVFiWA?oc=5",
-     "published": "2026-10-22T14:02:33+09:00"
-    },
-    {
-     "title": "[기획] 플랫폼 의존 커지는 유통시장…정산은 법제화, 수수료는 표류",
-     "source": "매일일보",
-     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9COFp1aVNRQ1pMOWRyYXc3emlyaFNJa2xveXBjd1NFbTVreUpEVExuVnVUV1hra3BYckU4SUFsY1dPV3ZyZkloUzhUV19VakVZX08tcEFBX0s1MEtOdzY0MUJ5RHE?oc=5",
-     "published": "2026-10-22T12:00:00+09:00"
-    },
-    {
-     "title": "치킨·커피 이어 편의점까지…'차액가맹금 소송' 유통가 전방위 확산",
-     "source": "더팩트",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFByUW9BdkUyNnpKTmxCbW5Cd1VaTVQ2b3BPNEtibFNWSm1xV0V0eGw4S1k2Ym40LUhUaVBXTEt5aGE3cl9HeENkdTJpWWZycndmUTRpaNIBVEFVX3lxTFByUW9BdkUyNnpKTmxCbW5Cd1VaTVQ2b3BPNEtibFNWSm1xV0V0eGw4S1k2Ym40LUhUaVBXTEt5aGE3cl9HeENkdTJpWWZycndmUTRpaA?oc=5",
-     "published": "2026-10-22T11:35:00+09:00"
-    },
-    {
-     "title": "동물학대자 사육 막는 법, 2000일 넘게 걸릴 일인가 [법안의 낮잠③]",
-     "source": "더스쿠프",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xampROWdMM0x3TW9BVmxjVExZTmlQemRDXzRuZWdraGtlTXdiVzhRZDlxX1Uxd3BPQ0VLd2syNWhwT2ZxWFBxdHM5dnVYYk5HbjRMVWQweUszVWlfTEZKUmZfT0d3aEtuSHJYQUFR?oc=5",
-     "published": "2026-10-22T10:19:39+09:00"
-    },
-    {
-     "title": "단순 타이머인데 'AI 딥러닝'?…공정위, 'AI 워싱' 가이드라인 만든다",
-     "source": "뉴스핌",
-     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aZ05IU09GeHVRd2Rya3Mydng1VnU2bGRGdTJUandpdG5uNmYxYjM3RElTam1SV3ZjQVZ0dVBGVFZHSUZvano1MHA1NDRUSl9pTHNDSDF4Yjk2MUZQ?oc=5",
-     "published": "2026-10-22T10:15:00+09:00"
-    },
-    {
-     "title": "bhc 1063억…차액가맹금에 흔들리는 본사 이익",
-     "source": "자본시장뉴스",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10aW9LYzRialZUNGxnWWxzbW56aEhqN0FNQmFLQ0h0UnN6WktoRkhwZHRRcDR6RTdrSklnbWd0ZlRoQ3QxRkF6MWNSNTRJVVBJclM1RWc4bUlFSU16eS1IZlptYk5hR0k?oc=5",
-     "published": "2026-10-22T09:50:00+09:00"
-    },
-    {
-     "title": "구본걸 LF 회장, '연임 포기' 결단해야…양양 10년 표류·계열사 제재에 책임론 [더게이트 포커스]",
-     "source": "더게이트",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqMXhlcG52Ny05eWV6NXV2VDRPVnZlanY0STdjY3pkbXdhYlVOYXZWdXFfU0VQYzJPZkc1SUpTWjlDUW1VamJDeG9LYWhEbUJaVjVoWHRvZ1drLWdZZ2NXQ1ItdXlHdkxBVzlSc9IBbEFVX3lxTFBqMXhlcG52Ny05eWV6NXV2VDRPVnZlanY0STdjY3pkbXdhYlVOYXZWdXFfU0VQYzJPZkc1SUpTWjlDUW1VamJDeG9LYWhEbUJaVjVoWHRvZ1drLWdZZ2NXQ1ItdXlHdkxBVzlScw?oc=5",
-     "published": "2026-10-22T09:05:45+09:00"
-    },
-    {
-     "title": "차액가맹금 소송 확산···프랜차이즈 수익모델 흔들린다",
-     "source": "서울파이낸스",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53STBidjFDVHBPM1FqU0F5d1IxXzh5cGtlQi1YcFhVbzQyNVoyU1p5RmQzXy1McmxqbXBlM2dLblBXQndhQzBLd25ub2RqTEoxcUVRSzJUZ2k5R0JDLW9WN2pJaGhMUFpSYmc?oc=5",
-     "published": "2026-10-22T09:00:00+09:00"
     }
    ]
   },
@@ -126,124 +84,124 @@ window.NEWS = {
    "title": "유통 뉴스",
    "items": [
     {
-     "title": "GS25, 1000원 이하 PB 상품 강화…초저가 견과류 3종 출시",
-     "source": "매일일보",
-     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBJdmtyVHJNcnQ1dm95Qkx5SXNBZnA2MUwybWhIZHFpRE5vMm1lMWtuc2tITGhqcXR5Qk9reEhMd3dZYlBsa1lTTE5XUVBpRnY3QkhOSUJlUzI5d19CcTduT3dveWk?oc=5",
-     "published": "2026-10-23T08:44:12+09:00"
+     "title": "[신상품] GS25 '하루한줌 견과믹스' 외",
+     "source": "서울파이낸스",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBOLTg4T2pMVE1iMFlMUjQ5TlhCaHZUT0JNYUE0Qm9rMlNPQXFKbElRVlcwWTVXMkVtWk5SMUpqU2tRZFZ4Y0xFVVRkV0hoTjM4eENreGxKOE1DNjRxNGFwWDRLdkxmSjZiM3c?oc=5",
+     "published": "2026-10-23T17:00:00+09:00"
     },
     {
-     "title": "GS25, 900원대 견과류 출시…가성비 PB 전략 강화",
-     "source": "연합뉴스 한민족센터",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9mQ2FJTXE3d2J0UTRXZ3BxVlRoWFVNX2VrOHBWMU9DTnE2dVRBNUgtc080RlR4Y3JmaTUzS0FHYWE1RXNSV0hYSHNCcWRrYk9VS01ERnNXVlBOMndRVWE1cl80VDg5S09oYzFkT09xYWN6Mnln?oc=5",
-     "published": "2026-10-23T08:37:55+09:00"
+     "title": "부산진구 개금2동, 주민 소통교류 활성화 위한 `행복마을편의점` 갈수록 활기",
+     "source": "국제신문",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUVpVT0ZtYkY3MzNvc3BpSFhlc0h6YWZINFc5V3F1WGR1S2xCTkZqbEFWRWc5d3lBdGFLd0tSZVBnT3lPN2N5NkNWaFVZM0hvRWx6Z0gzLWthdE5ZajFLVUJtUmhITFlrSG1LdkQ4OGkyZ2tyR1pmMVFPR1EyTVBFV1dQdVpVOTJGY1lZ?oc=5",
+     "published": "2026-10-23T16:45:00+09:00"
     },
     {
-     "title": "GS25, 980원 견과류 출시…1000원 이하 PB 확대",
-     "source": "뉴스핌",
-     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1QSWl2ZkdpbHoxODFxcXo3RTJGUERXdVVwTVBDR3FqVFl0bGNtZmFKeW85cENWczZ5VUtobTJnWXpfVkpsMW83U1RWR0tJMDI3RTItNmJKSGs0b3Nu?oc=5",
-     "published": "2026-10-23T08:25:00+09:00"
+     "title": "“5천원 점심” 시대, 카페 김치볶음밥과 편의점 간편식",
+     "source": "아이러브PC방",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1HbW8zN1Y3Q3NkM0tSdWpmT3RISXhZaFdnRzZrbjNkX2tVdjU4YTZKdE0zenJMbTNLSHEyUnFPcndDVTVHQzJub0NWOWd1dlluVGxza0hqS1QtU0stY3NoS3VmVl9VVDRpemhtNVN4NA?oc=5",
+     "published": "2026-10-23T16:35:00+09:00"
     },
     {
-     "title": "GS25, 980원 ‘초저가 견과류 3종’ 출시...가성비 PB 전략 강화",
-     "source": "팝콘뉴스",
-     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pN0xrZ19wdXFnR2hpZ291NEl1RHUzWlJfX2NPUUsyZkxaaW1EVThBSTY0ZFdwYXgzLVhkc01JQXQwSDlWdDFuSnhPbXdMYnMtYWVrQzA1MUQ5T0ROQTNNeG5hZENXWk5naVZRaGtLWnZvd9IBckFVX3lxTE5pN0xrZ19wdXFnR2hpZ291NEl1RHUzWlJfX2NPUUsyZkxaaW1EVThBSTY0ZFdwYXgzLVhkc01JQXQwSDlWdDFuSnhPbXdMYnMtYWVrQzA1MUQ5T0ROQTNNeG5hZENXWk5naVZRaGtLWnZvdw?oc=5",
-     "published": "2026-10-23T07:56:45+09:00"
-    },
-    {
-     "title": "[HOT 마켓 트렌드] “견과류 가격 확~ 낮춰 물가 부담 ↓”…GS25, 980원 견과류 판매 시작",
-     "source": "비즈월드",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15S3lXTHFyeHVwbnhGSlBFdFZOelMwekdRc01ObnZHeHMtS3otNVlkaERNMGlkdjZZX1ZpWEtNQ3NnX19BVmYyMHA4NnptdmFmUjNHOUd5VkFBWGFSbWpBQnVkRFpxMVNVX0E?oc=5",
-     "published": "2026-10-23T07:34:00+09:00"
-    },
-    {
-     "title": "14년째 그대로인 편의점 상비약…연내 품목 확대 가능할까",
-     "source": "쿠키뉴스",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBUcjlXYUVKTWR5d0FhV212ODltbjlqRlk0V0s4TnhkWmF6SHptX2thRmRkcVZURDBnd0V5RWc2ZlFKT2phZFo5Tk9nUHpNV2VGQWpndUdQeTRZRmVIbUhRemtzTQ?oc=5",
-     "published": "2026-10-23T07:32:57+09:00"
-    },
-    {
-     "title": "독감 한 달 빨리 오자 마스크·소독제 '불티'…유통업계 특수",
-     "source": "시티타임스 CityTimes",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9CSDNuN0ppRGFpN1QxeTByalBwbW10Y1FpbFZvT0toX056UzJ6QjRZUmMtMU5RM29SejZuT29ISEV1em1yalgtMWQ2dTBjWU5zUXFybVBMWjM4WXBSOGlJLWI5clJEamlqeGNIa3Rn0gFyQVVfeXFMTW5NM3FBb3dIcllRd1p4OWZUZC1NRjYtSE94RE5KSFFDUkdpTUpLWWIyU0tCSmFqZUpVSlJYMjBSTmJTRThKVks4WU5IR0cyTG1TT0Y3WnEwUENSM2xqeUQ5cEJER0s2RHRvY0Z4aW1vcVR3?oc=5",
-     "published": "2026-10-23T07:11:00+09:00"
-    },
-    {
-     "title": "\"겨울엔 귤만 먹는 줄 알았는데\"…마트에 등장한 '의외의 과일' [트렌드+]",
+     "title": "한 달 빨리 찾아온 독감에 '비상'…마스크·소독제 '불티'",
      "source": "한국경제",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtcXNZbG15cFZEVV8yWmI1YWl2bFZTRHowX2ltMnJiZDFNZVM5UzJySmZ5dDhqRWZJblZ4S2NaWjhuSHhoWE9ONWJWeC0wbS1yTlpJUUk1T2ZNQQ?oc=5",
-     "published": "2026-10-23T07:09:03+09:00"
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HcnhKVW9XYzRQRWZacHIwZ3lkckhjSlNsYmNwM1BhaC0wakJYOTVxZ2ZkNjBORlFhOHZBRGMyMmNYSFVGUzNZR1l0d0laWjBhQzQ4YlY2RVA3Zw?oc=5",
+     "published": "2026-10-23T16:23:06+09:00"
     },
     {
-     "title": "GS25, 980원 ‘유어스’ 하루한줌 견과류 3종 출시",
-     "source": "싱글리스트",
-     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1OTWNiYUhuR0gyZzVCU2I1SGVxcmM1QWJzMzhXQU5ZWEFDTlVKdXdOem9RMUdnUzU1bDdvWFRDNEx5bnlmUTY2WEdyTXNYVThDTTI3YmJ0d2pIOTNlVllNYmRKZzc2QQ?oc=5",
-     "published": "2026-10-23T06:57:48+09:00"
+     "title": "삼립, 성수동 수제버거 '제스티살룬' 협업 제품 4종 선봬…편의점 버거로 재해석",
+     "source": "핀포인트뉴스",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBVYXktc25JMnFzVFNLdHI2OWlJUy0xejY2WVktZGVxUW5LX3pGNUR0NEFrdHY2VDBzcl8yTkVvMkNldW4xdklURzA4RVZuUzBnQWx4NFg2ejlEaXFGdHNLZ3N4SndDeGFnQXpacWtHcWxSekEwRmNn0gF3QVVfeXFMUFVheS1zbkkycXNUU0t0cjY5aUlTLTF6NjZZWS1kZXFRbktfekY1RHQ0QWt0djZUMHNyXzJORW8yQ2V1bjF2SVRHMDhFVm5TMGdBbHg0WDZ6OURpcUZ0c0tnc3hKd0N4YWdBelpxa0dxbFJ6QTBGY2c?oc=5",
+     "published": "2026-10-23T16:19:30+09:00"
     },
     {
-     "title": "편의점·마트, 앱으로 고객 모은다…‘월 500만 이용자’ 눈앞",
-     "source": "서울경제",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBYQVJkZHZwZFRfbFAtS0dzS1poemJkZU5MUnNacThPWFYzb0I2ZFg2VzA2T04yd210ZExodHp6MTJSc24zSnVBMnoyb1RPdFMxQ3fSAVNBVV95cUxPR2UxaExwQ2dMY0tZRm1abVQ2RzBxTlRudldqX0lIZkcyZnhhRUhzdnlfNmJGbGljSmxvNzZRb04yV18wcW1sN09MTU5Zay1Rc2F2aw?oc=5",
-     "published": "2026-10-23T06:57:00+09:00"
+     "title": "성수동 줄 서는 '이 버거'…이제 동네 편의점서 맛본다",
+     "source": "한국경제",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04a2h5bWRuYmdUUzRPWE9Vb3ZWWklKd3FtSkxVaUJkZ0JIU3h1cDl2OXBxZTh1M3hZdDFsY3IzcEJFeVQzcTV0ZDd3Q1I2MG5NRnZlSktNV0VIQQ?oc=5",
+     "published": "2026-10-23T16:18:43+09:00"
     },
     {
-     "title": "[10-3 철 스크랩] 국제시장 혼조",
-     "source": "스틸데일리",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE12anRac3F5clhTNVZmOGxSdmZyMWtmNHBJLTNlejJYblBHRWs0NDl6QWpEZ2phdXhDbW5PNUtmYkpOQTFiNTR5ZFBmT0UxeFVodWdFcWxBYUlXNzFETXlFczBNcnd1VU1Pc2dRcm9QRE1hZUhI0gF0QVVfeXFMTXZqdFpzcXlyWFM1VmY4bFJ2ZnIxa2Y0cEktM2V6MlhuUEdFazQ0OXpBakRnamF1eENtbk81S2ZiSk5BMWI1NHlkUGZPRTF4VWh1Z0VxbEFhSVc3MURNeUVzME1yd3VVTU9zZ1Fyb1BETWFlSEg?oc=5",
-     "published": "2026-10-23T05:58:11+09:00"
+     "title": "[백화점 Pick] 유통업계 오프라인 채널 경쟁력 강화",
+     "source": "라이센스뉴스",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBvckVLdmxtQzBzN0NMUmNsb0ZBNTMxekNZWWlqVGxjWjFnUzFLM2NCSXo1cjJVRmw5aW11SHpsd1BfRGFaOGtpMjF3WmZDdXE2aTN1Wmp5bElzNkhTV2JaTzR1Z3V6SXNMVUZn?oc=5",
+     "published": "2026-10-23T16:16:16+09:00"
     },
     {
-     "title": "수입 특수강봉강, 저가 물량 등장에 유통시장 ‘혼선’",
-     "source": "스틸데일리",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE95djNGY0l2dG8wSktzWG1MTllxWGVGUzJWZjFmZ1otamRCZlVpZ3c0SVlWZVVjMk1fUnhLQm5OcGZteHgxSnVSR2xvekplV05wUExvU3R4VjhzVHI2QW5YYnBGdW9wOVVTNHNwN1ozMGF4dWpr0gF0QVVfeXFMT3l2M0ZjSXZ0bzBKS3NYbUxOWXFYZUZTMlZmMWZnWi1qZEJmVWlndzRJWVZlVWMyTV9SeEtCbk5wZm14eDFKdVJHbG96SmVXTnBQTG9TdHhWOHNUcjZBblhicEZ1b3A5VVM0c3A3WjMwYXh1ams?oc=5",
-     "published": "2026-10-23T05:13:31+09:00"
+     "title": "[포토] \"수능, 김장 준비 해야죠\" 유통업계, 연말 마케팅 돌입",
+     "source": "푸드투데이",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92cG9NVmI1X0NyZG51eHhXLUVxMlM2VUJVZXRzVDc0R1gydWpjTklBRzlHMDBFM0ZkblV1cjN5dlpFV2RVdGszQWtoMXVpOVMwVjJ4TnJXZnMycUZvaHdlQXV6WmU1TkNz?oc=5",
+     "published": "2026-10-23T16:13:14+09:00"
     },
     {
-     "title": "[10-3 봉형강] 하락은 현실, 반등은 기대",
-     "source": "스틸데일리",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBJdTNJTUN1SEhTMDAtVkZFNHBRdHNaZGZ5RlZBaXZPUmJZTXBRaFBsQUU4dldXaWRIc2x0U05Ob0FFNl9CeThHeklvS2J4Q19ET1JHZzFTaG5aTFBhMlhsRC1ydGxhRldnX0h2YUQ4cmNONEpC0gF0QVVfeXFMUEl1M0lNQ3VISFMwMC1WRkU0cFF0c1pkZnlGVkFpdk9SYllNcFFoUGxBRTh2V1dpZEhzbHRTTk5vQUU2X0J5OEd6SW9LYnhDX0RPUkdnMVNoblpMUGEyWGxELXJ0bGFGV2dfSHZhRDhyY040SkI?oc=5",
-     "published": "2026-10-23T05:13:31+09:00"
+     "title": "편의점 김밥 12종 단면 깜짝공개",
+     "source": "주간현대",
+     "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1FNTBuWFJ4NEd4ejBaNTZ5a05meF8tUzR2dGMtYVQ3aEN4Ynd4a3hYa21ESGQ1cGhaUmw5emJVaE9pWkE?oc=5",
+     "published": "2026-10-23T16:01:00+09:00"
     },
     {
-     "title": "[10-3 후판] 가격도 거래도 제자리",
-     "source": "스틸데일리",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE15bWtacTJyZk40QWZ6N2E3aFRCaWVnQTdPSEsyVldsVGZORWZPdlNlZEc1SXhmTF8zT3hSV2l2TG5zdXlyT2twQnM4aENHOWpJampoN3owYm91U0FEV1VTSFJzaHJiOThCdXVqZll6aGhVWks40gF0QVVfeXFMTXlta1pxMnJmTjRBZno3YTdoVEJpZWdBN09ISzJWV2xUZk5FZk92U2VkRzVJeGZMXzNPeFJXaXZMbnN1eXJPa3BCczhoQ0c5aklqamg3ejBib3VTQURXVVNIUnNocmI5OEJ1dWpmWXpoaFVaSzg?oc=5",
-     "published": "2026-10-23T05:13:31+09:00"
+     "title": "[신상브리핑] 삼립, 아워홈, GS25, 깨끗한나라, 모두투어, 노랑풍선, 쿠쿠 外",
+     "source": "한국아이닷컴",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBGUWU0b2pIdzNqclRLazZhYktWOHVmbjFkVzFUN1NaejF5azY5X0syMXF3NGxPZnlrS0w5N21JNm9rS0l5MzBfQmhGVFRsNVFjaDVfYVhsc1BHVlAxTUlJUUx4ZEJRUko0anRZ0gFvQVVfeXFMTmxMeUEyQnpZbW9HU19VYndFSE9nRllla2I1NkljdFdSb0JaeDJKaWNOaGR1NUNtd2Mydk1yTW45U3NHYlFMR0lZdG1rS21GaDZhVF94YnF3MlIyS2U4NWFYRFZQRDVFVm9vaGJ4bk1B?oc=5",
+     "published": "2026-10-23T16:00:00+09:00"
     },
     {
-     "title": "[10-3 특수강봉강] 유통價, 국산 보합·중국산 하락…수요 부진 지속",
-     "source": "스틸데일리",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBuc1JFY0c3RnRfZFJCbFVheUtFclhmZ3FfNFM4blVpMU5SdFNBYW44YjVCb2hPbXgwbnV1SWR2RDViQy1zbDlyWTNVTms5MWpKcGxoOUJEZDJvci1UMVdTNGRvWEYyNXlHcWRVNFQ1N1hSU2ZN0gF0QVVfeXFMUG5zUkVjRzdGdF9kUkJsVWF5S0VyWGZncV80UzhuVWkxTlJ0U0FhbjhiNUJvaE9teDBudXVJZHZENWJDLXNsOXJZM1VOazkxakpwbGg5QkRkMm9yLVQxV1M0ZG9YRjI1eUdxZFU0VDU3WFJTZk0?oc=5",
-     "published": "2026-10-23T05:13:31+09:00"
+     "title": "[신세계 뉴리더] 신세계까사 허민호…‘유통·뷰티’ 베테랑 귀환",
+     "source": "ER 이코노믹리뷰",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VODlWY29MeE50bVk0NDVIcWhxNGpCeE1jcVdqU1FidGFuNEg5MlpGUjQybnVwOGY1a2Q5WF9rSlVkVXZOZmhpZVNmWkpRS3dxVHNjR1hVVmVzRVozOGo3bF9QRFpjamllb09nbA?oc=5",
+     "published": "2026-10-23T15:59:36+09:00"
     },
     {
-     "title": "편의점‧고시원서 마음까지 돌본다... 서초구, ‘마음상담소’ 2030년까지 52개소로 확대",
-     "source": "뉴스에이",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZYmVwYXJ0XzAwaXkybVhuY0lSalhoaExsR1JDWkFXSzJLdFBwMEl6T09aZUh1OEVpLUNYTlJtbVVPYi1ULTVQb0lBMGxkZGxfZDZVY2EweFhDa1VjM2xWVmlVMzRENkFwM2c?oc=5",
-     "published": "2026-10-23T00:47:45+09:00"
+     "title": "GS25, 980원 견과류 출시…\"가성비 PB 전략 강화\"",
+     "source": "비즈트리뷴",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14aFNhNU9USHNCRmJnZjBJdEZrWlJ4T3IyLURQNEZpMXBoNmNwWlkyeU84Rnl4aWZJZTFnWDJRUlVlc2NFZUJWNTJ2bEhrT0RSd3ZSTzQxX0hyR1NoLUlUeXZOQ1RzTnMxai1LVUtDUHQ?oc=5",
+     "published": "2026-10-23T15:59:03+09:00"
     },
     {
-     "title": "‘한국방문의 해’ 준비 본격화…관광·유통 협업 나선다",
-     "source": "여행신문",
-     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5dk1rMU5qaFdWcEM4Y1ZvV28tWkt5QXFJVzVHMHBka00zbGw2RWcwdlNqMEI0UTN2REJ6ZV9DeFFsS2RYMXp6VDB5NW96cGVoNE9hT2ROQnFMU191Tmg4aURxajBiWWx1SlQxWmU1TWRJUQ?oc=5",
-     "published": "2026-10-23T00:05:00+09:00"
+     "title": "[요즘신상] 성수동 맛집 버거 편의점에 뜬다… 겨울 어묵·소스도 새단장",
+     "source": "천지일보",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GZGRQajUtX0VkMVlSZGtBdS1XS3NxcEVMNkc0dkJNVThWZm1kdjN1a1hPMU5PcWxhQ0NneHZmY2wzTEw5WmdyWkVWdnlCSFlyUXgydWtncHk3dFF3TXU5dXk3eUlySmlhbFE?oc=5",
+     "published": "2026-10-23T15:56:54+09:00"
     },
     {
-     "title": "네이버 관계사 라인야후, 1억명 '라인'에 日 세븐일레븐 배달 품어",
-     "source": "한국신용신문",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5GOFJJcUNHeGFpNFphTWdETDliM25CLXRyX2pURjhGUVpoSFRCcWhzLWNscUhDRVFoY3FaTnpzaEp2c2t1WG5pRzlsWlNuQ0E4cVJhMW84VDBVUlUyVUZRQkhpVUNUNHlZT0VR?oc=5",
-     "published": "2026-10-22T22:44:00+09:00"
+     "title": "섬박람회 열리는 여수에서 수산물 소비 촉진 행사 줄이어",
+     "source": "여수넷통뉴스",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Pa3lvb19SY2lsWm1WUV81WVY3cEdSN1FGRW9HWGhaUFdFXzNMWmZ0UF9vQ0dMZlNVemFxU0pvMVRXMUtUZDBkVWpLTFZRZzdfWlFSRlJUZFMzZVVZdVNJTU1lRk9SYVVY?oc=5",
+     "published": "2026-10-23T15:44:57+09:00"
     },
     {
-     "title": "청도반시 ‘소과 수매’ 합의…가격 하락 대응 나서",
-     "source": "공뉴스",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zM0J3YTRfakl4czlkbVFhbEVsNUFCRkc3SjF6aVNhY1dqc2tXbG10NGxFM2hEVC1jNFlpa0Q5WXFzSVhBWnVpSmJtb1A3V2IxR3FjQ2E3SHV1TkFYSHZtVFJmV3FyczdPZ2N5NA?oc=5",
-     "published": "2026-10-22T21:56:23+09:00"
+     "title": "기업은행, 포켓몬 신용카드 출시",
+     "source": "BBS불교방송",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5rUHdBMXhfVk9DdzJVbkZfY0xPVENmWk1OVGZQejRaR0lFY1ZWU2pXQ29KYW5xdFRwQzJzNnYyWEUwRnlKTWw5TUZWTG15VDE1OVVpX29sblZ3bUtLTDBkXzVmUTFWNlI4RHlr?oc=5",
+     "published": "2026-10-23T15:37:29+09:00"
     },
     {
-     "title": "인천 편의점 '찬바람'…점포 수도 '칼바람'",
-     "source": "인천일보",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZNWZaSXJvdDJqTnRLNFdlZ09MaVJoNjR3ODRUZmR5dlNBYnpDWGotUkoyYnlETDJObVVPamxsMjYwN053ZkZuUlRtUW53TmxwRlZHYzRaTnhrVDRNUjBJRzFDa0xiczJONDdrSHpxb1U?oc=5",
-     "published": "2026-10-22T19:12:00+09:00"
+     "title": "GS25, 1000원 미만 초저가 견과류 3종 출시…가성비 PB 확대",
+     "source": "중앙이코노미뉴스",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9qT3A3VUdJdFlWLU45UVowc1ZjMjlwRElsYXEyT3JPaDRDTzE1OURlWmxjTDh4UnpkbWdubFhTSzJxRE03YVRNVlRKM3BiMTRoQ01EV1NZaE40eHNLLXlkZGJLeVgwRXFSZFcxWEUzekdWUQ?oc=5",
+     "published": "2026-10-23T15:27:34+09:00"
+    },
+    {
+     "title": "조선미녀 英 부츠 입점 1263개로 확대",
+     "source": "공감신문",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NSDNNQTdyb0VzTG9tb3lQWkIxZkp0b0Y3Rm9PbmtLMXlOT2pqWVJRUUhWSzdzVmdhbXVIazFkQ1ktRDlrT0hvTW5NWC1Lc2stWWhodlFyc3daanBxMFV2ZkNRellwWkk?oc=5",
+     "published": "2026-10-23T15:21:09+09:00"
+    },
+    {
+     "title": "남양유업, 프리미엄 버터 앞세워 외식업계 메뉴 개발 지원",
+     "source": "디스커버리뉴스(DISCOVERYNEWS)",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9na1JMcF9sOVFHMWFlcGVmUVFpSkZKRjRLbzNnVWY3bzZ3TlJBVndyUzFVc0NQc252NlBLdDdlUEYwZV94cS1QdWlRalpINU5tbjVBdDNZc01ZbXNIT0duU1dVSVBCUmZjS1hVUVVnTFA2QQ?oc=5",
+     "published": "2026-10-23T15:18:28+09:00"
+    },
+    {
+     "title": "아몬드·캐슈넛을 980원에...GS25, 초저가 견과류 선보여 - 머니투데이",
+     "source": "머니투데이",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5uLXRzT2I0WkR5ejhfcjNaXzJhTDQtVjlLcmY4X1BXeWFKN1RWWHQ5dUtySzdoaWlYVlE1S0IyNTBTMXlrSkpYVTFPcHFmUlZQa0lobXk1VnoyZ3BGelQyN2Y2TEZMMk52QU9DZkpvONIBb0FVX3lxTE5uLXRzT2I0WkR5ejhfcjNaXzJhTDQtVjlLcmY4X1BXeWFKN1RWWHQ5dUtySzdoaWlYVlE1S0IyNTBTMXlrSkpYVTFPcHFmUlZQa0lobXk1VnoyZ3BGelQyN2Y2TEZMMk52QU9DZkpvOA?oc=5",
+     "published": "2026-10-23T15:16:19+09:00"
+    },
+    {
+     "title": "유통업계, 가을 쇼핑 수요 공략…쿠팡 ‘햇먹거리’·무신사 ‘겨울옷’ 할인",
+     "source": "뉴스투데이",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5MVnU4QmFxbUY1aHFYd1ZaSEJDU1IzUkJQMGR4SHltYjhXWkFJVUV6NVVsUTdQamxUdG0wS01SQ21NbElpdjJNdFAxYk1mN09fVlBHbkJvcEh2QU1TU3c?oc=5",
+     "published": "2026-10-23T15:08:00+09:00"
     }
    ]
   }
