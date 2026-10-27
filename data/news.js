@@ -1,10 +1,40 @@
 window.NEWS = {
- "updated": "2026-10-26T17:39:19+09:00",
+ "updated": "2026-10-27T09:08:57+09:00",
  "sections": [
   {
    "id": "law",
    "title": "법·제도",
    "items": [
+    {
+     "title": "주병기 “조사 거부 땐 매출 1% 과징금”…공정위 조사권 강화 추진",
+     "source": "문화일보",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAzd1l4TENyWGthdUFLU2Z5SjdaZ1NFOVBPRFhSbVpRTk1JRkk0aGx3aEhObktKa1l3ZkNFaU9BUmxCbHMtQlVIQTI1RHpYM0E1?oc=5",
+     "published": "2026-10-27T08:22:26+09:00"
+    },
+    {
+     "title": "하이디라오 대박 나자…줄줄이 한국 문 두드리는 中 브랜드 [C-프랜차이즈가 온다③]",
+     "source": "한국경제",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4za3NuSGZmbXFIMlpsUUZSWU16THl6dUpFel9IQ0U3cVZDOXFnbnRwYUxjQ2lpTnZ2SHhfNGNKU3piZ25zMkZzMWdIckEtQlMzM2hMU2d3bXA3QQ?oc=5",
+     "published": "2026-10-27T07:04:54+09:00"
+    },
+    {
+     "title": "성수동의 수상한 상생 [임유정의 혜안]",
+     "source": "데일리안",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zUVRIcHo2RVRERWtId0hGQzNGc051Z0pQYU9ya2x3WGxjT3k1MmJyZ2R2eTNsWVNjM252U2xhMUwtUkZYa1libk85dFZNMVEwZlFONw?oc=5",
+     "published": "2026-10-27T07:00:00+09:00"
+    },
+    {
+     "title": "[ 2026년 10월 27일(화) 프랜차이즈 뉴스 ] : 네이버 블로그",
+     "source": "Naver Blog",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUkFISTNkUGlEb3djSkFEdHlzU2xYNEhfMnY0RU84dDZqVkxkNU5qaHgtdjRVdnhic3ZxQW9HSFJ3QmdqSVNGOUkwNThCMTBVT1FrNmV6UENhSElsVldYbldfTHBvdUZOai1ncjg0MlVteWdGeF9PY1pxS2RQcWZVYnFQR3lBb3ZRQ01OOTln?oc=5",
+     "published": "2026-10-27T02:05:36+09:00"
+    },
+    {
+     "title": "다이소 정조준한 이마트 ′와우샵′, 무엇이 다른가",
+     "source": "KPI뉴스",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9zbTFaNlg0c0dFZXhuTkZyR3RBUHZ2TWxrWjVOb1BQNXRFOFdHMmFpRXVweXZwclBDSU1KZnlhY1EtRFFsVmJEWnNyV0xJUlRReW9r?oc=5",
+     "published": "2026-10-26T17:18:36+09:00"
+    },
     {
      "title": "전자금융업자 감독 강화 본격화 : 10월 하위 PG 위험평가와 12월 전자금융거래법 시행",
      "source": "법률신문",
@@ -14,7 +44,7 @@ window.NEWS = {
     {
      "title": "공정위원장, 쿠팡 조사 거부에 “체급 맞게 행동하라” 비판",
      "source": "미디어오늘",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1oX0tWcmU1TXpqeURwQzZER1hlSGVROHMzWUt4SGtqWkVKbFhMTUJYRW9yd2RpRzNVcWlSS3lrRUtPREpxb2J3UWFiQmlFYWNZQlh5UkJZSW0yUGFmQ1RrT1BwOWFoV0hiZ2dtR242WDk?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5WTHpleWJmN3RFbTFmZXVtNVFKWVdKbTAtbkE5RmxtRWJEUE92Nk1SeTQyV3FyLXg0bjE4ZGxLQWZQd0JjRVdlUVU0S2ppaUplWkxSZVpuYWttdmUyUFZaSU9lWWJyNW1sRXdfUVl1Y3J4Y0lY?oc=5",
      "published": "2026-10-26T14:58:50+09:00"
     },
     {
@@ -60,46 +90,22 @@ window.NEWS = {
      "published": "2026-10-26T10:56:43+09:00"
     },
     {
+     "title": "주병기 공정위원장 '조사 방해 기업에 매출 1% 과징금'",
+     "source": "세이프타임즈",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBhUUpEbHhQYWNwM0dzeWJuZ0pjajU2SGduMi1DU0FGMkxOb2xsQ01FeDBTS3FKN2pOZmtWTGZ2R21IYm9CQVZpZzZ3N0phVDQ3TFQ1WDltR0w0ZWxtdnVVM1pRNTl5T3F0OThNbVFpY9IBc0FVX3lxTE82VGotS3lZdVh5WFhYRUFqQm03b05yWGdFZEo3SWx5bzF6NkVUbzExem5fYVB6UTFhNEl4dWdPOXI5c2dCNVF5a3VucThrMk1VTUhRSTUyQUtVWnBrN1N0Ukh3aTQtd0FTa2tQM1BUNm1KQ2s?oc=5",
+     "published": "2026-10-26T09:29:08+09:00"
+    },
+    {
+     "title": "다이소몰, 겨울 패션·방한용품 등 800여종 기획전 진행",
+     "source": "청년일보",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwVEVLSldxNXpsVlRhWEtBajNEamM2M2RTS1NNNTNzcFFib0ZOUm52bzFCN2RhVDFCaW5Yckd5NFNielc4alN0dmFGVXNqUF9QNU50LXA2cjdsS0U2cGE4M19kVUFmbUE?oc=5",
+     "published": "2026-10-26T09:27:26+09:00"
+    },
+    {
      "title": "쿠팡, 와우카드 프로모션…전월 실적 없이 월 최대 7만5천원 적립",
      "source": "청년일보",
      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJdWZRZHgtUjlSb2xnX2dHMlp3RUJsMGg5NnVDdGo1bWdNSGd5N0JNQ0Y1bWZ2ZWxuUXFBdmFfelY1SURkTXFFdHEwV0p6SEx5UEUteERGT05faml5VUV3V0h4dzdybGM?oc=5",
      "published": "2026-10-26T09:23:58+09:00"
-    },
-    {
-     "title": "공정위 “조사 거부 땐 매출 1% 과징금”…쿠팡 사태에 제재 강화",
-     "source": "마이데일리",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBheXNWLS14UnFqc0h2VndaQmo0LWV0bHlTbjRnSmhReTVIUjNHSnlqb3dfa0IyWGozbVBJRXBNclo0S3JTdXFfOHJQZVJ0SjZiV0NZN053SFdteFliRHVDMA?oc=5",
-     "published": "2026-10-26T08:41:19+09:00"
-    },
-    {
-     "title": "\"다이소랑 똑같네\"…이마트 와우삽이 넘어야할 벽 셋",
-     "source": "이코노미스트",
-     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1jM0JHaUtGaFctVlkwZ2dVVVlpRVJIYmVOZGtsU1RBbGRyUnJxZ3RjbjFUZlJSeXBickc5YXowMEpYbFowcnlUQ3JPbEp4NUhRNllINnZFazJGVVVkNmFsX2JB?oc=5",
-     "published": "2026-10-26T07:32:23+09:00"
-    },
-    {
-     "title": "“이마트판 다이소 키운다”…정용진의 초저가 승부수",
-     "source": "이코노미스트",
-     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Zajg3UEx3bWd1QllKd3lwX3p2NHhCaG1TWlE1UjU1bUxPbEw0VWtPcTJzREZqa29JV285OW90bDVCZ0g3blRvcXo4LVVVV0lmX0xIOHIyNnF0VTJ6TzM4ZWZR?oc=5",
-     "published": "2026-10-26T06:32:23+09:00"
-    },
-    {
-     "title": "쿠팡 현장조사 불응에…공정위 “기업조사 거부땐, 매출 1% 과징금 내야”",
-     "source": "매일경제 마켓",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0xcklGQjFhejNydWtMcXBFUUxHX2ZpdlBBU3hjYWU4TzVDSnRBQ1VZMk56Q2c4SlYyQU5QYUtHZU50NkFVb3BRRjI2akxnTmhmTFE?oc=5",
-     "published": "2026-10-26T06:08:35+09:00"
-    },
-    {
-     "title": "수백억 과징금 도로 토해내도 '승소'… 공정위 승소율 부풀리기 논란",
-     "source": "한국일보",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1tVV9KaGs5Sm13Y25DaUJ2QTVZTTNWOW9GM09BTTViTkgteExNSmVMV2hvQ3IyRFoxNWw1czBPUEgzMVR5QTB0emxjYklnMGh2WDkzdnZCZUtCTWFHQWEzYV84a0dmbXdyY3pma2l30gFzQVVfeXFMUDV2VVRLTzREbmJzc014VjY2bUNmSjhMYl9PRUtuSDdzdl9mbWNpLWFMajh5R3pGYVQ5emR4UElfYktqdDV4WG1Pejl0T1p6X3BpTHQxSXkxRHJ3RTVPQ0M2NHpYSTZnLXgyRnhDTGJ3cndhMA?oc=5",
-     "published": "2026-10-26T04:30:00+09:00"
-    },
-    {
-     "title": "\"조사 거부시 매출 1% 정도 과징금 부과해야\"",
-     "source": "조선일보",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN0hjU2lDNjNXRllRWnFZUkFJMDlTQ2NVdWpha2RadFhBU3RTQ0tTY2ttbWZ0VjdjS3VBQVd0YVVENHNWTXJTM19OTUtDMTVjVnhCekJaZl95UW9md25TRndxUHpCYjh6MVNxUkg4WVF0cjRqZFBiZWRGRUhNaGJZSjJ5WWNaTndsT0RGOE1n?oc=5",
-     "published": "2026-10-26T00:32:00+09:00"
     }
    ]
   },
@@ -108,124 +114,124 @@ window.NEWS = {
    "title": "유통 뉴스",
    "items": [
     {
-     "title": "스파크플러스, 선릉4호점 오픈…1인·소규모 오피스 수요 겨냥",
-     "source": "더팩트",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hSEFWZ1VzU0FmT0xMLUVoRlVBb09xRk9CbmlUSnJtWGtxQ0cwRHFCa1czUzVWZTVhVS1qbTNzbU12ZWQ2U21tbWRzZzVBdjNnODdvVFpmZ2FSUdIBVEFVX3lxTE15d3FUN3luOVJIejVZMFpzclZNaERsUzdqMjhzQTJ0dmdoSFBPR3EtVFhNbjdaN0pOTVJwT3hlRWVKZEhtZmlSNWI1NllOQi04RnN2dw?oc=5",
-     "published": "2026-10-26T17:29:24+09:00"
+     "title": "[단독] 김대일 세븐일레븐 대표, 광주行…차세대 가맹점 직접 살핀다",
+     "source": "이코노미스트",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA4U2o2MmRhUW9qdUtOWDNuYWY2NmJCYTVKYnNXUmpaMi02M2tKdkNHOWoyYzM3NDBKamJtMWR2bnMyLS1CME15aVhYdTZfV3JHa2hzX0ZhcGtybUZTa0xGQkNn?oc=5",
+     "published": "2026-10-27T09:04:00+09:00"
     },
     {
-     "title": "[업계는 지금] 이게 웬 떡이냐…‘오픈런’ 모찌 열풍에 편의점 3사도 가세",
-     "source": "푸드투데이",
-     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SR290YzFCdmpULUtWM3R4ci01UXBLOV9Mak5IQlQzTzloZGdBcXFnZzRib1NBWlYwVG9Zc1J1Q2xZUzgxeDlXeFdlNEEzTU9VX3lUSkh1Q2NJVWlVUE4tQnYyMlZHZw?oc=5",
-     "published": "2026-10-26T17:28:06+09:00"
+     "title": "롯데마트·슈퍼·세븐일레븐, '숨결통식빵' 누적 판매 100만개 돌파",
+     "source": "청년일보",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52dWJCektmb3VEVkZoRDg0czI3UUgzWkFCbjl0RHk2SXdyRDhzTzdlT2RFUG1rWjU3NnJlNEJJM1VUYkc3algwYVgzYXduOHFpSFVkam5Oel9yVk55X3ZnOXF2d1BhMnZha0E?oc=5",
+     "published": "2026-10-27T08:59:33+09:00"
     },
     {
-     "title": "[신상품] 팔도 '바지락 짬뽕' 외",
-     "source": "서울파이낸스",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yc01iSzZVeEpVUGVmWTJkVFVVeVRBZXUxMVdsejFXc1AydlUwQzVKcmZvdjJqYXRXMHNsZjA3R0o0eVR3YXVDVkhTWVlzbWdSb2x4T1RtbkozV2dmVGxzb3piZndKWmdkX2c?oc=5",
-     "published": "2026-10-26T17:26:35+09:00"
+     "title": "CU, 반려동물 전문 편의점 연다…전국 10곳서 시범 운영",
+     "source": "이투데이",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9aMmtsdmI3NTVBME5XZFd3YldSUnFRVEEtSktmRXBpdEhoMnhjMkJDQ1g5cnZxOVVrUUhMTGRybl9vQVZiOW1wdjBwaWtxUy1UMlkxZk5NU2YxMDc1WDRJaHdDSENUNUpsLVZIdTRqbjJ2eGRJ?oc=5",
+     "published": "2026-10-27T08:55:00+09:00"
     },
     {
-     "title": "연말 특수 기대 접은 광주 유통업계",
-     "source": "광주드림",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UYTRHV28waGswRUQ3d1V2b1JyZjB4VkRRdkZ0UkY4N1dTMzF2cVRsOWF6T1hocEN3aFE1a2I0M3Z4ZEoyS2ZTTDBXWlZUc3o1MzJ0ZmhOTUZzMlcxd1A0RVhQS3A2djhkcEE?oc=5",
-     "published": "2026-10-26T17:24:24+09:00"
+     "title": "백종원, 美서 '더본코리아 소스' 시연…현지 유통사와 협력 논의",
+     "source": "연합뉴스 한민족센터",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9tUlcwVkZ6Sld5OE5STWg2cmdWN3dDaHgzVVU2Y25JNXJ0VWNucXVBNVJDelFpRmxmTW5KcW41TjlSR0FUOW10QkZxU3ZzMFNWYmNDNHlOX2ExMnV2ZUxoM0VKd2ZkOUNBbjFiMk9kWkNmckRh?oc=5",
+     "published": "2026-10-27T08:48:45+09:00"
     },
     {
-     "title": "편의점 떡 매출 급증…초콜릿∙피자 결합한 디저트 잇따라",
-     "source": "한국면세뉴스",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GWFF0NmJmeEJtWVJPZEJTaERtcGZWdWJWaV9pdk4xckd5Vzg3Ym4wVUhicUtwTVRQRFNlb2c5ZGRoaXV6VWFnMkxQRkRPTU9PaGJLU2g2dUxYdUpzOGdwRmpOTHBEbno1b2c?oc=5",
-     "published": "2026-10-26T17:20:37+09:00"
+     "title": "“지역 농산물 활용 확대” GS25, 전남광주 쌀 안정적 공급망 구축",
+     "source": "이투데이",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0xeXBXMEltVkdKMV8tbWtrcU8wallFZER3eFdVSVd4LURKalBqSHNnRDYzTDg4TWcxRm9VaFJCZi02Sjh0MFRLbFBmWnE0NUhaeXl6UzlUdUt3QWlvazhHaDFwODFmRmY3VnFpS3YxZk00eUVr?oc=5",
+     "published": "2026-10-27T08:45:00+09:00"
     },
     {
-     "title": "GS25, 백설기 위에 피자 올린 피자설기 출시",
-     "source": "https://www.newsphere.kr/",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4WERjNWphRV8zTk16MGYteHVZU1BaVnh5S2dlUmQxU3p3UzdLSE1LakF0X3ZtSm9zMkZ1MVRWQS1xNUcxQXY1aFBJUWxWdUJXOW1jeWZQOVVQRC1FTVZqVl92c0h3LVpX?oc=5",
-     "published": "2026-10-26T17:17:04+09:00"
+     "title": "세븐일레븐, 日 '토라쿠 크림브륄레푸딩' 판매",
+     "source": "연합뉴스 한민족센터",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB1VGl4aHoxNk14X29jeXcxMHpwRUJoVE9fNVVzX2xUOVF4eHpSUzJ1N1YycWxCRjdTTjlfQVFYd2lFc3JTcnZMRVdkRmZUUktDaEhyUUsyVl8wd3FJQ2lRS0pzNWxvUkxWeXlEQURfc1IxcXR2?oc=5",
+     "published": "2026-10-27T08:44:50+09:00"
     },
     {
-     "title": "AI기업이 옷 팔고, 팝스타는 신발 전시…팝업의 변신",
+     "title": "CU, '아무도없개'와 반려동물 특화점 운영…전국 10개 점포서 시범",
+     "source": "뉴스1",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zNWV2a19WQkEyN2toVTNRYnFLOE9TUDYzd2tVbEZXMUtnUnAyTTlUSE9UUnJyeE03SkVyZzF1c19xdVNpbHd3TEFKRm12cFpFTERTbDQyOWpMaENjWGhV?oc=5",
+     "published": "2026-10-27T08:42:32+09:00"
+    },
+    {
+     "title": "GS리테일, 편의점 간편식에 전남광주 쌀 1만 2,000톤 투입",
+     "source": "뉴스드림",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zQmxPakJST0xQV09kUnNMLVFmaThlVW9zeEhtZEZITHhpRjJ1UXQ5Z3lMZHJHXzAyWGdhOXFLYWFtWERiZ3ZJQUVZcHg3cnVUby1uSWppd0V5VGphUDR5cGxEWTdzUjV5dXdJ0gFuQVVfeXFMTWR2Z0wwcXhUcHU1TzhPQTJEZ1NHZTZGaDZGWW94dVlXaTMzbWZlb2lnanIteEhGNE8xQkdNbWFfeDdrcndwaUpIdF9sS1R3aFRfRlhCU1ZjMjNZOWRJRi1nVDZsNTFYVUF6dkdrSHc?oc=5",
+     "published": "2026-10-27T08:40:10+09:00"
+    },
+    {
+     "title": "편의점도 펫코노미 공략…CU, 반려동물 특화 매장 확대",
+     "source": "아시아경제",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mWFpTcmdzSXhicFZRV0tldjFMcXhCREd1bGpoTUNXLU1DemVONmNaRkUxemZHMk9IQ1dKd05ZVER1b0E0S283TUFuczE5elJkUHNUN3dJZkg4bDFLMW55aA?oc=5",
+     "published": "2026-10-27T08:39:11+09:00"
+    },
+    {
+     "title": "GS25, 전남광주 우수 쌀 공급망 구축…상품 개발·판매 확대",
+     "source": "뉴시스",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96Y3JyWjVSRGxjVTBOY0FQdjlJTGdlOUdmdXdqQXJ4WE5NdVd5REpQcXFZY3JYV1hCQ2JGZGpvWUk0QTVscEhreGJCN0YtOEFkdE1qcFpDQXFyWDRQYWMyb9IBeEFVX3lxTE9RcFhNQnpYOTVOazBwQTFVQTU1SldsbUt2bVhWRDdWUUhxZFdzeWRTRXItN0tSNWF0emNIYnBjRjlkb3ZQeGxNUGdoTlNicmdVak0zS25ILUhsTFhtaFFLWDJqVGQ3bFlneTVRLUNrQkZTU0JDdE1RbA?oc=5",
+     "published": "2026-10-27T08:38:31+09:00"
+    },
+    {
+     "title": "[오늘의 먹거리] 토라쿠 크림브륄레푸딩 세븐일레븐·감사 우유 케이크 서울우유",
+     "source": "한국정경신문",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBMMHlOWWgwY0M4dDhuNEdZSkF3MS1zTi12NmEzaFRTUVJVSENVbkp5MHZLRnktbW9KanhXLUVuOHloaTVzMWI2MWlMSnh5RmZBWFE?oc=5",
+     "published": "2026-10-27T08:35:52+09:00"
+    },
+    {
+     "title": "CU, '아무도없개'와 숍인숍 형태 반려동물 특화매장 운영",
+     "source": "연합뉴스 한민족센터",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE92eTdYMGlVZjBRN1VrSlUzOGZCMGh3ZDNTdW50bEZQNWhPeGVXQmF1Zk5jYVNpUVl5UVpFcGJNclFhRjE0WURZOWxlUHVwTF9hU0xERVNoSVktcUJwMHFDRkdNNTc4SmZqOE9NNmc0VVBZVUxf?oc=5",
+     "published": "2026-10-27T08:35:20+09:00"
+    },
+    {
+     "title": "'두쫀쿠' 열풍 이을 대형 트렌드는 '떡'…앞다퉈 출시 경쟁하는 편의점",
+     "source": "파이낸셜뉴스",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wVzFJVk5WZTVwM3BYMUZLM3lqcEhXTGt5Qld1UWNfUmUwR2ltdEs2c0dMTmdfT3hxVkNlMjNVdkxGcEd5cVloUExEUTQyQWdvQXlBdXdaQlQ0dw?oc=5",
+     "published": "2026-10-27T08:29:33+09:00"
+    },
+    {
+     "title": "CU, 24시간 무인 운영 펫샵..‘아무도없개’와 반려동물 특화점 운영",
+     "source": "한국정경신문",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1IM2ZQLXRKYVJPazAtdXZHMTZFOS1vNUJ0U1kyQ0h1MVN3Q0ZxeU5wVEIxOVFGR3N1Ym1EZ1BXV1lzMVQxM0g3aHBHSHdZTFRMOEE?oc=5",
+     "published": "2026-10-27T08:23:17+09:00"
+    },
+    {
+     "title": "세븐일레븐, 일본 인기 '크림브륄레푸딩' 단독 출시",
+     "source": "뉴시스",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUaFFtQTlrc01XaXQxTVFaOHhUTkF0R2lZVHZDYi0zN3N5dTliZUhIR3p1dGp3VG85ZTJfTUtPTTEyNnNnRVlhSmdla1A4ZTBrLU5vdlI2R3JKbGpFRWMyU9IBeEFVX3lxTFBGMHZzcmN2WlNjZnNCTkZVX29YNE1uRF8yOTk5WEdaeElLYUdPM1VPWjJjNkpFM3hfYzVVTktDelpCd0Fuc215ZnlvU29PWWpXTUNmTUNhMjJRMFhZcVJQTG1aUV8ycEVKdHhRLUpTUG5KU3MzRlZHcg?oc=5",
+     "published": "2026-10-27T08:21:05+09:00"
+    },
+    {
+     "title": "\"댕냥이 간식도 편의점에서\" CU, 반려동물 특화 매장 10곳 연다",
+     "source": "뉴시스",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaQ1I1djdGQkZZZXlYN1M0UExaSFZ3MkxreWRDemw1b0ZjbUlZTUExbEItMjFneFRPb2NPTHZ6Q0N6Qy1pcWs1Y2JpUDRaRS1kUW5SSEppWlBIZTI5OVBGc9IBeEFVX3lxTE83bTFEV3VuaEVCaHZhZGlYWkhoUU9TT0syTVduVEtFa20taVVaYllWeW41Qk0tbXJoNVBfYnlyMFk5TnRXTWF6Y3dTRWhxVW84TDdpVzNkVkZOQ3J1bGhIVGFBcV8tOVlmMTcyS1BMRkZoSDNnTEE1Zw?oc=5",
+     "published": "2026-10-27T08:20:42+09:00"
+    },
+    {
+     "title": "이정문, 영상콘텐츠 제작 투자·온라인 유통비용에 10% 세액공제 추진",
+     "source": "세정일보",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1EaEZ2M0RzZ2dJemlXa196WWN2WVpDNk1wSVJjckpvUUNHMmV5REJWNTRBN3dGbFpaalBxWFVWMzQzMVY2NXY1enlzUUxOcXVFUTFtQ2ptd2FSMXVIYXl1d1ExLWg5QW0yMXRmZw?oc=5",
+     "published": "2026-10-27T08:20:28+09:00"
+    },
+    {
+     "title": "\"편의점서 강아지 간식 산다\"…CU 펫 특화매장 10곳",
      "source": "한국경제",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3T1V6RlJkenAwOVRSeFhldnFXSEYtd2Nrek9RbWdFeVRJRGdhYURjYUc3NGNVTm83OGJHd1R5UUJ0OWl6ckc2ZVpzX1BfSnhDSFRjbEZpcUo0QQ?oc=5",
-     "published": "2026-10-26T17:14:13+09:00"
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0dk9WbFRwdkJ2ZjZaUXRQOVpTMzQzclRpNVNHXzF0QVQ2OWNRYlY3QTBoSXRaallSZGsyclhRUG5KMUloN1kwQUphSDJ1N0NUUTVLakdiTEVCQQ?oc=5",
+     "published": "2026-10-27T08:16:33+09:00"
     },
     {
-     "title": "[오늘의 편의점] 세븐일레븐·CU·GS25",
-     "source": "파이낸셜리뷰",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9aSkZNaERWdGtBQmxuX0tOUUIxWGNUMmJ5Q214Z3I1R091eHBGd0NSNGdVS0xNQktlYXkzQ2JnMWJSRVp6VG1CUktxaWxPc3ZCWkhhRE9OYTBwREt2UVRTVEVPTnhsUXZ2SF94MlF6ekxhSUx2?oc=5",
-     "published": "2026-10-26T17:12:07+09:00"
+     "title": "편의점 음료부터 관절·임신준비 영양제까지…2030세대 종근당 제품 관심도 큰폭 상승",
+     "source": "빅데이터뉴스",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE85ampmSkdnRDRGREpLVzhsLUdqaGoxdEd0YUJzdTdLVHdVa3ZtN2Q0VjV1NGNPN3lXellKeGIzdXZEaUNNSTl3THNoMnB6NmJQanllVnhJVEdXUGl1cWJkek10VzNEcl9fOGRlUWNIR29iSmRYOHhRQnBDSQ?oc=5",
+     "published": "2026-10-27T08:03:36+09:00"
     },
     {
-     "title": "가로수길+청량리, 다이소 대형 점포 늘어난다 [뉴스Q]",
-     "source": "스포츠Q",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9yQk5kWUZrMHNXMVpmWmc4Z3JRcTRHUkd3aFFxaDFJbFdXUXZDeHhpNXFmU1ZjZGdZWVNhaEk4SVJKRnl5TkVzRFlTWTBvRTI5STBFR2FHTS1KMnNfY0RwTUdfQzBiWXQ0NEE?oc=5",
-     "published": "2026-10-26T16:54:39+09:00"
-    },
-    {
-     "title": "캐나다우육공사, 한국 육류시장 협력 강화…11월 16일 소고기 세미나 개최",
-     "source": "이코노미사이언스",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pcHVvMGh0bTNSYUp0TVltT19OMV9sRGV5WlNkWHhnU21UekF5S0lFUWthdEhucnZKVTNqSngxdDhGUEZJREhFeHF4OG5rZWxlWnY1Y04xSDFQWGNVN21RQUQ3cmpkSTFfTnRjYkV2aw?oc=5",
-     "published": "2026-10-26T16:45:31+09:00"
-    },
-    {
-     "title": "김동선표 ‘벤슨’, 적자에도 가맹사업 출사표···수익성 검증은 어떻게?",
-     "source": "이뉴스투데이",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB1X2c2WTNYMW95Vm1hX2h4MExrMkhpa3lPVmU5LTdfS2E1QXA5YzI2cEVJQm1uaVJxLWhHWkNvODRlSHVnNFk1RWRGelFHQjBUN244Y2I5QWkzU0U1cWU0YzY5VGh4cGFCWG8tQnNVeG9KbUpB0gF0QVVfeXFMUHVfZzZZM1gxb3lWbWFfaHgwTGsySGlreU9WZTktN19LYTVBcDljMjZwRUlCbW5pUnEtaEdaQ284NGVIdWc0WTVFZEZ6UUdCMFQ3bjhjYjlBaTNTRTVxZTRjNjlUaHhwYUJYby1Cc1V4b0ptSkE?oc=5",
-     "published": "2026-10-26T16:35:02+09:00"
-    },
-    {
-     "title": "홈플러스 일부 매장, 전기료 체납으로 한전서 '10월 단전 예고'(종합2보)",
-     "source": "매일경제 마켓",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jZWp4RUd1d3hncnhNeERTTWdsWjl0aEx1NVpwblZQNjBQM25VV2g1cU41S2VmNEhJcFBkX3NoNmJtUEhCM2hvUl80eFByMk1MZGc?oc=5",
-     "published": "2026-10-26T16:30:30+09:00"
-    },
-    {
-     "title": "[현장] \"어란에 트러플까지?\"...한국 유통시장 두드린 프랑스 미식 22곳 만나보니",
-     "source": "오늘경제",
-     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE15STNKLXpQYlFyZHNuMUoyM25jWGtwSlZVMHhEeU52ckFmXy12LVJsUklEV0NFa09iY2o0YkQ5ek1IQjJVRnpremF4VTRWSmNBdlZMREZpTGFIQWpWZ19vYWlDVERPVmJ3MkFXc1p2WmJraEE?oc=5",
-     "published": "2026-10-26T16:30:21+09:00"
-    },
-    {
-     "title": "홈플러스 6개 점포 단전 위기…입점업체 피해 우려",
-     "source": "스페셜경제",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1WHVlbjVlU2xUWnUwd2RQekFWNUNmSWZJUXBxR1J5MFk5R3pLR3JQMmI3WDNxa200c0dnRGVFa3AxTGJnTGxXQkktQ1BpX0N3X0liNHFBdGE4MEVqTnZDZUNCbVNVMjBnMGpzbQ?oc=5",
-     "published": "2026-10-26T16:25:32+09:00"
-    },
-    {
-     "title": "'누워서 떡 먹기'는 옛말…GS25 편의점 앞세운 'K디저트'의 진화",
-     "source": "더쎈뉴스",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBvTkUxR2ktX3NjOXVCenFyVER0N2Vva09OeWltY0RtU1NIZEZYYVlVQ0JERkVBdEdGRFkxLUVTUlBRMGw4NEU1Zmx3SlNfNjNVZ3ZzT19JQlRteUZZRk5iTldzUUZPajNs?oc=5",
-     "published": "2026-10-26T16:23:12+09:00"
-    },
-    {
-     "title": "편의점에 부는 건강 소비 바람···건기식·단백질 상품 확대",
-     "source": "서울파이낸스",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WZFhpNzlSNzNrNUZ0VEUzZjE5M2R3dV9KcEd0YzN5bXlHMEM3a3BOOFpHUFJ1MHhva2FxWTN0NnBIMXRtSnFmcWZKam1BMmZNZ3J3T1o2RXhLWXhYZjd3dmRRTUQxd1hTLWc?oc=5",
-     "published": "2026-10-26T16:05:46+09:00"
-    },
-    {
-     "title": "AI 비서 통한 주문 확대…유통업체 대응 갈렸다",
-     "source": "지디넷코리아",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pQjdKRHRHNTVmcVFFWG84Ym1TdklUWjNYNmpPSExLTG52X1NkS1JFd0U1aHgxeTA1SjJQbnBZdW8wNmZUNUN4MXpOeFNQVXRKZ1FUV2t3?oc=5",
-     "published": "2026-10-26T16:04:42+09:00"
-    },
-    {
-     "title": "홈플러스 6개 점포, 전기료 체납에 '단전' 위기…입주업체 생계 휘청",
-     "source": "이슈에디코",
-     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5wcE9xSzNNSEJLVjNxSndyUUNJbGo4X1VXYTVabVVKeGR3bzJJWHVjRlpBejMyNGRWY3NiZFdxUE5tX3ByTEdSSk96ZmxLY3ZZR3lwX0k1NUZtb1JCQUZiRTkyN1Rzdw?oc=5",
-     "published": "2026-10-26T16:04:16+09:00"
-    },
-    {
-     "title": "홈플러스 6개 점포 전기요금 못 내 단전 예고…입점업체 피해 우려",
-     "source": "경기일보",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01T1ZienpTdW5vczAtOVNRZnI0MThaMlMxTXE1S0xiVFV0SE9ZWm9NOFhrUk1OSnEyNjl6NW5sWG8wYmJvYzEzbUFGTU8tc293c01CV0VKenBoMkU?oc=5",
-     "published": "2026-10-26T15:59:27+09:00"
-    },
-    {
-     "title": "“온라인 장보기 틈새 잡는다”…퀵커머스 키우는 이마트",
-     "source": "헤럴드경제",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tblZ0QWhKX2gtU1RWbE5vdTZSd08yZmFDTExoejlUZmQ2WHdhMTMxWlc4OWMzY0ZXS0JHSVpjSmFiQnRMY1duSk44MC1jbW44Y3ZFZHFB?oc=5",
-     "published": "2026-10-26T15:59:00+09:00"
+     "title": "GS25, 전남광주産 쌀 1만2000톤 공급망 구축",
+     "source": "뉴스후플러스",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9WOHFFbzVJbklZcWZvQUdVTnhRVGN5SmZLTDd0S3hyODU1aGt4b3RWYlMydUdLUUtqQWJfWHhOeHBaZGFTeUFLWTdvci10UF9GV2hjMk55MEprcnpmTkRWNnRCUXFBajZSTURSUk9n?oc=5",
+     "published": "2026-10-27T08:02:44+09:00"
     }
    ]
   }
