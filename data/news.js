@@ -1,10 +1,40 @@
 window.NEWS = {
- "updated": "2026-10-28T09:10:46+09:00",
+ "updated": "2026-10-28T18:25:46+09:00",
  "sections": [
   {
    "id": "law",
    "title": "법·제도",
    "items": [
+    {
+     "title": "\"라면 가격 담합했나\"⋯공정위, 농심·삼양·오뚜기·팔도 조사",
+     "source": "아이뉴스24",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9NZjJlenpFRUFvazVURmJfYzVEM3hrM3RSX0ZCY0MtQy1pemFSSDltV0ZzakRiV28zOW9FUDRDbVFqSHdudmlSa0ZWRQ?oc=5",
+     "published": "2026-10-28T17:33:52+09:00"
+    },
+    {
+     "title": "쿠팡, 와우 멤버스데이 진행…최대 70% 할인",
+     "source": "청년일보",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqSkRUWkRsZVNobEtRYWRYQS1RUndJclVVaWQ2eHJxZnZRYXBTMktITmlrdkpRaGMyWHlWZV9VRXMwOWN2TFBmWk5OM2l1dEtuZnZ0RVpHdUFoSUpfZHJuY2Z2UXV0ZVU?oc=5",
+     "published": "2026-10-28T15:36:16+09:00"
+    },
+    {
+     "title": "대형마트 새벽배송 막힌 사이 상생기금 논란…1000억 산정 근거는",
+     "source": "더트래커",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lVUVUdE91Nl9DQmEzcVNDVnN4RGtlSTM2WFVMcVFCSHhZSm5VTDBydlhXQzNRbVdtcVBuZk4xS3l2NjFGd0ZTU2dtVWwzdUNOSUUzWFRMTmo?oc=5",
+     "published": "2026-10-28T15:21:30+09:00"
+    },
+    {
+     "title": "응시료 환불·1차 면제 확대…법제처, 자격시험 36개 법령 입법예고",
+     "source": "ISSUE ON (이슈온)",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80dzV0dFVoYmZIcGJfTU1seGVRZkF3anFka1RMbzBhOVlZRGd4dGpzWXh3QWNRRlpFdGlubXItUGJsUkdQbE1sRjJocTJqMkJjd0g3QnJJU19sdXdGa2lOa0k0Q3QtdU1CZElZ?oc=5",
+     "published": "2026-10-28T13:15:01+09:00"
+    },
+    {
+     "title": "쿠팡 CPLB, 중소 농산물 협력사 품질 설명회 개최",
+     "source": "청년일보",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qMHBqUlZnU2Y3LUw2Nm1HWmFycnZGbHcwY2xZZFBENkVOTTVqQlFUb19QbnBTOVZmZkozaEVMMTNqNXJOcHJHUGd3d2d2MkxlSnQ5bk5fbHlSSlFfcVZUZmUxOW1BcXRVRUE?oc=5",
+     "published": "2026-10-28T11:38:37+09:00"
+    },
     {
      "title": "공정위 '치킨값' 정조준…국감발 식품기업 후폭풍",
      "source": "뉴스저널리즘",
@@ -18,34 +48,10 @@ window.NEWS = {
      "published": "2026-10-28T05:55:00+09:00"
     },
     {
-     "title": "김위상 의원 “국민 10명 중 7명 주 4.5일제 찬성…임금 삭감 땐 반대 55.6%”",
-     "source": "브릿지경제",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IRW9PYlk5dl93MGlHMlQtckFrY2VIcFh6dkJuam5wYTdjZ2QxbEMwV3UxX0NCYjVQRFV0dHdFd2ZBaXhXaDRFcnNzeF92ODBHVjVzU18zMjVnZw?oc=5",
-     "published": "2026-10-27T14:51:00+09:00"
-    },
-    {
-     "title": "솔로이코노미 승자와 패자③ 가족은 줄고 장보기는 온라인으로...대형마트를 흔든 10년",
-     "source": "데일리팝",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9TNWE5c29BbjdLVDl5VG42YWo0NnY0U0dxTUZpRFlIWHJsN3F4MGczQmMwUzRiT0Y1WW1RRkp1V1lOeVRuWHFiczA0OUt6end4d1ZaRVlBYWdsNmZkeUVZa3J5SGZtVXRta0E?oc=5",
-     "published": "2026-10-27T13:21:00+09:00"
-    },
-    {
-     "title": "명함 넣어도 ‘성인 인증’…초교 앞 전자담배 매장, 여전히",
-     "source": "JTBC",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1YMXB3RnpfbE4ydXY1Tmp0ME1JLTFIM0NDZEdFcUt3N2s5SkVnVzFpaWxaTlhKMFBaWW51U0s2Q3hjQ25odHNKN0Q5VUpBUVh6Ync?oc=5",
-     "published": "2026-10-27T12:29:36+09:00"
-    },
-    {
-     "title": "잘나가는 다이소, 물류에 6000억 '통 큰 베팅'…성장 가속페달",
-     "source": "www.ebn.co.kr",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZajdhU0VBMWRlREI4d2ZvU0FVRHRXUGQ5OTJvU0xGWHZvUXYzSHh4WUR2QlcxdDBsOXNsU2hiVkpvUTRlZUFOT3Zybl9mdmpQU05UVkdJTzFuTlBvUjhtZ3hWN1dvdW1j?oc=5",
-     "published": "2026-10-27T11:27:28+09:00"
-    },
-    {
-     "title": "[이슈국감] 김위상 \"국민70% 주4.5일제 찬성, 임금 줄어들면 반대\"",
-     "source": "한스경제",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE12dWlpTlowMnZfVTZmWFZReEVqQmhUUElENjZoZHVrVDVQaGRFZEZSM3BFalczdjZuaHVsMVZkbkRiUm9wRDBGSVptNFVhTjlraEJQVkVBUWJ3SjRYWmltSHkzUDkzTTJZMUhz?oc=5",
-     "published": "2026-10-27T09:32:43+09:00"
+     "title": "[ 2026년 10월 27일(화) 프랜차이즈 뉴스 ] : 네이버 블로그",
+     "source": "블로그",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9QMUFuVHo4dGNDQkNnM3BTY1hmbjhSOEQtNEhtS2FzM2ZqRm5uTVppSGQ3TEJ5VFM5U0R1dGgwM0lFZDRkcTF4Njg2S19ZS0wtTVhjMkZaMmVhNU05ckN5T3FIYVNUZzE1VFFXcTNEUmMxcVBDZFI0MFdlcUlmUQ?oc=5",
+     "published": "2026-10-27T18:58:02+09:00"
     }
    ]
   },
@@ -54,124 +60,124 @@ window.NEWS = {
    "title": "유통 뉴스",
    "items": [
     {
-     "title": "[유통딜리버리] 롯데百ㆍ롯데마트ㆍGS25ㆍ세븐일레븐ㆍ롯데온ㆍNS홈쇼핑ㆍ11번가ㆍ쿠팡",
-     "source": "대한경제",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5YUXFVbGgzWWVHaEpKenBDRThDWlpfOWVZX1FNLXJCR21TZ1RxSHdFSW13aU1sTl9UN3ZjM19pM2d5NHg5WXBCakFrTjdCU2ZOaVFlOC1od3VoUjRpYWZuN25ZY3hxZS1ITHdmcEJjX0hjVUlz?oc=5",
-     "published": "2026-10-28T08:57:19+09:00"
+     "title": "“외식보다 싸게, 특별한 날엔 프리미엄”…GS25, 간편식 가성비 승부",
+     "source": "이지경제",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB2Mk9CSjZBall0ckV0TUNuRG1qSGlnVDR2ZWllYTM4clVzY2lMSUtFcTdKQUcwMjNRUDFuTE9rYzZFMi13OXZQTTVrOEtscGhHVE9jV1cyV2w5Y2tQazJyY2VLREszR2prMGYydWFB?oc=5",
+     "published": "2026-10-28T18:02:51+09:00"
     },
     {
-     "title": "멕시카나, 하나로마트 600여 곳에 닭강정 입점…호텔 조식당으로 유통망 확대",
-     "source": "로이슈",
-     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5GdV9LQXNhLUFWdi1vNFRNa0lzNkg1TzU0OXZFYkZoUlQzVGlqSU5NOWR2YWJJTW9sNDZGX0ZXU184YnVTeVhxRUIzbWlqUE9TT0RTZ1otTlNvRFoxNXNVYTRBa1puaVdOUVRNUHJsSjloM1JjTjZtNzB3?oc=5",
-     "published": "2026-10-28T08:57:07+09:00"
+     "title": "토스플레이스, 경남은행과 맞손···부산·경남 오프라인 결제망 확대",
+     "source": "스마트비즈",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5OMXZDUERDRDk3aERMbkFlbURjSm05LU9EcERkY2lBWWtqYTRTTnVldVlrVmdSRU1ZNmEtOVNxWTBKR2dnSVFxX2t5TnA0S0UzV2xlLUVYcW54X3ZXVERzZTZjWVVWNUFsOXMzVg?oc=5",
+     "published": "2026-10-28T17:53:34+09:00"
     },
     {
-     "title": "\"점심시간마다 어딜 가세요?\"…'시간 거지' 40대 남성, 지갑 여는 곳 보니",
-     "source": "아시아경제",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wQ1YxSFRHR0V2enJ6YU5DMDNONTFxNUR2NWhRR2lfWlpQc1Bjei03SFBldExSWmVrTmlQS2h0TmJDNllBVHliZkdmamx3U0M2TmUybmlNcm1KR2s0REx2Yw?oc=5",
-     "published": "2026-10-28T08:50:51+09:00"
+     "title": "비타데이, 한국 진출…CU서 비타민 음료 3종 선보여",
+     "source": "중앙일보",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBERE9mRXNUQkJnUXRLME8xZ3k0anJyczRmWFEtd3YxRDVfekJITmRCT0QzbzlkU1oyY0FSVDFlbFdUZ2NDb0ExSjUyZXdqNXJiLWJpcWxB?oc=5",
+     "published": "2026-10-28T17:35:00+09:00"
     },
     {
-     "title": "\"비만약 유행에 샐러드 불티\"…세븐일레븐 80만개 완판",
+     "title": "[신제품] 세븐일레븐, '나트륨 저감 김밥' 출시…80만 흥행 잇는다",
+     "source": "파이낸셜포스트",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE85UkR2Wkg4MGYxLU5JZjVJVlVVWTRTdWdfRjdmTFNOc2M5YkNuc0gycFVRSlM4aW9HM2pZRGI3OHp2cFdIZ0laT0F1VnU3RnZBUWo3czNLcTBXR1RVRjdib2FSSjVpUUdGOXNYTG9nYVJleGNK?oc=5",
+     "published": "2026-10-28T17:28:43+09:00"
+    },
+    {
+     "title": "[신상품] 이디야커피 '청도 홍시주스' 외",
+     "source": "서울파이낸스",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZYVY1aFF6OGoxSXlvZUs0Z0dWU1J3SW1zUEw1VEFYTG4yd2hSSzFrUkwtSU5OeGtXNjNILUR6VGN5ZndyRTN0QVVRSnVPOEdHai1LMldDdFJMdF9pck45ZXQ4RWJ6VVp5UFE?oc=5",
+     "published": "2026-10-28T17:23:08+09:00"
+    },
+    {
+     "title": "[업계는 지금]밥 한 끼 가격도 부담…외식 물가 오르자 편의점·도시락 전문점 판매 '쑥'",
+     "source": "푸드투데이",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA5akRNa1M2MW9yQ2YwM1doT3VFaDZfclQtUUxMN3h2MGxtNmxVaUNuR0tQdHNPWkdYUTlMbm5WZzJYazhhT1d1VE1kN20ybm8zc0U4MV9IREk2b2VkbnlacUhSWk80QQ?oc=5",
+     "published": "2026-10-28T17:02:59+09:00"
+    },
+    {
+     "title": "'11월 쇼핑 대목 잡아라'…유통업계, 대규모 할인전 총력",
+     "source": "데일리한국",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE13UGpfNURaOFNBVzFPZGdIdDltYTV6YnBudjItWVhtV0VzaDUyc1BkQkdRY1RQX1pLNHRQMWo2MjFrazRXZnZVQ3ZhTUY4djZWOFZOU181ZWdZUzVwaVQ5V3NTMVZiLTJJakFMRERRONIBc0FVX3lxTE85aWJZQXBmUjJPYWFXSW9MNjR3RUo4V1pWN3BHZndac1VEeThUSkl0M2txSExya3FCZW52OTFESjNkcllJNXl2WHlsdUY3MGYtRFpCX3dfTEt0SXdObThKRmNKS0k2TXRMaElmN3cxV1g2OE0?oc=5",
+     "published": "2026-10-28T17:00:00+09:00"
+    },
+    {
+     "title": "홍성 편의점 업주의 ‘눈썰미’… 실종 치매 노인 구했다",
+     "source": "중부매일",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kQUlYb1o5SlpMNlhUR3VUSG1ZZ0d4QmVjTXAtam5RZ0U3ZC1JT2NmeU9lREhYZ3lFYUMtZjRLbnA0MW1MTlEtVWg0b0xXLUFYaHZsSzBGbWdPQ3Zsb0ItMG1Tc0JfbVZBSkNBd2ZB0gFuQVVfeXFMT2RBSVhvWjlKWkw2WFRHdVRIbVlnR3hCZWNNcC1qblFnRTdkLUlPY2Z5T2VESFhneUVhQy1mNEtucDQxbUxOUS1VaDRvTFctQVhodmxLMEZtZ09DdmxvQi0wbVNzQl9tVkFKQ0F3ZkE?oc=5",
+     "published": "2026-10-28T16:58:20+09:00"
+    },
+    {
+     "title": "이마트, 30일부터 ‘쓱데이’…한우 160톤 준비·행사카드 결제 시 반값",
+     "source": "투데이e코노믹",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rSWQxb2FLcHRNSEpPdDk3ZEI0eC1CbGNmQ0VyODcxZEhiVUNXdi1KX2hseXcwRzlpOTJUTm5sOGVOWW1CSTRxeWlweHg3M3I1ZGV0eFhKbjlha2hFdW8xNFNDb3ByNGs?oc=5",
+     "published": "2026-10-28T16:42:06+09:00"
+    },
+    {
+     "title": "여성 직원 혼자있는데, 편의점 매대 앞에서 소변 본 취객...도시락까지 먹고 떠났다",
+     "source": "포커스타임즈",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBVOFhQeWVnNXZVTWFVQkhkUjMwUjdnUFB4U2J1T3Z3aWJ1N2dpUmZYd1RXOFQ2Y3ZCc2x3MGtJbWxadTB2aXVld0VuVVhDSm96dEJaaWRGbUE?oc=5",
+     "published": "2026-10-28T16:33:03+09:00"
+    },
+    {
+     "title": "BGF·GS리테일, 3분기 성장세 둔화…점포 경쟁력 강화 과제",
+     "source": "SR타임스",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xM19Xc3Qtb3N2dlllZ3EyaEhSRksyRWFvLUoyc1ZzRnZ1QlYxMEt4clk0YzNpT3lvaC1faTVSeGplSzlqZThhazl3Yk9KN05SUkt0QXJuR3hzVjU0VUNubmhLaGE5cjJf?oc=5",
+     "published": "2026-10-28T16:29:48+09:00"
+    },
+    {
+     "title": "“AI 잘 쓰는 인재 모셔라”…유통업계, 채용 기준도 바뀐다",
+     "source": "이데일리",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNR0ZXQWdhR3VTZVJfNFp4TExWSDYwbWR6QlFydUhFOGM1QnFOTlFCTy1DUzExUDlxMXZfSWUzU0JFb0U3ck5lSTRFdnpzQ3JMbzJNVUNwTG9uMTB3bXhJSE5XdlpPU244QkhOcmRyT0lGWXdzTzhwMGhvVVR2Z19teQ?oc=5",
+     "published": "2026-10-28T16:22:53+09:00"
+    },
+    {
+     "title": "이른 추석에 유통업계 매출 4.5%↑…대형마트 두 달 연속 반등",
+     "source": "프라임경제",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Ea3JLd1BQcG1DM2pxTDZpWmgtUkhIdWFXVlpHRjVXUXdqZVNUNE5JSzdUSHJwMnk1M1pWN3d2UTdELVFkTHJOaGZiUktjaG5NZGU0alRTY2RZcEtXLUhxQQ?oc=5",
+     "published": "2026-10-28T16:20:28+09:00"
+    },
+    {
+     "title": "골목상권 넘어 홈쇼핑·편의점까지···치킨 4사 간편식 대전",
+     "source": "뉴스웨이",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBRMnFMd2pWcnljQWk4MXdIeE5DbTc3aU9TZmZwdW5PQnVoSlpDVG9KeHN5V0JBZzZyU1hka0VfT2dfSTFybXY1X3NNQkZTTmdmYmxyOUkwZkE2eGNBX01XZHlyVTBzc213ZXc?oc=5",
+     "published": "2026-10-28T16:14:50+09:00"
+    },
+    {
+     "title": "삼립, 제스티살룬 협업 버거 4종 출시…전국 편의점 판매",
+     "source": "신아일보",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE55NklRMUZMQUo2Qzl4MUpvZnJoWFF3RXdIY25ZZmVLZkV1ZzloLV96MDAyVlNtM1Q2RUZtaE8zekxEaFJXYTJjRS1jejlqS2tMQ3hiVEplQnZqWnJpbHJ0RGVvUmpRQkgtSVFTYVVvRlQ?oc=5",
+     "published": "2026-10-28T16:10:00+09:00"
+    },
+    {
+     "title": "토마토 막걸리 '즐토막' 출시 … 이색 전통주 흥행 이어간다 [편의점 이야기]",
+     "source": "매일경제",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBmcW5ZU1dCVk9HYmhPY3pJS2Zad2x1LVZEaW5vdm9qTmNhMHpHQmhJemZ0VTBTNkZSUmd0d2ItRWhiX3pDNThPdUtEYkNOUUhRUUhPTA?oc=5",
+     "published": "2026-10-28T16:07:32+09:00"
+    },
+    {
+     "title": "연말 대목 막 올랐다…유통가, 할인 또 할인",
      "source": "한국경제",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UY3ZpdjVrVXdSR3BJaXJ4U1JxMWdkMmNPWGxJalBMQmpJMmFsMkZOc3laeV9OcEFKYUZlTTQwU3pzR1lMbnV3VjFCaGp6dnNxcFVXZWR2ckVrZw?oc=5",
-     "published": "2026-10-28T08:47:43+09:00"
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DM0RfX0hta1BQMVVLUU90aDZRY3pBQlFLUjZlZHhVYmx2Ml9Ed21OcW5YbW0xc29mY2VMaHliY1VVczhWWjV0SzdFUFRBbHVQd3hfaS1wMFhOdw?oc=5",
+     "published": "2026-10-28T16:03:27+09:00"
     },
     {
-     "title": "편의점 건강식, 유통주 실적 바꿀까…BGF리테일·GS리테일 노려라",
-     "source": "핀포인트뉴스",
-     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9tUzI2eVIxcVRTYzF6bEc4VnAxUHF4YWNfQmJBLTE5YW15R242ek0zUUVqb0ZEa0lfNEVsSFVqeG44TEhTRW5zSVhJQlY5Z1FrMEhKNjl3aVV2RUFkT2ZiX05DQnhZX2lhbGZvNGpSVFVDWVHSAXdBVV95cUxPRnJyWDQzRVRHTlJGTW1jN0toS1JTZFI0Nzgzckt2VWJDODNoVVJuRWduVzI5Nml5bl84YnhQWDZscmtxSmlIZmtWdDRsb0pGenhRd09DcEVxMUNKTjdmdDg0YXAwR3c0ajAxa1N0ZENNM0J5RjF1OA?oc=5",
-     "published": "2026-10-28T08:44:24+09:00"
+     "title": "세븐일레븐 밸런스푼 80만개 돌파…건강 간편식 통했다 - 머니투데이",
+     "source": "머니투데이",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9YMFhxVVFzbDhLc2U5NW5DYlZEQ2YtX05RUjBjU0NIN0hIREcycFFOX0gyZ2hqYWEzb0lvYXNBZG5jU1hyeFhKLW5INU9VMHBYWjdiUllmZGd3Q0Uwc2dPTU5pdm9YbC1JVzJ1NlJMQdIBb0FVX3lxTE9YMFhxVVFzbDhLc2U5NW5DYlZEQ2YtX05RUjBjU0NIN0hIREcycFFOX0gyZ2hqYWEzb0lvYXNBZG5jU1hyeFhKLW5INU9VMHBYWjdiUllmZGd3Q0Uwc2dPTU5pdm9YbC1JVzJ1NlJMQQ?oc=5",
+     "published": "2026-10-28T15:58:14+09:00"
     },
     {
-     "title": "세븐일레븐, 건강 간편식 '밸런스푼' 인기에 라인업 확대",
-     "source": "뉴시스",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ILWFBXzktMzd4ZlVIMzJuX28wMkR2WGtmbldQUlVhaVFYeEFPZHhwdUxfUEZLTWw3cTRkYk9QLVF0aVRNakRnZEJ4Qlkzd0hyRndlSlpqNjhOVG1ndnNwLdIBeEFVX3lxTFBsbU5BNVhlb0xReWlSa0R4dW91TlZCVUpkMFgzQ0ZXY1QybVc5a3VpQXdwNUxONlNEVFZmSWtWNzAwMDBqdmZmNkJuV1NiNGZDS1hhRkg3NGNkN3M5ZHM1bHVqYjFRT2tTN0hjV21ZUTVacENaV0Niag?oc=5",
-     "published": "2026-10-28T08:42:01+09:00"
+     "title": "\"온라인서 주문하고 편의점서 찾는다\"…와인25플러스 누적 주문액 2000억 돌파",
+     "source": "파이낸셜뉴스",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02VkEtZVMwRlE5UmdxdTBCT1Raak00aTIzNElQdmVDZm03WHpJNkpHbk9aS2FDUDBGcWlaLWtIbkNySUFfRXRTS0NuZlMzcUdWTkZ2eGlPS3JzZw?oc=5",
+     "published": "2026-10-28T15:55:05+09:00"
     },
     {
-     "title": "론칭 6년 GS25 와인25플러스, 누적 주문액 2000억원 돌파",
-     "source": "이투데이",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBDSjNxc0ZpN3owOUFMN1NzdUdiRTlQdDVEMl9ET1NjUS0tS2ppaGp1dGN2Rng5T3lvajFjdG0tVDBsb2ZnM1ZsOGNZZGNxRmdkZGcyVGg5Mk50Z3ZfY3lFeEdLNDNjc1B6OC1jZmJKbDBBWlRf?oc=5",
-     "published": "2026-10-28T08:41:00+09:00"
-    },
-    {
-     "title": "비만치료제 열풍에 식단도 변화…편의점업계, 소식·고단백 겨냥",
-     "source": "연합뉴스",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xZ28zSnhGaVVSbE5aTFNRR040YndjQnFBVnNNemVtaWFZWDd0OWE1Mklnb2NnTFlMUXlibk9BbV9YZ2hyRkZvdEpfRXAzOGNQSlJzdTV0Y0FYWW_SAWBBVV95cUxPeTE1MUo5dm5Xc0F1RDV3aEVobnlMRUpNSmlocEVDUi0yNWdRZ05vUTR3SGNFenVtNll1V21zN2lRZHMyN3dkal9BVXhsNlpNbmxMdllYc2JqM3hjX1BKdG0?oc=5",
-     "published": "2026-10-28T08:33:06+09:00"
-    },
-    {
-     "title": "GS25 와인25플러스, 누적 주문액 2000억…매장 픽업으로 추가 매출",
-     "source": "더트래커",
-     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1hWVJsOE1lcWt3bUNuVHJYTk1wRWQ2RU9wZ2ZYXzAySkN2bWtFdHg3bUhKZjZSWTBqdm15RVY0aXQyMGVIWWxBSkd0LTMxMlhOY3hOYnZ6cFo?oc=5",
-     "published": "2026-10-28T08:32:39+09:00"
-    },
-    {
-     "title": "편의점 주류 2000억 '대박'…\"귀주마오타이부터 희귀 위스키까지\"",
-     "source": "한국경제",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XUzhPdDl1OFpsV1Vwc3poU1BkeWcwQkZHTEVSY2JPa3RnNUdDYXJIMjgzRHFsUFNYdWpmaW5QelJWSU9DaVp3M0xKNlJwUThnMWc5NUh2ZloyQQ?oc=5",
-     "published": "2026-10-28T08:27:17+09:00"
-    },
-    {
-     "title": "세븐일레븐, 건강 간편식 '밸런스푼' 5개월 만에 80만개 판매",
-     "source": "뉴스1",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9qOTZPMFRjdnFWSmJHMnl5RkVuVEdFVnFDRFY0X0E5WE1LY1FkS09xVFFkRmpXQ2NZNnhOR09adGFDMkwxV21GRHhlM0o1djhXWGNNeWJfYW53dTQ2NFpv?oc=5",
-     "published": "2026-10-28T08:26:40+09:00"
-    },
-    {
-     "title": "GS25-배민 '설빙 피자설기' 출시...맥도날드와 '빅아치' 할인 프로모션 진행",
-     "source": "여성소비자신문",
-     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA5a29iSEstZU82UE9KLVg3aGc3NG5PZHV2S3dVT0czODVqbzh4cUZTd3p0Y2FTdXBWVXRQLVUxMnV6WDdRMGpXNmhLd3IzR3BBaEp1enF4bEp1MjFfLThqWjBKWFBMUQ?oc=5",
-     "published": "2026-10-28T08:18:37+09:00"
-    },
-    {
-     "title": "세븐일레븐, 건강 간편식 판매 80만개 돌파에 샐러드·김밥 상품군 확대",
-     "source": "로이슈",
-     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1aTno3Rlk2SDhpUFhzbUViWkFOUkZUWm41RnlFNjl6a09HcHl5RkFrVnByc19SQWEzSjJodnZ6aHFaeFJUTWtkT1pqbHB4X1dybks3Vkp1bU9EX2VFVHhRSUtPNVVmZjVsV2cxQ2ZneFdZMkZ1M09wUw?oc=5",
-     "published": "2026-10-28T08:13:45+09:00"
-    },
-    {
-     "title": "GS25, '와인25플러스' 누적 주문액 2000억원 돌파",
-     "source": "뉴스후플러스",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBUUTQtUmFHVk1MZG5NdUxVZ09fbVl4Y0NzV1Q2Z2pzRG9CaVNiUzVzR3Izck5JMmZNZWFvRVNqZlhBRHA1emk0dHBGRUdhTy1CUHpLZEFVc3NJeXFURXQ0X2VyQlVkMTRXbzRPU3ZR?oc=5",
-     "published": "2026-10-28T07:55:44+09:00"
-    },
-    {
-     "title": "\"식당에서 결제 거부될까\"…양산 결식아동 편의점 쏠려",
-     "source": "양산신문",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5OdG5aYlhwVFV0NXZfNXNsbm4zZzNpZzZUWG1WUG9Zdm1peWE0M3ZWYXRUQS0tMXJsREplVTZlREdoWFQ4Zk96TnZPOURDVjlQYVF1U0VULWd4Q1VIaWtMTFNfWFFHN2V0X0Y1Tm5Rcw?oc=5",
-     "published": "2026-10-28T07:49:00+09:00"
-    },
-    {
-     "title": "세븐일레븐, 5개월 만에 80만개 팔린 '밸런스푼' 라인업 강화",
-     "source": "뉴스후플러스",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE96ZG5HLTNJS3JjTDJ2c2lNUXlSNXhydi16cV9TcHJvVk82Q0puLU9TY2d6eTFBR0tzNnpIclpuZEFSc3JwYTJOLXhYR2ZsSDJQUDlvR3FNX2lhU1BudmNYckNOTWlfWUo4eDBsNTlR?oc=5",
-     "published": "2026-10-28T07:38:53+09:00"
-    },
-    {
-     "title": "GS25, 와인25플러스 주문액 2천억 돌파→'그랜드 테이스팅' 개최",
-     "source": "싱글리스트",
-     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VTlFvaGRvOUtIaXFZc1RVMl9XZjQ0ZDNudTdENmlNYXkzWlJVR2hzbU44TFdtaGctNFBSdFN6dmVBRExuSC1YTzBYbjN0V0FJajdoOXNpTmVyWF9RSF9ZV0dhTTdoQQ?oc=5",
-     "published": "2026-10-28T07:25:17+09:00"
-    },
-    {
-     "title": "피치에이아이, 일본 패밀리마트 500개 점포에 AI 솔루션 도입 추진",
-     "source": "뉴스탭",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvZnBiaUVzcW82WVpKblA5NHNhNkt5WmhhT0NwZVBSbUNEVlF5aFJ6SS1tbWZGUWRMUGdRWXYwSDBYMExsaERVMmdTTFdWZ2tQOGJkU2JkNjl4TTl5a3JwbjdJZmVWSk1DeVBmeg?oc=5",
-     "published": "2026-10-28T07:23:01+09:00"
-    },
-    {
-     "title": "세븐일레븐, 위코노미 트렌드에 건강간편식 ‘밸런스푼’ 강화",
-     "source": "싱글리스트",
-     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBNRkZCLWpCVHdNUU1Lb3BmX1QyX3NyX01zeXQ4WGF1UXp4Y21HWGZiZ3h1X2YxdUJRWEw5c1ctbWx5Ukx6djBaNWkyM0QtSnhmNTRJekRlc0lFaXNnRi02M2d3dThNdw?oc=5",
-     "published": "2026-10-28T07:20:41+09:00"
-    },
-    {
-     "title": "편의점 점령한 '일본 간식'…편의점 업계, 차별화 경쟁",
-     "source": "비즈워치",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04dXY3QXdseFd3WXVUT2NTekQyQ0xVZWxxb3E0N3ExTDlVeW1xUHJJbFVLU3AtNkhPdW8xa0Rma2Z0RFlxc3dBRE85VjJoTkZUSmV5dEtVdHlHTlIwQXo5OUNGLUxwbV90Qldqcg?oc=5",
-     "published": "2026-10-28T07:20:02+09:00"
+     "title": "\"중고거래도 무섭다\"…제천 편의점 26곳 범죄 안전지대로",
+     "source": "대전일보",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZelpoLWhwanhReDVkRE83dmdhbFF2MmZtM0xSTUEtZ1lmUmhYTEo0V19uMnRKZzdCN1puU041SU1pRjNSRnhqem1oZHd1RUZXVl9kVkJZZUJDSDJyamwxRS13U3FqY3ViMjh1NGRPRQ?oc=5",
+     "published": "2026-10-28T15:50:12+09:00"
     }
    ]
   }
