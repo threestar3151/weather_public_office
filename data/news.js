@@ -1,10 +1,52 @@
 window.NEWS = {
- "updated": "2026-11-01T08:52:58+09:00",
+ "updated": "2026-11-01T19:13:52+09:00",
  "sections": [
   {
    "id": "law",
    "title": "법·제도",
    "items": [
+    {
+     "title": "‘독약 사형’ 생존 美 죄수, 재집행 거부",
+     "source": "부산일보",
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE45SFhKUzYxbmFrV19za21NZTNNM0RuVVhxSmxaUDFLWVNDR2JldVVzMTZ5UjdTVGNQWXp0dkE2cU9obDdoS3JaZ1NPU244bE5zTmtoZTAzZzZvaWY5LWRjSVJYVHBGemVRUGpUbGoxbGtBMXFJYW4yc0lDTlI?oc=5",
+     "published": "2026-11-01T17:42:48+09:00"
+    },
+    {
+     "title": "[ 2026년 11월 2일(월) 프랜차이즈 뉴스 ] : 네이버 블로그",
+     "source": "Naver Blog",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaFMxaUlMQXZQSHFZMEdZQ19lWnVPbDM5S3pMb1VZVXp3OFg2TEtjdDI4aUFiLVYwLVdPay01Z3pneVJjNXk5S3c0VDAwWXhSTG12UWhBaDdmbGNleHY3dmxjdGNLZ1dibW42ZDlMX0lCNmo0Zkd3WWdLMlRsN2Ftd3llSUpGQlJZdTlBcklB?oc=5",
+     "published": "2026-11-01T17:35:21+09:00"
+    },
+    {
+     "title": "국조 회의론에 曺 ‘계엄 동조 의혹’ 조준 나선 與",
+     "source": "부산일보",
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1CZEV6ZWt2dnJfRUdGRV9WLXpfdU54TVBfeklmZURIS05VcHdXZjJ6OW5Yc3RHWFV0TFVON2l1VmhXNHV5d3dvc0dtZU5BOXVGZTlmVzkzUHQ5eHlqVnFPQjh0dlJkVktSeVQ0djVvY25YQ3BnTWVEb2QxWGM?oc=5",
+     "published": "2026-11-01T16:44:36+09:00"
+    },
+    {
+     "title": "당신의 전자담배 한 모금…폐 속엔 포름알데히드·비소 찼다",
+     "source": "헤럴드경제",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93aHkxUldoTHVvUFNrWk5RTXNkLUx3NHJDNWlKOHFqdmxGSjUtVzlqUkExU0FEbW9LOExOdTNVR2NodEdVNWNWWEVRbVYxZEVuTWVTMkxB?oc=5",
+     "published": "2026-11-01T13:35:47+09:00"
+    },
+    {
+     "title": "진도 골목 점령한 프랜차이즈… 예비 창업자가 알아야 할 ‘5가지 진실’과 생존 대책",
+     "source": "더 타임즈 진도",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBEMU94R1JZSnNQbl9HTjNHY0VMVGloYXdmNjhlajF0bnV5UUZPcmkxQTgzRGlxcURWdzFMQUltTjh1WDBWWHVJWDVNb29QdUY2dU1qSjRoeU5YZDhfMENsU0Y5LWJQSDJ3SnQtN3k2bw?oc=5",
+     "published": "2026-11-01T12:16:24+09:00"
+    },
+    {
+     "title": "\"해외 러브콜 대응 못하는 K프랜차이즈, 규제 방어하기도 바빠\" - 머니투데이",
+     "source": "머니투데이",
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE93OXpISVVOQ0pjTEJmS2JVQWo4V0tGUElyS1E5aFBSa2lUUWNmTUJXQTNNMEZtTkhuTlFGRFRCQ2R5QjJweVVYbUY5Mnl6LTkwYXVnWEVxZDVBUFZDU1dhOVFta0hDQUJEbVVJdmJVNkVKZFRZY2s3U1pNalLSAXxBVV95cUxPdzl6SElVTkNKY0xCZktiVUFqOFdLRlBJcktROWhQUmtpVFFjZk1CV0EzTTBGbU5Ibk5RRkRUQkNkeUIycHlVWG1GOTJ5ei05MGF1Z1hFcWQ1QVBWQ1NXYTlRbWtIQ0FCRG1VSXZiVTZFSmRUWWNrN1NaTWpS?oc=5",
+     "published": "2026-11-01T12:00:00+09:00"
+    },
+    {
+     "title": "[기고] 가맹점주단체 협의, 가맹거래사도 참여해야",
+     "source": "신아일보",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE92Zzh0VUhsUjlTU2lBTWRDbms3MThyVi1sdF9OeTFZcDg3c3hzQVVrdFQzV0t2eGV2UnBXSzFZaG1WUDYwS1ZjZm05LWw1R3VBWTdYV1FuTHBJRVUyb3ZDME56dlo1eFo4Vi1GTllnRXA?oc=5",
+     "published": "2026-11-01T10:27:50+09:00"
+    },
     {
      "title": "[대형마트 휴무일] 이마트·홈플러스·롯데마트·코스트코, 오늘(1일) 문 여나",
      "source": "싱글리스트",
@@ -24,6 +66,12 @@ window.NEWS = {
      "published": "2026-11-01T00:01:01+09:00"
     },
     {
+     "title": "이마트 롯데마트 홈플러스 대형마트 휴무일 1일 문 여나",
+     "source": "뉴스클레임",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BNFNsMERMR0g5LUFQMTVoQ3dFaVlqYnJEY3FLbUhSbGNmY01TRUF3QUFmbnBWTnplZ3dFOFlXdEFyZWRFaE9kMWQyNGc1czZ3MDN4dmlGVjlUTTRPNmktOHlpYkRfeFNkMXoyRG5FZUHSAXRBVV95cUxPZTAyWXBmMW1PNEJ3a19vaXRnRzlFdWJSVEltVWJBRnB6Q05FM3YxNU5obTQwa05SVUhIcGFVM3BUSU1pcWMwX3RnczVHUlVGWEJqbFJsVFB5M1ZhajRsem0tXzJiOFdMUlozR1lsTDhtbGd1Sw?oc=5",
+     "published": "2026-11-01T00:00:00+09:00"
+    },
+    {
      "title": "담배 465개 제품 유해성분 첫 공개…전자담배서도 1군 발암물질 확인",
      "source": "쿠키뉴스",
      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5xNmZXanlHZ1dfOHlzYXRVQ0NtdF8zRzRWY2hsWmI3a1k1b3haLVowekxzYzJ1WWNubW1fM3JhWG5BeG1ya0I0V1NlX3pkWlByNXpaVGtQODJiRGxwV1B0NE9oVQ?oc=5",
@@ -40,18 +88,6 @@ window.NEWS = {
      "source": "일간대한뉴스",
      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9LNlJrR0xOczI3bXZBdllfeFB1T2E4bGE1RTNldUNsZi1WWEZEMHZDRVdYMmR0RWVTdkJQaXlBcWNoY0Rmb3hQNFhhQk1GdjNJZENoOGpBM2hMbFgtb2JRam9nN3d5RlU?oc=5",
      "published": "2026-10-31T22:04:49+09:00"
-    },
-    {
-     "title": "“전자담배에도 1군 발암물질”…어떤 성분 나왔나",
-     "source": "동아일보",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE51REtPZFdDUkEwZ2MzVFkzMGJfRF9ZbGZONlFhejRjZWtadDF4cnlXeElMTW5kcldJTHQ0TjNMMzNibTYxbXJjN0tDRl9zaXNxV3dSWGdJbE9TVFpVUVo0dDBka291SHA2ZGpqeV9kSmgtNVNUaXfSAWZBVV95cUxQaURZLWUyMzZlcmYwamFqbVctcVV6N0llN3pncWs0VC0wendKUGlhYUU4ZEpHbnFxX2R2bzByeHNUR181cmlUZjdySG16bUhrN191SmNXekVaWjVYVmdyTUkzRzNPNGc?oc=5",
-     "published": "2026-10-31T10:29:10+09:00"
-    },
-    {
-     "title": "“밤 11시 조사는 어느 수사기관도 안합니다”···한화, 공정위와 법정에서 맞붙은 이유는?",
-     "source": "경향신문",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE56Smp4YzNheFI2QlhBQTQ5SHBhaVA0QkFHU0VYUEtzUzdDVzhoTk0xay1IbG1JVV95dGZYYzdzZWtneXVLdFp1WGlhTi1XTmhSMkdMTC0xeC1rU1oyaGYw0gFfQVVfeXFMTnpKanhjM2F4UjZCWEFBNDlIcGFpUDRCQUdTRVhQS3NTN0NXOGhOTTFrLUhsbUlVX3l0ZlhjN3Nla2d5dUt0WnVYaWFOLVdOaFIyR0xMLTF4LWtTWjJoZjA?oc=5",
-     "published": "2026-10-31T09:00:00+09:00"
     }
    ]
   },
@@ -60,124 +96,124 @@ window.NEWS = {
    "title": "유통 뉴스",
    "items": [
     {
-     "title": "리센느 원이의 집밥, 편의점 도시락으로…CU, 협업 상품 확대",
-     "source": "지디넷코리아",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sV3JjTms5aHN3SGJCenB0OWs5V1dNRXdsQUVQcnFTS2x2LUtnS3B2SDh4aldaTHNsZkR5SXZtWlZGT1FuTkllTHVzV1BQeElxQ1plVWpR?oc=5",
-     "published": "2026-11-01T08:48:13+09:00"
+     "title": "편의점 번진 요거트 인기…세븐일레븐 ‘요즘’과 맞손",
+     "source": "국제신문",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQemM5RnVwYkRKX21zdUZQMGVma2xtZC1RT3ZfdEFmd3RGakExckJJX2RGdXQ2WW9VR2NiRUt0eFpXZVg3NGdEM3B4bWlvVDRaWHAwZWM4LTBsbnBiUTFOQnpvVmJaV0V6WGlOcWM2Qk9VanhjQXMtYW5oUS10SngwSVZRazB4UEtQd0ZZ?oc=5",
+     "published": "2026-11-01T17:49:00+09:00"
     },
     {
-     "title": "'리센느빵' 찾는 삼촌 손길…구매 10명 중 7명 '30대 이상'",
-     "source": "아시아경제",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXMVZzV3lXSHpiNDNLODk1VzVOMmZoSU5hS1l3LWVFU2Rka1JNS1Q5Z0g0VWpFZFF1TVVMdHp6MEVVcXpqaWVna1c4UlFXMjR2SEY3emVMWk5leEJwalRoTQ?oc=5",
-     "published": "2026-11-01T08:46:00+09:00"
-    },
-    {
-     "title": "K푸드 세계화 속도 낸다…롯데마트·농심·대상, 한국 식문화 앞세워 글로벌 시장 공략",
-     "source": "나눔경제뉴스",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBlbjF5MGJYa0VYUGVuang5ZmNGTi1raUV3dkJnLWd5SkZ4TnZGQ0VMVWFmbWlTVTE5dkxXUmZHZTBLOU1QdG0yeHNNdE5SeHdXYWhSSWJhV2cwNDJYclhvRmNRaDIwZ0JoLWNDYg?oc=5",
-     "published": "2026-11-01T08:37:00+09:00"
-    },
-    {
-     "title": "CU, 리센느 원이와 손잡고 '덕연이 딸 도시락' 2종 출시",
-     "source": "연합뉴스",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42eDZ3eFprbHNrY2t6U0xmS094bzUwa2VwUGZmZVI3ZWpGdzFkY2ppUUs5a2hyT3JQaTJTaFZzSTFZN1pQbk15SFVidDM4TFVZSk92ckdkVVp3SU3SAWBBVV95cUxOVWxOZndLM1gwREF2ZFNPQ1hkOUVQaW9MSUVSbm1rOVlCdmxBOVAtN3Z4bUEwcHhmSWhMd3d2UlBCRWNHM1pxSXhjQzJHOGdLVGFPcTlYSVJFek9PZk9FRzE?oc=5",
-     "published": "2026-11-01T08:33:02+09:00"
-    },
-    {
-     "title": "\"리센느 원이 취향 담았다\" CU, '덕연이 딸 도시락' 2종 출시",
-     "source": "뉴시스",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HRjJ3Um82ZW9XZmZnMGFXSzlrU21MMHEzdUtQN2F5SENxVmZQakZBX1d1aE02UDhkbXFoczJNcUx5UzREb3IzVXBLRUVVQ0VhNkpDMUNkR2ZnYjg4OXRUaNIBeEFVX3lxTE1vNFV4NHVBd2wwZkxKYzRpektBeXc4UTVDVEt2b2ViSUt1SDVldTNDZ2plaXBOWWVDdDNZd2U3WE85bVdPMmhZbGhPbnRyOVpVUGxvN213MzRLNHpsYmhDSkhMLWxhYktWYlFxZGljck1fV24wX2tJYg?oc=5",
-     "published": "2026-11-01T08:31:59+09:00"
-    },
-    {
-     "title": "세븐일레븐, 요거트 브랜드 '요즘' 협업 디저트 2종 출시",
-     "source": "뉴시스",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TRFNEeFBmVzNPTWZ2UEdZcDhxYXNLUWJ1NVgzV2xXNDZubGVwbmd0elpIYUtCaTN0SGpsXzA3ZHlnNTg3YmpaTG82d25mcnRfZERSOU1PR3V6R3pZakxPctIBeEFVX3lxTE1ZUHNpOHhTUjRPTy1fSk9NUGZEa0Vta3NJcHU3RXR3ZnAwal9JZVoyS3JjNE1ZNUFZWmxJMWRLd1pTaThkTUVpT1ZPYzhZeDJrNS1SbHViQmEyeENpai1XS0kwcWJSb2xacC1kaGc0Tms0YkdkZE9WXw?oc=5",
-     "published": "2026-11-01T08:13:39+09:00"
-    },
-    {
-     "title": "세븐일레븐, '요즘'과 요거트 디저트 선봬…모찌롤·마카롱 구성",
-     "source": "매일경제 마켓",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAyS2l6R0RvbEdLOURIRUtJZkNQTHBvVjR4X1BLQ1FVdlkwMzRZTmNTTlBFRjJSYlp2alB6dlNxNFRvVUY2WHdHUXNzVUx1VGJrYWc?oc=5",
-     "published": "2026-11-01T08:12:56+09:00"
-    },
-    {
-     "title": "CU, 리센느 멤버 ‘덕연이 딸 원이 도시락’ 2종 출시",
-     "source": "싱글리스트",
-     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9WdklDd3YtR0ZuS3oza2VPSkJIWjFYUDZTRFBlanVOZklLOUZjOGx6NmJVMm8zUEpCLW1UTmtVeE9lWWRnck13UzEtU2lYdzluZk9EU2YtMkw5akpoTnhWTzFydVVUQQ?oc=5",
-     "published": "2026-11-01T08:06:46+09:00"
-    },
-    {
-     "title": "원이 최애 반찬으로 꽉 채웠다!",
-     "source": "한국경제",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42UE1fRDVOUndrX1lkOW5nTTFRdkN6eUM2RU40Y1ZrMDZwWE03ZV9lNlRqTlZ3aDZOY0xldHRjb0Z1Tm1nazRldnRwc1lEZ1VxYkdIQjUzT2oyQQ?oc=5",
-     "published": "2026-11-01T08:01:22+09:00"
-    },
-    {
-     "title": "[MZ 트렌드] 가을철 '화잘먹' 치트키…2030 사로 잡은 '피부 프렙'",
-     "source": "청년일보",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96OVcybzZfTHhjcXZYX3pJalhVTE1rLWlMVVNTNlp3cFFfTzdhc1puRzhBM2EyLWZ1SFpfQUdkNzJoN2VYR21xQjRlWGRNMEJOa08zT2pWUzl5eEplVGItVWxpZWtLV0lQY3c?oc=5",
-     "published": "2026-11-01T08:00:02+09:00"
-    },
-    {
-     "title": "비싼 새우젓 뺄까?...절임배추 물량 2배 풀렸다",
-     "source": "SBS Biz",
-     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1GTHFCd0NaWjVYVmNVaGZJRm5hT1dTb25rQVBrNTM5X1NtRFZjMXhyLWtUYTFHc1lmWWdSbDIybFc0SEFOQlZ2TE1nWi0tTEFGOG9z0gFYQVVfeXFMTnpjWE5PdWZ4aWstRTdydXY1eWx3MWtDNlh1ZkFCZVp1c2xTd1FHVUhiMnliWjBpeW94NVE0S21wamo3TTN1b1ltMDRLdFJqRERURHRSaUpRSg?oc=5",
-     "published": "2026-11-01T08:00:00+09:00"
-    },
-    {
-     "title": "[뉴스톡톡] AI 광고 넘쳐나는 시대…고객 마음 사로잡은 '사람 이야기'",
-     "source": "뉴스1",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXSmhMTV9vcG51YWdUUXVjVllxdDg5Ylp1aVJmeFc2cnJFQVFiQUh4Z01WT0Q4V29hU3NZb1d3VHBmUGVLMWZRSHI0OW50UDd1Z25iS2ROSUI5ZzZ0Wktv?oc=5",
-     "published": "2026-11-01T07:50:00+09:00"
-    },
-    {
-     "title": "빙그레 바나나맛우유 수출 4년새 두배…해외에 4번째 법인 설립",
-     "source": "연합뉴스",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlaXU1anhGbDgwVEVfRG1HdnYxaGhmNlY1VXJnZGFuUzI1aTItYUlHT3lwbzBBOTZHcHVnLTRSRzRoUzY5UVFBMDhEVFhlN093NW9GWXRkS2o2c03SAWBBVV95cUxPOEtBbU9ySnk3dmtXS2FFczJuRks0Rmg1YzR0N1RZa2VGV1cyN3FkMmdEcFBwM1lYSlBqaUJ2dzNKeTB3UmNHd1gwVUdMQnhlWHRkMTVnWUFqamozd2NZdmM?oc=5",
-     "published": "2026-11-01T07:31:00+09:00"
-    },
-    {
-     "title": "\"로고도 안 보이네\" 나이키가 아웃도어를?…확 달라진 이유 [박수림의 요즘 여기]",
-     "source": "한국경제",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WUEtQMzUtMG9wZE1zREJXYjE5NXRIcjI3MGp3X3BlcUZMWlpERXlGUHRwX19xanRNTllmV1hGeUo2OVQtYjI4ejBMbENOSFpBZG52OENFdldIUQ?oc=5",
-     "published": "2026-11-01T07:30:01+09:00"
-    },
-    {
-     "title": "\"한 줄 더 주세요\"…외국인 매료시킨 한국인 소울푸드는[K홀릭]",
-     "source": "아시아경제",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaMkNrZ3VyLWt6QzBfRFEtLUFTNWVNNWV4WU5xc3hlOXNZRnlCblROeWMwZUtlZjVYUmpaR1dESjVwX2FFbDNfQWozbUtHTWk4QVc0M283eDRMeUxYWGR3ZA?oc=5",
-     "published": "2026-11-01T07:19:00+09:00"
-    },
-    {
-     "title": "세븐일레븐, 그릭요거트 ‘요즘'과 디저트 상품 선봬",
-     "source": "싱글리스트",
-     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBCU3ZDMDkzQXRxdTJzMzRwVjZUMGJjc1I3MUM1eXdBdzF2T01FSkhDaDQzSWpwQ0toWGpYVTZTc1pxNE5HZ2g4TWtaWkRhMDJvaTJkTUlOdjJabDBkTWRqLUIzaE9ydw?oc=5",
-     "published": "2026-11-01T07:17:13+09:00"
-    },
-    {
-     "title": "KOMERI, 해군 군수사령부와 ‘함정 MRO·부품국산화’ 협력 맞손",
+     "title": "‘독약 사형’ 생존 美 죄수, 재집행 거부",
      "source": "부산일보",
-     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA1OURVRmpxZFV2a0s1UUhXbENmMklfMkRaWjB6dzhPUWhRSXpBOVIxN3J2cmdIaHZhbXVmVHFGTjBPdVFKYmJVRzZTMnVuUnpIa0ViZmZiandxQ0dob01zTnJ6Q2FBSWFpeHRHMUVuYWlpdjZCWkV0b3FzNGs?oc=5",
-     "published": "2026-11-01T07:16:00+09:00"
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE45SFhKUzYxbmFrV19za21NZTNNM0RuVVhxSmxaUDFLWVNDR2JldVVzMTZ5UjdTVGNQWXp0dkE2cU9obDdoS3JaZ1NPU244bE5zTmtoZTAzZzZvaWY5LWRjSVJYVHBGemVRUGpUbGoxbGtBMXFJYW4yc0lDTlI?oc=5",
+     "published": "2026-11-01T17:42:48+09:00"
     },
     {
-     "title": "[트렌드+] 벌써 크리스마스 분위기 물씬…백화점 빅3, 인증샷 성지 예약",
-     "source": "ER 이코노믹리뷰",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LU2d1Ry1kSDJzUHg0VzMwSGlGMzZCMnRZZnV5dm9kU2V0QWtqdTc0SlRqOGFzcEFSTExuVTFpbmpwekpSUG9RNFZrVVJpVjJRVC1ydzZDSVBTdWNxVlNha3VmbHVkTFdBZGNoVg?oc=5",
-     "published": "2026-11-01T07:00:00+09:00"
+     "title": "[ 2026년 11월 2일(월) 프랜차이즈 뉴스 ] : 네이버 블로그",
+     "source": "Naver Blog",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaFMxaUlMQXZQSHFZMEdZQ19lWnVPbDM5S3pMb1VZVXp3OFg2TEtjdDI4aUFiLVYwLVdPay01Z3pneVJjNXk5S3c0VDAwWXhSTG12UWhBaDdmbGNleHY3dmxjdGNLZ1dibW42ZDlMX0lCNmo0Zkd3WWdLMlRsN2Ftd3llSUpGQlJZdTlBcklB?oc=5",
+     "published": "2026-11-01T17:35:21+09:00"
     },
     {
-     "title": "“어릴 때 잡아야 평생 고객”… 잘파세대 겨냥 카드 잇따라",
-     "source": "IT조선",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBSSnkzRjFkSm9mUVViQ1Z6NHhTcHF4S2RQQUFjaGFiQmhwcWkycWpJYVZ2dXY3R1lWSHdQcGhzUzNOQjlEM0wzcGxZVlJDTEhselBUbzZaN0QwaWRhOUpUcE83dUZsTExyVHlwMzRjQWXSAXRBVV95cUxOVndiejRRa0dCUUxqNWlrZzN2Qy1helg3aWh1ck5FYXdMWFBVQ3FRV3dWcDdmWEZWM1RaSGdlZDBLQUEyeGwwRTZ3RkdCSFdUdWJOdjdySk1aWGFHTTduZHZCaUZ6SHMxaF9JVjZQM0tQRWZTVQ?oc=5",
-     "published": "2026-11-01T06:30:00+09:00"
+     "title": "“모든 수험생 합격 기원”…유통가, 수능 응원 마케팅 확대",
+     "source": "스포츠한국",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE53dHBXR2o2RElkLXJVakNFTTNLbkdKS0gtWDMyQzViY3Ezd0ZjdDJDaFZRUWVRMllRQVJ0eVkzN0ZqbXIxSl9icHZuZjZvTERvQVhhalZ1UDctWEc4dEFiOVk5TUo2V3EwQ2Y1a2FaS1jSAXRBVV95cUxOOUcyV0txUTNEYTZnbjYwR1hEblJqbW84Z0FqcDZVeHlmRGRIY3l2eXE4d00wZjB3TFhFQXQ2c0hJZE15bVd2blRCajduT1NhbzlJXzlRRXFhTmNQeEQwR0FTUk9RRUhzLTBuUEFaNnM0dllLLQ?oc=5",
+     "published": "2026-11-01T17:30:00+09:00"
     },
     {
-     "title": "세븐일레븐, 프리미엄 그릭요거트 '요즘' 손잡고 업계 첫 디저트 출시",
-     "source": "팝콘뉴스",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0xb2JXaDczSVZCdUtrVWEyS1J1emhwQkpqMU5VeFdFUnFJRl9xX2hVWVFoNVAwTWl5OFEwZWt1X09CaS1jakFnTTVyaXdnMTUtRnN5LUttSzFocEZCOW1RQlUzV05JM2RkNHZ2WWhOUQ?oc=5",
-     "published": "2026-11-01T06:24:08+09:00"
+     "title": "고속도 휴게소 직계약 시범사업 착수…음식·편의 '가성비' 기대",
+     "source": "뉴스데일리",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLOUxscXhzWTc5V21oUENMY1ZHX2NKRnRmbXI3cXNtR1ZtX0U1YjlJZFl0Tzl2MnNCWDhzalM0RkVuQUdxM3hrNWhwcmRSU20tRk5pakhERGkxelpmdm9oam05cWo4YmstV24w?oc=5",
+     "published": "2026-11-01T17:24:56+09:00"
+    },
+    {
+     "title": "CU, 리센느 원이와 손잡고 도시락 2종 출시",
+     "source": "Chosunbiz",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSFhWMVBLOTZBZ182XzhpTVV2R1hDSHJDUzl5d3lQV21tX092cjhhQnVsVEo0Uk9xVUZScFFoa3NOWGxWWEd3Umd1cmh3T090NlhHVFN1NkpUbGVGSlJNclBRSlBKQlhvenpaT2t3MGZJREJOWnBmYzVCMjUzcWR2WGtJRGpobGY4SVHSAZ4BQVVfeXFMTU9UTXdYbXUyNERNOWNGWC1jY21aSHljTXBCcGVlMWpEcVdTN250bXRyQmdjNUdBaFZKc0Y0ZUl4bUFLRENOcGNmMFlIU1BndDdEdUVzOE1ZNkVXaGFsT2U2WW00UXNuekxzQnpGeUlQT205THl5Z25YWkV3eFIyZWR5c0p6c1ZBOGhFRHdlaVRUQ256N0NBX19POHJHZGc?oc=5",
+     "published": "2026-11-01T17:18:00+09:00"
+    },
+    {
+     "title": "CU, 리센느 원이 취향 담은 ‘덕연이 딸 도시락’ 2종 출시",
+     "source": "코리아리포트",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWbWkyMkplbkszS3JZTHhTbFhDSi1zdF8yWHRWQU1nNEN5OXJ4NWliZ3ZBRHNFM1otTVRQQi04WDlyUkFaaGprOUxZeWVQaENxWFRqS2wzVzJZV1M0cnZuallzNXJTN25LWDZWNlhIVUc?oc=5",
+     "published": "2026-11-01T17:04:44+09:00"
+    },
+    {
+     "title": "쿠팡, 즉시배송 시장 다시 도전장",
+     "source": "부산일보",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9RMURTT2NaZlFBbFlfaXJqLTFuZmZKU0ZLdGs0aFpxaHJjSkd5UXQ1Wm4tZzkzcW5ubFRoc00yWi1UN2xsX1Fsdk9Nb0FuU3dBU3FaWkwwQUdxSFJDcjczVThFMWU0bkl3eGNlbFJwOFRocWVw?oc=5",
+     "published": "2026-11-01T17:04:13+09:00"
+    },
+    {
+     "title": "국조 회의론에 曺 ‘계엄 동조 의혹’ 조준 나선 與",
+     "source": "부산일보",
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1CZEV6ZWt2dnJfRUdGRV9WLXpfdU54TVBfeklmZURIS05VcHdXZjJ6OW5Yc3RHWFV0TFVON2l1VmhXNHV5d3dvc0dtZU5BOXVGZTlmVzkzUHQ5eHlqVnFPQjh0dlJkVktSeVQ0djVvY25YQ3BnTWVEb2QxWGM?oc=5",
+     "published": "2026-11-01T16:44:36+09:00"
+    },
+    {
+     "title": "대경벤드 김학철 대표, 국립부경대에 5000만 원 기부",
+     "source": "부산일보",
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9fWFVpMksybzAtQkdGS0pJRVljQ3lJTDAwVWcyVC1mNDRaZmI1LVd5eFdaZlJrSnI4TFg1eTQzdUZhbkU1SnpZRzAtVFpnME1IQy1wdlNKcjF1NTVfbS1IeFc1ZHQ3X1V0YnlrVEh6QUtBS25uQmc5RHRndC0?oc=5",
+     "published": "2026-11-01T16:39:45+09:00"
+    },
+    {
+     "title": "10월부터 켜진 트리···유통업계는 이미 ‘크리스마스’",
+     "source": "경향신문",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RWkhmNmhrUUxGWUc4R0F3ZGpvQm5IY1RVYWxoOGowQnp0dHFFSTRIazFQNV92bDZzNG85dUZnQmhYMUlpYThtN0NXbk5PMEFRSlFWcXdMR3ZRZ9IBX0FVX3lxTFBxNEdTa3FCbjFYSmk2OGRoSHFhT2FrQmlVTWU0bmY3djZvNFNZZXpDaC1LZ0xMMDZGdG5yT2R2bjZTejdNWUhzbk9jd01jSy1PeGx1YzB5cUR4M3UzSlk0?oc=5",
+     "published": "2026-11-01T16:12:00+09:00"
+    },
+    {
+     "title": "\"11월 소비 특수 잡아라\"…유통업계, 빼빼로데이·수능 마케팅 총력",
+     "source": "남도일보",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ySU1jbUVQMEZUWGFwNTJ0Ny1sZDdweFpPanVqMVhTQ05FdlpxTDl2UWt3LTlEeXhnZkl3VG5WeG1wNURhOXZxcG9rd0JUTE51UGYwMGFlNHJucC1UWHpYVklyZmxXVThhYm5pOW9mR3XSAXBBVV95cUxPcklNY21FUDBGVFhhcDUydDctbGQ3cHhaT2p1ajFYU0NORXZacUw5dlFrdy05RHl4Z2ZJd1RuVnhtcDVEYTl2cXBva3dCVExOdVBmMDBhZTRybnAtVFh6WFZJcmZsV1U4YWJuaTlvZkd1?oc=5",
+     "published": "2026-11-01T15:49:00+09:00"
+    },
+    {
+     "title": "CU, 리센느 원이 취향 담은 도시락 출시…팬덤 협업 간편식 확대",
+     "source": "아시아투데이",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QLUhSSjJpSkg0YkNfbVgxbjYwV2t0S2tyMjNpNWtYVF9UeUM1NTBfdnowRVh1UTRFWjZJX2MwWjNKdmN5QXhFT1djamg3NndURXRSc044TjhOalRwU0xUTW1SSk14ZndpZzJSaS1R?oc=5",
+     "published": "2026-11-01T15:38:23+09:00"
+    },
+    {
+     "title": "CU, '리센느 빵' 이어 '원이 도시락' 선봬…팬덤 협업 확대",
+     "source": "미래경제",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wSHQ4cXVqVmtrUUxUNnNGSThLSUdtSVJiSGdCR3hQZ0xNaldIQk56MmpDdC1EUGZuTzk2SW1ETlJWUmV1VFBKQjJLVDdqSWJtVi1tV0V0eDgzajFjVHg0UHlLUmcwajlxMnAySg?oc=5",
+     "published": "2026-11-01T15:20:00+09:00"
+    },
+    {
+     "title": "외국인도 반했다…그릭 요거트 인기",
+     "source": "부산일보",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE56QU43RkJzMzcyYVVLUjdPOTY2SWtTbnpaOXl1em9DbWlIdmtnR1d2LWxuUjhjWlI1UFZ6cmxLOHhNMFN1S1NISFFsdXBmLWRuTUp6UFdIV2dkTmxEY2FKc09jb2RjbEpfbEkxMHRlRXhDLWNo?oc=5",
+     "published": "2026-11-01T15:11:44+09:00"
+    },
+    {
+     "title": "리센느 빵 이어 도시락 나왔다",
+     "source": "부산일보",
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAtQTMxNDN2VVNkbjNzVkxiVFBucWpsa2VNMkZlOF9tZ05xM0ZWZmdXdDlYZFZoSG16bGx5M1cybGxTdXhhaUY1UWRkYlpyOElmZnl4bl9UZzlWLWVTYmFPX29EOTVkN0N0b0ZlUDdvZW5uVWRWVTZkZkpFUUg?oc=5",
+     "published": "2026-11-01T14:54:41+09:00"
+    },
+    {
+     "title": "[잘먹잘살+]뚜레쥬르·현대百·쿠팡·배민·CU·세븐일레븐",
+     "source": "비즈니스플러스",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1nM2lMQ1JQbThMMjVwS0VuMFBwSW9oazB2T0p6MlF4dXNpVnRIS3FaclhwMDBaTnhXSDF1dEhGM1o5OUFyUGZBZjlFNXZ0a3BucG5wXzBjdERXRWFxRzJMV1ZuLTR3UW9hSXV4NlpMVQ?oc=5",
+     "published": "2026-11-01T14:31:47+09:00"
+    },
+    {
+     "title": "특수 앞둔 이커머스…할인에 이색 프로모션까지 꺼냈다",
+     "source": "세계비즈",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB4eDBCUlBxS3NWQVhCb3pZUm1zeWdoUEtXUTBuRG9SNEEzbzlxeVVyT000NlBkV2ZtblpnWnNya0VWRVJSQmc0bGpiMktQUXBEenp0WTdXTDdWRTZC?oc=5",
+     "published": "2026-11-01T14:30:51+09:00"
+    },
+    {
+     "title": "세븐일레븐, 그릭요거트 ‘요즘’과 협업… 블루베리 디저트 2종 출시",
+     "source": "파이낸셜포스트",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5iSkNrV05vWS1nN1BTajZpMDJHTmtxaEJ2ejVILWRSVHAtTkRGaGx2NUppNkhXSWVzdndNS19LZ3BhMnlZb0NRTFRzQ0V3bi1sTi1vUHlJamtHYXJZZGRMemxRUEozNWtHeGhsZTcwWmFWUHkw?oc=5",
+     "published": "2026-11-01T14:27:03+09:00"
+    },
+    {
+     "title": "서울시, 프랜차이즈 상생협력 확대…가맹점 경영 지원 강화",
+     "source": "신아일보",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5oRW81dHVfM2YzQTdrRnpQemdXOHF0WHpHTlNoOFdHUDA4bjlzcVlYV09CV1dZWUJUdFpxSWswMjc4WmNHYlRhTEh0emNNNVVwUzh3TlRKaTA1SDg4RFNVNDZqOGVReXVCQk1fZDBEUFg?oc=5",
+     "published": "2026-11-01T14:10:00+09:00"
     }
    ]
   }
