@@ -1,10 +1,22 @@
 window.NEWS = {
- "updated": "2026-11-03T11:43:50+09:00",
+ "updated": "2026-11-03T19:33:58+09:00",
  "sections": [
   {
    "id": "law",
    "title": "법·제도",
    "items": [
+    {
+     "title": "대형마트 판촉사원 파견, 서면 약정 없이 쓰면 종업원 사용 금지 위반으로 3배 배상 대상",
+     "source": "로톡",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1la1BJLVBWUU9qWEw3eDdrUEVEZzdHTC1xcW1teUd0Mlo3Y0ZTX0FhRjR2cjAzOElGdXNxYVUyejJQTDdwYk5GS1RuVEFiRXc?oc=5",
+     "published": "2026-11-03T16:16:32+09:00"
+    },
+    {
+     "title": "[기자수첩] 홈플러스 살리려면 ‘채찍’보다 ‘당근’",
+     "source": "Chosunbiz",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVnppeG1KZzN4X0RGQmlyaEROMXFza2hyMEZsaXVNbW9Fa2tNZ2dscTVOQk45SE9kNjhfT0ZEMDVNQzlEMWtsVTBNWm1PTU1leVBVUm9SV0lEWTZxNjgxa19Md2YwUUZ0V1R0N0UxUVZNeTZ2YVd1ZW1RTW15NlBwN2FfSzlQSk1MOHFFWXFFYW5PQ1FsQ0ZpbW45SdIBmwFBVV95cUxQVnppeG1KZzN4X0RGQmlyaEROMXFza2hyMEZsaXVNbW9Fa2tNZ2dscTVOQk45SE9kNjhfT0ZEMDVNQzlEMWtsVTBNWm1PTU1leVBVUm9SV0lEWTZxNjgxa19Md2YwUUZ0V1R0N0UxUVZNeTZ2YVd1ZW1RTW15NlBwN2FfSzlQSk1MOHFFWXFFYW5PQ1FsQ0ZpbW45SQ?oc=5",
+     "published": "2026-11-03T16:04:24+09:00"
+    },
     {
      "title": "붕어빵에 두바이 초콜릿, 백설기에 피자? 올겨울 이색 간식 총정리",
      "source": "하퍼스 바자 코리아",
@@ -18,10 +30,16 @@ window.NEWS = {
      "published": "2026-11-03T09:21:41+09:00"
     },
     {
-     "title": "\"담배가 갈수록 싸진다?\"…11년째 '4500원' 담뱃값의 역설",
+     "title": "\"담배가 갈수록 싸진다?\"…11년째 '4500원' 담뱃값의 역설 [프라이스&]",
      "source": "한국경제",
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Icl9rMG4tODFzZ0txTFNKNFBKUWlTd1lWMGdkUzlVejZTdTVEMEgyUF9jR2JMVUQ0MnFGdkd4Snh1bnBPZUY5bHA1RGVjSm01VmdPbEpvYjNCQQ?oc=5",
      "published": "2026-11-03T09:04:02+09:00"
+    },
+    {
+     "title": "편의점과 슈퍼마켓의 본업 경쟁력 복원 - GS리테일",
+     "source": "네이버 프리미엄콘텐츠",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZVpyT2Q2ZE1pT2t6Z1U1UzB4Tm5KNDdIcHZWdkZJYWlUWnBtU0hjMUdHc0NfRFlEZjJyUm9YdzhKdms5M1N5NThsOEpnaTloZkxLd3pEaXRoUjhlVUVlMjZROWJFMzdxbDhvTnVTaU9hSElQY3lhNTlhYTMtem9wTDlzZG4zQQ?oc=5",
+     "published": "2026-11-03T08:39:00+09:00"
     },
     {
      "title": "[사설] 다문화 가족 우대 뿐 아니라 국내 기업 역차별도 없어야",
@@ -34,24 +52,6 @@ window.NEWS = {
      "source": "중앙일보",
      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5PdXpNd1BaME03RzJ3NnFUVzduVldXSngtMk5sRTFiM3FsVWFOTHNfMk9HdzVGT2FXdnBWaXN1ZUF1cU9rMnloa1VKUVpUV1JnQ1E5a3h3?oc=5",
      "published": "2026-11-03T00:01:00+09:00"
-    },
-    {
-     "title": "[단독] \"60조 수주전까지 날렸다\"…K방산 '집안싸움'에 특단 조치",
-     "source": "한국경제",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9EVUlKY1FTX1RweF9nY1daV3FlVjAxZVpGWVZtLWdSR3ZZWF9XdnNJTUdzUG9YNGVvUkV4T0Z4bEdCMjc5Z2hfNFp1TjEzZ0JwYzBLVUxvbmxUdw?oc=5",
-     "published": "2026-11-02T17:48:10+09:00"
-    },
-    {
-     "title": "국내 판매 담배 465개 제품서 발암물질 검출…전자담배도 예외 없다",
-     "source": "통영신문",
-     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Ba2t5Qm9RSFdNZE5wa0RCQ2lsTEF0cDJiWEVqSkNMb1hKc1RZVEVzWXZKUjBKUjh2VWMzSjdBNm5rOGNKbkUxcnhQSU5NOW1aX3ZtOXhUUHBFYzhTb0YyZHZnTnVxc1djNXpIOE1PbG5PUVHSAXNBVV95cUxPQWtreUJvUUhXTWROcGtEQkNpbExBdHAyYlhFakpDTG9YSnNUWVRFc1l2SlIwSlI4dlVjM0o3QTZuazhjSm5FMXJ4UElOTTltWl92bTl4VFBwRWM4U29GMmR2Z051cXNXYzV6SDhNT2xuT1FR?oc=5",
-     "published": "2026-11-02T17:44:12+09:00"
-    },
-    {
-     "title": "양꼬치 프랜차이즈 양복점, ‘서울형 상생 프랜차이즈’ 선정···본사·가맹점 상생 모델 인정",
-     "source": "이넷뉴스",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fM0VIdU9LSEE3cHhSM1hRVzk0NWVFanJlSU85ekEyaUROSlRUSnhyR0V0bXpUT1hYanVwbTg4U01XNXpxYmRLUGthOFNkN0oyRk03dzgyZ0pGeF9xN0JHbk91ZEUzU19IV0c4Q9IBcEFVX3lxTFBJd2YyMTFhUTRDOThkanJLUDV0U1luc0M3ZkYyQ1QtdmZmVThSRnRBZkVJLUFLa0Z3emVOb1MzTXpTeVowaUZTTFVYRklyamhiYVVkVlVSeXhEUGUzZ3g5Nmd4RkJGTXNQdW4wT2QtcVI?oc=5",
-     "published": "2026-11-02T16:59:49+09:00"
     }
    ]
   },
@@ -60,124 +60,124 @@ window.NEWS = {
    "title": "유통 뉴스",
    "items": [
     {
-     "title": "유통업계 ‘스위트샵’ 기획전 개최·‘신한 SOL페이 프로모션’ 진행",
-     "source": "여성소비자신문",
-     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93ZURMdTVZb3ZkVTZfVllkQlhoYTc2WjhzSnFZamZyMmtqclEyNXdWNUlQQ0VMRFpqWXRzN29udGdCQ2tsdzVUeTBLM2dDem54Z1pDb3BxT01iekhNekJrakFpR2Fldw?oc=5",
-     "published": "2026-11-03T11:36:10+09:00"
+     "title": "[유통신상] 동서식품·농심·삼립",
+     "source": "스포츠한국",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBySkxKT3hKaUZDYTh5XzB6MjdYb1lUcXA3RWVVZTEzZXdKdHg2cTdxYmZHTWVvN1pzOW1Jc2hxTWZtcHNXWUwxaHFmVmE5QkpISzEwdm41STRFTURnWnNuV2EtbFhxWmNnR05IQmZWSlfSAXRBVV95cUxNS3hIcHZaeTdKUG4yandqYnBsaG5MS2ZvcDR1bUstRUxDV0ExR2hqcXpoOXhyTVVxUmpHN0pZQmRUcksxY2hBMGNSU2VJMmtlTldsQjc1RkE1bUtMWmtPcUZOc1VCdHQ1N1VSenkxS2M4bTg1dA?oc=5",
+     "published": "2026-11-03T18:17:13+09:00"
     },
     {
-     "title": "붕어빵에 두바이 초콜릿, 백설기에 피자? 올겨울 이색 간식 총정리",
-     "source": "하퍼스 바자 코리아",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBib196Wjg4SE4tODRLYnhJeF9LTHQ5SFFKbTdQa0pUVWFSOXFOMDNSMjhzYk9mTS1qSXVkSDF6ODBBMFFaSnU0R1BfbVJQcm41Rmxud01DVlpYY1k?oc=5",
-     "published": "2026-11-03T11:35:51+09:00"
+     "title": "[여의로] 베트남 일상 파고든 ‘K-유통’ 롯데百·GS25",
+     "source": "아시아투데이",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWTlU0ZlZiTnBDVFVZam9NSk5ZWnQtLWphbXNieEFPaWUzNWpucFpQaUVZdy1LOENRTF9ZRDdhdHpGWHh2ZG1BNHNmTmJmQUpoSk9fczVtN1hJWkF1S3pjMVpUcnNpQkRtbDVxbg?oc=5",
+     "published": "2026-11-03T18:00:00+09:00"
     },
     {
-     "title": "홍대서 K-세일페스타 확산식…먹거리·생활가전 할인 혜택 한자리에",
-     "source": "베이비타임즈",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNZ3RDd2l4QndoeGRnOG1ub2Q1bDBTWlR4SVFWZGpraXRXVGpkVDJNMGFER0ROeldaYlpYelVHY0JhdXJyalZudHVaYkd5eUxTaUxJUVVFVlY1QXJWcmRUWERqRDFHelF0YnJ2eg?oc=5",
-     "published": "2026-11-03T11:31:31+09:00"
+     "title": "\"협업 넘어 자체 IP 육성\"…유통업계, '캐릭터' 팬심 공략 각축전",
+     "source": "굿모닝경제",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4ya1B0azlzb3ktM0ZtT3lGVGItbGVmYnh1TVdjTlVYcjVRc2FVSUhxbS1VS1k0cmtiYTdfWTdWQk8tcDN1MXNya1U4WHBBc2xHTHczQnhWZVFldXBaWjFrTWpSSFlZZGYwZzhySQ?oc=5",
+     "published": "2026-11-03T17:45:51+09:00"
     },
     {
-     "title": "신세계 센텀시티, 지역상생 ‘5년 연속 최우수’…부산 유통업계 선도",
-     "source": "인더스트리뉴스",
-     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA1WTl6cXBSMERiSEY4cmVPb3RXSW94dDlWT0JfMHVGanZ3S19FMHhFZGFsbTlpVEltOTBnLWkyTGlxN1ZCTnNhZXUyaHBrRWUtMFdVWVN3b0U0YUlVd1JLVE9XUlpDbmIzdkhHSkVBaU9odw?oc=5",
-     "published": "2026-11-03T11:11:05+09:00"
+     "title": "“지금이 제일 싸다” 유통가, 깎고 또 깎았다",
+     "source": "부산일보",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBZQWVvSklrSXZ0Qm82enBIT1dpZjhTMjRtQzhKZ2hYSzJhYVFhSFlKTzlvTmd1TXJKVGFNbWFNZHgzOU1vX2ZQZHJxcDFQUFByN0xqWEJWSHZ3eVJkdDFvc2FKd2Z2SDRvQTg0RUVYdEFpVEJs?oc=5",
+     "published": "2026-11-03T17:43:40+09:00"
     },
     {
-     "title": "신세계·메가마트, 부산 대형유통업체 상생협력 ‘최우수’",
-     "source": "헤럴드경제",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4wQVZuY2kxLU1EdzdmLVpFUWYzeF9GNUR4REJCeTREQ3ZFd1pDRVc5MlRtTEV0WnpGazFLVk95R0hKWWFwV0luOWRKQzZ1RWdadzJvR1RQdw?oc=5",
-     "published": "2026-11-03T10:58:08+09:00"
+     "title": "[업계는지금]K-블랙프라이데이도 장바구니 물가 공략…한우·수산물 반값 경쟁",
+     "source": "푸드투데이",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xSGNOVWlOUWZGMk9tZWpFZDh6S2ZXTE04QUtEUTNhcnU0TWhmSWtrRm5tdndoY1BVdU8zbEpFaF9raEJ2M0c2Z2NJUUkwQ0N5cGpYajFoVGhSLWdQWklNdDVSRTN5eG1G?oc=5",
+     "published": "2026-11-03T17:24:13+09:00"
     },
     {
-     "title": "CJ ONE, 11월 장보기·편의점 할인 혜택 확대",
-     "source": "Korea IT Times",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9uZnlocHZPdjlEZ2dVaFJmX2w1blc1VEU0eUFURE13THgxcHhqNWduSENjNzhLSm0yMnV1UE9mNEg1RmVtUXZfODAxZUl0RkE0MlFCR3FCWWtERGxUS1ByUGFSWDZOZ1dXR2RzcHQ5OA?oc=5",
-     "published": "2026-11-03T10:52:23+09:00"
+     "title": "2026년 10월 프랜차이즈 정보공개서 신규등록 125개 브랜드 공개",
+     "source": "신아일보",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE41M3gwamo2djc0d2wwRFdVZkFEa1pHR2NnazAtdERBYUp3TF96WE45Z0VCUkd3NnlrZjZOX29uVUZQUmR4NUlsSHpUXzhkUDZiVlJYb0FqR0ZjN2FjWm1oam92akNwZHdzSmg2RGxuQnM?oc=5",
+     "published": "2026-11-03T17:10:00+09:00"
     },
     {
-     "title": "[유통소식] GS25·세븐일레븐, 빼빼로데이 캐릭터 세트 경쟁 外",
-     "source": "데일리팝",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SdWRZZVVCWTJxTGd5WWxNV0Z2enZCcmprcjR3RGVIOG5IUFhGMldPbklaQVNlWHpSTnJFWDVYTVotVFhfMi05WldaM2FhLUFfSF96QmJ2VmU2djBKYUk4dXZwWEpkX2hj?oc=5",
-     "published": "2026-11-03T10:07:00+09:00"
+     "title": "연말 쇼핑특수 잡자…유통업계, 블프·광군제 맞이 할인",
+     "source": "지디넷코리아",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13dmp5ckdGcDg1eWxrZ1FmdWJFeTc1elk4X2w3SjJSVHpudVk2UGhYSnh2dGZCUk53RUhBMTFWdFN4TThLMFJtcUFYNXc3Ny11QjA0VW9B?oc=5",
+     "published": "2026-11-03T16:52:24+09:00"
     },
     {
-     "title": "“흰디·밸리곰·푸빌라”…유통업계 ‘자체 캐릭터’가 뜬다",
+     "title": "페리카나, 푸드테크와 업무협약 체결…매장 디지털 전환 추진",
+     "source": "한경매거진",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tLVNrRmNvUjMyaGxwcl9JUGNPMEdCMmYyZXdkek1hN0xpeTlKU1NjX085QmpPOVVyckV5VUJmRDNENW96VllLYm5PWmlNa0NNTmc2LTFIVjZkMzBaakdGQ3pRRnY2cTdGY01YdA?oc=5",
+     "published": "2026-11-03T16:35:00+09:00"
+    },
+    {
+     "title": "[편의점 업황] 11월 1주, 겨울 먹거리·IP 마케팅·점포 효율 경쟁",
+     "source": "센머니",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84S0thaElRWllhOWVaNC1KZzZZOXRtRHYydEtYcC0tNHZFcVlDWlMzZDJtQUdwdThzUmtjV2Mtb1c0Y0w3a1I0SUdpOFJhNnN6elBkVUpsVzRMSU82UlQ4VnRrTHRkeUFmbXJtYQ?oc=5",
+     "published": "2026-11-03T16:29:51+09:00"
+    },
+    {
+     "title": "식빵맨부터 카레빵맨까지 총출동... 삼립, ‘호빵맨 빵’ 편의점 출격",
+     "source": "인사이트",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5uN0lzYWpBYWpBaXdrckhZQVhSZzJQRVVQaktRa2dVb09fSjNrVHRKQ0dXZlRwOFBoT0xuakdsTFBkNWt4XzFVSlNpSE1OUQ?oc=5",
+     "published": "2026-11-03T16:29:44+09:00"
+    },
+    {
+     "title": "“군고구마, 붕어빵도 배달됩니다”...편의점 겨울 간식 벌써부터 ‘인기’",
+     "source": "서울경제",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IaVh5YWZyS0tPNVNJdnlfM0w0MllKUC1sa0JFTW90S1RuSVYtSzVMSFZtODZZbjRfMy1ZYzZnY0p6UC00UV82bzFFSlp6TEk1Y1RZ0gFTQVVfeXFMT0hpWHlhZnJLS081U0l2eV8zTDQyWUpQLWxrQkVNb3RLVG5JVi1LNUxIVm04NlluNF8zLVljNmdjSnpQLTRRXzZvMUVKWnpMSTVjVFk?oc=5",
+     "published": "2026-11-03T16:18:33+09:00"
+    },
+    {
+     "title": "\"편의점 상품 반값에 산다\"…일본 여행 땐 특화카드가 유리",
+     "source": "한국경제",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZUmN0c3pWQ0RlTU1pX1pveE9TZTEySDlnaVE4YXdDa01uZ3lfdFRTcEYySVl6MlZJSjRPNktIV19XazhBVDVMQ2NELWpzc1NVMkx3dC1xM2FRdw?oc=5",
+     "published": "2026-11-03T16:13:56+09:00"
+    },
+    {
+     "title": "이마트24, 희망퇴직 후 창업 권하지만...점포 경쟁력 '물음표'",
+     "source": "지디넷코리아",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93YUZBS3lHNkVDcVRhUnd0SWloc3YwRjlZckhMRVlmY05lalFNUHI4amZNOXBUZjQtNld2WVhUc1VkREF4OG1LeVhhX0g3LVFyeUFRQVJn?oc=5",
+     "published": "2026-11-03T16:10:51+09:00"
+    },
+    {
+     "title": "“한정선 들어왔습니다”…편의점, 동네 단골 잡기 커뮤니티 전략 강화",
+     "source": "전자신문",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5yd1VpbV8zLWdFdVBSb2s0VXdzZU9fa2tENGkwWTZ5LXV3a1R5d2NhZ25kWGhNTWs3STFPVjQxSWhsMnlxZkFsVndra3dYQQ?oc=5",
+     "published": "2026-11-03T16:00:00+09:00"
+    },
+    {
+     "title": "빼빼로데이, 과자보다 굿즈…편의점 IP 협업 경쟁 확대",
+     "source": "더트래커",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE51N296bFh6Z1RlZEdxM2FKeDlqT2VqZWRfcGE2WUdEcHFZSF82RE5WOG1LcVluOVMtUDFoOUtpS0lrZTYxS1hRRWRCTzdIMlVVUUxQTmxsTXE?oc=5",
+     "published": "2026-11-03T15:55:55+09:00"
+    },
+    {
+     "title": "[그때 그사건] 20만원 훔치려다 살인까지…전자발찌 찬 강도범의 세 번째 범행",
+     "source": "더시사법률",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zOWpLZ28xN19RLW1pMUYyeGNKRTZLSDNwLWJpZEdXOVNvZWtGd0xHdjJhd0hDTzF4YjltcUtMLUhaLWF0SFpsdVlVMk5WUlNfdlA3OUFDQ0FBblk?oc=5",
+     "published": "2026-11-03T15:24:25+09:00"
+    },
+    {
+     "title": "[유통 브리프] 상미당홀딩스, 애경산업, 빙그레, 동서식품",
+     "source": "ER 이코노믹리뷰",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9nMGN1ZjBMRU1rSHhiU0FtZGlTMGptQThQVjlQdTF0N2lzUE1KSENHN0NwTDBxUnh1VnNkNlRUcjVIcWg1V0JtLS1WdlMtVDFwOG5vc2FKTUkwdEVlRGxIMGM4cFc0cGF0N0o4Uw?oc=5",
+     "published": "2026-11-03T15:09:11+09:00"
+    },
+    {
+     "title": "CU, 빼빼로데이 캐릭터 굿즈 28종",
+     "source": "쿡앤셰프",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zV2N4emxUd3owVGliWUJyQTBnWk9jN2VSUjhKWTg5UlkzRTF2MWtSODBTV0NURnRYSjdteTRSQ0VGYl9BVTZ5LVZDVDNxSTZnbl91V1FWcTl3d9IBWkFVX3lxTE1zV2N4emxUd3owVGliWUJyQTBnWk9jN2VSUjhKWTg5UlkzRTF2MWtSODBTV0NURnRYSjdteTRSQ0VGYl9BVTZ5LVZDVDNxSTZnbl91V1FWcTl3dw?oc=5",
+     "published": "2026-11-03T15:06:20+09:00"
+    },
+    {
+     "title": "고객 모으기만 바빴지, 보안은 뒷전?…개인정보 탈탈 털린 유통업계",
      "source": "매일경제",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4wYXc2aVdXR0lfa1laMGREckJvTnA1S21GTUMwUnNsd2M5R1B2eUwzcGxYRk51cUZRZDRCbTJMR1Q4eGlWcFk3TkZ3WHlpRDR0eTZrOGxn?oc=5",
-     "published": "2026-11-03T10:06:33+09:00"
+     "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBUbFlXNGhGc3djaUFwQW1ZSmZTLW9ITjhKeWNuOWVXMjNjS3N3dGp4TENQQ3h4WVZaQ1QwNkU5RmZqeFM2YWc?oc=5",
+     "published": "2026-11-03T15:01:03+09:00"
     },
     {
-     "title": "편의점에 진열된 마음, 고립·은둔 청년 이야기",
-     "source": "단비뉴스",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBIOWpLTWszc2ppaHd5OHoyaEJJakpSZzJNTklURFk0V0Vxc3U4NW9ESDJWeG9OTVpKZHRSZUtxLS1HZ0pKdzdtLVRQZks2OVNaa0RNdG1ITjdlNHJsTkNJSG5wUGQ2RkFxMlZB?oc=5",
-     "published": "2026-11-03T09:53:20+09:00"
-    },
-    {
-     "title": "\"빵으로 변신한 호빵맨 친구들 \" 삼립, 캐릭터 베이커리 4종 선봬",
-     "source": "뉴시스",
-     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5mbDBiMlNfR19TOXRFMmNQYmJsMUJ5QzY2NVZZRGZ1UFRBeUZTTXhqa3MwQXdBclpXUlB2S3hkUlVtS3pDUmJHYll1UDJCSU13N3BlUzBwalJKT2FGWmh5NmtR?oc=5",
-     "published": "2026-11-03T09:43:13+09:00"
-    },
-    {
-     "title": "유통업계, 캐릭터 활용법…과자 속 숨은 캐릭터부터 굿즈까지",
-     "source": "라이센스뉴스",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9YaDBTYWZHTERzODlGTW85dmZ3bkUtenlUTXMxbkNtUzdqd2hnSzhPRE85Q0hXaXVwYUJtS1M3bjg4bzJXVG1TZDAtYzAyQ1dHTzhiXzgwRTJxVmJodVJHdEQwaGwzM0V0em5J?oc=5",
-     "published": "2026-11-03T09:36:18+09:00"
-    },
-    {
-     "title": "CJ ONE, 11월 '원더위크' 개최…CJ 더마켓·편의점서 혜택 제공",
-     "source": "뉴스드림",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE14Y21BN09Fd0xOMkdidko3M3Q5bmtqT3hHSkc1WldHbXNrSXotWmFzOVVNWTNkRnkyMGlIQjBGWWFPSDNCNjVTbjRzRjUtTTBRS2hpNlUzSE5ER2d5aUVLWTVqZE1QSFZWdXfSAW5BVV95cUxQZi1HTGYxa2lHejJScTVQTHpMMkZXVWhoMUhoRVNSWmJXTGs2aVdxREs0ZjlDSzg5bk4yRktQUHF3WUVRVnF4a2YzdVpTTXpJcGlaY01DaWhwRHB4OGpJcVo1MHVWckJSa3NMM0lLdw?oc=5",
-     "published": "2026-11-03T09:35:22+09:00"
-    },
-    {
-     "title": "CJ ONE, 11월 ‘원더위크’로 장보기·편의점 할인 혜택 확대",
-     "source": "헤럴드경제",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAwN2JWdG9ncVBDMkVzc0FubzR3Tk1nb0kzLTVYNW1NUkV0SHZnVk8wMkdsVGVkRnBWcHNWQ0lIVDBxRU1kYnA4ZHkyQlJTY29LcTMtc2Fn?oc=5",
-     "published": "2026-11-03T09:32:57+09:00"
-    },
-    {
-     "title": "햇반의 미래를 AI로 그린다…유통업계, 소비자 아이디어로 광고 만든다",
-     "source": "세계일보",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE00Q0lQNlJzZmhGdjJ3MzZFeXpNVmhhcUZ3bktDdVVWX2NoaDQ3RmUtM1dUVUdrMnFzWllIa0NOaklycFVHUUx2Z1B6anQzZ3RFY3VyVdIBVEFVX3lxTE00Q0lQNlJzZmhGdjJ3MzZFeXpNVmhhcUZ3bktDdVVWX2NoaDQ3RmUtM1dUVUdrMnFzWllIa0NOaklycFVHUUx2Z1B6anQzZ3RFY3VyVQ?oc=5",
-     "published": "2026-11-03T09:20:52+09:00"
-    },
-    {
-     "title": "부산시, 대형유통업체 지역기여도 조사 결과 발표",
-     "source": "웹이코노미",
-     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LWTdMREtFNk43eU9FdjhSdVc0cWp3T0hkMDBwTEYtX2lYemdkUWIyd1dVNUN5c0JzYVo3cWVwaVNFVkR1RlpaeW93R0Z0aEZ4alBLZ1ZVOUEtWUxHR1pDN0lXazJrOFNacDM1Mkg2Q0lRdw?oc=5",
-     "published": "2026-11-03T09:18:18+09:00"
-    },
-    {
-     "title": "CJ ONE, 11월 ‘원더위크’ 진행…장보기·편의점 할인 혜택 확대",
-     "source": "서울경제TV",
-     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9QUVlhZU91cV82Z2JMVzhvMDg0Zk11R3lLMW9CYnV5U2xtM3R4bUpQa2RWb2RqVkRBYlkyWW5ScHA3WTBCOUpGTElmRDFXMmtrQnd6RktJQ0ZIN1dNY25fdjRjcHM?oc=5",
-     "published": "2026-11-03T09:17:20+09:00"
-    },
-    {
-     "title": "빼빼로데이 앞둔 유통가…제조사·편의점, 캐릭터·체험형 마케팅 경쟁",
-     "source": "한국아이닷컴",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1nUjRyWUE2dkZ2NG02OUg4dFZ0Ym9HRDF3X2kzWVdCZ0FjT2lZVGk1eDBGVUo3bHJpUVpKcHoyX2RHSDZPREYwRHBBcXQ3TkdrVnpzMkFTRjRxRDVVY0pHS3NSdWZJcUgzeTdCSkdGVdIBb0FVX3lxTE1nUjRyWUE2dkZ2NG02OUg4dFZ0Ym9HRDF3X2kzWVdCZ0FjT2lZVGk1eDBGVUo3bHJpUVpKcHoyX2RHSDZPREYwRHBBcXQ3TkdrVnpzMkFTRjRxRDVVY0pHS3NSdWZJcUgzeTdCSkdGVQ?oc=5",
-     "published": "2026-11-03T09:03:09+09:00"
-    },
-    {
-     "title": "약사회, 편의점 상비약 확대 저지 집중",
-     "source": "후생신보",
-     "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1JSWZVRGtVZWlIUi0tQ1d1bUhtWmt6NDNXT2tUOUpqNGVzdHcxdGJWYnNwSlE0b0xnNFB4NHV5MUpNNVRV?oc=5",
-     "published": "2026-11-03T08:58:00+09:00"
-    },
-    {
-     "title": "포켓몬·헬로키티부터 지드래곤 협업 캐릭터까지…빼빼로데이 앞두고 '굿즈 전쟁'",
-     "source": "파이낸셜뉴스",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91Mktza1FxSEp5ZEU5Y2dOR3g0SUFLNjNGeXo3eGxaaVRLZDVMV2h5c3QwbXRtUjBzRUllWnpFWTNERjlMcXFZR1hTcUxrZHFtYk5fSWNzNkh4Zw?oc=5",
-     "published": "2026-11-03T08:55:23+09:00"
-    },
-    {
-     "title": "편의점 일회용 보조배터리 매출 쑥…폐기 부담도 커진다 : 네이버 블로그",
-     "source": "Naver Blog",
-     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTXQwWC1aLWtYTnlqUHllRVlyZm5lM3o3azl2LTdranJHVDR4bnNJX1B5elF5OE9yb1M2eHdGdndrOF84VW9OQnF5dmpkenNlUXgtX2Jwd3VoVWJFN21BbXdxRjdCMEs3dzJ6MUZHZU9OTUtLTno4aHBpWG5XTU1RS0UxSXJtUHhidzZ6MHZ3UQ?oc=5",
-     "published": "2026-11-03T08:30:46+09:00"
+     "title": "상품 추천부터 AI 쇼호스트까지…유통업계 AX 전방위 확산",
+     "source": "메트로신문",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE82TkpPdndybmJQczJiQmQtT3o5YVRoQ0pGRmpOenJsMEpqRko4M1NVQ0Z0cFR1YU9rSTdTOWtJcDFSRndfdmVPaTBEMUZUdXljT3N2ZWRFVExtazk2MklZNA?oc=5",
+     "published": "2026-11-03T14:54:36+09:00"
     }
    ]
   }
