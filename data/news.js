@@ -1,57 +1,45 @@
 window.NEWS = {
- "updated": "2026-11-04T09:59:06+09:00",
+ "updated": "2026-11-05T10:13:12+09:00",
  "sections": [
   {
    "id": "law",
    "title": "법·제도",
    "items": [
     {
-     "title": "쿠팡Inc, 3분기 영업손실 6천423억원…3개 분기 연속 적자",
+     "title": "3년치 영업익 \"공중분해\"...쿠팡, 3분기 누적 영업손실 \"1조 8000억원\"",
      "source": "청년일보",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hVTB6Nm5NUFNwRzhsUExHa0VMZ0psbnYxalBLQmdzeENpR0JwejNWcDAzWlhRWFBRaWZxTGU4TTdWdnRHQkJraTFONXh5SDVudEI2Y2FfT2xFbDYxWUtlcllyRGRIaVk?oc=5",
-     "published": "2026-11-04T08:50:55+09:00"
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LTXF1bFlsSndvQnAyUmZMVXROeXFOWUpSSGduZy01RDRUalNKa3ZWSll5RWI5YmlhTm5jRjIyR3pDSEZfc2dhZWgzUENuRW5nQkNjRVc1UlFXa01TcFVEMHdCRHRoMWc?oc=5",
+     "published": "2026-11-05T08:00:00+09:00"
     },
     {
-     "title": "이커머스 3사, 대규모 할인전 돌입…수익성 확보는 \"글쎄\"",
-     "source": "청년일보",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FMlNScjBBUjZTd3ZNeUdhNlBnRHVmZUZlSkZHRGpwazJRZFhhNEJCeVloR1VhY2htYlNBbDhfSlZ5NGhIYlYzOHprNUtGWm5ncGp5MEEwS2xZVlZUbVBRNllpMXJUMVllVUE?oc=5",
-     "published": "2026-11-04T08:00:04+09:00"
-    },
-    {
-     "title": "[단독] ⑤ 메가커피, 617억 반환 소송에 광고·판촉비 '깜깜이' 논란까지",
-     "source": "뉴스후플러스",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9zZFpGWVB5WmloNkdmbC1UVWFTU25LY0N3NTdvREVOUU9zaVBqQjFITUtYb3R5RWNIRlZQSnQtZTBoXzZjbGNqQlM0OC1rMnh0ZEYxMWJNWFh2cFZzNUI4d2ZZZy0wWjI1dU9kWTZR?oc=5",
-     "published": "2026-11-04T03:52:10+09:00"
-    },
-    {
-     "title": "대형마트 판촉사원 파견, 서면 약정 없이 쓰면 종업원 사용 금지 위반으로 3배 배상 대상",
-     "source": "로톡",
-     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1la1BJLVBWUU9qWEw3eDdrUEVEZzdHTC1xcW1teUd0Mlo3Y0ZTX0FhRjR2cjAzOElGdXNxYVUyejJQTDdwYk5GS1RuVEFiRXc?oc=5",
-     "published": "2026-11-03T16:16:32+09:00"
-    },
-    {
-     "title": "[기자수첩] 홈플러스 살리려면 ‘채찍’보다 ‘당근’",
+     "title": "[기자수첩] MBK에 ‘채찍’만 휘두르는 정치권… 홈플러스 살리려면 ‘당근’도 있어야",
      "source": "Chosunbiz",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVnppeG1KZzN4X0RGQmlyaEROMXFza2hyMEZsaXVNbW9Fa2tNZ2dscTVOQk45SE9kNjhfT0ZEMDVNQzlEMWtsVTBNWm1PTU1leVBVUm9SV0lEWTZxNjgxa19Md2YwUUZ0V1R0N0UxUVZNeTZ2YVd1ZW1RTW15NlBwN2FfSzlQSk1MOHFFWXFFYW5PQ1FsQ0ZpbW45SdIBmwFBVV95cUxQVnppeG1KZzN4X0RGQmlyaEROMXFza2hyMEZsaXVNbW9Fa2tNZ2dscTVOQk45SE9kNjhfT0ZEMDVNQzlEMWtsVTBNWm1PTU1leVBVUm9SV0lEWTZxNjgxa19Md2YwUUZ0V1R0N0UxUVZNeTZ2YVd1ZW1RTW15NlBwN2FfSzlQSk1MOHFFWXFFYW5PQ1FsQ0ZpbW45SQ?oc=5",
-     "published": "2026-11-03T16:04:24+09:00"
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSThzeEdlS0NCNlo5QnExeENubFNOMXRpQUdibzQyc2d3V1ZQdmdJaU9VeHB1MFBxZlF4X3ZDT2hqek10UVZ6VlozcHdKbEFfNlVZVU5VR285RXFFeWpZYTJmeE9ORG9xd0dpN1N4NldqaGhfZnFzYTdLdzJqdXZLMlJkVkIxYknSAZsBQVVfeXFMUFZ6aXhtSmczeF9ERkJpcmhETjFxc2tocjBGbGl1TW1vRWtrTWdnbHE1TkJOOUhPZDY4X09GRDA1TUM5RDFrbFUwTVptT01NZXlQVVJvUldJRFk2cTY4MWtfTHdmMFFGdFdUdDdFMVFWTXk2dmFXdWVtUU1teTZQcDdhX0s5UEpNTDhxRVlxRWFuT0NRbENGaW1uOUk?oc=5",
+     "published": "2026-11-04T17:32:00+09:00"
     },
     {
-     "title": "월 150만 원 보장? 무점포 창업의 함정",
-     "source": "로톡",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhakNheVBEalhRLTFaVzVCc1QxemVpR2pCeVh1ajFvdXNvNFdvREFZTzhUejJuRV81YWxGTkxyRmxvS0g4NUJHT19vNjRnYXc1ZklMV2NB?oc=5",
-     "published": "2026-11-03T13:53:32+09:00"
+     "title": "[Only]편의점 블루스1-사장님은 접을 수도, 버틸 수도 없다",
+     "source": "주간현대",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9VRFBsN1pTOUpoaFAwY2NKYThUMWtvZ01vQkY2d0szV2dkeWJyS2tZRTNXWVd2aVkyWlNLVEZvSzRYXzl1bEhsYXJR?oc=5",
+     "published": "2026-11-04T16:47:00+09:00"
     },
     {
-     "title": "배민, 라이더 안전교육 문턱 낮춘다…무료 셔틀 확대",
-     "source": "포쓰저널",
-     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ZYjEwZ2xoUkZZRERyd3BzeERPTUFjZ3dTRXJUWjJYZEhYLTNlNUtQSnpYR1dwVHBFWnRiT05WUlhuWkdFcEZjM3VVeWtvbFc3RDQxdl9ZUG9OOXlzR295NXpKcEI?oc=5",
-     "published": "2026-11-03T13:24:58+09:00"
+     "title": "티메프 피해 中企, 정책자금 거치 1년 연장",
+     "source": "중소기업신문",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WeDN6RTVzSkVSNGczNVNjS0s0dWwwa2ZwOXZGZlgyMlhyYV9CWWYyUllLMHE2MUNNZkFVYWVHT2lOZEtzOWhZWFRpN2o0N3ViS0YtTVg5R0VDN2R4OTdsZ1RhcGRXbHhDU1BiOA?oc=5",
+     "published": "2026-11-04T16:20:00+09:00"
     },
     {
-     "title": "붕어빵에 두바이 초콜릿, 백설기에 피자? 올겨울 이색 간식 총정리",
-     "source": "하퍼스 바자 코리아",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBib196Wjg4SE4tODRLYnhJeF9LTHQ5SFFKbTdQa0pUVWFSOXFOMDNSMjhzYk9mTS1qSXVkSDF6ODBBMFFaSnU0R1BfbVJQcm41Rmxud01DVlpYY1k?oc=5",
-     "published": "2026-11-03T11:35:51+09:00"
+     "title": "[2026 Best Law Firms in Korea] 법무법인 선운",
+     "source": "리걸타임즈",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBDd0F6akJPc1lWWXZrelREUFVhXzVkd3ZueklfZkVPS01MeWJIZ0hNd3ZVZnpkS3BHcmJzRG04SlhuQVZZdXFFNHNfMDczUzItM1VrQXQ1NENNRE9hdENtOGtyeDJrRTMwSVFONURfUQ?oc=5",
+     "published": "2026-11-04T15:36:00+09:00"
+    },
+    {
+     "title": "[권변의 法대로] 77. 가맹점주의 경업금지 의무",
+     "source": "스타뉴스",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MaEFNRGVvUnBpbU5ESU5NYlBZS244NVI3NERpNGxVOXhwb1RVZ3B3YzVmRFBCbFpWcFY2TWpST0hQNUN4YnJJOE9aV2NxNWowMFFCNG5naURVYW9TT1d5U2Q4c1FUZXZLb3ZUaF9YVUFudTFkcFBxeHVmVVhyUEk?oc=5",
+     "published": "2026-11-04T10:18:53+09:00"
     }
    ]
   },
@@ -60,124 +48,124 @@ window.NEWS = {
    "title": "유통 뉴스",
    "items": [
     {
-     "title": "롯데웰푸드, 편의점마다 다른 ‘프리미엄 가나’ 출시",
-     "source": "Korea IT Times",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1GZVhHWDgwRTZwQ1pqdjk3WC1NQ0NxZjN0T056WGVQVTNqb09ReUxQUmtKNmw4M1V2a2x4WDgzVzBkS0hnLVo1bGZqSEp5dF91cmd6T2ZYS2d3MllhdDdPOWZjb0Z4TERUNjB6VFpBNA?oc=5",
-     "published": "2026-11-04T09:52:37+09:00"
+     "title": "[오늘의 먹거리] 겨울철 먹거리에 차별성 더하는 CU·세븐일레븐·삼립",
+     "source": "한국정경신문",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1oMERodVpZc0hjU0Z3RDVsUVM2cFRDcGpGdDA4bHVYc09ISjhTMmREZlVac2s5MkhEOExOS1BHWnBHcGdlc0V1bzQzM1gzeFRneGc?oc=5",
+     "published": "2026-11-05T10:04:19+09:00"
     },
     {
-     "title": "하나은행·하나카드, CU와 ‘국군의 날, 우리 부대 응원전’ 간식차 지원",
-     "source": "매일일보",
-     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1vRE5VdHFkdzJENDN2XzAyZ0NtZ0h2MkM2b2ZuTGVPMzhYUUYweUFocl9XN0x6R3djTmgtSjdhV19pRUtlX0h1VER3MHFCM2ZHblB5WkVXa3pmMjIza1RtcHlmVkc?oc=5",
-     "published": "2026-11-04T09:50:46+09:00"
+     "title": "[신간] 편의점은 내 편인 편",
+     "source": "한국사회복지저널",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wdVRVTjFCamRNM0JrOGNvS2dEcWFOSW9tV2dsM25wOFFYeGtLSERfNmZiMzlVdTdldzJxYUlDMHdxRDRxN3BTU0JhV3FmVDFXczZUS3JXMDNzV2ZrMlF0anZpa0xyZ0ZZQnFz?oc=5",
+     "published": "2026-11-05T10:02:15+09:00"
     },
     {
-     "title": "﻿롯데웰푸드, 유통채널별 맞춤 초콜릿 선보인다… ‘프리미엄 가나’ 시즌 한정 4종 출시",
-     "source": "비즈니스리포트",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBHNy1lWDR6ZWt2VWNPRjJxc2lTbFdVRTNhZXUtOHl4MDdHUTNqdUxxLTFIcS1qQ3pCc0dEM3llLVBOS1lpekQ1QUtvVXRUSm5JUEdHV01TTjFRZG01U19LNTV0R0FGUTVXSFVVOWdIUQ?oc=5",
-     "published": "2026-11-04T09:49:57+09:00"
+     "title": "찬바람에 어묵 매출 564% 껑충…세븐일레븐, 겨울 간식 확대",
+     "source": "지디넷코리아",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoVURiWkRBazFVV0NYT211U3NxQ2hnYXA3Mndmb0UzYkNxNW1IcDduVTMxa3E2cGt6anp2TDJQWlR4bUwwQlFFTTNuYm9sMk9QNVVjaUhn?oc=5",
+     "published": "2026-11-05T09:54:56+09:00"
     },
     {
-     "title": "GS리테일, 편의점 감소·슈퍼마켓 증가…3Q 영업익 19%↑",
-     "source": "블로터",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Xal93UG9sdUlHc1NsbmR1eWMtbmZWeEM3RW1wT0Q1a09DUXNZMUluSko2VFBCUTZxcTJvTGVrMF9wYkpQYlRnMDBac2MzQUx4dS1ra1d1QU9fLTBnX294VWFXNkhNM1F30gFsQVVfeXFMTmp6ZWFPdUthaGc1RE56UjlrOXp6QkpTMGhjME02Z2YzdWEtbWY4Y3g3TkpQNko1ZGdyS244OC1acTNzYUJDZTVybHdSNVFRUkxBTy0xRmF4STBRZkFYbXVJaUFIcWVkbW1jclF5?oc=5",
-     "published": "2026-11-04T09:48:36+09:00"
+     "title": "“겨울 오기도 전인데”…삼립호빵 편의점 매출 44% 증가",
+     "source": "글로벌이코노믹",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZXc5Ykp5bE1nTXVFZ0dfX3F6TG1Sa21NdHZOdjBKLWNKSVV5dU1BaERtYklfcDd6VDNwRUEwYjA2YzNIcDF4QnctejA5U2pzcnZsMTBnQ0ZTRUNlNUE5YlAtTWF5bHBabG10Q1BvY3ZWQkl3dkJ0SlZpaXZfR29PVDBmbWktRVJYUHdj?oc=5",
+     "published": "2026-11-05T09:54:41+09:00"
     },
     {
-     "title": "GS리테일, 3분기 영업익 1321억원···전년比 18.9%↑",
-     "source": "서울파이낸스",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHZnJVd3dZeWJOdUpSdmdnMjdQaGsxUVhLX2pQSGpoVjhJX1ZDbjRlQkkzQVJfaG9YR2ZBZU5LeExZdDJpay1GTWFuejU1VWhYZkJpek51YUZ6cHVLbkNpQWEwaGFEanFRZ1E?oc=5",
-     "published": "2026-11-04T09:46:02+09:00"
-    },
-    {
-     "title": "GS리테일, 3Q 영업익 전년比 19%↑…편의점은 수익성 부진",
-     "source": "조세일보",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9pamxvU1NWajNUb0ZJb3Q3MHdMUXpRRWdhTVdLSGZxUmtWZkFzc3NDNU01RDBUSG9qdTdTSEJqSTJZMy1rd0pqWWxMSHJtdFRPMldZUk5TMTljM3dLNXZPdER1UzZiRHl1M3ZBNzEtOHU5MDNs?oc=5",
-     "published": "2026-11-04T09:45:24+09:00"
-    },
-    {
-     "title": "하나은행·하나카드, CU와 손잡고 국군 장병 간식차 릴레이",
-     "source": "뉴스드림",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9hb1JYUkRWMFVfU1NVR291ei1lM2JpTExzOTJ4anFyR2lmXzlsUzdXWmZRUTRPTXE2MTc2OURFZThlaE9JMmhiS0FZNDBCa1dBc1pxUXRGMnRvZW5xVDkyUDNlTDRHT1g5QjVr0gFuQVVfeXFMTjc3MVNCdVlseWRzVVZURGR0cnRoaHJRYWN4XzlpbXdOOWZVSU5RVEd0LXVHUHVuSkc2Q0RjZDBVaFhFWDZ5Q1J2Y3dLaE56dnlPM2U2N3RCQThOOG1xWUlmUk0ybzBMcjJxWjl2cWc?oc=5",
-     "published": "2026-11-04T09:45:07+09:00"
-    },
-    {
-     "title": "하나은행·하나카드, 국민 응원 1위 군부대에 간식차 보낸다",
-     "source": "Korea IT Times",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1iSzhTWWhpMXdUSlI1SFlnY3hHWTl3c2w2YUd1YmpSclNyX0YzcDNKeDBxSkhBTlhpejZrTHdvRHM0QjIzQ0toSV9YNDBQOUNyQ1NYajJRT2tuRE1fbVNYT3NRcUhtbm5VTlRFbzR5dw?oc=5",
-     "published": "2026-11-04T09:44:49+09:00"
-    },
-    {
-     "title": "하나은행·하나카드, 군부대 간식차 지원",
-     "source": "뉴스프리존",
-     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5LWWVqTTcyTmJzVHpwWUd2Q290SHlwODR3a0R6d1BobG45LVR0QjVSNTQxaWJmYmZSNmExV2ZmU2dVOVdHRGtqaTE5SnlxRjNRaTJiQTBXWW1oTnc0QW50QjJjZy14WENtMkJIMnpuQkZjTFXSAXdBVV95cUxQY2VuejNzelN2cjY0ZlFOZnV6MzFNbmx6RmVjTFB5MV8zTWpnVXdCdmpScE9sWGVYT2NkMXRTQW8xWU5UQk0ybG40R0VNUlViQ0VfeW9FR2h2a1pWLUhTOFlQcS0tcm92WDVkekRuS0t2QjRLR1hrTQ?oc=5",
-     "published": "2026-11-04T09:44:17+09:00"
-    },
-    {
-     "title": "편의점 떡볶이부터 마라탕까지…덜 짜고 덜 단 식품 23종 선보인다",
-     "source": "헬스경향",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tRVZjYW5rY0JzQ3p4WS1UbGVnbDJnZWpuWVBzdkduOWpGN0REa2pYWXhWOUUzbEZSTlBhZGk3bUFvcDRVQ1c5MTBoV0hkWW1ZU0ZjM0lZX3hTTkZvTmVpamdqWl8yY3ZCaU44?oc=5",
-     "published": "2026-11-04T09:43:44+09:00"
-    },
-    {
-     "title": "하나은행·하나카드·CU, ‘우리 부대 응원전’ 마무리…간식차 지원",
-     "source": "뉴스퀘스트",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9sNWs5ck5hNGctNFF4MXlwaURXQ1drYnFiRGtaY3FIX3ZHckxmdE93bXhrSFVISF9QYzB0MzNyWWh2OXBvMm9MRDJvUEk2MWdUdFZxTGdwOEx3bEtrYlZWYWpvbW1mdW9UQXZ1TFY1NA?oc=5",
-     "published": "2026-11-04T09:42:50+09:00"
-    },
-    {
-     "title": "[유통브리핑] CU, 고객 응원으로 군부대 4곳에 간식차 지원 외",
-     "source": "서울파이낸스",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsNkFEWTgteXB1RXZWYW5mMDVtd2FvbTVLTkRHSkh6dHNTYWZfN1V1ZmpBV1BUc3JRY0EwSXFaakNHaFdaYzBjckxjSlBIWUpWVEVCZW9MNlJjSUNiSUw5cV9La2NYVmJ4bGc?oc=5",
-     "published": "2026-11-04T09:42:11+09:00"
-    },
-    {
-     "title": "[오늘의신상]편의점 4사 '초콜릿 도장깨기'…한정판 '프리미엄 가나'",
-     "source": "아시아경제",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HOVJNbUFpMUdiUG1pdy1zV2xoeEdHU3BIVUhET1lyQU1QRktKSnlsRHlxckQ2cmtkYXlPXzFmaktDRTE5S2pfN3dZSENYNUFDTE03YldMc2dkNHhzS0dHYg?oc=5",
-     "published": "2026-11-04T09:42:08+09:00"
-    },
-    {
-     "title": "K-뷰티·K푸드부터 게임 협업까지…기업들, 소비자 접점 확대 경쟁",
-     "source": "나눔경제뉴스",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LRUFMWEVKajAwcXZNR2VCMVdRTmh1YzhKX1R1Y1NUMW5QUmZxbHNFengtNWhQVWVEUHJIM1p1UEcyc3k1enFIMUxRZW9TREpsMHFDT05PUkpGNldhREd0UDAtRzFEUzhZQ3VtbQ?oc=5",
-     "published": "2026-11-04T09:40:21+09:00"
-    },
-    {
-     "title": "GS리테일, 3분기 영업익 18.9% 증가한 1321억원...분기 기준 역대 최대",
+     "title": "GS25 '혜자로운' 누적 매출 5000억원 돌파…3년 만에 브랜드 새단장",
      "source": "이투데이",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ham81V0lPaXBZMGZqMEhSSWtiRFRvcTRvdGpRX29mMmRyTVJYVWgyLTM4cTNDNzBzWHE5Ym9mUUhOOHA4SVo4TlFJQXEtZDdnZlJnNA?oc=5",
-     "published": "2026-11-04T09:39:00+09:00"
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5vNVNESFZ4dW5QNV9uZ3R2ZDdIdzY4ejJoZU5IWFJtM0hpQkxVa0NXSXlRTVc0MlBKZjBhc29lNFEzMjVMaGl1UURSLXdsbjZKeVBKVg?oc=5",
+     "published": "2026-11-05T09:54:00+09:00"
     },
     {
-     "title": "GS리테일, 3분기 영업익 역대 최대 경신…슈퍼·홈쇼핑 '쌍끌이'",
-     "source": "파이낸셜뉴스",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zNjN3SV81UmNoZHEzRkg0anlpcUpVd1BKcjRqRDAwLWZRS2Vscy01Nld5M1dCdTJub05xaHZPbmcyU2U0LU9uT1dqRlNXSDBndVgtdkJuckVadw?oc=5",
-     "published": "2026-11-04T09:38:49+09:00"
+     "title": "롯데웰푸드·해태제과·CU, 겨울 한정 디저트 잇단 출시",
+     "source": "뉴스투데이",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4cmRBSWJmZlBHaUNjejMyQUFSR2dKdnBVOGp6YU1rUUtsaVFKY2psanhsSFMtU1RUcm5yRkRaRWliLVpWZ0g0OVNfZWFZcVZ3bUprMXRWQm15T3lPNWc?oc=5",
+     "published": "2026-11-05T09:53:00+09:00"
     },
     {
-     "title": "하나은행·하나카드·CU, 각 군 최다 응원 부대에 간식차 지원",
-     "source": "스포츠한국",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BeEw0V3Z2c3dESEdxT29MOGs1LUpIdXd1ckZhRHlOR3BET0VVOS1xMzQ3LW9VUGlRMGtwYWZBeXYxMnlicHl2VS1faDh4YkV6WVRiZVM5MjlvVDRCNE1lZ1V2ek5TSDZHb1hXVXBxZVDSAXRBVV95cUxQX28wbEM2aWZSaWh0VmlYR1lJN2RMMUpWTVRnWTFpWEU2YTFXMWZLdGI4QlhOWmdRV1JNdDg1UTlwVjNockdsc0RzUEdYZ3VrYjBDUFZtZWU3N1R0X2lETEVNOFN2RU42a3RIWTd6dGhDVjQ4MA?oc=5",
-     "published": "2026-11-04T09:37:55+09:00"
+     "title": "삼립호빵, 편의점 매출 44% 급증… 겨울 성수기 선점 시동",
+     "source": "뉴스드림",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBxTmNFZDBJaUdjRmE4d2hHdDRsRmdXalF6cE9OZTRNY05kMGFPRGUtZjZSdTNOZDEyZm00NF9NcXZvSUxxUHF5OFVwNzF3QkM4VEl2OGZjcWVHdTVySTJIc3ZsUWxxTnA0d0pz0gFuQVVfeXFMUFc3Y3FGbkY2cEtDa0NZWldvU1ltaF9kZENROGplaDItSkltUW9QcERCRGJLa1ZiMzMya0FGbXNSMElNeThoTXEzNnFwdlEwT3lMM3RTZmxMMFo0ZVRENVNfLTNEQnVrM1ZMbFhPcnc?oc=5",
+     "published": "2026-11-05T09:51:06+09:00"
     },
     {
-     "title": "GS리테일, 3분기 영업이익 1321억원 역대 최대…SSM·홈쇼핑이 견인",
+     "title": "삼립호빵, 시즌 초반 편의점 매출 44% ↑…공명 광고·’찌는 법’ 숏폼 입소문 효과 By EBN",
+     "source": "Investing.com 한국어",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9iNHdXR1ZqSV9VQi1EVXIxMmFRNWNzS2Nub2g5QUc0Q3NjaDlwYmhuWEozN1lTdGlnSDBJcnV0UzNnbmJudFUxZ3JObTR1dDNVdmwxbzhPQlI2cmcyUmdkajR3R3g4VXE4YWU1VTNxQ1k?oc=5",
+     "published": "2026-11-05T09:50:00+09:00"
+    },
+    {
+     "title": "찬바람 불자 호빵부터 찾았다…삼립, 편의점 매출 44% ‘쑥’",
+     "source": "디지털데일리",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4zWGNjT2V4dFNFZzNTaHJVbGNORml4MjlQMGlHZmQ3blRHckZBcEJkQWRrX3JSZC1TYkpyRDUyZ1dnTkVOSnplb2dDdGVKTlFqUGttRUZlS284VWt6MEJxR3pScTc?oc=5",
+     "published": "2026-11-05T09:50:00+09:00"
+    },
+    {
+     "title": "GS25, ‘혜자로운 브랜드’ 3년 만에 매출 5000억 돌파",
+     "source": "인더뉴스",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hNHRQZ28tX0ZSQjBVRHlldVBYVkZUNnY4VGMtVUFyTk5ueEpteTJEcmk0M1NhaDBKZmtGVlpqR0J3cjJveERCaXhoZTF1Y0x6U2JZelQ4MGRvOVE3cFpzWW8xTkg?oc=5",
+     "published": "2026-11-05T09:48:44+09:00"
+    },
+    {
+     "title": "김호연 작가 베스트셀러 원작 뮤직드라마 연극 `불편한 편의점` 14~15일 성남아트리움서 공연",
+     "source": "분당신문",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9Ld0dyNGFEdkg4ZmpmLVNpa0FFdS02NWdJQWhsWi1lUW96bzY1djdDbWI4aFRIcFFnQlcyZmE2UFQxY1IxMnlZS1UyOA?oc=5",
+     "published": "2026-11-05T09:42:00+09:00"
+    },
+    {
+     "title": "세븐일레븐, 2030 '맛있는 매운맛' 공략…'레드핫야채·피자호빵' 출시",
+     "source": "중앙신문",
+     "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxNR1VMcDhsLTNjYnNOQk5sZlFoeTd2U3ViZWtYdmE5S1gzYlhSTTJMeWRDTElqdUFObTZ5VGZMbEswcHRiMlRlSmVTcjlSLWxuMldHemVmOFZfVkxGYkxTb3hLbXpOQ1JqN2JpTm9ramRlZ3JxN2lNaFQ3LWpBZ1dfcVRwOEdnTmptQ1hEN21JYkttOXFpV3J4MERFbGRnc1lVQU9xSGtheGV6TXdzSU5pVmtzVHFqLU9jTVBUQlgyd09VZ19IWlJvLThqVEZwTmN4UFRFU0FaX2Y5R0tLNHR4NTVUUktuU0RIM1EwM0ppcENsUHlrZm9DSHk1QTd4V0dqMVJlU0w2M0JqVUxHTmxSWTRVRzJTaWlFR1I2d080YnFtY0VfczREbE5ULXpHZVJ6emZoSU5GdzBOYUt3MEZKRFplYk14WDF6enpxMnpqSWM1Q0VoUXFiV0xrM0VTZmExWVZQZUZqbnV0Y0haS3VrcDZRbm01SXo4djFZ?oc=5",
+     "published": "2026-11-05T09:36:36+09:00"
+    },
+    {
+     "title": "딸기·초코·크림 한입에…CU, 생딸기 샌드위치 출시",
+     "source": "지디넷코리아",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54RS1rUWdwTXM3WWtRd3ZEQmkxbjZwbEJZZlJsYzE4MnZXWXBnMk4tdXBmRnRIYThQQzlMN2pJX3l5SEhhaURpTlMtazZIZjdLS0VtbVdn?oc=5",
+     "published": "2026-11-05T09:35:17+09:00"
+    },
+    {
+     "title": "유통업계, 강북구에 작은도서관 102호 개관·‘혜자로운 브랜드’ 리뉴얼 진행",
+     "source": "여성소비자신문",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5CejFUNVZtTUpvWG9sQmlmTXB1bDNleXY4Uk5CU2FyNlZ5Z2tRb1BjSzdXbk03Y3V2a29jTHJnaWFEN0NUNXROTUs3Mmx3S2tsZ0RROGd5NE1MSWlKWW1xY2pzZkZzdw?oc=5",
+     "published": "2026-11-05T09:35:13+09:00"
+    },
+    {
+     "title": "샐러드는 여성 음식?…전문점 고객 10명 중 3명은 남성",
      "source": "아주경제",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02MjE0M2JnRHpsZWgzdi1XTkp6ZDRac0pKNGpmNW44Ymw3a1lCMzN5eWlRd1VNTWhvVFpuSk1rZGs4cGhHTk41QWE5ckdDVGc2VW52Y18xNFVGUdIBWEFVX3lxTE9oSlBnX2ZQOXZlT2Jxb3dQb3ZkR3kzMzZ2anlfMUw1T0Z1Y3F1X1hHMlE0WkNMS3ZyeElaVncxaWRfYm1jNDRLd3ZEYngtakJ1NE9yeEVZWkM?oc=5",
-     "published": "2026-11-04T09:37:09+09:00"
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XY25va2tMQmY4UGwwT05ZOUUzanRDZnlIOTFVR3Ywa3R1ODMyTVhDWmx5LUU0X2E0SmlEWndWNmlYMGFUY2Jrc0ZQdkpDNlhkUDhFeFQzYUtfZ9IBWEFVX3lxTFBnakdrSXp4cVUwTFM4QVhhNzRaNGFQV0oxZWhaVkxuT1VCNEFjaThrSE4zT2hBQUZwb1M3dl84Rm9tLTZ4Zkd1NURBa0toMEt5LW1IdVVKX3Y?oc=5",
+     "published": "2026-11-05T09:33:13+09:00"
     },
     {
-     "title": "GS리테일, 3Q 영업익 1천321억·18.9%↑…분기 최대 실적(종합)",
-     "source": "연합인포맥스",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DM3lSWnZEcFZkTW01YndCOXR6Ui03SkhzT2Rob21KVnM1VEVQRmVIMlRPRTlCV25oaVBiRzlBd0c4NzhSMDJuWk5uNDFTOEpJaW16ZERZMG5uOHpSbHhNcHFkNGhjUkZRWFNZYldleWE?oc=5",
-     "published": "2026-11-04T09:36:48+09:00"
+     "title": "BBQ 가맹점주 산업포장 수상…현장 제안 메뉴에 반영",
+     "source": "라이센스뉴스",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1tMzkwXzJmSmJjbzROWXhfTVVGNFRFa01uc29iV1dubTdpWDl2SHhoQWI2N1NVdGt2WFhndERIejZkQVpHOWg1OG45REVCa1V4OTN4N0d0X0JlU2phdmY4QW5rd2o0c2ZUaVFJ?oc=5",
+     "published": "2026-11-05T09:32:51+09:00"
     },
     {
-     "title": "하나은행·하나카드·CU, ‘우리 부대 응원전’ 성황리 마무리…최다 응원 부대에 간식차 지원",
-     "source": "뉴스티앤티",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16U0VXYjE0d1BzTHIxdkRzOVg2bW1GSzJISEdRVHp6T0dzTENVYXdTNTFhbEtEZFNQT19DTXpTNXJNdFRqNGRaUkxZTEFfay0wUkdXSVNHTVkzWnEzVFp1T3pFV19DRnFXYXc?oc=5",
-     "published": "2026-11-04T09:35:29+09:00"
+     "title": "GS25 '혜자로운' 누적 매출 5000억 돌파…브랜드 전면 리뉴얼",
+     "source": "컨슈머타임스",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CY1o2TzhDS0NuQWd4eUdQanNZd3hNb09iT3p4end1MHBfcGF5WXRNTHBnbldSdUlLNW1sclpFbFNoak01bWxGNEJZM290MWpyazVySGlucUpMeVNIN0lhbXdkbnBaT1hRRWc?oc=5",
+     "published": "2026-11-05T09:32:21+09:00"
+    },
+    {
+     "title": "교촌, 가맹점·청년 잇는 '현장형 나눔'…사회공헌 체질 바꾼다",
+     "source": "동행일보",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yNjJuV0VwTWZLa1JrQjdKT1cxaFM3YnJBaGlmLW83UkNLcGh0SkpyRTVzMFVtQlI1SldMcnppZkdUUVVCVFFnMU11aHFpMURVZzcyYzBUa3JGMk5ZeUFyXzNvSnBrZjVy?oc=5",
+     "published": "2026-11-05T09:32:00+09:00"
+    },
+    {
+     "title": "삼립호빵, 편의점 매출 ‘껑충’…전년比 44% 증가",
+     "source": "뉴스퀘스트",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Cc1RGQ0NULVNRMVZVZ1gwS2tVQ3g3cWQta1F6dnJ4cGtGX2RjX3lMZzRnY1d5dHNCYktwOTZaM1pfSWo2LXRsRXU0T0MzNnZfSU94ZXFIOWdKdi1FZ0V2Mjl5SFJGc0ZDaUE0ZW1JZw?oc=5",
+     "published": "2026-11-05T09:30:55+09:00"
+    },
+    {
+     "title": "GS25, ‘혜자로운’ 브랜드 누적 매출 5000억 돌파…리뉴얼 단행",
+     "source": "서울경제TV",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UTXVNQmg4X0tmQzNDRXBSeVNSSG0zUURRak5sUnRxWktVLU11aHFMTlFYRGI5V0pobnp5STBaRWZOMWVsSnhuWGMyNF9yZGhSaXMtVHpaQmFsVGhqdmg3ejl6dnE?oc=5",
+     "published": "2026-11-05T09:30:27+09:00"
     }
    ]
   }
