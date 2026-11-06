@@ -1,10 +1,52 @@
 window.NEWS = {
- "updated": "2026-11-06T10:18:45+09:00",
+ "updated": "2026-11-06T19:34:01+09:00",
  "sections": [
   {
    "id": "law",
    "title": "법·제도",
    "items": [
+    {
+     "title": "aT, '여가친화인증' 첫 획득…금요일 조기퇴근제 확대",
+     "source": "푸드투데이",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5EUWRVNEVTQjFKRHZLck1BNkRybGc5NVhkV0tZcXBFX3VjVnNxSkdFUXljUmNTUXRNdDFWUENtSzM0eXdITVQ5VGI3YWVMNFg0ZE9iT2hycjZSa0t0RlpISnZQWTZrdw?oc=5",
+     "published": "2026-11-06T17:39:59+09:00"
+    },
+    {
+     "title": "예고 없는 공정위 조사 \"적법\"…화물연대 판결, 쿠팡에도 참고될까",
+     "source": "뉴시스",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjREJydGF4TnM0aDFBS0dVX1F0QjdDUTVzaFVSTUZXR09xNWMzcEdMQ3ExNDc3M1BxaVlzbkgwamxSMEYzZzF4SzZxOEplNTZ2YlYzcjBBUTlyN001YUdGRA?oc=5",
+     "published": "2026-11-06T16:52:15+09:00"
+    },
+    {
+     "title": "택시 근로시간 단축 합의, 최저임금 회피 의심만으로 무효일까…대법원 \"합의마다 따로 판단\"",
+     "source": "로톡뉴스",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6amh6Q2E5MWJUbWJSVXJMSFNRbXNhQ3pXbVN1MjRUcG82UElleFp2Z1RBaElWNGs1S2tYZ1MtTm5CUzhKbklldF9MaDlYckhRc0NDcWE1blhUdw?oc=5",
+     "published": "2026-11-06T16:13:00+09:00"
+    },
+    {
+     "title": "aT, 문체부 ‘여가친화인증’ 첫 획득…일·생활 균형 성과 인정",
+     "source": "투데이안",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1MVUxJeTZhVzE3MzB6ekJpTzh2UWsyZXUxMEdhYXpGcVd4aWpRMkFHRXNoaF9WbER6Q1ZZamlyMkMtNUV5VEhULU5lQ1ZyeXd2TE8tVFItamhrV004amNrRGVfbGg4VEZhTlE?oc=5",
+     "published": "2026-11-06T15:37:31+09:00"
+    },
+    {
+     "title": "'홈플러스 사태' 피해 고스란히…납품 중소기업 \"미정산 대금 밀리고 발주도 줄었다\"",
+     "source": "한국경제",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CbWd1aXhzXzFkd0ZOUldBYm1nUlNzWmhKOWVLVGxzZ3Q2T2h4LWZVa2V0Y01Zams1cWRKclMyOGpJb3MyYURlMzV2Y1doUEdxNl8zQWRUNDRiUQ?oc=5",
+     "published": "2026-11-06T14:24:19+09:00"
+    },
+    {
+     "title": "미추홀구, 하반기 금연구역 합동점검 실시",
+     "source": "세정포커스",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8tX28zVmZVZU8wS2YzTmpHV2ZBT3VBdmktZmZodDlBVnI4WmprMUtTSF83VXoyMEc5NExIUkRiWDlXcjNNSDBsblh2ZUtMN0ZQR2hnNWRfbVNKTHRrcnZBSEVQVzlXMDVGSkN1QkVR?oc=5",
+     "published": "2026-11-06T14:07:37+09:00"
+    },
+    {
+     "title": "인천 미추홀구, 통학로·정류소 ‘금연관리’ 강화…합성니코틴 전자담배도 ‘단속’",
+     "source": "스포츠동아",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE84R29jN2diN0tMRldnVmVmS2xpcnpiMHBHNEwzNjA1YmMzTmxSZ3BIWDFrQTRTMURPMUJGNUdZQnZXM19RSnNicVlyZzBUZWxaYVNiSGlmeFhxN1pCVUhlT2ozNjNvUmV3N2pIb0FLd3F2UQ?oc=5",
+     "published": "2026-11-06T11:14:27+09:00"
+    },
     {
      "title": "[데스크리포트 11월] 대형마트 쇠퇴가 일상이 된 시대, '장보기의 즐거움' 되찾으려면",
      "source": "비즈니스포스트",
@@ -18,58 +60,16 @@ window.NEWS = {
      "published": "2026-11-06T07:39:29+09:00"
     },
     {
+     "title": "쿠팡 vs 공정위: 법정 공방의 승자는 누가 될 것인가?",
+     "source": "공감신문",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XUHVPMHBOdXpBVG5RYW5ySnNPUkJUcjhFVjhDbk12WjhJam04cHRpX2VZOW9hWjdEaURIRGZjVVh3cjVROWZ3blFsNnhUQWsxX3RGelk1MjJxdU4tRXlwSTM1UVdlems?oc=5",
+     "published": "2026-11-06T07:06:33+09:00"
+    },
+    {
      "title": "쿠팡-공정위, ‘자료제출 명령’ 효력정지 공방",
      "source": "법률신문",
      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5RTm9VTWdhNnRCNnc2enhhTzNNTEdsYlBGM0dFQXI3bzFBaXhVQ1czWmxiX2FjcHkyWDlmY1FyblJCSVF5elp5RWNiRkJpM1BlazAxVl95RnRaNjBrVDd6Yk0tMVpSYUUzbmVWcGFxV3VFUdIBckFVX3lxTE5RTm9VTWdhNnRCNnc2enhhTzNNTEdsYlBGM0dFQXI3bzFBaXhVQ1czWmxiX2FjcHkyWDlmY1FyblJCSVF5elp5RWNiRkJpM1BlazAxVl95RnRaNjBrVDd6Yk0tMVpSYUUzbmVWcGFxV3VFUQ?oc=5",
      "published": "2026-11-05T20:02:24+09:00"
-    },
-    {
-     "title": "'편의점 속 작은 사치' 하겐다즈…신규 가맹사업자 안 받는다",
-     "source": "뉴시스",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wQ1V3bWZLQTVzNVV6RU94bFJhR1RlaDVoWUdvcE1waVZZT2diWjFHaUtiYkRaOXV5M1Zjc0FDVlFtLWE2bkNWWVZhb2hfak1mYW1EU1VEWnRqUU5HT3Zyd9IBeEFVX3lxTE1IblF4N1oyZ2N3NmRHbWpMNER4c1hLVmlSMG5pQ1NvbTNOcGQ4d0F6a2NCQ1lHVGRBSGNNLWtTSVl4ZC1uVjdEMGUzOVV3eGhRcmNaVGJhV0tQdllINV9JVS1oenVWQkZEUjFMd1FMYjNEX1oxN2Jtbg?oc=5",
-     "published": "2026-11-05T18:00:00+09:00"
-    },
-    {
-     "title": "쿠팡·공정위 '자료제출명령' 놓고 법정공방 계속…효력정지심문",
-     "source": "연합뉴스",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94Z2FIQ3poY0JlQlRhN0tCTkNPY281cXd3Wk1fSDB4YnRFX2ZHaE5Tc2RmQ1JfSUVqZHFKZ1NQTk1QbFp4YUhBSFBnTjlpX0lWZHg0YWlNZGVMUGfSAWBBVV95cUxObGRza19yd2JtN2VzeXMyUkdwdjAxekNLcEpSSlh3TVVsa2J5bHNJN3ZfdllDcm9IT1NzWjhmZF9ENTFyazhOMHdmRWFKZ0t4LXlvZ3JURjlMSGdUNFdqTmw?oc=5",
-     "published": "2026-11-05T17:25:11+09:00"
-    },
-    {
-     "title": "쿠팡 \"본보기성 조사\" vs 공정위 \"조사 지연\"…자료 제출 놓고 공방",
-     "source": "뉴시스",
-     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBEVUpkRUpGYVRhMTg5eXFnbUowZjRTSkxCZmlLb0d5bzlIcGhwMVlGWTd4dktXUGFOeE0xWkhvQ0VUMndlanFkdkR0TFN5VDlQdWRuT3RpemZjNlViWjdudmFTblQxSzI1SzFHdXdQNENzbzhPbEE1StIBeEFVX3lxTFBEVUpkRUpGYVRhMTg5eXFnbUowZjRTSkxCZmlLb0d5bzlIcGhwMVlGWTd4dktXUGFOeE0xWkhvQ0VUMndlanFkdkR0TFN5VDlQdWRuT3RpemZjNlViWjdudmFTblQxSzI1SzFHdXdQNENzbzhPbEE1Sg?oc=5",
-     "published": "2026-11-05T16:59:45+09:00"
-    },
-    {
-     "title": "종합 충남도, 축산물 안전관리 전국 1위",
-     "source": "뉴스케이",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jcGRJYzhfWXh0NkhOUW4tcGNoZm5uSFpkQ3pSem9OdmNxbVFBd095dG41T1lJTDFTdHVEdm16ZVhzWGVKYnpLT0RYX05LTUxiMEY2S1dXZ2xQdw?oc=5",
-     "published": "2026-11-05T16:07:43+09:00"
-    },
-    {
-     "title": "[박재형 칼럼] 정보공개서 공시제도, '인허가 현황'도 함께 담아야 합니다",
-     "source": "파이낸셜리뷰",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFByOGZ5ZkUwNm05QjBsaUQ4UGhURkRpMnRRNFp1b2FTQzdjUkUxV1liYjBxQUZadmZLcjhLdGhwZk4tRDdVOWM4MkxoV2ZUeVhldFdIdmwwbGxCbmR3bFBWR1JYZlpLUzIzVXQ3TzVKU1pIbnVo?oc=5",
-     "published": "2026-11-05T15:05:02+09:00"
-    },
-    {
-     "title": "[기획] 새벽배송 족쇄 못 푼 대형마트…점포를 '퀵커머스 기지'로",
-     "source": "매일일보",
-     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pLXFKNHNNV2IxYkVRazI3NUh3YlJ1QzdlWnRiVmF2LUYzQ1JYT0x4blJ1dDJjckNhNktrNnJLeC1xT1RhamNGX2xiclRmc09OSXhITDc3NXJCOWZQXzJ5ZzJvS2g?oc=5",
-     "published": "2026-11-05T12:00:00+09:00"
-    },
-    {
-     "title": "신종담배 규제 사각지대…의기협·의학한림원 논의",
-     "source": "간호사신문",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00UGhON1MxNXRUX1NDUzJVLWxoQ3lnUmZmTjlGWk1RQkpsS3FXeEZsN0pybDVCMEpYZmxqeFFzU3MzLXdWTTdibGFEaEVZMzlPUVFPVEtnby03UllUazdBRjZfQnQ1VU45U2NLYURn?oc=5",
-     "published": "2026-11-05T11:24:16+09:00"
-    },
-    {
-     "title": "유통업계 ‘정산 시계’ 빨라진다",
-     "source": "www.nexteconomy.co.kr",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE53M0oxYU9qTjFsdlhnWDNyVkVsVE1aaUJFVmREMjVsYk5sQlZhS20wY1R1TGZKVjM3SThDMnhhSzhwZVlmaWlhSmw2SjBIbFBXT1pyWnNGZlNzT3F0dkRTaFEtTW1UOEgwS1lULVdDcVM?oc=5",
-     "published": "2026-11-05T10:47:08+09:00"
     }
    ]
   },
@@ -78,124 +78,124 @@ window.NEWS = {
    "title": "유통 뉴스",
    "items": [
     {
-     "title": "어쩐지 CU에 가고 싶더니…3분기 성적 '합격점'",
-     "source": "ER 이코노믹리뷰",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCRWJNOFFCSHN4OWdpT3djUGxhanZ2VDZrOVFXQnNJZmk4V2lMWEV4WGJvMkpKdzN4QlN3a3EtMXUyVGdXSE5NdGVVYkRNanZJV3lLMXFvdGpsekc5WF95bFlIVmhwbFo2WEVyOA?oc=5",
-     "published": "2026-11-06T10:04:35+09:00"
-    },
-    {
-     "title": "美 민주당 의회 장악에 유통업계 촉각…쿠팡 규제·환율이 변수",
-     "source": "충청시사신문",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4xQjhpTlZzSW9ldl9XSWltYTI1bmh3SUZiNGt4cURvTWp2c1BCYThuTUd6S3RMMlphOFZPOGJMWEF3ckdoQzRBcTN5UlRnT3ZxRi1Kd0ZSMHAtdlRHa1hSTGhVMk45c0VZb2dV?oc=5",
-     "published": "2026-11-06T10:03:45+09:00"
-    },
-    {
-     "title": "이마트24, 22만원 위스키 2분만에 완판…골목 점포 '고가 거점' 실험",
-     "source": "동행일보",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1iM1BuY212R3BRN3JzMHNObnA2YnlIU00xeW9vdndGZUg4RXk4cEFiSFowM1oxWHZLRmxQSWJWRmpfbmhUc2lZN3ltRXFhNGNQaHFOcHdvSDF2Y2lRa1h4UHp0SEZBOHFT?oc=5",
-     "published": "2026-11-06T10:03:00+09:00"
-    },
-    {
-     "title": "“위스키 애호가들의 새로운 성지, 편의점” 이마트24 보틀오더, 김창수 위스키·메이커스 마크 완판 행진",
-     "source": "신세계그룹 뉴스룸",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORk80WnVxMXd6QWVPSUxNVlFDVGZ2MjhPTXVma1NVX2gxbEtOdzRRM3pOcWQzX0VlUjNxcXc1aS1aSDcwUVFSalVnZWNPdV9EZHRseFVEU2FKeFNvS3o3TUlaTW94ZzhlUkd6UUVfSElNbDdkci10RVJ1dWwzd0JGN0FIMUoyY1NsZHF2NnlVM1JzclRWUVZqRA?oc=5",
-     "published": "2026-11-06T10:02:25+09:00"
-    },
-    {
-     "title": "도로 한복판에 차 세우고 편의점 쇼핑…\"역주행 하면 되지\" 적반하장 - 머니투데이",
-     "source": "머니투데이",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5pNTZmcXVmU00zTXhxYWZ0VnpjX05LR19SZUtQOFJmYXB0Q1VfT0FfTzB2ZXd6N0NsUmZIMGhoeVNrdTVDR09JdUpPa1VZWnd6ZmhQeEFqT3FwdndiOXlMODNxNnc3NkxBUDVV0gFwQVVfeXFMTWw2bHhReXBVcTRxV1g2UHpQbnJHbl9peGZLLTlnVEViMVp2U2JOYXp5N3ppTWFnaFRWaWFWblNEX0xuc2JGRUpzUkRfdVVxQzdZNEZKVHFYSmNyN3EwdnJqTE1SZjdxeFJXMklQem5hRw?oc=5",
-     "published": "2026-11-06T10:02:11+09:00"
-    },
-    {
-     "title": "美 민주당 상·하원 장악…국내 유통업계, 통상정책 변화 촉각",
-     "source": "현대경제",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sOXNUVFB5Z2ROaTBzdHdCbDZRMFdqZDY0RDFQUjJ1bWtFMTU1aTlIUHhpTUNxMEE0WXRtLUo1bklFMkVhSmJvNGFwRzRyQS1fdWNKZU9SZFJXdnBxTHpNbGQxdWNNMkx2c2F3?oc=5",
-     "published": "2026-11-06T10:01:05+09:00"
-    },
-    {
-     "title": "식품부터 뷰티·커피까지...유통업계, 연말 겨냥 신제품 출시 잇따라",
-     "source": "팝콘뉴스",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBiOEwyS19XNWp1NGxmTlMxRGQ0TFdlSGNOa1p0UGdqWUpiLWtLWXFqWlF1X0tUOUlBd0NkMmlHbjhFcFBKNlpnakVzVm5ib1lva2ZZX3p1amg5VzhSQ1ZwWXhrX0dtT29tT0htRGU4RdIBckFVX3lxTFAtZ2dIS1FWUjZRN3o3LXpBZUQwWUNZVjc3azJuR1c5R3dpaDBRQlR1YkU3OFAwVm9GeXBlSjdwSklkeVpQU3FvMTZMNmZKczJ2NXJMaVFfeXYzR2pLTE1zMDhtei02WjVlX1VleG41Tjlvdw?oc=5",
-     "published": "2026-11-06T09:38:41+09:00"
-    },
-    {
-     "title": "백종원, 직접 오토바이 몰고 피자 배달…가맹점 수익 위기 '여전'",
-     "source": "동행일보",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oRjVTbFhhRjNfLTJGeU9xdGg3WWQxakExQzVuYXY5WGs0VFFrQ3dScW04NzRsXzlhYnRNekdrQmFKRjVsWnl0NlJWVHEtYy0zaWhxQmVxX0RBRXp3ZTg0eWJwcjVaUTEy?oc=5",
-     "published": "2026-11-06T09:33:00+09:00"
-    },
-    {
-     "title": "도로 한복판 차 세우고 '어묵 쇼핑'…\"역주행하면 되지\" 적반하장",
-     "source": "뉴시스",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45cXgyTlJDM2N3WVhDZ20zbmNMOWZ3Y2lYYy1kbU1TODZBNkZSc0NTenJLS2xvSmFQem5kcVd1OUZSZ3pkaUlZdlpFb0RwMk1MZEVRUmNZb3VnVEFYeGJDMNIBeEFVX3lxTE81T2JHOGVuN1B4MC1FbzU5bEJsb0xOUGd5ODBnby1iYjBGbjBvTVF6VWRsV3Z4UUk2QUhBb3ZKNEVsekN2T3dGTkZ2WXhGT3lETG8tMGhyMUxWYjc5VGFfQVdjR1p5TEhWTjdJWnN0cjJlSGtVZE4ybw?oc=5",
-     "published": "2026-11-06T09:30:00+09:00"
-    },
-    {
-     "title": "日 인기 디저트 안데이코 ‘홋카이도 밀크푸딩’, GS25서 선출시",
-     "source": "m.edaily.co.kr",
-     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZU5lRXJVOGM1LS1DTXJrRGM5SWY3OWtKR0RsQS0yMHkzaERpb0dRb3kzeWxIenUwUW5yczFqOGltcnk0NV9URmR2VlZtSDJsX2pvMEljMmR3SXk0RDZGV3pyMlZWdnRQbTZjdGdGaHFyTEhzdG5DbXlTaVFyRzV5dA?oc=5",
-     "published": "2026-11-06T09:20:03+09:00"
+     "title": "쿠팡·G마켓 이어 SSG닷컴도 뚫렸다…유통업계 줄잇는 개인정보 유출",
+     "source": "엠투데이",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wN2wzN2xXakxORFQ2ajQ1bF9QbzIyaWliUW5EQXlzUFQwTHJsUHg1WU1oSUpzSU5Yc1NjMjhLQlljdFRDVnJNbVA4MklfNXVKeWM0eXdPT2VZSXFiWlI2TGI1ZlFMZnQya05iNkl3UQ?oc=5",
+     "published": "2026-11-06T18:43:35+09:00"
     },
     {
      "title": "軍 간식차 응원전 1위는? 정동원 복무하는 해병2사단...팬심 총동원",
      "source": "조선일보",
      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVnpBMHZkaHVYY0xBTTVtUUpjU1N1UmtkSVotMGdLb00xNHdvejlYUmlKMDRVOHJqU1o2dXllTURQdDJvdHFSMUhXYUNReTNpbUZEYUZ2Slo4QVVBX0s0NVRrQXlBd0thUGdpTkNhSG8yOV9pNjczM3dwUlRnUmNLQTV2MHBvc25FeHFqUmFQYw?oc=5",
-     "published": "2026-11-06T09:17:48+09:00"
+     "published": "2026-11-06T18:20:35+09:00"
     },
     {
-     "title": "[산업계 해킹 비상④] 플랫폼 몸집 커졌지만 보안은 허점···유통업계, 대응 시험대",
-     "source": "서울파이낸스",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNMHpCSmt3aFlkNUNSdU02M0RYcGF1dlBLTHoxQmJWaFc1aGdYcjdtbVEydm94YlRmYThQUGJ1ZGRnWU5pNnI3YnRXcmpLazNWNEV5Ui1lU1l5alo5LTl0cXdvbEpub3NtRHc?oc=5",
-     "published": "2026-11-06T09:00:00+09:00"
+     "title": "다른 버거집 하다가 프랭크버거로…원주단계점 오픈",
+     "source": "더퍼블릭",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8wdjdleWNXbWtiaEp6VENmV0I0Wjh1Q2FNaGtKSHBZSmhIMk51RWtLck1zOWdZT19BYjRfV0xka1d1UUJqekg1YmN3VnhiaFRHVWI4bmpLcWFuUy00WUoyU1A3TlJfN1VqMTdn0gFvQVVfeXFMT0lPYnZqeXF4c2I3WWlDYklzb21teGZSNm9HdldXbGN0M081ZTZhQ0NWS1ZpYmdLQzJBZ3B1c2loS3IzQUhHVlhMTEd1a01SVE53OUZKakk4SUdic3h1NWlpQ1NlRHZrQWJXSnNoZnlZ?oc=5",
+     "published": "2026-11-06T18:06:27+09:00"
     },
     {
-     "title": "빼빼로보다 캐릭터 굿즈...편의점 4사 빼빼로데이 선물 경쟁",
-     "source": "ABC뉴스",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBIMGx0aWRSWmtJNXVrRDdtT1QtNUluRHhmdjBFNUVDWDBYU05yR0diTmQ4dnphYS0yMnI3X0tjQ2JDQTUwc2dLMVFZdHdqT0gtaUtfRWxqX00tbXJfbWJCRkhhd9IBZ0FVX3lxTE94Wjl6X3B1Vi1LdXJuRC0tTk4yV1JhMWZ6aXBvVXhJcGpUZjBtLU1CMGF0Wm1sdWRTMmltWUx6dmhndUhsSEZPTHpsNXNUSzRKUy1JSHRVQzQ1V2otdEFlVy1EbWpfeVE?oc=5",
-     "published": "2026-11-06T08:56:12+09:00"
+     "title": "[유통 브리프] 롯데, LF, 깨끗한나라, 공영홈쇼핑",
+     "source": "ER 이코노믹리뷰",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PSXR0QXRXbndvMjN3ODhPZWJxTGpFTGxtcFJ0c28yVGV2V1dRUHZkN1hoTWZCQ2NCQTltWjlxeGJ1MTM2eGJmaEJQSHdsdE9jMGJuWHlmalh2RHRXcm5YamRfVjllVWhodEw4eg?oc=5",
+     "published": "2026-11-06T17:35:42+09:00"
     },
     {
-     "title": "\"BGF리테일, 내년 편의점 매출 증가 기대… 목표가↑\"-키움 - 머니투데이",
-     "source": "머니투데이",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKdkxIQ215bnJpYlN6Wmt3M2k3ZEFOMFlybkxZMmR1OEJsNnRKVko0Q1hEWHpJWnRNOXZoNjdYaXU1ekZPTGVySzB4U3BuLVpwWWVLbXBOV0kzVF9Gcnl3Q0xuLUVWRm9x0gFuQVVfeXFMTS10eVRnbkpIYm9YcVJSeUxQQ0NZLXMtRl9tYVJLTG5XT3JkVFBRNjFhNENMR29nTjBZZUFHVlNzczYzdU5jZGV3T0dRNHhONXQ5MEVXVV9SN0gyYXVzb09ndHpndDdyemVZQ0RJVkE?oc=5",
-     "published": "2026-11-06T08:48:49+09:00"
+     "title": "신세계, 백화점부문장에 이석구",
+     "source": "한국경제",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByVnN0b0duUjRNcjNOMWJSTTlLSmRIekpDejhPOE5MNHJmdy05V2JSbDlKODdVV3NfRFJUV2hWYURiTTRGRnBfbUQ5dExzazFjUV9NNlJwaTFVZw?oc=5",
+     "published": "2026-11-06T17:34:28+09:00"
     },
     {
-     "title": "삼립호빵, 편의점 매출 증가→한솥도시락, ‘함박스테이크’ 판매 호조",
-     "source": "싱글리스트",
-     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4YkkyczJNcTlRcEthbHdMV2NIQzRiVVYyNExFZ0xwMmhhRVFvTS00LWJnbW5vTmZ4ZjFvQ2NJWlFVLXJ0S1FlSUdrUWt1ckVBN2pOclhmQVVPbzNEampXZEoySzJhQQ?oc=5",
-     "published": "2026-11-06T08:45:09+09:00"
+     "title": "'유통업계에 부는 웰니스 열풍'…면세점부터 편의점까지 건강 판 키운다",
+     "source": "이데일리",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMThJUDVGcHQ2ZVRiNlc5cE5GVEdtZFNtUTgtamZBSlFYdWdDR1dWVlM3OTc2cHNONlFqWHNkVVJzNncwX1pGMkM2WTZueHRtY29QbmFPT05fQXlHSWRWemtvSzZtQVEtel9LbzkzUkFZWFFxM0tnZVRRd0tURklHdA?oc=5",
+     "published": "2026-11-06T16:57:13+09:00"
     },
     {
-     "title": "[매경부동산 단신] 8800여 세대 배후 항아리상권 독점 편의점 4.6억",
+     "title": "[ESG] 치킨 팔아 번 돈, '생태계 상생'으로 갚는다… 진화하는 프랜차이즈 나눔 방정식",
+     "source": "가치소비뉴스 컨슈머와이드",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE84dVJwcTduZW10QlRMZXBaam5GTVVuMHNzTDhMRFVWU0FIQm0wb200Q1p6QzEwSGk2NGxxR1Nybk95WWQ5UVJSZWE0dWdQNGpZdjY5Y1A4akd3VjBETGtjWHJPUVVUTFlTSmt2ZmY3VHFCMWPSAXNBVV95cUxPOHVScHE3bmVtdEJUTGVwWmpuRk1VbjBzc0w4TERVVlNBSEJtMG9tNENaekMxMEhpNjRscUdTcm5PeVlkOVFSUmVhNHVnUDRqWXY2OWNQOGpHd1YwRExrY1hyT1FVVExZU0prdmZmN1RxQjFj?oc=5",
+     "published": "2026-11-06T16:55:01+09:00"
+    },
+    {
+     "title": "과장급까지 문턱 낮춘 희망퇴직…유통업계 인력 재편 가속",
+     "source": "아주경제",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rNkF3dENUenZFanZNM3lwS2J4OGpyQ0hxWm4xQll4VEM2d3pTWm1jcnViSnF1WERReFcyQ3drdDBBQzItUnQ5Y1pIdXYyTkE4bk5KSjhvcFRvUdIBWEFVX3lxTFBHRUNsdXJOaC12Zm0wcmMyNWtkTHk3S1JJY3o2OWxSbVBiNTAyQWh6OWs5TFowUmp0YURUaU9xTGt3MkZnS2hHeDJiUWVuOC05X2M1ZGpGRWw?oc=5",
+     "published": "2026-11-06T16:54:05+09:00"
+    },
+    {
+     "title": "성장세 주춤한 편의점 '빅2'…외국인 고객 새 돌파구 될까",
+     "source": "아이뉴스24",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1zcjZEdmlROUNWY2wzUkJCZlZnbU5aYlNwMWFoZEF5dUZhcUhLYmdDdDhZVG1uRWhRVHp0czBhTlRGb0k3cXpaa2NZNA?oc=5",
+     "published": "2026-11-06T16:52:29+09:00"
+    },
+    {
+     "title": "캐릭터·굿즈·체험까지…빼빼로데이의 변신 [노승욱의 리테일 인사이트]",
      "source": "매일경제",
-     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5QZTBXVk5rWVIzMUVwb3haMWk0QjhoTUpSaEF3MldHU0c3X2pCMzFoUEFaUEdlbDM0NlFCbl9aam5lSWN0Q3RiNXdnYjlybi1TUjZ4dVlNbEQ?oc=5",
-     "published": "2026-11-06T08:30:00+09:00"
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oUzI2UlJocmZFYnk5TDRDVUN6Wmk3NHl1WUk3VlF5cDN5b1ZBWVh0UTV1ODBUdmFmNHJTeXpiNGFsNGRVTUN3ZEU3NmU2ZHpmc2NIVGN3?oc=5",
+     "published": "2026-11-06T16:36:37+09:00"
     },
     {
-     "title": "[리콜&소송현장] 인기 찹쌀떡부터 황새치까지…잇따라 식탁 위협하는 식품 회수",
-     "source": "kjtimes",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBtTUUyYV9QV0RkOHY5bGMtZUN1Q3E3ZWItLTFBZ05hZnJ5XzM0cXh1SzV4QXc3UTZ6OXhOWUpqd2ZQNmVkRzgwdExiUjk1aEpLUEhlV19adk5ILW9rRU1v?oc=5",
-     "published": "2026-11-06T08:24:46+09:00"
+     "title": "[편의점 업황] 11월 1주, 내실경영 속 특화매장·프로모션 경쟁",
+     "source": "센머니",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sZy11X3lhanpvbk9tbTRSSUw4ZlVsTURJVjF5MEhQNXYzNnI4OUc2UVBLQTZTclNoTE5mQ01HWWQzd2lIdk5xM25DZUVYbjNrNUJjWkQzRDZRVjBtdE9yRzhieFRhYUEzMFo5Tw?oc=5",
+     "published": "2026-11-06T16:29:18+09:00"
     },
     {
-     "title": "[모닝 리포트] \"BGF리테일, 외국인 수요·상품 경쟁력에 수익성 개선\"",
-     "source": "뉴스핌",
-     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1FWWFCYW8wRHIzRURadUFXVFlyWTVLenEtSmdDY21sSkhaNm9JeHlFb2tLSnUyTVZDTEFNVG5acHlMQ1hSdFlrck9YOUNHcjJ5NVpieTZZZXh2dnhk?oc=5",
-     "published": "2026-11-06T08:24:00+09:00"
+     "title": "이마트24, 한정판 위스키 잇단 완판…주류 픽업 매출 168% 증가",
+     "source": "미래경제",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52YncwM2pYUUFrTUFkWGJEYms2ekZtTm52eWduMXczN25oM2JESmFVdUxNTVJKbVo3UFBhWGJnLWF4NG1sSDF5Q3l2SEpTX2FaNUpEWGpWbTNDSHRoVzdKY2pJZndMeklnOGlZZA?oc=5",
+     "published": "2026-11-06T16:28:31+09:00"
     },
     {
-     "title": "저성장 늪 빠진 편의점업계…GS25·CU, 3분기 수익성 엇갈렸다",
-     "source": "파이낸셜뉴스",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vWjdFQlFFdHZDYmI0b25rcGh6WnBxRkxoUWc2YzlMbTUzRWNyeUw0eW5vbjZ1YllrYWxqWlFzbUxscldmeVd2T2o1LWU1RHlZUHZ3OVBkUmF6Zw?oc=5",
-     "published": "2026-11-06T08:18:43+09:00"
+     "title": "[편의점 월동준비下]호빵부터 군고구마까지···간식 경쟁 '후끈'",
+     "source": "현대경제신문",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTbXBqb2ZycVJlTTNaMTZmb1VTQkVRa05OZDl4b2szNV8waHZubnlRVzlpS055cjA1Z2M4aURsTUYtblBmTXR4WU5sdVlpeGxOdVdXR0psSWVFQWdmdm9IXzhlQW1pc2fSAWtBVV95cUxQMl9YR2V3dzRhU1N3TXh3RDI5WkVkMXBfMm9TNWFnaXA4c0l3Wkc5TW95bVJrSm5hT1Q3U3lGZUtWR3dMdURkNERXS193blhTTDBaSHo1cjdpRTRxM2g2NDRLM3g2cVlscVdhYw?oc=5",
+     "published": "2026-11-06T16:22:10+09:00"
     },
     {
-     "title": "이마트24 \"픽업 서비스로 김창수 위스키·메이커스 마크 완판\"",
-     "source": "연합뉴스 한민족센터",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5YMVN1U3huTm1SS2JUMkhmd2FpTGgzMlZSLTlERk5tNmo0V1MySmU5Yi1mSnJaNU5rRHNKM0NlLTQ2V0JfckQ2RmVZNG5hSVZGcVp5d3g3cDdKSGdmU3NWdTBPWU11YzhWMDN1d05IS3ZXaDBt?oc=5",
-     "published": "2026-11-06T08:17:23+09:00"
+     "title": "GS25·CU “편의점, 외형보다 내실”",
+     "source": "한스경제",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0bzUyQXctOVFMeFdQMFNTME1VTFo4QWRla3AtNnNKUmZqeERsYWdwTnZNQ0lWdzQtRTJ1MEtqQko1bnJpMENaamRLam9tNnBGd2J6aDgwQ00yYkpCQm5SSHdxU1gzOUdWSzc00gFvQVVfeXFMTjk0cmU4RktPNlpSOG5lemQ2ck1DbkdkdWNadnJXMDhfZWJiTkVldXd3Rm04eWRMVzJ2ZFBVSUcwT1dxREl0eVdMSzFUOG9FT2htRHZmVE5vaFItWmRDYnVwV3VvbFcxbnU1OUJLYzdN?oc=5",
+     "published": "2026-11-06T16:21:06+09:00"
+    },
+    {
+     "title": "[편의점 월동준비上]\"패딩도 판다\"···핫팩 넘어 겨울옷까지",
+     "source": "현대경제신문",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxUl9qYlZpWW1qcVlCa2JGLVRySXZZVk1MQTJoRkFMLUx1TV9rLXo4OEdtWnpsbXNVbnZNWWhJX3p5RFBKXy15ckNVSDA5RW90V3M3TlBjMGtFNTFyQmk3a2NCUU1SYUU?oc=5",
+     "published": "2026-11-06T16:16:50+09:00"
+    },
+    {
+     "title": "외국인 지갑 여는 'K-편의점' 진화···편의점 4사, 관광객 유치 경쟁 총력",
+     "source": "포인트데일리",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAxenNpenZBR2VSQ2t2all5b2d0dEh2YmFaQjdEbUtUY2d5cnlLRWhwMG5idjRyTWR6ZE9nMXpPNzZjTHRKRUN5X1U2aVdrOFlBZm9NcjAyRGZqbjJkMldEcjRYc1RxUDQxVW1XRWU2SE3SAXRBVV95cUxNRS1yVHdYSXVHS3lwZEk2SS1lTFFQNGVEaEc4OXVzeC1OSnJTcUpfLUZWNmxIQlhqdWE0UDNaX0pjdjVVOXFPa2xaSDVyd2F6Uk5QLXlDclZLQndhZHNTMW5FdGNMZDRvWkpwMlhkVVhqcF9BNg?oc=5",
+     "published": "2026-11-06T16:03:41+09:00"
+    },
+    {
+     "title": "매출 무려 248% 증가… 다가오는 추위에 매출 쑥 오른 '편의점 겨울 간식'",
+     "source": "위키트리",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5EUmlJTWR6REg3cXFqa0gyd2RXQjVBQTVCNDZFSGZ3Qk5INElQNGtsTlJaUTN4VjMzemdKRjNxdnpjNzQ2V1VXT3lUYnNRajFfa2Q3Uzl3?oc=5",
+     "published": "2026-11-06T15:54:00+09:00"
+    },
+    {
+     "title": "롯데웰푸드, 편의점·마트 채널별로 차별화한 '프리미엄 가나' 시즌 4종 출시",
+     "source": "비즈트리뷴",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5JWjY5TG5TX1ZnUmR3eVlXem14ZDU2cE9xLXhXVmh5YW1wSmUtZkJWV1lYLUpuWU9oSWNkSE9maXlVR3NiR010aGxiVEJJNjJxNXNySnMzY3BzVnROcFBPeEZlWXVYTGhyQWhwSDJoakg?oc=5",
+     "published": "2026-11-06T15:53:59+09:00"
+    },
+    {
+     "title": "“간편해도 단백질은 챙겨야죠”...웰니스 바람에 달라지는 편의점 풍경",
+     "source": "녹색경제신문",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lNld5MjJkMFF6RnZTejhqc0w5QjZ4dU5vaGZid2xVbHNJMmZjLWlyVktoUGRQQTVnRUM1SUt1ZjRvSUV6Z3c3TFJ5ZGpoOEhnUV90blhlV1hMclFvUmM5UE8yRkhnSWQ4?oc=5",
+     "published": "2026-11-06T15:51:00+09:00"
+    },
+    {
+     "title": "[기자수첩] 유통업계에 쏠린 공정위 담합 '잣대'…공정한가",
+     "source": "SR타임스",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1TTRSMHF5R1RTekl5REN6SVBTRXhlQThGNjZ5b2RwNWRDMGdQdnQ4NGg4Rkt5YmxSYzZrZ3BQMkNJekZIU0FKZUJOcVREWFZMbFA1WjN6YWFWRFltSHBHSWJMWDFCbVZK0gFrQVVfeXFMUHJaOVN3blk0Q1FlS2ZxRHJpX081MkJ2T1BRNV9kUHlqd1V6VEc1TVk4SC1yUERWekU4M1FySE1oR0dLaHVJZV9ndE1MVXBXT20zcGUzZzgyejJocWJRMTluSENvTzE3Z3lkQmM?oc=5",
+     "published": "2026-11-06T15:29:52+09:00"
     }
    ]
   }
