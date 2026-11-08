@@ -1,39 +1,45 @@
 window.NEWS = {
- "updated": "2026-11-07T18:45:20+09:00",
+ "updated": "2026-11-08T09:06:56+09:00",
  "sections": [
   {
    "id": "law",
    "title": "법·제도",
    "items": [
     {
-     "title": "웃음기 없는 블랙코미디 귀신보다 가난이 무서워 넷플릭스 공개 8부작, 도시 괴담 속에 노동을 버무려",
-     "source": "바른지역언론연대",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMMDl5UDZOWEJyNW9BWWJoMlVqYWpISFFzZ01OdzlMMEJ4REV0TTRuamxuRXhvcGY2S1JLMEs1SXhUN1FoMU5VdnM0cm9QSVR6bzdNRjQ3NVlkeHhfeTB1VW0tTkVwc0NEQUJ4Mg?oc=5",
-     "published": "2026-11-07T07:14:48+09:00"
+     "title": "주 4.5일제 실험 통했다…aT, 문체부 '여가친화인증' 첫 획득",
+     "source": "데일리안",
+     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUVRPTldVak1LLWpqd0lKVHhzMWtyZUtsYk84SVdwN3Z4ak5Fb0tWdFpCcmJUSVhybDFTWWw4STBRZTZndE40cXczeC0teWVWOTl6aGtHeTJ6cDZSd3pnckIxOEtoUmNBN2JKVEMzRGlZWG5TYlN6NlZ5c0thM011eVF1UnZwZXNmdzJLQUwzOUxlWVdNQTBzN3JHTmc4NWk2cldQSlVYQXB4dllKdGd5Z2w2QmxNOGJUQndoOTdXLW1nMGo3TjA2ZEhIMnJsMW9ZSU5NOGVrMjJMT0FydDU4RVNYOGJoTGtOXzZhdQ?oc=5",
+     "published": "2026-11-08T08:24:00+09:00"
     },
     {
-     "title": "11/7~ 11/8 이마트·홈플러스·롯데마트·코스트코, 휴무일·영업시간... 이마트·11번가·G마켓 할인전 막바지",
-     "source": "센트럴경제",
-     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB1R1RiLVFZUmw1cElKbS1zaHFYcWYzYldoN2RJMzk3YlAyQ0RQVHF1cU9ENDl4dXVscFh1U25tX3hBQ3hLM09DQnA1SlBXNUc1Z1lMSFVlU3BjemNQUTYxd0VaWmtvZ9IBakFVX3lxTE83dWdmVC1ad2RRUkphOEVVQkFMd0QtdjExa3dnUXZkMnlia1c3U3pwaVh3SmFVVG5zek0xYlBsaGVsOVhVcWpOeXFlOHZfdDNYS2p2cXctRWRSMC1ZRjJST1RSdGhURUVoUHc?oc=5",
-     "published": "2026-11-07T00:03:00+09:00"
+     "title": "[대형마트 휴무일] 이마트·홈플러스·롯데마트·코스트코, 오늘(8일) 문 여나",
+     "source": "싱글리스트",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SUVJrSnJiM3RweVRsLTZzVzRXemtIY2J1cHBHT29ZTFVvWUdScmliQkw2ZWZpX2VFQlJPaFFTU1RjcDdJUXh2YkVhaW5aQ2c5ZGxWbzlrWS01MVJUckNFeUNnWjhjZw?oc=5",
+     "published": "2026-11-08T06:58:47+09:00"
     },
     {
-     "title": "대형마트 휴무일? 이마트·롯데마트·홈플러스·코스트코 ‘할인 특가전’",
+     "title": "이마트·홈플러스·롯데마트·코스트코 휴무일, 11월 8일(일) 대형마트 영업하나?",
+     "source": "한국강사신문",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtcGRoTEEwUzJ1U3I5TEVSM01uWlpLYUc3RHhES19vMElPanBEeTZ6ZGpBQzZaQ1Viel9nRTJ1OFJmeEhvWFIxN01VQ1pzbS1VSDZCMlhHN0MzQkV4d1hVRWw3Tlc0TnUwTmx4WUFielA?oc=5",
+     "published": "2026-11-08T06:00:00+09:00"
+    },
+    {
+     "title": "대형마트 휴무일, 이마트·롯데마트·홈플러스·코스트코 ‘쉬는 날’",
      "source": "BNT뉴스",
-     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZOTBGMHZCYTh3TlRkUUdOY1ZaV1lJdTQ2bXFrVFQyVVh0VnctZ0hFOXdjd0w4UU5KTERQamJ0RWg0NDdRS0pmY0xZSkNCYkJ1OUFUZFpNS1JZdnJxYS1wWTR1QW4?oc=5",
-     "published": "2026-11-07T00:01:02+09:00"
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1EUzN5Y1NKMU4wWHRyUm1CU2Q2enJjcEJ1dlkwVnJYek5EWkt2Vzg2dGkzNjN4cUMzU0J4cDh2RUZaVXZhQUhHQjg4a0RfOVJvcjlpQXZMQTVoMFlrUXEzWUtKeHQ?oc=5",
+     "published": "2026-11-08T00:01:01+09:00"
     },
     {
-     "title": "롯데마트 이마트 홈플러스 대형마트 휴뮤일 장보기 전 확인 필수",
+     "title": "이마트 롯데마트 홈플러스 대형마트 휴무일 8일 일요일 영업 여부",
      "source": "뉴스클레임",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96dEdmSWZPZXZRVERVYlhKNFA0R0NCYlNyOXQ0QklvcmxxeTJDaTN6YzNuNl9vSDBTcDV4eGhVNEQ5WXNCcGxfVjREM3RYblR5Xy1xR2plMjR1eTgxZkhJcHo3UXo0OXdlSy00VThjU0XSAXRBVV95cUxPUkhHZVNmUTlSUXFfdzdXSEZpNzl4SHM1RkxmcmYwck9QTmg1c3dOV2ZvU05xRU1iUG9seE1wMFBNM3I5X1lkSXJDX3RyaGpzZ0s2bm50N3o4UmltZGZIem1kYXd1b3UtV1psVS0yZTl0MzdhQw?oc=5",
-     "published": "2026-11-07T00:00:00+09:00"
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zTERvTmxVVG1ZRDktUkJLd1FTc3lNRmN1SVNyN0Q5VnhmY3h1V2tnaVJHdTJkU1EzSi1GWDNadGJqRnlhUkFtT2NMNGpjV0tBUjNSLTc5TFpqQnVnWEV1UmpZcFJCN2RWcmp6UkRNUXjSAXRBVV95cUxORVlTTW9RcGRHVEpYcUVuWFVoR2VXVzJSaVZSd19zd1VldTl1SjJ1b05xWGYtYnVoMWEtOUFnX04zMFdRX1BtRmNiRDJ1WGxsVDVkZk5Fc1BLNC1hTTdsaVZRVFdwY2dGRzRQM1NxeF94aFA2OA?oc=5",
+     "published": "2026-11-08T00:00:00+09:00"
     },
     {
-     "title": "전자담배 기기·부속품도 예방교육에…부산 학생 유해약물 조례 개정 추진",
-     "source": "교육을 비추다",
-     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9oeGR3R0hPeHpWTWdxdWlGM1YzYUtJODluYW51cUZWazlHbXpwQzRNeHpkdEtEbTlkZ2tyQVZzbG4zZThKOHBEcjA0cTZ5Zk5rdmUxcjE3SlgxNnpzLUh6Q2VFY3FoUQ?oc=5",
-     "published": "2026-11-06T22:57:28+09:00"
+     "title": "‘대형마트 의무휴업’ 폐지 가능성 커져",
+     "source": "데일리뉴스",
+     "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxOWDI3V2N4aGVCaUNnYzRfR3MtLWZrMVVCcXl5THBQWk1vUGpWY3pVbWRwN3hwb1NXVmZZU3UwckJKRExPekpqbzF6X2QxSWxYYllwX2FYRTEwaEhyRWdCMFBqWXJ4Q0czcHNsaVZNamhjQm03WlJUcmVYMU9oY2YxX3p3Q1IyVlFOdjF0ampHZ2RQYldyOS01Skl4UFZJRHEtanF2bkYyUUJHOXJXUV8yMGNaOTZfRjAweHhLMHplVVFvU3hOcUMwdkV2YTA4S2hVLW1HRW1meWtTVmV3VzRqRWNOanA5WVFQbDFFVVNoVkZpSDJDXzBXaGc2czdZb2hDdmZyM2xwMzRMcmdKQkFnelN1RnN0dDdMa3VSaE9R?oc=5",
+     "published": "2026-11-07T10:16:00+09:00"
     }
    ]
   },
@@ -42,124 +48,124 @@ window.NEWS = {
    "title": "유통 뉴스",
    "items": [
     {
-     "title": "세븐일레븐 마켓 투어.",
-     "source": "Vietnam.vn",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5pOVVxTVc3aTlibmViVXlJYjJNa3pFRHNmR0c3RHVSU1V1aV9RelE5aDdDNXZLY0Q5YWRIWGc0RTZzYzBNNmJ1bXVuWl9sbWZrWlN0bTJzaDN0QV8xSk4zLQ?oc=5",
-     "published": "2026-11-07T17:48:22+09:00"
+     "title": "AI가 대신 쇼핑하면 광고도 AI 겨냥…美유통업계 수익모델 변신 중 > 시애틀 뉴스/핫이슈",
+     "source": "SeattleN",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvSEZoZE03c1JsV2dyMnhpM1VtQmwyTm82YnRnLTRVcjM2X1cwREpUT1MtbVRIYjFpUGxZVzVtZkFNbWttcGlYNVFUbmRwcWcxeFk5R1EzOFZReS0weTJYeGRNTTQ4N3NXZFFfRVIyakc?oc=5",
+     "published": "2026-11-08T08:57:00+09:00"
     },
     {
-     "title": "세븐일레븐 체험 코너",
-     "source": "Vietnam.vn",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NT0Q3YU9LWVpXT2JuQnZVdndKN1Noa2RmOXpHcWNlcmZsN3g3VDNKVzRsVEJVbUVON2lOUzZqNlhSNV9oOF9KNEpjaTU3THJ2NzdxVm9YSEVWdw?oc=5",
-     "published": "2026-11-07T17:48:21+09:00"
+     "title": "세븐일레븐, '원핸드 간편식' 확대…'스몰 밀' 트렌드 공략",
+     "source": "서울경제TV",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBNN05MdFk0cHhiSE1NMkl6OTZoRFl3SUNuWDhxMEtuOXp3d2p4UkNqa1JzYVRkcVNCZWxQbVQySDhTM2Y0ZVJfQlRycmFBY1A2T3djamFKU0NXcGxKTHg0ZXc2ZmY?oc=5",
+     "published": "2026-11-08T08:55:25+09:00"
     },
     {
-     "title": "금융·공공·유통 가리지 않는다…개인정보 유출 ‘전방위 비상’",
-     "source": "남도일보",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1taWhiN1M1RE1ldXpGc3p3TWJoZHdCX3p3a2Q0UlBLTHJVZVdEdEFEVTVSR0lEcVd2TFA4X1hmZkZBZUVuNkFSSE9vS2JfVXVaNG55aE42MXFkdTlHVGhsejE4ZlJzc2poWmdKNdIBcEFVX3lxTFBxSXBxUXhjdnFjT2E3ODJSSzZnNDlyeHdQdkxGRVlPS1lqU1cxVDJYbUwxUWRSNWJZUzdnSzA4QVNKeTJ4bXBsakJpeDJwTFItTl9UYThUbmhRV2FaMjAwQnJIVlUwY2JrSGpLYkJyVGo?oc=5",
-     "published": "2026-11-07T17:03:00+09:00"
+     "title": "지그재그, K패션 '매출 성장 사다리' 키운다…TOPS 상생 전략 강화",
+     "source": "전자신문",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBELTFiMHQwejFrZElKVlJZQjBXa3FyYUM5SUpXV3ZpR3B1T2dUWk9oMDg4UDZjSUxBVzFvZmxZczlWU255QXRLSXpOUUlwQQ?oc=5",
+     "published": "2026-11-08T08:49:11+09:00"
     },
     {
-     "title": "쿠바이의 물 부족한 논에서 토마토를 재배하는 모습.",
-     "source": "Vietnam.vn",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yeldULW44YTBSMlByTVgyajBNOEQxYkI4UHpDSUVFcUFSRmdFOG4zZEVBVEVfZ2hETlRQcEVaYkY0Z0VDMW1sNkowQWVDQjVhSlFMVDRfLWNka1dfTHp0WFpGbzZLUWpEcWtpS1c0anhtQ0xMZ0R4eXVxbDNFYms?oc=5",
-     "published": "2026-11-07T16:49:21+09:00"
+     "title": "\"한 손에 쏙, 한 끼는 가볍게\" 세븐일레븐, '원핸드 간편식' 확대",
+     "source": "뉴시스",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sTzFhczZlNjJVdWxsT012eFRxd0RJQVhOYWtWUXZSY1RJaXdsc0h2bW0xTlpiLXJWekRVcEtRMV8tNTgyek81Q1k3TGlBLThtSVBQNHdVV2Z0V3RvSzZ2Z9IBeEFVX3lxTFBhR3ptYWNFR0ZPcTZ6ZFg2aXppMU1tdlNGOWRrY09lOGVudnZOY0dFeUV2YWVpQ2hILU92MktmQXRYbTc2WEtzVWZrZkxiTF9fUTVfUGdZM3FQSjJKNWktLV9lcjA3Q3RQNE1FMEJPWnZFQWluWVFLeg?oc=5",
+     "published": "2026-11-08T08:46:26+09:00"
     },
     {
-     "title": "크리스마스 한 달 넘게 남았는데…백화점 3사·시몬스 벌써 불 밝혔다",
+     "title": "세븐일레븐, 소용량 '원핸드 간편식' 확대…'스몰 밀' 소비 겨냥",
+     "source": "매일경제 마켓",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mdUVHR2NJdl8xWmhCT2VlQ01ZYkFGa1R6NlFaaU1LNjFMaEFUd3EwLXBPamZQdGU2NGtFS2h4TlNnNHN4aURnSWNhUUZNRDdlMnc?oc=5",
+     "published": "2026-11-08T08:35:48+09:00"
+    },
+    {
+     "title": "NH농협카드, NH머니 결제 시 최대 10.5% 적립 이벤트",
+     "source": "월요신문",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mSHBDTEktcFlRNVJBUnFGOUpsWFFDUVIzN2d2aGVoNG1xRTgzOG9nSDJZYVFETFV6UnZJVEltTVBPOFR2VTdrbF91eW5QT0Zjc2JHTlVud3BtSkxuanBpNnNaMWRoYzdwbHc?oc=5",
+     "published": "2026-11-08T08:25:09+09:00"
+    },
+    {
+     "title": "\"치즈에 찍고 녹여 먹고\" CU, '딥핑&멜팅' 간편식 선봬",
+     "source": "뉴시스",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJV2d4MVdDeW9JQXBlNGN5X1VSaUh4NWlQY0tQZ0FOeTF6cnRvVEwwMjlWOVgya3VtWGR5c2hmNEtHZ2M3bDNIbHhTRTJYMVVweHY3el9hbkVnZUFUcC1kcA?oc=5",
+     "published": "2026-11-08T08:23:29+09:00"
+    },
+    {
+     "title": "CU, 겨울 입맛 사로잡을 ‘치즈 딥핑·멜팅 시리즈’ 출시",
+     "source": "싱글리스트",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sVHVwanFvME9lRHRqa3pXbEoxbHZqd0NOWFA0UENNVkRfS0FIUThuUENZSzBzejR1YkJBRFI2TUM0bk1FMFRzTVdYY3N0bzFSZzhkS012MERsbUQ5aEpiV1M4VDZpZw?oc=5",
+     "published": "2026-11-08T08:14:08+09:00"
+    },
+    {
+     "title": "홈플러스, 자금난에 임금·납품대금 체불...매각 지연 속 경영 악순환 우려",
+     "source": "M이코노미뉴스",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBzb3hIRTk0QnVUcjloaUVHZVhISHVqT2FxOVZ1N09KOVEzMnBNcWJJMTRIN2xGX1dmckEzQlgzalE3RTYyemNiVk4yaHpCblozTXhRV1FwR1I5XzN6UnVWc3lZMm80Z1k?oc=5",
+     "published": "2026-11-08T07:55:58+09:00"
+    },
+    {
+     "title": "홈플러스, 8월 급여 절반 밀려…납품도 차질",
+     "source": "경북매일",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iaUdsNFExM2NiV3lOT3A2b1NSOUY5YU84SlUzSk9sUUVJcDNVZ21UQ2VNNHZoQnA2OWlVNDFQd1VXWmpQX0NHdjZSVjBBVGRESHB2SVZReTFJdw?oc=5",
+     "published": "2026-11-08T07:38:00+09:00"
+    },
+    {
+     "title": "매대 비고 월급도 밀려…홈플러스, 자금 악순환에 회생 '빨간불'",
+     "source": "연합뉴스 한민족센터",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB4VjRjeV80aFNoVEQ4QmZiSnp4VjJWWFJXOFUwLXEyRkZGZ0phUkFnYmxadE9WeFFGVkFIVWwzRGVTMU1DWlBfclFCY3E4SjU0QzhjNTRTcm1Lb0NWYUlYNG40OFp1cGI1Wlg1azRHd1czQlVw?oc=5",
+     "published": "2026-11-08T07:33:00+09:00"
+    },
+    {
+     "title": "그랩·마끼·1입 계란...세븐일레븐, 소용량 ‘원핸드’ 간편식 확대",
+     "source": "싱글리스트",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1uZ1NyTFRVLTdITGc5OTlrVmxOcHd2QTMyeWpEcFBTNEp1RzhhbXVobGw0cTczMXEwLVQtempNWUJiendUenFfX2RVUFpOYWV0dGpiTUlwTWFlNnlSZkxMVkJEQTQ5UQ?oc=5",
+     "published": "2026-11-08T07:19:44+09:00"
+    },
+    {
+     "title": "세븐일레븐, ‘한 손 끼니’ 키운다...소용량 간편식 확대",
+     "source": "아시아에이",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zVFlEWVg0X004TWdsZjdOQlFZcW5qV3lvejhYSlc1MW1VYVRLMWZXc09zeXZITk13bC0tYU5MaEZIc2dLQWVKY1VnYkNmZ0I1bWhyU1VtSkV1SVZfWDRaUWRral9iT0dUVURhcXJR0gFuQVVfeXFMTnNUWURZWDRfTThNZ2xmN05CUVlxbmpXeW96OFhKVzUxbVVhVEsxZldzT3N5dkhOTXdsLS1hTkxoRkhzZ0tBZUpjVWdiQ2ZnQjVtaHJTVW1KRXVJVl9YNFpRZGtqX2JPR1RVRGFxclE?oc=5",
+     "published": "2026-11-08T07:03:08+09:00"
+    },
+    {
+     "title": "[르포] \"퇴근길 K라면 한 그릇\"…호찌민 일상 파고든 GS25",
+     "source": "더구루",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBsblNLQUo1MnNBNHRycy1lNjh3SjRPdUFPNFhpWXhxanV2Zm9zMVRVc1NFVFM3UDhMa1JYakpSczlidUJ4MlNfSjlVU1RLQWh5V0ZJeTN1eW9FUDFpMElFMHluUnFOQQ?oc=5",
+     "published": "2026-11-08T06:00:00+09:00"
+    },
+    {
+     "title": "[MD포커스] “두 달 새 384만건 털렸다”…유통업계 보안 구멍·무너지는 소비자 신뢰",
+     "source": "마이데일리",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKRlNlaDZwSm5iSV9TZlpCLWZCMHoxbkRUYjFRWVlaOEpMYWRSU0lHXzhTLWxhSDJHemU4NTJscThuS3FTVlE0WWZFXzRpMW0teXJLSTdDd2pWTXQ5WHlmQg?oc=5",
+     "published": "2026-11-08T06:00:00+09:00"
+    },
+    {
+     "title": "유럽 덮친 ‘냉장고 해킹’... 국내 마트 “수동 제어라 안전”",
      "source": "세계일보",
-     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9VcG9tN2ZmWWN4N2Ytb3FUN3FYaHhkZUt4ZHZhMDZZYzVUN0JHUG50ckt2VjRoblNjVkFUal9JcW5Makp3WlpOZnBjejdmb1JrNGRQVEswMWTSAVRBVV95cUxPRk1RRkZyQ2FWYmRhUklndXZwOGI0ZzI4T1F0T0JaSXNaaWNEazN4bmpnNjY5YVhyUGkwZG4wVGphWHBuYWVfSW5BQUtEaVlDcjducHY?oc=5",
-     "published": "2026-11-07T16:00:00+09:00"
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9sWGRzT25GOVJxUndwd194ekhobmVVcmdOcVBkSWR2UTJXSFFETWpqVEVTWXRYWmRCdjNiM0lfdjQ2UzFsN2ZGT0owU3BHZ1BVUkhKdFVKMWvSAVRBVV95cUxQRG9WYUc4T1QyOVZvRklHS2s2bk13QjBqSDl6TzVhZEVlaVY4YTVGTHpublVEaHUyb3NaYW1IWEt4eXU2RWZhLXd2bGdNd19DUVFpai0?oc=5",
+     "published": "2026-11-08T05:50:21+09:00"
     },
     {
-     "title": "QWER이 편의점 샌드위치로 변신… 이마트24 협업 상품은?",
-     "source": "금강일보",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mUDlvN0docnRtVGQ0aFJvY0NWZUpOZmlYdmpueHU3QWtFQ2lpMVJVakc1d0draHk1T3pZcUlDb2JLem9rZ2NNaHJZdmtTSDFvWi1ESTlZNWtRRjR5QzNlX19EMVRUdmVOakE?oc=5",
-     "published": "2026-11-07T15:40:00+09:00"
+     "title": "'짠돌이' 곽윤기 \"편의점에선 무조건 1+1…카드값만 월 2800만원\" 왜?",
+     "source": "뉴스1",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5FVllzSENuZG5VV2xJNWxaM05JZmw1bWladHk4UzFhc1RBWUVvUlg2cFZldlRrMXY1OVZOMG54T0hKdXgzQTU1TXFOYzFDNS1NanptSm9rYWYwaWFyRVIybHZB?oc=5",
+     "published": "2026-11-08T05:00:00+09:00"
     },
     {
-     "title": "껀터시 당위원회 서기가 주택가에서 열린 국가통일기념행사에 참석했다.",
+     "title": "24시간 부동산: 도로 건설 후 대로변으로 바뀐 골목길 주택 가격이 몇 배로 상승했습니다. 과세 목적상 방치된 토지를 판단하는 기준이 마련되었습니다.",
      "source": "Vietnam.vn",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOejdVS09zbHRtUERZV25ra0ZGcldXdU9sZE1OMVlYbzdodTBidmVlbXA5X053bThjR29ZU21PdjM2WTQ2RTB0VXVIVmJLelE0eFVQazZFRTJzal9GSUxUWTA2RTJjSjhuZU1SNUlWN0FqLU5sYm9zdkJJaE9udFFHallKV2dSclk5eVYxQXEtY1Bja3hjV0NjR2x3ZjhqaTg1TUE?oc=5",
-     "published": "2026-11-07T14:57:05+09:00"
-    },
-    {
-     "title": "[유통기획] 할인 넘어 콘텐츠·경험으로…유통업계, 연말 소비시장 공략 본격화",
-     "source": "코리아포스트 한글판",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ib09ucVRERTZlNXo0ay1kUzlfZEpYaGtIZENHcmFBSnBqX2tBWUZFdVZlR0lrTmdoS1gtNDVjcHpPeUk3aGV3dVdwUjFrREp2SjBUcHNMakxQWFQzSnJmVk9BaG5zZmpsSy1iY0tR?oc=5",
-     "published": "2026-11-07T14:00:00+09:00"
-    },
-    {
-     "title": "“우리 그만 화해해요”…’e프리퀀시’로 돌아온 스타벅스",
-     "source": "네이트뷰",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB2cktBejg3ejNsMDlwN1FMOUVrNDgtLTVJNzUwbjllSGZfdnhlQUhMczU4VEw5RzdKa25aR0p2eGZhRVo1eEtmQ1c3czJwV1hG0gFWQVVfeXFMTVBSbnNvcEhpekRlc3hEOWNVdzdKLWJXYWhoNTNCdHhHaG5HYWdsajRVOTFGdmlBTG43SFN2Vi04eTVOd004cTFULWQ1RjlJRGd6WEZuamc?oc=5",
-     "published": "2026-11-07T13:18:00+09:00"
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUV8tUzVoUVM4Q2E1T0ZCQkY4QUJ3QkFFYW53TXBONXlwVlF0dTRrVkViaXR3LWxlSG1RckcwRF9OMnVDUldmSkhjQ29XSkxYeVR2V3hjcmoxNnJOcVpWS1dJbVU3M2pDY3pXOV9pVDFCVU1YbW5kNnhyREZhS1g4SlRucU9hdnlkUXU1X0lWSXYtdmk0OEYxRmhJYmRhUzhCMmMwMTFGNUpxSDFWenJHTjI3N3FJaE96SWl4Nk5tZWdQM1RVYVAxeUxHN2ExSUc4c181cw?oc=5",
+     "published": "2026-11-08T02:04:52+09:00"
     },
     {
      "title": "푸라닭치킨 본사 찾은 연세대 FCEO…가맹점 지원·ESG 경영 공유 : 네이버 블로그",
      "source": "Naver Blog",
      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdWl4akJOaVVQODJhWkIySTRaWEo0S2ZwYURuLW5LcW9YT3FRZlR0T21nNEpBbElBRGJ6LTVTaGgybFNhVlRlS0ZfXzhiRURhMzZqYjF4ckNNcGdRdE9NZUM1WXNEVEtLV1pFeE9uX2tuRlpxTW5kRHJMcFJuckwyVmR2a2o1THN2anhjMDBR?oc=5",
-     "published": "2026-11-07T13:09:31+09:00"
+     "published": "2026-11-08T01:09:31+09:00"
     },
     {
-     "title": "[유통가 패트롤] 군고구마부터 딸기 샌드까지...올겨울 잘나가는 간식은",
-     "source": "오피니언뉴스",
-     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4zdzd0R2s0dTBreHVEQzUyTGd6cktOVDhZRkIxM1ZFVmxoWER1QVlqdXRtaXNldW9NOXNCaEluSTlCYmVIQXQ3SGdnaUEwZjdqQlM0NWlXeE1iY0NhbVRuNWpvX1duMkpPMmN4b0Y1NGdUUQ?oc=5",
-     "published": "2026-11-07T12:16:24+09:00"
-    },
-    {
-     "title": "시급 50배 꿀알바에 86개국이 빠졌다고? 🍯 [이 주의 트렌드 ❤️‍🔥]",
-     "source": "뉴닉",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBzaXdGNlJ3ZXZsenYtVFZkSFU3TTdVbDY5a2duaHFOUHZkZ3ZzUjhSejdobzMtdm5VNVNXS3prTlhhT1hDaGN3SXAzY181UzJKcndxMXVCYw?oc=5",
-     "published": "2026-11-07T12:06:02+09:00"
-    },
-    {
-     "title": "덤브치킨 '9900원 포장' 모델…배달비 털었지만 회전율이 관건",
-     "source": "동행일보",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBBbkxweThGSEZHUDREV0xtWWJORkZOdFg2Y0J1Q0lpeEJMZDlBWEZ0S29Fc0lhak9qQUVVSmd5NUlmY2V4WDB5YXJDSEtFbnNqU1c5S0pNWGIxUV9uUjU3ZHJubEI0VHF0?oc=5",
-     "published": "2026-11-07T12:03:00+09:00"
-    },
-    {
-     "title": "“연말 쇼핑 대목 잡아라”…‘블프’ 시동 거는 유통업계[똑똑! 스마슈머]",
-     "source": "서울경제",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90MlNyTjZmQ2tjNzIzeHpySlNMUy1qMFV4c2VlMUtET2FvVlh2aWVxWTRndnNFQ0JtbEFFaWtHSTM5OXFsQXpCSEdIdXN1WUZOdlHSAVNBVV95cUxPVGRtVE4xYmJrbVM3ZmZ3ajVhZUJ6YWZ5SGRiTGljNFJzUm9MOGZTMW03M3g3bVZBeXp6ZFRJNkFVYm5PNkhweXRoWmV4ODRFM2MxOA?oc=5",
-     "published": "2026-11-07T12:00:00+09:00"
-    },
-    {
-     "title": "[다음주 유통업계] 김장 할인전·빼빼로데이..주요 기업 실적 발표",
-     "source": "한국정경신문",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1jM0l3aGRfQXItSGJWSDhLRC15NTVxTzdHMlM4WFAxbHhaQTItZlRVNWlWOHdfWlFTVzNGRXBEeU82TVljcHYxN25kbDdydFdNWFE?oc=5",
-     "published": "2026-11-07T11:51:20+09:00"
-    },
-    {
-     "title": "쿠팡, ‘쿠팡모터스 페어’ 진행.. 계절 변화 맞춤형 차량 관리 수요 증가",
-     "source": "디스커버리뉴스(DISCOVERYNEWS)",
-     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LZnhYWkJHOGdSeG5kaC1QU3V4MlJ6aW9JX2FUT3dYNnAxUHItU2Q0NXJCRGZ3eEwwQ0M4WFlyb1lhTnVFZUJnOHhZX0hFS0h0UXRrZVp5QjlCOEUzMmg1QXJSVmtneHBwNkZlMFFDQTZSZw?oc=5",
-     "published": "2026-11-07T10:57:51+09:00"
-    },
-    {
-     "title": "유럽의 맛이 한국 식탁으로…EU, 국내 식품·외식업계와 협력 확대",
-     "source": "뉴스탭",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5JVFBtdVM1S0d3aDc1bm5NdVhUU28zT3J6ZGZCeUxkU2lQNUVUU2RkUDlmdnJrLWFIMHh2UFh5aU1EWWRTY21TbFotRS0zdjZucTJ2UFJ6Mk4wbmNkQ21CMTVic1JBVy1oWDhocA?oc=5",
-     "published": "2026-11-07T10:42:52+09:00"
-    },
-    {
-     "title": "미리 만나는 크리스마스!… 부산 디저트 판매전 「달달더마켓」 개최",
-     "source": "한국방송뉴스",
-     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XeDlLQ1dyRTlfU2NINkM0dGtJWUhJUW1EYXkxUXFhMVAyMHJRLV85QnA2anVWWmdhMkNDR1lzMHFwV3lua0JHUTFLeFVaeWdKbXc3YS1uVEd0MnU2SWc?oc=5",
-     "published": "2026-11-07T10:36:57+09:00"
-    },
-    {
-     "title": "신한은행, 빼빼로데이 맞아 이벤트 진행…CU 아몬드빼빼로가 100원",
-     "source": "비즈월드",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5peE8yYlhLSXl6Z0J6ZUVmcURzOGNkWWV4Z3lLa1VwNHJyQUJmbnFIc0VSYVVPV2ljM0luTTBwNEpJekpPYkFNc0oyaHBOemp0YUd2bXlJOWIweDE0TEFxQ0VOMEVOOUVISjFJ?oc=5",
-     "published": "2026-11-07T10:33:00+09:00"
-    },
-    {
-     "title": "수능 응원 선물도 변신…찹쌀떡부터 캐릭터 케이크까지",
-     "source": "ABC뉴스",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lT0pTenpMNGN5UEk0OXVqWEFOZmNfT0dxLURMb2ltVFdCTzBGd3hvLXJxYzJPQUNUaG8xNUhOOXl4bm1xclpEWnpBOFFid1BhamhrMnhId2VJUU1HUHNIXzFJc0h1ZFnSAWdBVV95cUxPZU9KU3p6TDRjeVBJNDl1alhBTmZjX09HcS1ETG9pbVRXQk8wRnd4by1ycWMyT0FDVGhvMTVITjl5eG5tcXJaRFp6QThRYndQYWpoazJ4SHdlSVFNR1BzSF8xSXNIdWRZ?oc=5",
-     "published": "2026-11-07T10:30:48+09:00"
+     "title": "대형마트 휴무일, 이마트·롯데마트·홈플러스·코스트코 ‘쉬는 날’",
+     "source": "BNT뉴스",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1EUzN5Y1NKMU4wWHRyUm1CU2Q2enJjcEJ1dlkwVnJYek5EWkt2Vzg2dGkzNjN4cUMzU0J4cDh2RUZaVXZhQUhHQjg4a0RfOVJvcjlpQXZMQTVoMFlrUXEzWUtKeHQ?oc=5",
+     "published": "2026-11-08T00:01:01+09:00"
     }
    ]
   }
