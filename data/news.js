@@ -1,10 +1,52 @@
 window.NEWS = {
- "updated": "2026-11-09T20:05:15+09:00",
+ "updated": "2026-11-10T12:05:36+09:00",
  "sections": [
   {
    "id": "law",
    "title": "법·제도",
    "items": [
+    {
+     "title": "법무법인 바른, 24일 ‘협력업체 계약 종료·갱신 리스크’ 웨비나 개최",
+     "source": "Chosunbiz",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZy1xMWR1S3FmZDEwVHdkQ3pKeGNWUGR3amktS0tqQ09xM3hZTktKWTk3allXeUZkSEdRNUExVTRRdXV1eHdOWEpNQkt1RXJHOUUyUVN1YkttZWdmZUM1YVRwcjdoT1FwTlZLLUhEa0wxUF95STVhU2VmQlFZS3l1dVJTb9IBlwFBVV95cUxOdUNZbmpUR0dmWG9kWEM5WkpBX2hSQnRQbVBsQVpxbG1ZODhySHo5Ry1faUg0NzNFd2poclEwMEZYU1hnNGN5S3A4ZG9TU3ZEUjBpM3RxdWo0MkJuUmJfMDdnTFBsSmkxRHRqTjJqSFQzN2k0b2tLUThTODRrVmo1REJicDlIaHFvVzhWemVjVGJPR05Zazd3?oc=5",
+     "published": "2026-11-10T10:11:00+09:00"
+    },
+    {
+     "title": "대·중소기업 간 대금지급 관행 개선을 위한 현장 의견 청취",
+     "source": "서울Pn",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9tcUdQM3lTampDUUNXLW9nOVlNQ0ZaNTQ2NEdhb2RoeDkybjJCNVJ6bm9Nb1Ric0RhYTktblhsYkdVQXhKdmRjY0MwM1d0SDEtVGR6d0lYSHhYaUNReFFXSnVR?oc=5",
+     "published": "2026-11-10T10:03:44+09:00"
+    },
+    {
+     "title": "[로펌라운지] 바른 공정거래그룹, 부당한 거래거절 리스크 관리 웨비나 개최",
+     "source": "아주경제",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9wTmg1UUpSVmVMX0hsY1ktRFFhUzU1VFdEeUFCRXJDb1B3RXlqdThJV3o5V1RDZl9ySDUzS2VBMjZ4a3o4VU5pdVVYd1ZfQ2RsQkhVTWJSX2fSAVhBVV95cUxPcE5oNVFKUlZlTF9IbGNZLURRYVM1NVRXRHlBQkVyQ29Qd0V5anU4SVd6OVdUQ2Zfckg1M0tlQTI2eGt6OFVOaXVVWHdWX0NkbEJIVU1iUl9n?oc=5",
+     "published": "2026-11-10T09:28:47+09:00"
+    },
+    {
+     "title": "[시론] 테슬라 앞에서 작아지는 공정위",
+     "source": "이투데이",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE85bzBvd3g1ZmVwUzMxX2xJZnlVS1FocVVaNkRiVldEZlNkQ0djeUdJbG1GaWVaQzZGTzFReWVaZC1iX1k4alR0WnpYSzlScTJWbldlUw?oc=5",
+     "published": "2026-11-10T05:00:00+09:00"
+    },
+    {
+     "title": "경기도의회 정용한 의원, 주4.5일제 제조 현장 적용 점검 및 대책 촉구",
+     "source": "웹이코노미",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE54TUtNRTY2Z3Y3X291NEFEMkZDYXZveUxGZ19ZUlNuenp5ZWV0elB5eklZaEFmcXlQQ09NZ1liSEFuX2RSdGJtcjNyV2ZIYnlJRDV6YkRvbFNfek4yTTFRRGFaaUFlM3RhQ1Jvcm5VTlB5Zw?oc=5",
+     "published": "2026-11-09T22:44:08+09:00"
+    },
+    {
+     "title": "[ 2026년 11월 10일(화) 프랜차이즈 뉴스 ] : 네이버 블로그",
+     "source": "Naver Blog",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTERqNDV4NkVJMUVrTTZhRldPakxJaUhGaW5WRlJ0ZWxVd2FRLXFkdWRjVFhCTmljS3hYTXkzN0FXeEtZbFlTR2RodWxTSkYwdk9uS3dFQWh5VmNadnJDckhtODBRNDlVZDZ0ZkRLVnZnSGhyTUw5MmVrZlVyVzJvcGE1SUJRZmJ3UGhYRkJB?oc=5",
+     "published": "2026-11-09T20:42:05+09:00"
+    },
+    {
+     "title": "경기도의회 고은정 부의장 화훼산업 대응책 및 정용한 의원, 주 4.5일제 제조 현장 대책 등 의정소식",
+     "source": "사회적경제뉴스",
+     "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE1zVE1jNlBmTEM3UXNDenprQmxfVi1YQXhpUjFrMGM0UmxjNHcxZzVlcUNSaE1iNjA0NFEyUVBldw?oc=5",
+     "published": "2026-11-09T20:31:00+09:00"
+    },
     {
      "title": "정용한 의원, 주 4.5일제 제조 현장 적용·지원 종료 후 대책 마련 촉구",
      "source": "서프라이즈뉴스",
@@ -18,22 +60,22 @@ window.NEWS = {
      "published": "2026-11-09T17:38:34+09:00"
     },
     {
+     "title": "aT 문체부 '여가친화인증' 첫 획득",
+     "source": "보건신문",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE81d1VmTmVFNkIwN1c3RnlsSTBuemxCSmZtQk5QRlFQa3FxRUx4am01bmh6OWRsQXh4bzk5eGp6ZUZTMW8xYzR5ZXd6c0J3V0N5ZEtpbk5sd0dZbndIVWh0TU9pOA?oc=5",
+     "published": "2026-11-09T17:13:36+09:00"
+    },
+    {
      "title": "스테이블코인 시대, 금융 인프라의 신뢰를 설계하다",
      "source": "공학저널",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yQlJnazB6SUtVTXdFbWY3dEo3ZnRMWHZhaUtjUHFhaFpCNmFGNjZNbGpuOFk3MGNpVDZDZ1R3UWU3SFpFT09nWDl5OTgxTFprRFMwNjVOWDl5UWNyV3ZmdV94WGtQbm9yaEN2Rw?oc=5",
      "published": "2026-11-09T17:09:17+09:00"
     },
     {
-     "title": "[채널Who] 재계의 미온적인 입장과 노동계의 강력한 우려, '주 52시간제'에서 정계는 무엇을 보고 있나",
+     "title": "[채널Who] 재계의 미온적인 입장과 노동계의 강력한 우려, '주 52시간제'에서 정계는 무얼 보고 있나",
      "source": "비즈니스포스트",
      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE51M0hVcmJEUUUxU3pqV1pFQkowNk42S0RsbGxRVlZyNzlEdWRYNjVUY1VFRkdfcmwtRXZ2YnZSMS1wLUpvSGs3X0x6Vk5CeDU0RVlrWGdSWFZRamt6WmFwdWxfTzd3aXB3ZUI0N2lsRFZBTm8?oc=5",
      "published": "2026-11-09T17:00:00+09:00"
-    },
-    {
-     "title": "한화세미텍, 신임 대표에 김진우 사업총괄…37세 컨설턴트 출신 '파격 인사'",
-     "source": "뉴스웍스",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5EY3BYcDBfRkpwbUVaTGtIcnhfVmI0a0lCMnJWYkN3RDJCUFBKZHQ1ZFl4alVYV2d0elRzMWVMUFFGb21xR3I1aGNYWnQwamxxUnZ0cmF1YXM2ajlrcHRFbnRILUZPdFZBMGttRlNUONIBc0FVX3lxTE1WS214Yl93TmhPRUh6M1FFS3p5VFFHQTBCUGdnXzE3Sk1XUF81X0FrYm9GdTdTTUZTVzI5YWw5WHlfVXdvbjV6NG4wUXlaUE1oR3duOUl6elBVOEVPRGc4SENTQ0FhaTFzcUUxRzh6b2Jzd2c?oc=5",
-     "published": "2026-11-09T16:25:26+09:00"
     },
     {
      "title": "임대차·인테리어 전액 부담한 가맹점주, 같은 자리서 독립할 수 있을까",
@@ -60,12 +102,6 @@ window.NEWS = {
      "published": "2026-11-09T14:59:46+09:00"
     },
     {
-     "title": "SK그룹, 12~14일 'CEO 세미나' 개최…AI 중심 내년 사업전략 집중 토론",
-     "source": "뉴스웍스",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1qajlxVGxkR3NGQmQ1UlBGaUVvOWNGUmJ0bGhxSHp3WUh4dXZCczY0MUh5TkcwYmlpdWs0ODlQSHk4OFBvdDM4U01RVWFCMzNOT2dHZ25ObFQzU0VzVDRRX2ROWm54emdobGUxRFpjRdIBc0FVX3lxTE1mRG5WZWpxaFVoQXlCelRxdkRLUUZRdWRSNUgyVFY2cEFxemN2alJ5WHpuSFpuOVRkQjNpajM5SldsS0t1WW90Wkh5Zk9HX3hDRkIzbnIzQklvX0hKRi1fWG12NU95SnQ4V213djJ4Zm9lVDg?oc=5",
-     "published": "2026-11-09T14:55:49+09:00"
-    },
-    {
      "title": "KT&G, 카자흐스탄서 궐련형 전자담배 직접사업…'플렉스·페임' 출시",
      "source": "뉴스웍스",
      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1qdWdEa2FuREY5Q3hkQll1LWJUQlRzSUpuSk1BR0NwcV9weXBPOGIxNnZOSkhocGQ2Rk1zYnpyMmFOU0ZCR3V3dG9sd3lWSDlOM3NpNkpyU0JXZUtEc0tSUVV0TE94MWQ3UDNkN3ZoZ9IBc0FVX3lxTFBfRHFIMmZXNWVpamFrQk1LeG9ralJuN1Mta0tGbHZObm9FVUlGRlpJREJDNVpUSTZLZnpFUFMydzR4RWR5b0EwS29pTGs0Y3RvTFc4bUhuR19hVXViZzRpQVJOUmN4UjNEMWw5dklGUHdYY1E?oc=5",
@@ -76,36 +112,6 @@ window.NEWS = {
      "source": "뉴스웍스",
      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9lYWV6b0RJV01OOGlvaU9hSkRXbjY2UWtPOC16bmtwODBvN0xuVmFNMWFUQ2RRT0xwdmhQV05fTTM5bUVFZURWTk1lX3hpcG5UajZvdEZnVVBkX0o1WW5ibmU2c0RpVmRjWm9FUGZBY9IBc0FVX3lxTE1IM2R1NlJWTjVpSzJtWHFFeWJQLVltR3h6NExxOGZQc1VQTXk3a18xaXhVeHM0ZTRIQ2VNTHdyZjZTNng2SmhrTFVBWW1qS3hER0tkMFNBaFI5MUdheGQzVmRTaDdKTDA4OWtkdFR1eHlXSUU?oc=5",
      "published": "2026-11-09T13:54:36+09:00"
-    },
-    {
-     "title": "배민·쿠팡, 최혜대우 강요로 과징금 6천319억원…역대 최대 규모",
-     "source": "청년일보",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOSWhHM2dram0xeVoyUl9qSm9DSnk4ZHNrU2hrdklMbE9IM0NsbFJ1bEJrbGwyYkhQQzJRRHFqOGFpSVJySjFTbW00TXhFOF85bnJFa0pSbUlLT01RZVBMRFRrRmgyN0k?oc=5",
-     "published": "2026-11-09T12:29:05+09:00"
-    },
-    {
-     "title": "프랜차이즈 창업 중도 포기…계약금 반환 이견",
-     "source": "컨슈머치",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9id1lvMWhGWTlnamhjZXhoRjF6eFhmNzBoeFNmamItZ3lWUm9lZ25RZjR4dEhWNGNKS0JPNTdiY2xvdW9sOFJpVDN2eTJmeWJzRFVYdThFaE5vMlpXYzdJUEg2R0R0SDhnOEhV?oc=5",
-     "published": "2026-11-09T11:43:00+09:00"
-    },
-    {
-     "title": "한국소비자원 부원장에 박종배 전 공정위 서울사무소장 임명",
-     "source": "뉴시스",
-     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1MOXRYRWpHUE1FbEoxTUxQRUk1S0t1LTdGOFNqYnd0dVQzTEREajdCckhXX2NuQzloUzNSM09pWWFLeXVMOWVFNGsySWRoN3ppRGZyR3ZtbkdheDRrdlRVNnZ4RDh3dE8wYzRTeVRHUkNkQ3k0aG5USdIBeEFVX3lxTE1MOXRYRWpHUE1FbEoxTUxQRUk1S0t1LTdGOFNqYnd0dVQzTEREajdCckhXX2NuQzloUzNSM09pWWFLeXVMOWVFNGsySWRoN3ppRGZyR3ZtbkdheDRrdlRVNnZ4RDh3dE8wYzRTeVRHUkNkQ3k0aG5USQ?oc=5",
-     "published": "2026-11-09T10:44:20+09:00"
-    },
-    {
-     "title": "美 민주당에 줄 댄 쿠팡… '독과점·개인정보' 韓 규제 방패 될까",
-     "source": "IT조선",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4ydDNVYTB1YmM3MGZncG9aWW5wcmZCUnpJc1dyTkZJbFlSUENWQVZxTjFVRnFNLTEzRHNFcnpvNExqWTNhYW8xaV9iRjMwc2JvRnZsbEI2QU1RRUg1OGdRb1RWTGZLZURtU19saWw1d3XSAXRBVV95cUxPbjljWU9sT2FLVlNFeG9tTU8ybDlUU3BvTGV4SmliazVNNE5NSzhnblF2OFR4bHdieEtreVljRDVvSzdoUU1NYU9fQ0toWW9nNk8xU1J1Vlp0aGZlelNubUN3Njg2YXRURjY4WS03YW1oeklJeQ?oc=5",
-     "published": "2026-11-09T06:30:00+09:00"
-    },
-    {
-     "title": "중견 PEF, B2C 접고 B2B·日소부장으로…“여론 리스크 넌더리”",
-     "source": "뉴스톱",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBpZHhuWkh3eHV0OURaa2cwaDV5QWlfekJ5bVBlbjBCMHlkY0RfcjBNX0NOVnpMS0NlaDR2X0pVR3ZQRFFnMjVLV3ltSjBtOVllZk5WcHBvZ2RqMmRMaEdwRGhMcGZuTVJuTGNjbEJsSQ?oc=5",
-     "published": "2026-11-09T06:10:00+09:00"
     }
    ]
   },
@@ -114,124 +120,124 @@ window.NEWS = {
    "title": "유통 뉴스",
    "items": [
     {
-     "title": "런치플레이션에 '편의점 한끼' 늘어…'덜 짜고 덜 달게' 건강 간편식 경쟁",
-     "source": "스포츠조선",
-     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBmZFZKOFBpNmd6Ny1PMmlUbEM1ZHFMeEFnNlpfRlpkQVRnTWhjRFNVUGI1b290c0tpZ1NScG5CLUhVbHN5RzByMEJlZmJiT1p2Vi1FLXBIWTFUTndxeEY2bEVNck15ODliUVlHN0kyeGlRMS11eVVMVQ?oc=5",
-     "published": "2026-11-09T19:46:56+09:00"
+     "title": "少食 트렌드에…소용량 간편식이 뜬다",
+     "source": "헤럴드경제",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tYVRiazlfYkpQaEZBMjVvZVg0Z1FkbUh3VzBTNzFNd1JsS2ZqR19sMFJKRDNTUFVleTBGSC11RTFSM2plVVJGU0JaTU5IOW5LSllFMndB?oc=5",
+     "published": "2026-11-10T11:38:01+09:00"
     },
     {
-     "title": "중기중앙회, 2026년 ‘제2차 소상공인유통산업위원회’ 개최",
-     "source": "문화일보",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Wa25rT2hic3RJOXg0cVdsQXdaQmc3OFVoNEJaTW9ULXdTSUM0cnZOMTMzR2hqQU5vZGVGSzJjakVrZTBzNG8zU1FqYkRMc08x?oc=5",
-     "published": "2026-11-09T19:17:13+09:00"
+     "title": "GS25 “20년 이상 점주 300명 돌파”",
+     "source": "헤럴드경제",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9INWROemtkLTI5TFRUd2V6ejFkVWJnSE1neldaY2JzMHlmNV80VkM2UV9icWE1eWVKUzNreWlRbjd6Y1hvNzNLUHdWeTcyM21KOWdMbmVnaw?oc=5",
+     "published": "2026-11-10T11:37:38+09:00"
     },
     {
-     "title": "“신문 가판대 다 털었다”…삼성 팬들 편의점 ‘오픈런’, 무슨 일",
-     "source": "매일경제",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BMFJoM0RJT3BYbV94eGZZWVRPWHF4S09mTldHYmtLTnJudzJMbmlJLUVHX2xKNzNRcVhYZkplQUJ2WUU0ZkdfU2xpNTNkU3BfaldBNg?oc=5",
-     "published": "2026-11-09T18:58:48+09:00"
+     "title": "NCT 해찬, 편의점 감성 셀카…NCT DREAM 10주년 컴백 맞았다",
+     "source": "톱스타뉴스",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE45QzF3dGFzdXVoQTdUaWpfUThzUWlONElBRmlZS0JCaDktN25ZOWhmYTI2X0F0aHpOcVAtNmR5ck5sUXAwU2tXX3hmaHY5T1Ewa1NXb2VjNE5RUXR0b0hZb1JyVm9wY2FGVG8wamkwSkhQZw?oc=5",
+     "published": "2026-11-10T11:30:40+09:00"
     },
     {
-     "title": "“20년, 30년 함께”…GS25 장기 운영 점주 연말 321명 전망",
+     "title": "\"과자로 만나는 짭짤·고소 삼겹살\" 빙그레, 신제품 '삼겹살칩' 선봬",
+     "source": "뉴시스",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1UC00ZkxBSUZQM25uWHJ4R3JCbUZpYy1lVi1jZVZ0VDZqNmgyeUNPYmgxdFlTNUVVY2Nac2xqRlF3Nmk1VkZYMFdvYkVEM21iZFFDNnlXMDhhOC01eXlBQtIBeEFVX3lxTFBrM2VmR2ZmbGNybjBLblRHc2NkNS1fNEJldFFjcTc4M1dnZ2RiNGtNTXNoMnFBNXRBOU9XSGFVUVI3YkNxTnFFZ3ZFVmI5WTM3NVlhSExHYmVFSnJ0Wk5Yb1o1VWpFaGdhMF9IV25udXRxcFpBRlRXaw?oc=5",
+     "published": "2026-11-10T11:25:18+09:00"
+    },
+    {
+     "title": "빙그레, 삼겹살 맛 담은 '오리지널 삼겹살칩 참기름소금맛' 출시",
+     "source": "한국재난안전뉴스",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBQYm42bE5nbjZ2OEp0a1hxN2NkbWxVVWJ6SkhZbnhGTDNNUHFidHlYcjcycHpnQ3ZlYVBZNmhMZUpzd3dUNU01Q3FtSmQ2RmNCU1BEal9sYjFoWkc4TlE?oc=5",
+     "published": "2026-11-10T11:22:06+09:00"
+    },
+    {
+     "title": "“신문 구해요!”…삼성 우승 ‘굿즈 신문’ 찾아 편의점 67곳 돈 팬심",
      "source": "한겨레",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hTjFmd3lvV2ZHdllWbDhadk1aN3hjNWxGT3R1MUVZblNoTVBUUXBFTldCUklxUVRJWTFLbzh2TlJvYmNDLTlwbzFDSDJjVHVISmhEc2hnNi1tVU1uWHFyd0NvTFVfLXFJ?oc=5",
-     "published": "2026-11-09T18:58:00+09:00"
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE03X0lSd1c1RjNYMGhhT21FWjFibFdCU0dZazNHN3EtSTVDdkRid2VnR245NmF4OTJjY0JoSVlwRi1qVzJkZHBsWkM1LUdCUDFZOGtScnQ5enN3WTd2TEpwb1JPeDR1dG8zNVNkZ3k0WEhJdw?oc=5",
+     "published": "2026-11-10T11:21:00+09:00"
     },
     {
-     "title": "SSG닷컴까지 개인정보 유출…유통업계 보안 강화 비상",
+     "title": "CU, ‘김천김밥축제’ 우승작 전국 흥행…편의점표 지역 상생 결실",
      "source": "서울경제TV",
-     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9KLXFvdWFWb19tYWs1VTU1ZEpKcWRIdHdyQ0xadGxvUU1jNlg2WkJQOWozakRHWEM5RjllV1B2OU9McUo4dTNMaVcyTjRlbi1XUl9hWGJUanotUzBnam1YZ1lhcVE?oc=5",
-     "published": "2026-11-09T18:48:17+09:00"
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5vMWNsS3g5Yi1NOVNCcXNINXZkTWN3SlQ0dEVGWlJZMkU5eFR2bXJfeFJFQ3RYYWI0ekZOY2xOcldZWUxZcjR3Vm53anRMdEZhdHNIRXl6c1k0enFBaDFhV0tkbkI?oc=5",
+     "published": "2026-11-10T11:18:42+09:00"
     },
     {
-     "title": "GS25, 장기 운영 경영주 300명 돌파하며 상생 경영 성과 입증",
-     "source": "로이슈",
-     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1nVVVGY3paUFU1bzdPMFFaYmt6ZmVsUlR5amwxT3JyMHVRbVc1b2JBWm4teko5eFZ4T0JxOG5rZEhMXzVqRmtKVUdmN0dFQUZVbkYtdlQ2bUFvenRxaTRMQmNHSGtEVWdja2JOM2VMRXhubi1PTTFkaER3?oc=5",
-     "published": "2026-11-09T18:31:26+09:00"
+     "title": "하나은행·하나카드, CU와 함께 『국군의 날, 우리 부대 응원전』 간식차 지원 릴레이 실시!",
+     "source": "파이낸셜리더스",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqY0xLLWhjM2JDS2F0QjJmUGs0OXkxX3duYmRXZnNlUW8zaUVzZ2FGVVBXYWhsVGZUZzZvSmZoSzduX0N4d0plcG5IN25VcmItdVQ3enFYNUhKZWJCOUpta204cjdiRDJaZXc?oc=5",
+     "published": "2026-11-10T11:07:31+09:00"
     },
     {
-     "title": "[신상브리핑] CU, 세븐일레븐, 풀무원, 동서식품, 신일전자, 까사미아, 남양유업 外",
-     "source": "한국아이닷컴",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1fSFI1NVdxMDE5UC1TSFhBenZZbXozMlJNaE5pT2ZVMWJ4MGRybGJFZXZwNFZ0dmNTZ0tHZ2hNNnc4SXdZVlVrS2ZYZld1cy1DUHpvbGh5UXNxamYtT1VZOW5oWngzSXI1c1dVRG11ONIBb0FVX3lxTE1fSFI1NVdxMDE5UC1TSFhBenZZbXozMlJNaE5pT2ZVMWJ4MGRybGJFZXZwNFZ0dmNTZ0tHZ2hNNnc4SXdZVlVrS2ZYZld1cy1DUHpvbGh5UXNxamYtT1VZOW5oWngzSXI1c1dVRG11OA?oc=5",
-     "published": "2026-11-09T17:38:47+09:00"
+     "title": "'하루 4800개씩 팔렸다'…이마트24 '성수310', 컵커피 경쟁 속 존재감",
+     "source": "조세일보",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBXSm15Y29fZ1htU3l3c3hNSE9VeUdQZms0RnJBVTY0VHhRXzhmWnkzMFJBejc0TVVoRUI4dkNtMzZCS29NblRUMUZxMlNmeE03bEx5cEJMZmR4RkNXMWpPdUdaQkNMeW8za0hZXzBrdW9QUVhj?oc=5",
+     "published": "2026-11-10T11:06:16+09:00"
     },
     {
-     "title": "매출 줄었는데 나갈 돈은 줄줄이…사장님들 한숨 쉬게 한 '이것'",
-     "source": "한국경제",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VaERFdU9rYzlxNHc1bDBYelBtMmg3SlVneGxoVXUycEdaWXE2blM1TGtsUUJOb2Exd2dyUHVLWmdRTy1RWXhVRkt1VzB2NmdzQ0VGazU4ckg4dw?oc=5",
-     "published": "2026-11-09T17:38:28+09:00"
+     "title": "“편의점 67곳 돌았다“…삼성 팬들 ’우승 신문’ 구하기 열풍",
+     "source": "연합뉴스TV",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52SUFrUUhyM3pJZ0NJdXRqOU9uVFpPX1ZJeW1rTnlyQzRYbHI4T1h2Z0U2UmV4ZUNXNlNUVzhsRG5NdHdTSjdmVVZOVFhXcERmRGpmV2VTSHRia2JLRHdETTFoYkExOW8?oc=5",
+     "published": "2026-11-10T11:02:00+09:00"
     },
     {
-     "title": "중기중앙회, 소상공인유통산업위 개최…상생협력 모색",
-     "source": "아시아경제",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE83MnBmbXUybjlrblZTTGJ1V3JOb1dlMDU1MTctdkc4UTlZOVVpRHlNdTBWYTJubHk5ekRVelFpd1NPYWZVTXNHellqYWtCTWkyNDZ3MmlCTkluQzVfR0xucQ?oc=5",
-     "published": "2026-11-09T17:36:34+09:00"
+     "title": "GS25, 해군 창설 81주년 기념 ‘네이비 짐’ 컬렉션 출시",
+     "source": "파이낸셜포스트",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBsMHBydmdjUmpPdjBPOTF2dmZkYktRRy1DaVNXc3FuX1hXNll2Z0hRTWxENWlobDdxQTJMZnJHUkdGOENOWlhRN0JtN3N1XzAybmFsZXl4UGxJUnU2Qk1JaTZuMmJWN2wtY0txVjJRNlRSMVlm?oc=5",
+     "published": "2026-11-10T10:42:29+09:00"
     },
     {
-     "title": "중기중앙회, 온라인플랫폼 수수료 부담·상생 해법 논의",
-     "source": "핀포인트뉴스",
-     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBkclpRakxkTmVWQ0lid1lwZ0NpaFEwYVRBM21sZEg0M2hOZ0liRkVWdmM1QjlwNlNnSUVGYVNNZW1kTFpfLWJZTVA2cWFOVEs2UGU5Y2ZJS0hrWFg5YnpqWU9ieEVmWFhGZXc0LUlKNG9uVEhpaWhB0gF3QVVfeXFMUGRyWlFqTGROZVZDSWJ3WXBnQ2loUTBhVEEzbWxkSDQzaE5nSWJGRVZ2YzVCOXA2U2dJRUZhU01lbWRMWl8tYllNUDZxYU5USzZQZTljZklLSGtYWDliempZT2J4RWZYWEZldzQtSUo0b25USGlpaEE?oc=5",
-     "published": "2026-11-09T17:33:07+09:00"
+     "title": "GS25에 R.O.K.N 티셔츠 떴다…‘네이비 짐’ 컬렉션 공개",
+     "source": "헤럴드경제",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBEN2sxRG1SeldYaDlvYWhqcTZNMjNNOVM1alRhNS1Jbm84cDlrRDhha1BJNVNMT0F0emw4NEFCX0YxS05zSTNEelBxVlFJem9MbGxxM215dw?oc=5",
+     "published": "2026-11-10T10:40:12+09:00"
     },
     {
-     "title": "편의점 복지, 대기업 안 부럽다…점주 사로잡기 총력전 - 머니투데이",
-     "source": "머니투데이",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1LTGRFTmI4cjhfcWtnYnp1Q1V5MEIwY0JVSkxBMmlfcFh0cU9YOGtQNWpPTGlyMmhVdVZrQ0xYLV9TelpzbTJtRkNqa3AySjV6ajdYVXoxUC0xOUpxbHZiR25oTGY3dW52Slk1LTlYTdIBb0FVX3lxTE1LTGRFTmI4cjhfcWtnYnp1Q1V5MEIwY0JVSkxBMmlfcFh0cU9YOGtQNWpPTGlyMmhVdVZrQ0xYLV9TelpzbTJtRkNqa3AySjV6ajdYVXoxUC0xOUpxbHZiR25oTGY3dW52Slk1LTlYTQ?oc=5",
-     "published": "2026-11-09T17:31:49+09:00"
+     "title": "대한민국 해군, 무신사·GS25와 손잡았다…‘네이비 짐’ 6종 판매",
+     "source": "코리아이글뉴스",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9PRHFSN2lSRno4X2ZnZk8zaHR5bm5hVnk0VTZnc0dPYThhQTFTWGdtV09KYW94a0Y2MXVYdEZUNDA1bi00LXAwRFlIM1F4VUxKc0dKcXBZcVIybm0xcXJpZll5OFY0emw0aXJSa0MwZU9XYzg?oc=5",
+     "published": "2026-11-10T10:40:00+09:00"
     },
     {
-     "title": "수험생 줄어도 놓칠 수 없는 '수능 특수'…유통업계, 마케팅 총력",
-     "source": "뉴스웍스",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBpT2pKVU9BY2p5NV9WeWNpVVdhbGVNanpDUUtZMTlheHdtSHFFS185bGJOTU1YdmlRWFNJQXZQc3lneFV1a0tsQzlFVElKZllzR0dVcEpSUmEzc0VObE5TSUZkcFE2eFo4djJwdHdQSdIBc0FVX3lxTFBiVXRtcFhxSzBvX3BPdFJEZFhsXzMzdnVNWUNyc2IxRG5GajRkMTlyci1jbUc5aUoyUnJsTkxPb0dGa1pMVGJUWC1tWDN6TlN5TC1ZcldORkhQeTNxenhxeXFiY2FHMmxsS0lVc3pxS1BsR0E?oc=5",
-     "published": "2026-11-09T17:28:11+09:00"
-    },
-    {
-     "title": "국제 품평회 수상 ‘샤또 라빌 보르도 슈페리어’, GS25 출시",
-     "source": "싱글리스트",
-     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBieWdWc2cwYWtQQVlzNm9zOUIzU2EtQWp3VzJFcTZuNGUxQ0NDeDZqeHJpOW5VcmEwVmc5YXE5MkMzdHRnWnNvR3NLdjhWUVJrNUFfMThDUHVSNWMzaFFLd2wtMUdkZw?oc=5",
-     "published": "2026-11-09T17:22:40+09:00"
-    },
-    {
-     "title": "중기중앙회, 소상공인 유통 규제 해소·상생안 논의 : 기업·산업",
-     "source": "재경일보",
-     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9EeldFWTFjQVBjVGRUODB3N2tBaGFQbU5LdDJ2N3BlcEJZZGk3d2gwOGpSVlU1QzRxQzc3RlRfUGVhTlByTFRlUE13VQ?oc=5",
-     "published": "2026-11-09T17:20:28+09:00"
-    },
-    {
-     "title": "충청권 첫 도심형 이케아 대전 상륙…유통업계 지각변동 오나",
-     "source": "대전일보",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BSW55UkRIMldYd01NUlJuZWw2UGplcjhYcVIxOER3bERjX0hDUFJ3bUdmamg3Y2JsejNFdnJRcm1pRUxFb2JzUDZxaVR1VHE3d2kzX2c4WFZMalp1ZGhVb21HMmR2eHQ5NWg3a2dORdIBc0FVX3lxTFBYRXhoZzZpbVdvQ0sxX0U4LWFqd2pZSjNXYWxzU2JkNTY0UWtoeHZ4N1Zib0I3YVV5Nlo3dV9idG8tOGlTaDlleTJDckdTV2ZRZzZMNzFOM01hTUZzWjNFSDg3THJjMTRDTThoaVhFQXRJZVE?oc=5",
-     "published": "2026-11-09T17:18:00+09:00"
-    },
-    {
-     "title": "주수현 시의원 \"마음편의점 이용자 중 청년 4.5%에 불과\"",
+     "title": "이인애 시의원, 마음편의점 확대 계획 비판…기존 운영 내실화 요구",
      "source": "뉴스핌",
-     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1xUThPei1FMjZhYTl0SXFFb1dxNGYyc0lSRGZQV0FzV1pESmxNNFV4YzhiSWpicVhpVVBsMmo3WThlUnZPendSLUhzbVEybDlLLUNGZnlLaE56V3ZE?oc=5",
-     "published": "2026-11-09T17:16:00+09:00"
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5acF9TUkJYbHBBOG5ZX3Y1NUlOZm04anBYU0pNVHZBRk53YzFBNWR1cUlHS2NIcVZ1SElYdFZTekthOTA3MWdXNHFLSzRTdWMwUWVzTl9ITFg3bG9V?oc=5",
+     "published": "2026-11-10T10:38:00+09:00"
     },
     {
-     "title": "주수현 서울시의원, 서울마음편의점, 방문 실적보다 외로움 해소가 중요",
-     "source": "이뉴스투데이",
-     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9mdFV1QkV0UEpibTdTVW1oR1BZTU5md3YydHZSeTVVcnRWVXhEc1g2djZ4THNzZ0h6WVRCM05yYTl2T2E1cnFWRzA2b3d6bkNUM3ZJVkNpYWlMZWJjSE5pOVpLNFp2Vzg3cWpXdVFJR2pPQdIBdEFVX3lxTFBkVzVpRXBLcGM3dUdYM2FyZTR3SzVvNUZyaE8teXhXZDJXYUxBU0I1cHc4Tk1LN256SWozX2t1OEZ4SnhyY0U1MUc0VWUwd2dFcS1ncTBXUkVUZGpoWk1jcTFtS0xPQkxYSHZtcVd3NkdXNkhu?oc=5",
-     "published": "2026-11-09T17:15:00+09:00"
+     "title": "해군 군복을 일상 패션으로…GS25·무신사, '네이비 짐' 컬렉션 선보여",
+     "source": "파이낸셜뉴스",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LdmNMNF9ubDFwXzV0dnRJbGVzb0ZSODJ4ZjU5LUs1WUgweG80N09tWU1zQkhHTEJSMlpsU0lib29WTk1Oby1LMzlyaWo1dUJsN1k5WmU4dUYwZw?oc=5",
+     "published": "2026-11-10T10:34:08+09:00"
     },
     {
-     "title": "삼성 팬들 편의점 돌며 신문 찾는다…우승 1면이 '기념 굿즈'로",
-     "source": "진일보 | 전남일보",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBhU0c1QVBWOVlTWjhJOW1FbzhHRFVPeEQwNUVEaEIwQ29qdTFmeVI3UEVMaS1ocnExZW1sc3prY3pwaEROQlJBUHdyYkVvMTdJNk9jMlJqWWQyb191NXdyQkM5TW1MeUtKeEY0N250WQ?oc=5",
-     "published": "2026-11-09T17:14:21+09:00"
+     "title": "GS25, 해군·무신사와 손잡고 '네이비 짐 컬렉션' 선보여 - 머니투데이",
+     "source": "머니투데이",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9iS2hScVZONm5FckM3b1MyaW9jRy1rX3hjOTA3cndxUE1aOTFiZ2ZKTERTeE1VNHI3eWVDbWtZQThRdlQ0SWJhMk1PVUdSdV9hSkR2MDc5eUQ2WXRtVGNSY0RzZTZPR1BrOHJOWW5HV01TZVVPMUxJ0gF8QVVfeXFMUG43YjFBTWxGVXRyamc4eEtocncyODgwcS1oZWI0enVQZkdXWi1PeU1TZzFsb3JXSXZtdmpqejlBY0I4eFpXU1NjMHBhdUNHM3pCOVBJZGIzSHBaRE9SOHpqOEhkMDJzSmIyVU8tc3ZjWThTUG9CWnNraVNhMA?oc=5",
+     "published": "2026-11-10T10:28:23+09:00"
     },
     {
-     "title": "[신상품] CU '딥핑 치즈 맵닭강정' 외",
-     "source": "서울파이낸스",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9BNmVwbVpTRVNvbzlpLTFYeHhVRlRhTWotVjlQb0c5UUI0c2ZmeWhaU0tQYU1TLWVqcGJfTlpSUmUyRlhJdEFjUzcyUDJnNHFJRUZEbGQzbTZHZW1WRlZJUldYb0I5ME5LM0E?oc=5",
-     "published": "2026-11-09T17:12:59+09:00"
+     "title": "수능 D-9, 합격 기원도 가지각색···유통업계 '수험생 마케팅' 총력",
+     "source": "뉴스웨이",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAyTlZWWWdOeEdaN3VVa21NUWllMlpkOGV5UG1laU04aDc3OUVJczdJTzh1VzNyeGxVTjhuemt5eE9QQnpOQmNMNFdqR3RCcno5Wnl1VFlNeU5FU0Uya3Fqdm5pWkY5Z0xsQlE?oc=5",
+     "published": "2026-11-10T10:18:01+09:00"
     },
     {
-     "title": "중기중앙회, 플랫폼 수수료 부담에 소상공인 지원 논의",
-     "source": "동행미디어 시대",
-     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5faGZ4N1BQcGp6RTlVaS1XeU15d21xdVZWckhNSFBIUW02dE1YQUhXaGJTY0Z3MWtCa2Y1N3RNRy11emkxQ1hqOENRVTVzYUswbVAybnl0UTJONHVreFE?oc=5",
-     "published": "2026-11-09T17:08:26+09:00"
+     "title": "가맹점주 단체협의 시대 열린다…가맹본부 '법률 대응' 비상",
+     "source": "비욘드포스트",
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1lQ3JYd2pjZVZfcHQ5SGFxSGEtQ1hQNDRzbHpfS2tOMDJta2NpVWN6ekhCaU44QWFFb1EwUXA5YVgtMHo4SDkxTkpvZ1hLV1Y4X0UxTGpFSUJVaGYyWlAyM1U2UkpxQmVhN2xmeFNaZk1GdEhzU0dMMWpBbG0?oc=5",
+     "published": "2026-11-10T10:17:08+09:00"
+    },
+    {
+     "title": "CU, 지역 축제 메뉴 발굴해 상품화…김천김밥축제 협업 확대",
+     "source": "뉴스포스트",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QRDE5VHhxSkUwNXZ3d0s5cE1DX0FEQVJXUm5PT21idk91VEpONk1nSjhNaGxYbWc2dXlCUk1TcEwyZU1RVTFTVVFzay1mQk53YktiZTdjRUhQeFpyanJCNXNJVTh4Z3R5?oc=5",
+     "published": "2026-11-10T10:13:53+09:00"
+    },
+    {
+     "title": "해군 PX에 무신사 옷 들어온다…GS25, 운동복 6종 판매",
+     "source": "지디넷코리아",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96ZzZZV0hlTVNZOVR4OURmZjMzcDAxNDdabndjVTVYdFFBUnE2R0RIVTZfYnNEMURHMDA5OVBNN2dXa0h2bXJYenlQZDJ4VC1UT285U0NB?oc=5",
+     "published": "2026-11-10T10:11:01+09:00"
     }
    ]
   }
