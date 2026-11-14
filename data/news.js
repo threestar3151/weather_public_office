@@ -1,10 +1,40 @@
 window.NEWS = {
- "updated": "2026-11-13T19:41:44+09:00",
+ "updated": "2026-11-14T10:09:48+09:00",
  "sections": [
   {
    "id": "law",
    "title": "법·제도",
    "items": [
+    {
+     "title": "11/14~ 11/15 이마트·홈플러스·롯데마트·코스트코, 휴무일·영업시간... 유통가 연말 대공세·롯데-현대백 冬 정기세일",
+     "source": "센트럴경제",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxcThCd3FCdDg1bWt3aE5ySFRzUUtuXzJjTXhQajBPdWpnSzhXX1hGbkZ0eTBGRDZPS3dYTHJsU3lhOXlvb3l3TTJQWXhRVkJUSl9vLUg2R1M3enVNNjNtVklMaGJhSk1xMmfSAWpBVV95cUxQMXE4QndxQnQ4NW1rd2hOckhUc1FLbl8yY014UGowT3VqZ0s4V19YRm5GdHkwRkQ2T0t3WExybFN5YTl5b295d00yUFl4UVZCVEpfby1INkdTN3p1TTYzbVZJTGhiYUpNcTJn?oc=5",
+     "published": "2026-11-14T00:59:13+09:00"
+    },
+    {
+     "title": "대형마트 휴무일? 이마트·롯데마트·홈플러스·코스트코 ‘주류 할인전’",
+     "source": "BNT뉴스",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wNk16QTlVYXJJRjFNUzk4VmFuRXhkZTFfZ3dBR0taRk11cXZFUHQ3dUlpeEFIUGlkbEpZS1VKRDJVOV8zWTJ1QWotSnhXSlIxdlZXV1JEQVRIYWU1NVBIa0ZEWGY?oc=5",
+     "published": "2026-11-14T00:01:01+09:00"
+    },
+    {
+     "title": "롯데마트 이마트 홈플러스 대형마트 휴무일… 주류 기획전 풍성",
+     "source": "뉴스클레임",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9MYm1WQmlrcEp1WVd1U1c1TlhkSXpNUnk5eHI4YWQyWUU2V3RwUXZQdzNyZW9XUnhxYUQ3YXVhTEhsTjlEZmVqbld1WUQ4YTBYbkVVV3hxVVFLdnZ5Y19EMlBNT25VOTZtYkN4YVZNYW7SAXRBVV95cUxORmlxalJadFdQaHc0eTRmX2Fyb0w0SUFOdDRVcTlxRXA5djliaElfQ1g3aXpZcDRKdDREUHVEc0gzV3JXa2xRTkNvM1dpRTlVeFZDdW1YUm1hdTFOa09DTVBCSTRrODZmNENCeDF0eDBsWE9zWQ?oc=5",
+     "published": "2026-11-14T00:00:00+09:00"
+    },
+    {
+     "title": "동반성장지수 최우수 44곳, 농심 8년 연속·파리바게뜨도 최상위",
+     "source": "폴리뉴스 Polinews",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5XQmp6TUhIVzA5aHFUQndOYmhJN2lESzhQVWxHUkh0RG9wSEZfZTdDVWkyLVFOQ1B4QndnekJQckVWSnFjTFlZbjhqNnB0Rkp6Ymtaa0hJWUxsZEdWNnlDd3NEa1NxNTRFMC14VjZ3?oc=5",
+     "published": "2026-11-13T22:01:10+09:00"
+    },
+    {
+     "title": "공정거래위원회, 유통분야 표준거래계약서 7종 개정",
+     "source": "누리일보",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hUVZZbm9CUkdpLTVlVFA0TlZQRkMtSkk4X040RUFxc2NhaFBwbG5jMmJtZ0tkQUlrV1VYTVdJQzhJbWU0aXlCN1lOX3NiTWlucnRmWVJKUlE3WXJNTlE4?oc=5",
+     "published": "2026-11-13T20:50:54+09:00"
+    },
     {
      "title": "이마트·홈플러스·롯데마트·코스트코 휴무일, 11월 14일(토) 대형마트 영업하나?",
      "source": "한국강사신문",
@@ -78,6 +108,12 @@ window.NEWS = {
      "published": "2026-11-13T11:40:03+09:00"
     },
     {
+     "title": "계약서 없는 광고비 전가 막는다…공정위, 표준계약서 7종 개정",
+     "source": "디지털데일리",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1RTGZEX3NINlN0elZxZk5ZZGdiV2NyUk0wclp1RmhFUHJhNFhWVXY5WWEtVUtvclF0SFJOZ2tIYzNuUnVxT05nbXFLX0ZicUdSLXA4djdyTkU0REFOZ0JHU2k4d3o?oc=5",
+     "published": "2026-11-13T11:33:00+09:00"
+    },
+    {
      "title": "대한가맹거래사협회 창립 24주년…가맹사업 공정거래·상생 역할 강조",
      "source": "신아일보",
      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wX1FTQkp6ZkhtcXRTS05KMFQzY3F4RXBQQXlraG1heElNNTE2S2otd200STU3VW91eFgzbnVnSDdidkM0Vy1MbGlHQmQyV3hhQ2RTWHFFVGlWbTJKUjR4ODlFTFhvb01uNEJCYlJWeTc?oc=5",
@@ -88,42 +124,6 @@ window.NEWS = {
      "source": "경인매일",
      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pcGRiY21VS1lsQU5WajNaZXVpb2RwYmVCY2RFZ2hvblR1RWp5dlFmVDFPNXdnbDVPczV6TEFlU3M2Qk9nc2hNel9jS2NWa3IyeTlYMmxtYWlLdGJnVWV5WGE1eUt3V1hs?oc=5",
      "published": "2026-11-13T10:54:12+09:00"
-    },
-    {
-     "title": "유통업체, 사전 협의 없는 광고비 청구 못 한다",
-     "source": "아주경제",
-     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Dbzk1eFpJQ3NvczVvYW4xWGVkMnNFS2dtOUNnOHhEODVaRUY3NUJPNHV3WVVlNUZZd3FodnpJcVY0TXJpZ1dmcUJDMUpRNG1zMThIM01KbWHSAVhBVV95cUxOQ285NXhaSUNzb3M1b2FuMVhlZDJzRUtnbTlDZzh4RDg1WkVGNzVCTzR1d1lVZTVGWXdxaHZ6SXFWNE1yaWdXZnFCQzFKUTRtczE4SDNNSm1h?oc=5",
-     "published": "2026-11-13T10:32:11+09:00"
-    },
-    {
-     "title": "'반도체 중심 성장과 초광역특구법, 누구를 위한 정책인가?'",
-     "source": "강북인터넷뉴스",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBXVDVheUFQcFMwY0pyRFNyMGFlUmZKY3JLSEtYaV9qMWhzM01YcU9vQkJSQWk3S002ZDViMGJZMFR5Q1ZTVW41R1VqdGxhOEZsMkZQdFp4ak9DN2JTNTJZNzlEWU9sS0R4?oc=5",
-     "published": "2026-11-13T10:14:43+09:00"
-    },
-    {
-     "title": "계약서에 없는 광고비 납품업자에게 요구 못해…표준계약서 개정",
-     "source": "매일경제 마켓",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9mY0lfYmM1M1htVzNlc2hwaWo4NG1iWWNkNW9nV2RZN3BxeG5wRU5tenA1dWZ3bk12aEVKeVRRbmZDRkVJWWJLZ0xQQS1NNUtxMnc?oc=5",
-     "published": "2026-11-13T10:00:01+09:00"
-    },
-    {
-     "title": "납품대금 기산일 '인도일' 명시·비용 사전 통지 확대…표준계약서 개정",
-     "source": "이투데이",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9lSnkyenVqaFBWcERmSmZJUVJQbThyZWFReGszS1duQk1qX2twT0poVHpENDdxLXFKQW5CUkp5djB3ejNkUk9NNWkxejd1SHEyTzNGQWJuV0tITjdLdWNsbDNhWXZCQlR1X0JHOU9MN1pNT05I?oc=5",
-     "published": "2026-11-13T10:00:00+09:00"
-    },
-    {
-     "title": "공정위, 유통업체 부당 비용 전가 막는다···표준계약서 7종 개정",
-     "source": "서울파이낸스",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZdlFSOW9ncXd6S1Ezc3VFNnVNYzhLYkVYaEJlb2E2RHZyWnN2TnU1SWZUQm1ueERFUjVwUk5jMGdxOF85WlAzR1hqaHg2MjVCakpoNnU3NEdhSGQ4eXRKQjZ2ZWdmZW5YRGc?oc=5",
-     "published": "2026-11-13T10:00:00+09:00"
-    },
-    {
-     "title": "공정위, 유통 표준계약서 7종 개정…납품대금 지급기한 '인도일'부터",
-     "source": "뉴시스",
-     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1HMEdkS2FWZVpxU1l2QkhXZWZEMWpnTlJNUGVCQmtZZDZVa01QWXpJVy1GYXRpLUUyUUg4aVMzRkQtSUpXOHVOY2daajB1X2oxU3lwbjRnQjM0NUlnZE1TV2kwLVRqSnZrS3Rsa3ctMzk4NE1Zcm1HdtIBeEFVX3lxTE1HMEdkS2FWZVpxU1l2QkhXZWZEMWpnTlJNUGVCQmtZZDZVa01QWXpJVy1GYXRpLUUyUUg4aVMzRkQtSUpXOHVOY2daajB1X2oxU3lwbjRnQjM0NUlnZE1TV2kwLVRqSnZrS3Rsa3ctMzk4NE1Zcm1Hdg?oc=5",
-     "published": "2026-11-13T10:00:00+09:00"
     }
    ]
   },
@@ -132,124 +132,124 @@ window.NEWS = {
    "title": "유통 뉴스",
    "items": [
     {
-     "title": "남양주시, 식당·약국·편의점 등 23곳 무장애 경사로 설치 지원…2027년 30곳으로 확대 계획",
-     "source": "월드장애인사랑뉴스",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBoZ0lFbmkxUlFvaS1PeVZjMlluaTNzY2cxYXViSmlRcWhjZGNtLU9aOXM2eElnV1NhcUFKTV9ncWdncVJQQXhnNk0xa1YzLW5HM3hVMzhkaVZWV3FYcVNZbTdEYUhYZGVRT1F3UThOdw?oc=5",
-     "published": "2026-11-13T18:21:24+09:00"
+     "title": "“외국인 특수에도 실적 엇갈려”…CU ‘선방’·세븐일레븐 ‘반등’·GS25 ‘주춤’",
+     "source": "마이데일리",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9EdzJXMXdmbGVQSmJ5elpnWWxwcS1rQ2RFWFpQYWhZS1ZDUHJ4bGtLTkw4QVJpRnFHQVV2aEs0OW84V0Q5M3VTSEZsWE9GUkJYd2R3VF91d3RfRmxTUFQ5Wg?oc=5",
+     "published": "2026-11-14T10:00:00+09:00"
     },
     {
-     "title": "OOTD, 하와이 편의점 30곳서 스타 스팟 패치 판매… 미국·아시아·유럽 유통망 확대",
-     "source": "로이슈",
-     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBVNE04TFNETDdPb25weHFlakZ6aUd0bEVzanR3SmpEaEhlSS1TMW9tcHBNY1dhRDB2ZkpZWHhGLVBmQ1p5TGFURlhITnVyR3p5YWRoMk5vdHotMGZXZGJSUUFtWndMTkF1X1IzeUZrREZWcXhvVHhCYW53?oc=5",
-     "published": "2026-11-13T17:56:00+09:00"
+     "title": "LG전자 주방가전, 미국 소비자·전문가·유통업계 평가 석권",
+     "source": "https://www.2news.co.kr/",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8ySThJb3hfZVkzYUlZOEdyc05XbFZHRC1KMnJuYkNCMkJWQWZ2dU1SQ1Zhb2VJMUNlSWlyS3ZrcUxaLVhsM3haV2ROUmlCUTBMTE1EQ3FKWGQtaFZRdEM5SVNDUVFQUU5Z?oc=5",
+     "published": "2026-11-14T09:43:00+09:00"
     },
     {
-     "title": "지호한방삼계탕, 부산 프랜차이즈 창업박람회 참가…영남권 가맹 확대 나서 - 머니투데이",
-     "source": "머니투데이",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1CUGdtdTIwMGxLcF9POTNMenRCNXExU3JrN3J5MGZnTWZCQkFxUGRpelBzcE1sVXMybGw3LVI4bk5tdDB2cVZjUVNlblN6ZVgwRG5aVGlPelNmOW1lSHdKX0FXdm45Z0xtVGVDVdIBckFVX3lxTFA4VW1WU2wwQzVYbWRqX3l0bzhDVi1wRzRQOXZySmFvX3JHa0RZcExULThYdEQtZWVTS1NiZlVPbERNTEh5MkVBX3ktWUZYMHd6Mm1tSWM1M3hXSmJzcm9iejZkeGluTklCUWZ1cGtTMHk2UQ?oc=5",
-     "published": "2026-11-13T17:45:00+09:00"
+     "title": "도넛 5개 모으면 크리스마스 케이크…유통업계 겨울 신메뉴 경쟁",
+     "source": "세계일보",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE14X0ZaSWNwOEN2ajhYaVhiOGViMm9CRUpENF83SkUxWVFXam1iZkxTUy1HMWVGZ1VRYWhFQ0JkbmdxSWlYNUR3S2pRV05BWTE0Tzg2ZWt2UGZJVHNzQkZ5dmRVUElUeDJJS3Vr0gFUQVVfeXFMT2tOR3VxRUVDR3NyMWRoc3k5bHNudUNHMTZpc1FGbVNYSlRGc29ZZFZ0UVBzR25mYUFEQzIzbTJydjFaLTBOenh6bTFSdDJJb2VILTN5?oc=5",
+     "published": "2026-11-14T09:40:00+09:00"
     },
     {
-     "title": "민승배 BGF리테일 대표 사장 승진…BGF그룹, 2027년 정기 인사",
-     "source": "뉴스인사이드",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1dlZicW91ZHYteXdhU1U1aExNSjRQdGVweklxLXpaaUZsdDBldWN1YkRSeGNFa0cwRkR5OFlHNHVZUTlrMXBnQ09uTnc3RzNUal9jLXp0Z0NpN2toNTI5VEgxUHFibXFpQzF1aDJn?oc=5",
-     "published": "2026-11-13T17:44:29+09:00"
+     "title": "유통업계, 연말 앞두고 기부·지역상생 확대…나눔 방식도 다변화",
+     "source": "스포츠한국",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1fN3NUX0M4eGtRSjFIdVBvNjBndkhOOF9VZWVPcUV6YkFBQTR0dnpMS1A4YUpGbHBKYi1FcEtzTERQOEZya3g1X0d3NDBwWjFsa2oxTTJnR0NNNkFKUmQzRFhna1lBbFNidWcySXZsQ2fSAXRBVV95cUxNVl9WemZDSVpVZXc4ZjdPNEkwQm9oS2NaTWpISXNmbTVhSk5BZ2s3d0RReG9DRnNINTRfMDdhRUlrQlFwNTZNVE5PQXFqNERrNjUwdHYxVTV5SDAxZE1rTWpDUGxJdmlRZlZOTmN4bkxBQlBybw?oc=5",
+     "published": "2026-11-14T09:30:00+09:00"
     },
     {
-     "title": "BGF그룹, 2027년 정기 인사…민승배 대표이사 사장 승진",
-     "source": "컨슈머타임스",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHSlAzd093U0Y1VlNVYkpJdGJSWjhKN0dSWjlvS0taNGJZTlVzMTFKX09VaHV1cl8yc0daTXZFSzcwT21hZVBOcUhBQ3RKdG9rMFJDWk02c0J4MWw0ekxkanFDRk5lUGY5VFE?oc=5",
-     "published": "2026-11-13T17:43:46+09:00"
+     "title": "LG 주방가전, 美 소비자·전문가·유통업계 모두 '엄지척'",
+     "source": "뉴스1",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBaakxJcENGYVE5YWstdDdENzNYbE04bEtBN092UkxVTVQwUGNtVWpfM2Q0Q0d2Vk03X0oxYWxaTzdjOUlkdkRXVVprRW5lN0hzUDAyVlJhTXRaOVAzZEI4XzRINWY?oc=5",
+     "published": "2026-11-14T09:00:00+09:00"
     },
     {
-     "title": "CU 9조원 이끈 민승배 대표, 사장 승진… BGF그룹, 2027년 정기 인사 단행",
-     "source": "S저널",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9PanVDal93clpLOU5aelk0eGtja3VVcGFPbS1TY1NjNlIxWkhmWDJlUTRROU5oZ18xQ0FTbUpPWlNvcDlQZmtzOFhHTGtVazZYZTdFLXVOWkZHbkFFVlN1VDRYU280UUVyei1XZ0Vn?oc=5",
-     "published": "2026-11-13T17:43:01+09:00"
+     "title": "이너뷰티 홀로 질주, 건기식 시장 재편",
+     "source": "https://www.kmjournal.net/",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5PY2lvZmhhZlhzTTdnUjV3WjI1Z3FFTG4yN0JsNWk1WXhUUmU5YmNfaDZhRDdKZ2twS0xnUGhvakdGRFJGbTBzWW5uLTlKY09vNEwxRHdSR2MtbDBxZWR4bUZfaDFRdXBrdEhR?oc=5",
+     "published": "2026-11-14T08:15:49+09:00"
     },
     {
-     "title": "BGF그룹, 2027년 정기 임원인사 단행…민승배 대표 사장 승진",
-     "source": "아시아투데이",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xczJ5WmxXZ1kyOXpueDBIVTB2c25QaXJ5QmVoYzFBV0Z1U1BTSndzR2xuXzl4RnRSaUdiVEsxeUJCUTh4UmZzRnlyT2s4dHpYWjRJWUlQMDJlU0xsa1haU1FZVC01ODd4Nmh6SA?oc=5",
-     "published": "2026-11-13T17:18:14+09:00"
+     "title": "[청년이 바꾼 유통] ⑦ 러닝에 '지갑' 여는 2030…유통업계, 특화 매장·상품 확대",
+     "source": "청년일보",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IVDVkb3hhY3BvOUlJUnFDNzdIbHA4YUQ3ZGN4Sjdtb1VYQVJWRlZtRFZyYUtsaWdvenpLYmpOREZnb2piNmNJclg2SThfUGNJYVVzUHphX1Y3emlMMGFPamM2MUducDQ?oc=5",
+     "published": "2026-11-14T08:00:04+09:00"
     },
     {
-     "title": "BGF그룹 2027 정기 인사…민승배 대표이사 사장 승진",
-     "source": "신아일보",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BLVZGeF9QSFM3RTNiM0pUejdGRF9NU24tMkhvYl9NZURXTndRZ2J0dC1WakZMRzhqbXJyTWdzOGh1ZlRCOHJkRkFoc0FVTG9xeC1DUEFPZjB2TkFOWDJpM28tWll1ckxTX1piQUNYUEk?oc=5",
-     "published": "2026-11-13T17:14:17+09:00"
+     "title": "\"5만원짜리가 여기선 5000원\" 입소문에 100만개 동났다…유통가 '저가 뷰티' 대란[지금사는방식]",
+     "source": "아시아경제",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wRGNWVDNacGUzVlQzMFAySVhBOFd4OVY5WERCZUhVdm15X3hoV2lXSGM5d1N0TkdyMXliaGEzS2JJY2FYZ2ZyUDNOcndvT0d3VTNQWk10UXBHRUxLcFh3eg?oc=5",
+     "published": "2026-11-14T07:43:00+09:00"
     },
     {
-     "title": "이기형 김포시장, 주민 참여형 복지안전망 성과…김포시 첫 복지부 장관 표창",
-     "source": "필드뉴스",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Bel80Z3VZTEZRNGt6RWhKb3drdEJIYVVOVFAtX2dLUTU5TmQxalNia0RsVzNTN1Y4ZXBxRTh5eTRPeGY0THRRdzh2dDl2c1lLeDZfYlVIcmdQQTRCajdVWUVoMlF5cTky0gFsQVVfeXFMTlZZYTRLSnVJWGRhQm5TcFF6cl9SVEVSWVdIN04zRXdrNmxZb2c0alVSLW1GMHc1d21naDZjY0lLVndxZzR3T1RlcVdyeXNJb2J2Y3JDd2dqbGN5RjFRZklmeFBTNEd6c2FlNDB5?oc=5",
-     "published": "2026-11-13T17:13:02+09:00"
+     "title": "수능 간식 챙기고 겨울 이불 덮고…온라인 유통업계 '월동준비'[주말e커머스]",
+     "source": "뉴시스",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JTXJoc0tVSDhXSEpEblNGQ3doMWp3ZXNqNWRyTll6dVl4TjB0SE1kMkVDaXlDZVJtaE00YS0ydnRxR3h2aE8yZU5vaUhsdFVjMi1qb0ZwYXZYRk9uUWE0NHQ4V2ZJRzVLTWY2bDBMTDMtUUdzcE5HX9IBeEFVX3lxTE1JTXJoc0tVSDhXSEpEblNGQ3doMWp3ZXNqNWRyTll6dVl4TjB0SE1kMkVDaXlDZVJtaE00YS0ydnRxR3h2aE8yZU5vaUhsdFVjMi1qb0ZwYXZYRk9uUWE0NHQ4V2ZJRzVLTWY2bDBMTDMtUUdzcE5HXw?oc=5",
+     "published": "2026-11-14T06:00:00+09:00"
     },
     {
-     "title": "‘고흥 유자차’ 전국 편의점 입점…농수특산물 판로 확대",
-     "source": "전남타임스",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hNi1mSVdDRllxT0sxWmhoMU1tSlFaS01VdWp0blp6Nk0wX2RnNXFhbm1ZelVkcnpKeDAxQmVleVgtTGt1bFdBSm1lQ0hOcVk3eUlnWXdPanl3bGVzMWtPeVllLUhXZEk?oc=5",
-     "published": "2026-11-13T17:09:13+09:00"
+     "title": "유통업체 납품대금 지급 기준 명확해진다…표준계약서 7종 개정",
+     "source": "소비자를위한신문",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9XZ3BId2Z0a0drNDBpRW95NFlPc0pPU0p3T1M2N3phcnBNYnk1SXlZZDJlV2lQOFJjV1JSMjI5MzhvczlkVzBuaFJ0RGZzNHZxX3FtSjFsc2VrYUdJcEt4ODY3TWF5TUF4M3pDVWxQdw?oc=5",
+     "published": "2026-11-14T03:05:15+09:00"
     },
     {
-     "title": "고흥 유자차, GS25 타고 전국으로… 지역 농수특산물 판로 넓힌다",
-     "source": "대동N뉴스",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43N0ZTLTdGZ0dETlRXakFhMU4yX21HOFl1a25PSXRMLTFraVBGTWhyaS1vYTRPYXdTNXVWakZra0NZNDcyVWFnTmhQcGhta29qYjcxZFNCQUZrcXluLVRTU3RJalBXNzA?oc=5",
-     "published": "2026-11-13T16:54:42+09:00"
+     "title": "[ 2026년 11월 15일(토) 프랜차이즈 뉴스 ] : 네이버 블로그",
+     "source": "Naver Blog",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcE1UOW5fRDZCUWZWVGExMUtQS0llQlUxVnhpek0yUk4tUmxCRTZRWXFKd0RqRkZHRmVQeUkzRWVuUjZ2dlozVGJxazV6WHAyYTRyVUF4X2h5V2hPei15dEhKQlN6X0RqZ0M0WWpaLUZjbzlzZUxnN1Y4MDJOaVRtbTVjcnJERGpFTUxnZzdR?oc=5",
+     "published": "2026-11-14T00:39:55+09:00"
     },
     {
-     "title": "고흥군, GS25·두원농협과 농수특산물 전국 판로 확대 협약",
-     "source": "더페어",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5BLU9OclU1bU5MR2pFVGlHNGlLTEtidE44OVpNOUVVNkd5akFLNDk4VHhjWDRCazZPMWhpNmpYVXJRdnhsaUlIVVpGcGhkTUxxMGJZNTJBSEtzNWFTVXVnWUszRUlyczJvYk4tdFVUY2c?oc=5",
-     "published": "2026-11-13T16:44:30+09:00"
+     "title": "[ESG] \"친환경·상생 없이는 명품도 안 팔린다\"… 신세계·현대·롯데百, 유통업계 ESG 기준점 높였다",
+     "source": "가치소비뉴스 컨슈머와이드",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBhbU5DY0p4VDhQZHdzT2JmOVpzLUlXRTJNZ2tkd1RLbk1WejVwb0prUE0xeVlkNU13MTFOUVdtSThubFRFakhEQTE3MGRES0djZzFqUmVoOE9STm9XR2dndlZnM3kycXJwWGxFR1VTUWpLRFnSAXNBVV95cUxQYW1OQ2NKeFQ4UGR3c09iZjlacy1JV0UyTWdrZHdUS25NVno1cG9Ka1BNMXlZZDVNdzExTlFXbUk4bmxURWpIREExNzBkREtHY2cxalJlaDhPUk5vV0dnZ3ZWZzN5MnFycFhsRUdVU1FqS0RZ?oc=5",
+     "published": "2026-11-13T23:07:51+09:00"
     },
     {
-     "title": "이 일본 편의점엔 양말을 사러 간다고? [현장영상]",
-     "source": "KBS 뉴스",
-     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxUFhhUEZlbkN3MV9Od0VXd3NCLWFBT0JNNnNJa1FtMlhDV3dJMDI1dWdPb0FzUm44bXp6czlpN293VF9oRHVqMU1zQ1ZITV9YVVBBd3JFMXB5bm5oUUQ3SWJRQ3VBUQ?oc=5",
-     "published": "2026-11-13T16:36:00+09:00"
+     "title": "전국 편의점 돌며 현금 훔친 야간 알바생 추적…'궁금한 이야기 Y' 13일 방송",
+     "source": "한국사회복지저널",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9id0ZoSC0zdF9PUGZjZThFZWticVkzZWJfN3M1c1c3WVZQTW5tMFRGelBzODE1akVFY05TU09yeWd2ZElROTZOUDNhSDZPY2ZnMEI2ZGZFUXZBRC02MW0tNGlzeEtzMk5vdEV0Vw?oc=5",
+     "published": "2026-11-13T22:59:18+09:00"
     },
     {
-     "title": "BGF리테일 ‘주마가편’ 인사…민승배 대표 사장 승진",
-     "source": "파이낸셜리뷰",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA3Ui1VczZua0RxLW9lMEZaMHRvbjhBalZDakNCdndjQkNfcm9mR1NPQUdWV0ZrRXhXX3R3MnRvRk81MDVFRWg5bThVYzlCOU4zWXU5ZEFndGdITlhkeEY3UEtBSWlKUWpLdGFVT2dEX0ExdFV0?oc=5",
-     "published": "2026-11-13T16:35:00+09:00"
+     "title": "태국 편의점에 코끼리 난입...\"과자 10여 봉지 먹방, 사라져\"",
+     "source": "JTBC",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9HQnV3ZWZsdTljcHMxbUgzeXFoLXlWWlFTRzVzOWlEeUFHT0FweUJhNi1MbF9mczFycjZ5ZmRDaVdZbm9sdDFLNXpwcmVqczRaeW9Xc04ybTltNVEtcFhrNXlwZ1VpVlgzU1Qzejhjbmc0X2pxUlZQOTlMdw?oc=5",
+     "published": "2026-11-13T22:53:35+09:00"
     },
     {
-     "title": "[똑똑한유통] 신세계라이브쇼핑, 우아한형제들, 아이파크몰, GS25, 신세계사이먼",
-     "source": "에너지경제신문",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94OHowVkZpVXktaWZyMnhXNDhsalZhSnJGZUFOeHEtR1U5UU5CNlBxdjBlWWxTeGc3QWloQWNkQVBRYmI0c1RXTE8tR0lkYnJtRmtBX1dITnhlWUk?oc=5",
-     "published": "2026-11-13T16:30:00+09:00"
+     "title": "유통업계, 에이전틱 AI발 대전환 대비 … “AI가 쇼핑 결정하는 시대 온다”",
+     "source": "워크투데이",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45U0hWc0RDU1kyOVVLc2V1QWhmanZPZFdWdkhiZVF0c01VMDZ5OXBzdDNBc05jSXd0WlZYUk5PNF9UdGo0TmdNQkY5OGhrNC01SXpsampMNDFWWEN3bEd2MDA4UVNiV2hnSWdqag?oc=5",
+     "published": "2026-11-13T22:45:59+09:00"
     },
     {
-     "title": "고흥유자차 GS25 입점…전국 1만8000곳 공략",
-     "source": "뉴스핌",
-     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1WNUpVbHF0Wkd2emZTa3RNajE5dmFBcTI1RU04bVJsYjNKSTM0WDFoMVlFa1gxaHZrMjh2RDBRWTZWZ0R3SGNHY21mMHFKeUdFWVNxOXh4S3dCbjFU?oc=5",
-     "published": "2026-11-13T16:21:00+09:00"
+     "title": "진주 충무공동 편의점서 점주가 초등생 끌고 가…아동학대 수사",
+     "source": "https://www.newsphere.kr/",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiZlVPT243Z3ZPRUFSZnZXTU84eVJrSDFiVGxvYzNzT1VTeXhfbmQtZElSSnJGd1owN3ZaS0l6VV9FUW5iSnBBZFotaXd4eWd0X2dPS1BidktFX1BqUlFIN1NETVVzS3Y4?oc=5",
+     "published": "2026-11-13T21:51:28+09:00"
     },
     {
-     "title": "고흥 유자차, 전국 GS25 편의점 진출…농수특산물 판로 확대",
-     "source": "남도방송",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFQ1dmRnBaQzA5NURJQVB6NkhueFQ0QkVSLUk4amc5RElTR3B1RXAyek96SW8wbEpvWnRyN3Y3VEp6X3psTHZEaFktcHoxSzZtOWZuVkc3dWZERUF1OHRSRXVTTjhPeXp4bVpqRdIBb0FVX3lxTE9sbHVSbnVRc2FEYkEtR09rQVBRX1NZa2VmeV9YQnB3R1VmR2xPWGhGTFZHVGpETzVCV1dPNGFBdUFsWUs2SWo1Zkp3clJDeEgweHhnNlg0U2VBcG5ja0ZNS3NVaDZUTFcwTVo4UWdUSQ?oc=5",
-     "published": "2026-11-13T16:16:22+09:00"
+     "title": "GS25, 보르도 와인 등 신상품 3종 출시...와인·위스키 최대 20% 할인",
+     "source": "코리아리포트",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5CbDZCRU95dU83amZYa1FYTWx2NmpXZl9ucGtfRklHQVhnb1JWdGlMZFM3Q0VvVTd4VHVjUTNHQnQwRHpZM3ZHa0l4eHMyUF91emx1Vkc2dDVXTnhoOG5WVlNvS293TnRsb1ZNMFFORkQ?oc=5",
+     "published": "2026-11-13T21:48:30+09:00"
     },
     {
-     "title": "[리테일 인사이드] 배민·GS25·G마켓·11번가·SSG닷컴...\"1만원대 보르도부터 제철 수산물까지\"",
-     "source": "한국면세뉴스",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lQndLaE43VzR6WE1ZenFsTzluSnEtdFVDRjQwbGNMSWx5UW1qTmFyajdGOE5MeXFiV2FEM2FzRzdKa3NNczI1TVNYTmg0cThZTFlVQlpxQ0pfMVZyS1lfYTdkT1p0OTlp?oc=5",
-     "published": "2026-11-13T16:01:59+09:00"
+     "title": "편의점 라면, 컵라면에서 '냄비 라면'으로… 조리기 없이 끓이는 700원 '오!렌지' 이마트24 시범판매",
+     "source": "에이빙",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1KMkVvU3VfQk5RM3I1OERLT0JrWFdhT2E2X29DS2VMZ1BGS1Q1X2p2R0QwRXVkaC1SMVBNenFqUmo3OUx0enBSR2tQUmtaU21PNFBIM2VUN2lpektoN0Jrdy13ZWw3a0pGNzJ30gFrQVVfeXFMTUoyRW9TdV9CTlEzcjU4REtPQmtYV2FPYTZfb0NLZUxnUEZLVDVfanZHRDBFdWRoLVIxUE16cWpSajc5THR6cFJHa1BSa1pTbU80UEgzZVQ3aWl6S2g3Qmt3LXdlbDdrSkY3Mnc?oc=5",
+     "published": "2026-11-13T20:31:07+09:00"
     },
     {
-     "title": "BGF그룹, 2027년 정기 인사…“민승배 대표, 사장 승진”",
-     "source": "파이낸셜투데이",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5XamV2ZW5VcEd5a2RyWkM4cWZfOXFEb0VDRGY1RjU5T3RqZUJZRXZDcVk4MnFFb3JLT1hlcDY2aGc1WG9uU016cHd1c041VnRyU3dfaUhraTBwdXFMSWZWZ2RVVktUNmgzaUHSAW5BVV95cUxOVUFUT2RUTHJ1MWtpalpBWkhlTGpxSjhsTVZnTE9fZFdYb0xYc2VycVI5czNsMjNzempGbDJfU1NlN2hvcC1HU2xSS3ZldnJmbjRuclg5ajRfT3RsVC1TNWpwSUhDanZGMFlWbEpyZw?oc=5",
-     "published": "2026-11-13T15:58:05+09:00"
+     "title": "'궁금한 이야기 Y', 비둘기 먹이에 월 500만원 쓰는 할머니-편의점 연쇄 절도범 신 씨 추적",
+     "source": "톱스타뉴스",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4wdF8xb0NPb2NxRElJdkxxZjVTcVBVMWdqcjJPX1N6YzJCaExtMmpmdThoVE93OExRLUlmYlZFbmk0R01JVjh0N0N4Ui1Pai02bUdyRzh0ZWE0QjJJQkcwVWs4dVdRcjFqNS0zSmRFWFRyZw?oc=5",
+     "published": "2026-11-13T20:09:29+09:00"
     },
     {
-     "title": "‘1등 편의점’ 굳히기 나선 BGF그룹…정기 인사서 민승배 BGF리테일 대표 사장 승진",
-     "source": "이코노미스트",
-     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fVFV5VnkzUTd5Q1VWTy0teWJKRWlLTUFEaUNuZkQyVlY5YmNkeHZXVmt6SzE4RXN5U01UY0ZLUzI4bVRzakFCRVVkWUQxYzZjT2daV1RESjUzeS1Kc1dsTXZB?oc=5",
-     "published": "2026-11-13T15:51:00+09:00"
+     "title": "고흥 농수특산물, 전국 1만 8천 개 GS25 편의점 입점 추진",
+     "source": "작은뉴스",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTVVk1QWFlR0xlUzlVYzF2Sml2MXY5UHBXX3NZN3gtckdwQUlZNFBTQlJDTEVndlBrQlJHUGtYTmRkaDVvZnUteVZHc0xReGFGaGlYX2JIOGt4TG5UVDl1dkVmWEFOZUE?oc=5",
+     "published": "2026-11-13T19:56:40+09:00"
     }
    ]
   }
