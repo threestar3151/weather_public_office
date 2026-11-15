@@ -1,57 +1,51 @@
 window.NEWS = {
- "updated": "2026-11-14T18:55:22+09:00",
+ "updated": "2026-11-15T09:35:51+09:00",
  "sections": [
   {
    "id": "law",
    "title": "법·제도",
    "items": [
     {
-     "title": "가맹사업거래의 공정화에 관한 법률 : 네이버 블로그",
-     "source": "Howl.Link",
-     "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1zV0tJMEt0X21VQzZpQ2RSRGcwSXVIZ3JxTElxTnhwb3cyVnhrTGpoeW0wZ0dXa085azh3?oc=5",
-     "published": "2026-11-14T10:38:32+09:00"
+     "title": "[대형마트 휴무일] 이마트·홈플러스·롯데마트·코스트코, 오늘(15일) 문 여나",
+     "source": "싱글리스트",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fZml2Xy0zTVRIX19ZNWFuSjNrSnYwN0ZQcnNtZGlnTVB2SzBObTExcW9Jc0JOTk9vVzc1LWkxMU5fOU5vWTJfR1dLV05tdjc3QXZoTHA0aHhYMjZ2TWFqUWZ4VmcwZw?oc=5",
+     "published": "2026-11-15T07:04:41+09:00"
+    },
+    {
+     "title": "이마트·홈플러스·롯데마트·코스트코 휴무일, 11월 15일(일) 대형마트 영업하나?",
+     "source": "한국강사신문",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwSXVfYWpFdUhnc0dra1R5d1dyaHptX21XdlNEUWV4ZGhWYUZNM0VYTHozaXFhd0JHa0tRRnNXbE1ldVJjQ2Q3WjZWbTlKRTBhMTBONkwyd2V4UXlNcVNuSnFLV0p3R2FrdHcyYmw1SUY?oc=5",
+     "published": "2026-11-15T06:00:00+09:00"
+    },
+    {
+     "title": "규제 컨설팅, 체납 관리, 번역까지…AI로 행정 혁신한 자치구",
+     "source": "중앙일보",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Rc0MySnRHdHZQSmNXY3cyMkRkSGVOa09CR2ZvQVNFQ1RncU1tNGt3cXJDZWVPSE9sRTVveVI3VTBNdXpGWXVsWlhZNWdtdFpSeGNBdjdB?oc=5",
+     "published": "2026-11-15T05:00:00+09:00"
+    },
+    {
+     "title": "대형마트 휴무일? 이마트·롯데마트·홈플러스·코스트코 ‘와인 특가전’",
+     "source": "BNT뉴스",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ISEtxVkFIbDhmdGRXekZMeUpuaUVJb3hkdlE3UklSOUx5U3FqX2lVUHhxWEt2S2dqR3g1N3VpWWowUnRJMnpfdEd4Mzh3QjUzTmNNUzRhbzFkdmhwS1Z2YmJacUY?oc=5",
+     "published": "2026-11-15T00:01:01+09:00"
+    },
+    {
+     "title": "'11년째 4500원' 담뱃값, 인상 논의 재점화… 의료계 제안은 얼마?",
+     "source": "금강일보",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RWC04THpuSVBLeDZUZF9YLVdJQVNsY3dDMk15a1ZMMzdjZkV3bWYwUUNxS2dSRmNpMzhyZ190Wlc5SENuUHFmWTRwdlFaOEU3NFdVOTdVY05aTExaRjJIWFZQV2lNbUFi?oc=5",
+     "published": "2026-11-14T20:30:00+09:00"
+    },
+    {
+     "title": "직매입 납품대금 60일 계산, 검수일 아닌 인도일부터…표준계약서 7종 개정",
+     "source": "https://www.diarypoint.com/",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4yekdVeS12OW1JQkZibVBHSE92RTdBTWhRUnJVS0hrdU9mLVZWdGViZnMtaW16RTY3bzVzOVhUaGZXaHphSW5CbnhMVGUtTHgtbFg2XzVsVTJPN1dtNG5hUjh0dlNsX0UtYk9V?oc=5",
+     "published": "2026-11-14T11:17:00+09:00"
     },
     {
      "title": "인천시 강화군, 간접흡연 걱정 없는 강화로… 금연구역 야간 점검부터 집중단속까지",
      "source": "시민일보",
      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1LU3dLbm5fcGpGS3kzV1dZYzJxUmpjQW1KYU03N0xoTzUwN3hHcU1vOUlMSVZKbjFBenQzaEZyRDRid3ZoWW1sdWVyZmo3b2w5clNCVnJVRXlfVEZBenRuY3ppN0hVN3ZLUTVTdm55RdIBb0FVX3lxTE1LU3dLbm5fcGpGS3kzV1dZYzJxUmpjQW1KYU03N0xoTzUwN3hHcU1vOUlMSVZKbjFBenQzaEZyRDRid3ZoWW1sdWVyZmo3b2w5clNCVnJVRXlfVEZBenRuY3ppN0hVN3ZLUTVTdm55RQ?oc=5",
      "published": "2026-11-14T10:00:00+09:00"
-    },
-    {
-     "title": "11/14~ 11/15 이마트·홈플러스·롯데마트·코스트코, 휴무일·영업시간... 유통가 연말 대공세·롯데-현대백 冬 정기세일",
-     "source": "센트럴경제",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxcThCd3FCdDg1bWt3aE5ySFRzUUtuXzJjTXhQajBPdWpnSzhXX1hGbkZ0eTBGRDZPS3dYTHJsU3lhOXlvb3l3TTJQWXhRVkJUSl9vLUg2R1M3enVNNjNtVklMaGJhSk1xMmfSAWpBVV95cUxQMXE4QndxQnQ4NW1rd2hOckhUc1FLbl8yY014UGowT3VqZ0s4V19YRm5GdHkwRkQ2T0t3WExybFN5YTl5b295d00yUFl4UVZCVEpfby1INkdTN3p1TTYzbVZJTGhiYUpNcTJn?oc=5",
-     "published": "2026-11-14T00:59:13+09:00"
-    },
-    {
-     "title": "대형마트 휴무일? 이마트·롯데마트·홈플러스·코스트코 ‘주류 할인전’",
-     "source": "BNT뉴스",
-     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wNk16QTlVYXJJRjFNUzk4VmFuRXhkZTFfZ3dBR0taRk11cXZFUHQ3dUlpeEFIUGlkbEpZS1VKRDJVOV8zWTJ1QWotSnhXSlIxdlZXV1JEQVRIYWU1NVBIa0ZEWGY?oc=5",
-     "published": "2026-11-14T00:01:01+09:00"
-    },
-    {
-     "title": "롯데마트 이마트 홈플러스 대형마트 휴무일… 주류 기획전 풍성",
-     "source": "뉴스클레임",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9MYm1WQmlrcEp1WVd1U1c1TlhkSXpNUnk5eHI4YWQyWUU2V3RwUXZQdzNyZW9XUnhxYUQ3YXVhTEhsTjlEZmVqbld1WUQ4YTBYbkVVV3hxVVFLdnZ5Y19EMlBNT25VOTZtYkN4YVZNYW7SAXRBVV95cUxORmlxalJadFdQaHc0eTRmX2Fyb0w0SUFOdDRVcTlxRXA5djliaElfQ1g3aXpZcDRKdDREUHVEc0gzV3JXa2xRTkNvM1dpRTlVeFZDdW1YUm1hdTFOa09DTVBCSTRrODZmNENCeDF0eDBsWE9zWQ?oc=5",
-     "published": "2026-11-14T00:00:00+09:00"
-    },
-    {
-     "title": "동반성장지수 최우수 44곳, 농심 8년 연속·파리바게뜨도 최상위",
-     "source": "폴리뉴스 Polinews",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5XQmp6TUhIVzA5aHFUQndOYmhJN2lESzhQVWxHUkh0RG9wSEZfZTdDVWkyLVFOQ1B4QndnekJQckVWSnFjTFlZbjhqNnB0Rkp6Ymtaa0hJWUxsZEdWNnlDd3NEa1NxNTRFMC14VjZ3?oc=5",
-     "published": "2026-11-13T22:01:10+09:00"
-    },
-    {
-     "title": "공정거래위원회, 유통분야 표준거래계약서 7종 개정",
-     "source": "누리일보",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hUVZZbm9CUkdpLTVlVFA0TlZQRkMtSkk4X040RUFxc2NhaFBwbG5jMmJtZ0tkQUlrV1VYTVdJQzhJbWU0aXlCN1lOX3NiTWlucnRmWVJKUlE3WXJNTlE4?oc=5",
-     "published": "2026-11-13T20:50:54+09:00"
-    },
-    {
-     "title": "정읍시, 시민 건강·돌봄 촘촘히 챙긴다",
-     "source": "한국금융경제신문",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMUmlseDVTdmwzc2FfdHR5RVFmOE1ob3cwVU5zYksxbWtIZ2lvZHpMT3FIXzZCQkU3UHZqeUxHRVlZZVZZSE1YTDZTSEdjNGc4VlJvbGtDeVpLSm1aaHhjT3pERndvenBNM3FwetIBcEFVX3lxTFBRM1lIRF9EYWt0Ym9SZlFOOFlMQkdpZnFTLWhvZHdyeXh0dFlXVkphUDBnWk0wSUxxcEF2cDNoWG5nUlQwMXBtUF8wQ01VTi1aRl96Y2dJX1pFR1Y4Y3ZPQ0doWkE1X1BPUWFDM0xXWko?oc=5",
-     "published": "2026-11-13T19:14:12+09:00"
     }
    ]
   },
@@ -60,124 +54,124 @@ window.NEWS = {
    "title": "유통 뉴스",
    "items": [
     {
-     "title": "아파트 관리사무소는 거주자의 전기나 수도 공급을 차단할 권리가 없습니다.",
+     "title": "세븐일레븐, '시경 픽 남해안제철꼬막비빔밥' 선보인다",
+     "source": "전자신문",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1vN1Z2bGxSYW9kbm5uRVRiYU1SWjdSMmU1OUhtUE04ZmFKd25LcVBsalNVMVJEaFctUTYxV3hpT1J3WTltMDBFU1lwZjVydw?oc=5",
+     "published": "2026-11-15T09:26:42+09:00"
+    },
+    {
+     "title": "관세 없애고 환율 내려도 미국산 소고기값 고공행진…왜?",
+     "source": "더퍼블릭",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfUGZTV3VxSElXQjNhYnB2eU91YW1aZGhybXNGOFdnTnZMQXFvZEdWRmZhUFZ3TzE2elhRUDJBeW4xYTN1bGFYM0dPNC15R2h4Vy10XzdHOGFkcGNIWDdIU0tUSkdFMGtnUTRN0gFvQVVfeXFMTVE4WktZMjduWFNuRXhLMzVnMnRFR2ZuRW5PTFh0a3otTXFKWWlXczlCaGRJLU5CTXVfbGdFU3BGYXhQRy0wTnZfcGZzRkRqdFpaOE9UY2h0NUdzUUh1M3pWMlFUS3hpMUo3WFQwSEVj?oc=5",
+     "published": "2026-11-15T09:01:30+09:00"
+    },
+    {
+     "title": "김포시, 편의점 활용 복지 사각지대 발굴로 보건복지부 장관 표창",
+     "source": "브릿지경제",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OdnJMblJxdmNWdnI4VlUyakY1eHBwY1prU3ZKb3U4N2VpdFBQZVpLalBhQ0lmRlZTVVRPaVhKVFhablhWY2tVNDBMSXlqSlF6dWZFMGlZazlJQQ?oc=5",
+     "published": "2026-11-15T08:57:00+09:00"
+    },
+    {
+     "title": "세븐일레븐, 성시경과 함께 남해안 제철 새꼬막 담은 비빔밥 출시",
+     "source": "뉴시스",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZNHZ2VmV1SnVlYmYwN0t3aHB4S0F4MHN3Q3RCNTdUcDU5cXVQOHpfY0tlNjRpOVZ5Mm1scjZsRUwxTzdqa0tqRHR6aUV0cXhaTHZDQWRaQzFyX1JLOGpjT9IBeEFVX3lxTE8xczVmeEhTQnVHQjEzSERGWEdaN3BvUElBZldsVUFyTDZCaGVxdkUtMHk4ZVZuaXhHZTg5dDI3akNMUDhjdGJaX0lpQy1KMUZCT3hYSTNBbzg0cDJGY2w1MGNSSUJYWTB3a0VuZkVLMlBRME9Qb3FzNA?oc=5",
+     "published": "2026-11-15T08:45:32+09:00"
+    },
+    {
+     "title": "BGF그룹, 2027년 정기 인사 단행…민승배 3년 만에 사장 승진",
+     "source": "포인트데일리",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBNWl9Hcy16RWpqZjByVEdJV3Z0RWQwb0R3emVDYW51RmVkWWx3N3hiUThQTmtMR0tPWkJ3RE1jTWloSi10N09PNkFtcVRyT2JiNG1HOWplOVp0QlIzOXlYZGZjaGVQY3RnRjdlU25INmTSAXRBVV95cUxNZXEtREdVc0VfR3hYM1FpcnpVTHFfVmxzRkVpNTVXeVUzbk9uazdsQUJuV1NiZEgzWTVZNm9sR1hLQ3NmNUdNVGdfcm5UbGo2Z2tkU2w2QjVDeWhJbThMcEtOUl9OdWtCcXhDZUlKRTNvVHA5OA?oc=5",
+     "published": "2026-11-15T08:37:54+09:00"
+    },
+    {
+     "title": "고흥 유자차, GS25 타고 전국으로",
+     "source": "www.gmitoday.com",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NTThha1YzMmhpT2FDSHZnR0daY0xCYkpUTzBWeERLYXFUUnNZQk1CLUdqUktMaThYWl9wUEpDZDU0Qkx0Yk1QZVZ2QmwxdnBpZWxEYl9fTHpLY1ZwNVp3RDBydEVKTmVxWEE?oc=5",
+     "published": "2026-11-15T08:25:46+09:00"
+    },
+    {
+     "title": "CU, '생초코모찌' 수능선물 대세 부상→포켓CU 참여형 이벤트",
+     "source": "싱글리스트",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QVGZaOVdTSkloWjd1ZFptSWhoX0l4di16M2NlQlZrYmZZQjhlR2RlWUZFelZqME5wRVZHVGJQS0RGRFljRTNZcVNiN3RnQkdqTENFZUtISVNISXdYSXdETmhubDYxdw?oc=5",
+     "published": "2026-11-15T08:18:02+09:00"
+    },
+    {
+     "title": "수능 선물도 달라졌다…CU 생초코모찌 매출 117% 급증",
+     "source": "디지털데일리",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0S1NhVzhjdVlEdWJGWnM2MW1kWktlS3h2cGpJSnZlNlpXYXdjeXdpX21JZEJNZGpXZHg0NmFIMXNxVFlRUzNlV0hsMjNKMXBEd2pFeUpsUkprRnpPTjh5cGV3?oc=5",
+     "published": "2026-11-15T08:15:15+09:00"
+    },
+    {
+     "title": "미국 군사기지가 부담이 되고 있는 걸까요?",
      "source": "Vietnam.vn",
-     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQa0tIMUdodkZuUGk3UlJtenBodzRFRmNhSGNRZTdYMzhqYnBaam93MlpIa2pyTFRxeFpNN0VDcUN2Qko2a1pwOHVkU01QQWh2UVFpTXEwSG1qUjdYMUdSbUgyWldrS0Vsd2tPbkJUbDdCTVZxXzZieFZ5WGtCWnYyVHBueXNfbWZ3eF9sT2ZmdV9CSk0x?oc=5",
-     "published": "2026-11-14T18:50:01+09:00"
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5INTlmWmpsLXNKY3dHdmY1S3psb05JcU52cUZNdjk4Sl9WSlpOWU5yc0Fnb19rQm1aSzR0dGM1MWM5Wm9zNTZ4dGMxV0s3dDB0dXpPa2Ria1o5aU5mZjUxUjZJQVdWeUlyNjR6d29GaHA?oc=5",
+     "published": "2026-11-15T08:13:34+09:00"
     },
     {
-     "title": "영국에 주둔 중인 미군 기지에 공습 사이렌이 울렸다.",
-     "source": "Vietnam.vn",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQXhZeDVMOHVKNTN4eTRKVHlqeU5NQWVMR3BTOTNtV1dOTmVURlZfT1cwX0dETXdOU0NxN05xcF91aWRhRG8yaDRjdjFkS2tYU29qSG8yZnhJaE5wazVqSzRGNkVuNUV1YTM2WTBsU3p4ejhRUjZ6aG9ybUtWOFprMC1lVkM1LWp1Y1dqcExTWXpOTG5nbW1mRDFn?oc=5",
-     "published": "2026-11-14T16:32:58+09:00"
+     "title": "성시경 비빔밥 100만개·쯔양 먹거리 400만개…편의점 '스타 레시피' 통했다",
+     "source": "뉴스1",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95QzEtc190N2szUDhVT3l6a3BmZzVNdHZfcV9OMlpubVZXVXRnSFlhcmw5aGx5X2ZKTWFSUFhmdldQN2VOSEhTeFZCYkJuakFsXy1Cc09PVnJCalQ1Yzdr?oc=5",
+     "published": "2026-11-15T08:10:00+09:00"
     },
     {
-     "title": "안쿠는 어려운 형편에 있는 사람들에게 선물 꾸러미 300개를 나눠주었습니다.",
-     "source": "Vietnam.vn",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONm85NnAydWEtbURwZEVGaHFNcmRaUlRFZDJvX1FraU9MTTlrYVBJcnBvVUJ2RTFXcEp2ZzNpSGpnRmpIdzZ3blVNd0FQUlVJQ1hGdFRYcnY0Y21aSTFoMFpHNEFPLUFMbGFLMnRUVU14dXVmQXdad1FFVFRxUklNVFFacnFYQm41dEJ2Q2NB?oc=5",
-     "published": "2026-11-14T16:32:57+09:00"
+     "title": "AI가 상품 검색부터 구매까지…유통업계, 대응 전략 모색",
+     "source": "서울경제TV",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5waWltV3RKQkVickdPVUdPTkRUTzRDV3NaSC1YTW5jVjBsVFQycGFoQ0ViRmttQmJoNGR5NTdoMGIyUXR3T0Vidm1uaWtUZzJTc0lDcjFFRVNxek92SFp3VFRzR0k?oc=5",
+     "published": "2026-11-15T08:00:07+09:00"
     },
     {
-     "title": "‘인어섬’ 흥행 타고 산업 전반으로… 치이카와가 보여주는 캐릭터 IP의 확장성",
-     "source": "유스연합",
-     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5PeTVLWnprVDVmQnQzTUZyRnQ4NFpKei1tOW9GU25JaHZRVklydDhOYVVpRXh2NXZ3b3k0ODJpanh5dm1ORjBoSndKSk9oWTROLVBn?oc=5",
-     "published": "2026-11-14T15:26:46+09:00"
+     "title": "세븐일레븐, 100만 개 돌파 '시경 픽' 도시락 신제품 '남해안제철꼬막비빔밥' 한정 출시",
+     "source": "팝콘뉴스",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0wOEMtYjJ5REFjaUFSclRreG90MUNNb2VPNzhLc0s2NGtCT09qaHdZbFVsa1FtUlZIU2J2bFQ1WEhrcUtCOXVhRlc2Zmp1OHN4MWpGUFR0ZWlZSG5IMjcxd3VkTFZ3VUdiLVRvM2F6YldYd9IBckFVX3lxTE0wOEMtYjJ5REFjaUFSclRreG90MUNNb2VPNzhLc0s2NGtCT09qaHdZbFVsa1FtUlZIU2J2bFQ1WEhrcUtCOXVhRlc2Zmp1OHN4MWpGUFR0ZWlZSG5IMjcxd3VkTFZ3VUdiLVRvM2F6YldYdw?oc=5",
+     "published": "2026-11-15T07:57:59+09:00"
     },
     {
-     "title": "의정부문화관광재단, ‘불편한 편의점’ 공연",
-     "source": "천지일보",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9MYWh5MFRVdTlKeWRLRzhkRUwtUmlaT1VDVWFSNE9ZalFVaWZWN1cxNEpkMDh2QVBRSEVjcGJRSll1bW9ib0I0V2hCUmg3aExROEtpWDJTZVZtM3ktRE1neEdLZ0I2RWdMNGc?oc=5",
-     "published": "2026-11-14T14:59:52+09:00"
+     "title": "SSM, '1시간 배송'으로 2년여 만에 호실적…신선식품이 견인",
+     "source": "연합뉴스",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCaGhTVDAzU21TaGZxUWtzdmpIM3hwUWRkV2Q2Q0hpR1NyMElnM05zRmJzZXdzZF9fMUxqdVRkUFdnbmFlQ3k1alAzZnlxRDdpaWcyQ3Q3Ti1xTW9qOU5HbtIBYEFVX3lxTFBCaGhTVDAzU21TaGZxUWtzdmpIM3hwUWRkV2Q2Q0hpR1NyMElnM05zRmJzZXdzZF9fMUxqdVRkUFdnbmFlQ3k1alAzZnlxRDdpaWcyQ3Q3Ti1xTW9qOU5Hbg?oc=5",
+     "published": "2026-11-15T07:30:00+09:00"
     },
     {
-     "title": "의정부문화관광재단, 연극 ‘불편한 편의점’ 21일 공연",
-     "source": "내외뉴스통신",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1rdVpGTTZCWjl1YVlsMzJhLVdILXd1dmcxMFR0WWQxeWNaN2FlNENBQlo2emtoYlRGTWJVUDZIU1NvNE1wbmZGdXVMQTZhMllBUHZmSzlLc0ZfMFdxUXZYQzJyUF9SMDJWQzdhatIBcEFVX3lxTE1ydGpFN2tiNDhqb29BeGF3d3ZMTUtVMFp3bTc3WVhPOFhsM2h6OG81RWc3WVdtX3NBZ2pxcE9Bbk5DY3ZCYWg1ZjVMZDVBcnpSNGt6NGdZTVp4Q21zUElTTlpyaGtnVHNrb1NHX2prSjE?oc=5",
-     "published": "2026-11-14T14:45:50+09:00"
+     "title": "세븐일레븐, 성시경 픽 ‘남해안제철꼬막비빔밥’ 출시→할인·증정",
+     "source": "싱글리스트",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE56MjdCZVB4bnByeEFLS0thY0FzNjlZT0NJUW1WaTVTbUZTV3hlWW56SlJTMmdqR0NKMzA3VHZjaEt5NW43dkhYMGRiRjUwVmxFNGQzWDdvNThlcXE4VVFMQVQ2QUlLZw?oc=5",
+     "published": "2026-11-15T07:18:04+09:00"
     },
     {
-     "title": "편의점 신상 크림빵 미쳤음",
-     "source": "네이트",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE92X0l5cGh2VjdRampwWFVGbk5wV0RjRG1ybm5vck9KMnVoYWQyeXBVNlhXemo0eTBWckNJWEJfZ2g2Ulo1WWV6NGJ5dnVZUFVra09yekZ3?oc=5",
-     "published": "2026-11-14T14:28:07+09:00"
+     "title": "AI·할리우드·초호화 호텔까지…정용진, '탈(脫) 유통' 승부수",
+     "source": "연합뉴스",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qM3VsbjF4dm9taGFkZXp5dmdiYVQ4YWRpZ3hBTkYwTGNNNDNiOTQzUngzZ19KN1VfSnh2ajhzT1JmcTZxN0w5ZElGcklxZ2lENnlKUkZFTmFxMlJRTHF3U9IBYEFVX3lxTE5qM3VsbjF4dm9taGFkZXp5dmdiYVQ4YWRpZ3hBTkYwTGNNNDNiOTQzUngzZ19KN1VfSnh2ajhzT1JmcTZxN0w5ZElGcklxZ2lENnlKUkZFTmFxMlJRTHF3Uw?oc=5",
+     "published": "2026-11-15T07:00:01+09:00"
     },
     {
-     "title": "다낭경제대학교는 2026년도 세 번째 졸업생을 대상으로 박사, 석사, 학사 학위를 수여합니다.",
-     "source": "Vietnam.vn",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTV9pUmhDRmNjX2NSQ1ZZXzNHbHhJTEhocU9ZakNTV2Y3c1ZxVWVWSWxmX1pfMHR4VFBjQnNMMUJaYkQzWnIyWE1LVy0tR01ycFlRWWNoQVdiaElrQ29RNzJwcGdVLVE1ekZVLUFOcy12eGlyVEZITGt4WlBnckVwNUdaR0dkVjFvVHFsaGdDUnZqbWl0ME1WdTh0ak9UOG5UNG9Ddl9BZHYxU0Jw?oc=5",
-     "published": "2026-11-14T14:26:04+09:00"
+     "title": "고흥군, GS25와 손잡고 농수특산물 전국 판로 확대",
+     "source": "신아일보",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9KV2EtR2pVSnM5dG5yR1BlRjlveDBsVXlBWjNCRWRRWGk5Tlp3cE1JcHhTelp0R3ZEQlVpQ0F6dXExS1RWYnU1V3NGWGs0b1pyQW9la3A4cGN4U1Y5eWNTNjlhMzM2MnR6NElvWk5JeWI?oc=5",
+     "published": "2026-11-15T07:00:00+09:00"
     },
     {
-     "title": "함롱구가 '디지털 주거 지역' 모델을 선보였습니다.",
-     "source": "Vietnam.vn",
-     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1GTEV4RlJnLWgtZnY0a21jVXhEYmZqNmI3bEdLeE9VcmtXMF9ON2JldjBvZTlFNzJTSEpEa01LbFBsZ0drSFJnYlpJNEhZTEFVWGlWY3RIRTU1MnRRRmxxTWhvZ0UzUjhKUjU2R2pwdkJxRWYxNHF2Rm9R?oc=5",
-     "published": "2026-11-14T13:44:46+09:00"
+     "title": "직영점 버거킹 vs 가맹점 맘스터치…'1조 몸값' 매각전 동상이몽",
+     "source": "IT조선",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96TURCUnYxaWNzTndQcmFCU1M4V2w2WEMtcldzVHl5SWtPdUNHZEJiWi1wVjNyM3dzd3lGSnlrSTBuSUVwaEFiSG9oRXI2Z1JtVHVNWURScExNVko5Z2RlYUsyaXdFeDlaU0pyT3IySGlDRFpD0gF0QVVfeXFMT3pNREJSdjFpY3NOd1ByYUJTUzhXbDZYQy1yV3NUeXlJa091Q0dkQmJaLXBWM3Izd3N3eUZKeWtJMG5JRXBoQWJIb2hFcjZnUm1UdU1ZRFJwTE1WSjlnZGVhSzJpd0V4OVpTSnJPcjJIaUNEWkM?oc=5",
+     "published": "2026-11-15T07:00:00+09:00"
     },
     {
-     "title": "철도 건설 사업을 위한 재정착 지역 조성을 시급히 완료해야 합니다.",
-     "source": "Vietnam.vn",
-     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbjg0WHRDeDBZaDFiWFZzc1ZMS0NkVlRVR05nYWo2WlI3R0VYZVJvRnM2dmh2bUQ2eVlkU001UHpTXzRRS0R5RWtMRndTMjdhSXdfb2FmT3gtSDhRNERnNThsYTAzNkw3RkxzUGV4b1BhV2dMdEtsVmxnaGlIQS1mNzVuY0NYc0hURlNncERDVUtscUxyNFJN?oc=5",
-     "published": "2026-11-14T13:24:43+09:00"
-    },
-    {
-     "title": "“여기는 불편한 편의점이다”",
-     "source": "서프라이즈뉴스",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9EdTFyVjBSa1FubzcxNnJSc2RYVTlHZTRvRnd4OGJlZGV6dVAzYkJwXzNWTl91ZmdCRHMyZzU0cHdUUC1OeGx1ZWl4RThZTEZ0U0hhbjRTT05IamJkb3FTSktwX1N1d3M2RlBzMzctOA?oc=5",
-     "published": "2026-11-14T13:14:45+09:00"
-    },
-    {
-     "title": "\"사진 찍고 가세요\"…홍대 나란히 우뚝 선 '핑크 건물' 정체 [김소연의 얼굴전략]",
-     "source": "한국경제",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxQ3pocHo1UXo0R0JZV3RSM2xIcWszWTlMcy14RUhYczJxVXcyOFV1S09YMGhzOXdfQjU5LXhHdHBtOE5ETmhNZ0FtWnBOYnpzRWNudTI4TUV2UQ?oc=5",
-     "published": "2026-11-14T13:00:01+09:00"
-    },
-    {
-     "title": "미국 재무장관이 주택을 군사기지로 이전하는 문제에 대해 입장을 밝혔습니다.",
-     "source": "Vietnam.vn",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTk9jSk5QZ0JxSzRHTUpVaEVyc2xoY2RmY1JqSVlockR2MllsSC14bTBUQU90SEtGMG1aYWVvWmJFYkhxbXV1UHdxd0pfV0VLdmE2ckJHTVJGSjZUTDhOUDhRdGhKeHJNTzJMcTNHNE00SFhHQkozYU5ucnFYcFlpSHFIRVpmRWVQOElaMlFyZmZmTnhscVA2clFiSXU?oc=5",
-     "published": "2026-11-14T12:48:53+09:00"
-    },
-    {
-     "title": "지호한방삼계탕, 부산 프랜차이즈 창업박람회 참가…영남권 가맹 확대 나서 - 머니투데이",
+     "title": "홈플러스 11월 셧다운 현실화되나...\"자금난 심각\" - 머니투데이",
      "source": "머니투데이",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1CUGdtdTIwMGxLcF9POTNMenRCNXExU3JrN3J5MGZnTWZCQkFxUGRpelBzcE1sVXMybGw3LVI4bk5tdDB2cVZjUVNlblN6ZVgwRG5aVGlPelNmOW1lSHdKX0FXdm45Z0xtVGVDVdIBckFVX3lxTFA4VW1WU2wwQzVYbWRqX3l0bzhDVi1wRzRQOXZySmFvX3JHa0RZcExULThYdEQtZWVTS1NiZlVPbERNTEh5MkVBX3ktWUZYMHd6Mm1tSWM1M3hXSmJzcm9iejZkeGluTklCUWZ1cGtTMHk2UQ?oc=5",
-     "published": "2026-11-14T12:32:22+09:00"
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54SERoSlBwMy1tREF4ZmZ0SzVUMFZSREJUdUdVd19GM0xBREJVTm1RbTV2QnpxZ1ROZGpud3ZYNG9hVmdNUi03VzBVN0s1NW0yTlJ6M05kLXdrVm9SNXhlRE1CMU9nMVVzVHfSAW9BVV95cUxQcFAycl8zcGh0Mjhza2R3aGRNWVBXZC16dkt1MkJjemhBSEtoOERJVmtsdXhpaDZzdlhNZEp6Z2pBZTI1T0JVM3lsNXN5ZGZBM3lPUm0wYXZkSXJZWS1ZUUtpN1BFaFFqVEFxbTRfdDg?oc=5",
+     "published": "2026-11-15T06:54:26+09:00"
     },
     {
-     "title": "[다음주 유통업계] 백화점 겨울 세일·수능 특수..연말 소비 선점 경쟁",
-     "source": "한국정경신문",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90VklJVTZqUGZNYXpuT2wtNXdKWndRUGhjZ3ZNRHpuT1hQQ0Yya0N1dXR3NWdBeTREVTZ5ZTBlX1VRMWtMcEdIcUc3TW5hUzJ4QUE?oc=5",
-     "published": "2026-11-14T12:25:02+09:00"
+     "title": "유통업계, 연말 앞두고 와인 기획전 마련",
+     "source": "라이센스뉴스",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5CWE5heGRUVE1Ga2pSbWhjNEk2U3JIa0l6dTFzRnBJQ3FsWnZkQno1NG0xNGlPNEFtTjdFcjUycEtQc1RCckdnNE4wU3NqSWhMQUxWVnNlMDRjZFUtUUVQNklEWXUxcmJzNTNV?oc=5",
+     "published": "2026-11-15T06:00:00+09:00"
     },
     {
-     "title": "\"소맥 타 먹던 시대 끝났다\"…이젠 캔 하나로, 주류업계 판 흔드는 '소맥캔'",
-     "source": "뉴시스",
-     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE52Wl8wMnJqYTd3YTAtWk91RlV4Zm5Tb1BUbzdFNXNrM1d3ektic2NKMnVadF93bHhtMGJ1bDZxTGluRUExYzg2eFVKTUV2dWpmNVh0Y2tzbnNFVHJwb1dCa3lXUFQ5OEN1blVESkhOZFllZnJkODlDeNIBeEFVX3lxTE52Wl8wMnJqYTd3YTAtWk91RlV4Zm5Tb1BUbzdFNXNrM1d3ektic2NKMnVadF93bHhtMGJ1bDZxTGluRUExYzg2eFVKTUV2dWpmNVh0Y2tzbnNFVHJwb1dCa3lXUFQ5OEN1blVESkhOZFllZnJkODlDeA?oc=5",
-     "published": "2026-11-14T12:11:00+09:00"
-    },
-    {
-     "title": "노브랜드 버거 먹는 '기안84'…시그닉 바르는 '키키 지유'[유통가 새 얼굴]",
-     "source": "뉴시스",
-     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0zQmhVVnl0NVI0UFQ3dVJRSW5icWthaEJmWHZJZWpLUF9CRzg2SlFFUUNyZzFfS0ZSaEhzMXd0WGRRYVVNamZUdFh1aUpyOW9ENHZ5WTEtbjRSLThlQ084aEU1WmkybVdodFN4cUc4RHpPVTVmRW5XM9IBeEFVX3lxTE0zQmhVVnl0NVI0UFQ3dVJRSW5icWthaEJmWHZJZWpLUF9CRzg2SlFFUUNyZzFfS0ZSaEhzMXd0WGRRYVVNamZUdFh1aUpyOW9ENHZ5WTEtbjRSLThlQ084aEU1WmkybVdodFN4cUc4RHpPVTVmRW5XMw?oc=5",
-     "published": "2026-11-14T12:00:00+09:00"
-    },
-    {
-     "title": "BAEKHO(KANG DONG HO)社群貼文 - 예전에 동호가 추천해준 편의점 쇼비뇽블랑 진짜 잘 마셨었는데ㅋㅋㅋ",
-     "source": "Weverse",
-     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE81LXJoTkVwY0RQNzFabDhKbTJVSDZadGluOHB2ODc5RXJNeWNwanBscG9UNXhnSDNXM041QkN2Z1pFX0UyZGZsTUFyN0lOTXVsSzBQYUdSNzNTblppYUJuUkxlRS0?oc=5",
-     "published": "2026-11-14T11:46:52+09:00"
-    },
-    {
-     "title": "미국 재무장관이 갑작스럽게 군사 기지로 이전한 이유를 밝혔습니다.",
-     "source": "Vietnam.vn",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdXB3R0YzSEJQa0RpVkRRSlR0N2NWT3dZS1cySG02T3RfSmJzc1RmRkdWOUxUcm9jdHY2UUprRExvSHY3Mkxpc2RNelFXRDlqREZTYS1vY1ExcXUxOEEtNmJrTHdzM3ZkNmE3b09aeTJyeTBha05peEZ3OEd0aWc3SEozZ3E2YXlhV0VJQ2VUMnZMbzNsNWVNcFIwX0ZSNGRlSkhB?oc=5",
-     "published": "2026-11-14T11:12:23+09:00"
-    },
-    {
-     "title": "백설기는 피자로, 찰밥은 아이스크림으로",
-     "source": "마켓인",
-     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xSkxxeXJpS1FzeG5pN3lDRzZVNG5BMldiY1dKeU82OTF4bmlJVGdqS3J2Zm5UU2FOMC1kOFB4LWN0X1drWlMzZWJENnVxT0xacVA0cHMzNDZOejE1U3A0ZUYtckdKNGFYREIxdFFBTVV1RDA?oc=5",
-     "published": "2026-11-14T11:00:04+09:00"
+     "title": "\"광주·전주 싫다\"…코스트코가 '익산·순천' 소도시 점찍은 이유",
+     "source": "땅집고",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3eHJUckFDd1REWkJIQ3p3aDRsMkxLRGIzenRKTmQzMjZTZHdBbHdhc25HS05jUm5UVjA2ZkdPMFo4MFlBTzljazBwZ3hqV2VjdXA3QktfcGk1ZGw5eGNHNW5lYjBYWEtyUG1kbXF5Y3NTQ0YxVDNPaE9KMHVmekXSAXNBVV95cUxPN2FTaVhrZUM2WXZESElXdktSd1k4MFBrQ1gwU3pNa2d1TUR2RlE3d0dJek5pcDRmUVItOWRDcUZNeDd2MFA5Yngyd1h3U0ZXN2ZWUjI1Rm9yb0E0MXUyTHV6dWxsdURTbEJoR2s2VjFOTlRJ?oc=5",
+     "published": "2026-11-15T06:00:00+09:00"
     }
    ]
   }
