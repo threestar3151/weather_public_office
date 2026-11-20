@@ -1,15 +1,117 @@
 window.NEWS = {
- "updated": "2026-11-20T10:58:06+09:00",
+ "updated": "2026-11-20T20:03:50+09:00",
  "sections": [
   {
    "id": "law",
    "title": "법·제도",
    "items": [
     {
+     "title": "[설명] 한국경제(11.18.) 영장없이 기업 강제조사하겠다는 공정위 등 기사관련",
+     "source": "대한민국 정책브리핑",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1NQ1lPY2VHTHNPTFdqdGFKdmszVUdlc1hZNmNCQWFZeWNwdEtDZ3ctYlFKeXRYT2ZvbHYyTURqUVZlVXZGdzZyRHVPTGNxOXhNby10ajNZcVlpQ3N6SDhMem5aVWJkTGRMdjZWVWRuaw?oc=5",
+     "published": "2026-11-20T17:48:45+09:00"
+    },
+    {
+     "title": "“몸값 높여야 하는데”…투썸, 강매 의혹에 엑시트 암초? [재계톡톡]",
+     "source": "mkbn.mk.co.kr",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5FV0pkd2RIcl9adUdUZk5RenJMVHotNU5nUTFKaXJ1REFBSG5ZM19FU0FvSjNvU0hDZUJpakkxTlZsWUZPeHlJMERpV1F3RUlpWUdWTTZfNA?oc=5",
+     "published": "2026-11-20T16:26:54+09:00"
+    },
+    {
+     "title": "공정위 점검 비웃듯 또 '강매 의혹'…투썸 칼끝, 칼라일 김종윤 대표 향하나",
+     "source": "뉴스로드",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ncDZ2bjFodTZaTlhSbXdHcm9DUlBBa0xWM1k3UTQtQThSSFVjWE9ZVG5HOEJGUGpkTUc3SU1TV1JidWc2LWlZZHFwV0djcDRLTFl6SlU3VXF3WUlZZ29UeXlVbnVrdDNPZllpR01XSdIBb0FVX3lxTE5ncDZ2bjFodTZaTlhSbXdHcm9DUlBBa0xWM1k3UTQtQThSSFVjWE9ZVG5HOEJGUGpkTUc3SU1TV1JidWc2LWlZZHFwV0djcDRLTFl6SlU3VXF3WUlZZ29UeXlVbnVrdDNPZllpR01XSQ?oc=5",
+     "published": "2026-11-20T15:55:13+09:00"
+    },
+    {
+     "title": "“전자담배·대안학교 사각지대 봉쇄”… 김효정 교육위원장, 청소년 흡연 예방 2대 조례 상임위 통과",
+     "source": "스포츠동아",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB4bU5WV1hFcXIwMkFULWNZbmpmOGNzQk1nVGhlZF9xZXBEWEdlQTNFZ0NFaWU3VVpJaUs0bWJDVHdrb1YteTRrb2RyclB0OFdGQW1FM3RkMjRxa2p4ZHQzdTFNeWw4YXhnd3V4SWFybjNWUQ?oc=5",
+     "published": "2026-11-20T14:55:04+09:00"
+    },
+    {
+     "title": "[경제, 알고 보면] 편의점 1+1, '덤' 하나의 값은 누가 치르나",
+     "source": "폴리뉴스 Polinews",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBtLVU0NDY5QmZucXYwZUM1THBrTHNYbE9Cb3lsOFFMai14MGpYeHdDUWtmOVFnMmlWQzd4ZW1uVmRpc2dGYUJKS0djMVVBZ3A3a3MwWTVyOFk4NUdVMUJTeER6TC1HdjlZX0F5cnVB?oc=5",
+     "published": "2026-11-20T14:46:41+09:00"
+    },
+    {
+     "title": "공정위원장 “온라인 플랫폼 시장력 통제할 법제 서둘러야” : 경제",
+     "source": "재경일보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBuVDNWQjhhN0RLLTFnSkRiQVVmWjRzQ2tzRFhmTGhEakM5V3NyZ2lPNGlqbmRDZlZ0SENaT2c3UExmM1dMTk5SRmlNdw?oc=5",
+     "published": "2026-11-20T13:45:26+09:00"
+    },
+    {
+     "title": "“10년 걸려 합성니코틴 잡았더니”…이번엔 ‘무니코틴’ 가면 쓴 유사니코틴 활개 [수민이가 화났어요]",
+     "source": "세계일보",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBlTHRNRVF3MUJTUGZxdEQ5MU9XMzVKOXBsX1lTR2pSNXdXOHdhVFhZcU92dVR6WXN1aXN1NGhrdkVGRGJEMU1IMHZCMlVkOEZjZ2MwR3MzdFdZczVoZ09fUkxNVDVoMkc0WDRR0gFUQVVfeXFMTjF6bEJ4UThRLUhaLWdHbkpJYUljZDBWSWZNR00ycXV5TEtqQjRrR3NYSFEzelR1c2EzdzljMVZUSVlTZVlvV18tdXdsTThfSTVOcnVU?oc=5",
+     "published": "2026-11-20T13:40:06+09:00"
+    },
+    {
+     "title": "주병기 \"플랫폼사업자 시장력, 흉기될수도…후진적 법 개정해야\"",
+     "source": "매일경제 마켓",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBGWmJQaEs4REQ5OERfMkc2OVd3VjBZQWtrSzFpSHV6SktGMEhlNG1CanVobFRoM3AtMlQxcXZjVWZlcVowWGRjbWZzRmRHUFhFdFE?oc=5",
+     "published": "2026-11-20T13:20:01+09:00"
+    },
+    {
+     "title": "공정거래위원회·한국유통법학회 추계 공동학술대회 개최",
+     "source": "Daily NTN",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1uZllDOHJHcGt5MlV6LURwamRyRlJ6MUZlR044aVgzNlE5S0lrZXdSaDRQSTNtQ1FGTE9RRlBSYk9fUzBrWkJELUhITU5valREZTBDYzhJdzYyRlJmbkcwNjNuRmZJXzZYcXc?oc=5",
+     "published": "2026-11-20T13:20:00+09:00"
+    },
+    {
+     "title": "공정위·유통법학회, 납품대금 지급기한 단축·대리점 협의권 논의",
+     "source": "아주경제",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHRkdYTC1VZnRINEEtVnVxWjgxY1Z1Tk9PcWJ0aVhRaGFob2FBcTdvV3E3RDRCdzFRMmlfTlRGdVF2OTJFeTJPVzF0TzdHd280TUdoejAwdjNzZ9IBWEFVX3lxTE9YZDBZVzdraTVnM3VSWmNLaFlrNnFFQUQ1cWFHX1pFTjU4Yml6U1BtQ3FMbV81a3NsdTRsS29zb0dJQUNhaHBkNlROQjAtQjdaRFFvb0d3eUc?oc=5",
+     "published": "2026-11-20T13:20:00+09:00"
+    },
+    {
+     "title": "투썸플레이스 또 '갑질' 논란… 89만 원짜리 POS 232만 원에 강매",
+     "source": "내외경제TV",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56Y3BSd0tWZGRkek1QbmxoUTBJYXlNMy03UFFoMW81a29qcFRqVmNlRklGdlNLcFIzcU9sdEJXMzdLWFduOEdhS01CWUdaUzJ2dF9fREpWWXRlazlzNk9GR3h1VHVUVXV0QVlR?oc=5",
+     "published": "2026-11-20T12:44:40+09:00"
+    },
+    {
+     "title": "81조 B2B 식재료 유통업, 법적 사각지대 해소해 외식·식품 산업 경쟁력 높여야",
+     "source": "식품음료신문",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1OTHJqZk9FM2tCekNWNDcxc09jZExRWExGd0lQWVBPY1A1VWkwUmNfWE5DbkRCWGdxRURZZHBhZHRaTG1IenNCOHMtMnFKaEtEbXhZUFJ0Y09GR1k3cHZGckd2ZTFteDBsXzk0YzdOOA?oc=5",
+     "published": "2026-11-20T12:00:19+09:00"
+    },
+    {
+     "title": "부산 청소년 전자담배 예방 강화…조례 2건 상임위 통과",
+     "source": "더쎈뉴스",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15ZnBNUGpEcjNoSko1UjdQYUpvVGVXNnl5ZDBESlFxNFJwWk0yem1ZMzN3cDl1ZmJHTW56N2NpUkVObEpiRzBfM2xUaElnLW1OQktDaEhkOEJOX1E5WVhsS2k4YndmMkE?oc=5",
+     "published": "2026-11-20T11:33:28+09:00"
+    },
+    {
+     "title": "부산시의회, 청소년 전자담배 예방 조례 2건 상임위 통과",
+     "source": "국제뉴스",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9xX0Y2QUdTSVQ4QlNXUmFSUUFQRmN6UHBpTndCSmZGUUtMRVFqZUZjdFVlbHRSbGljSDA5ZjdKMnVPNG84RnY2c0phbDNaSUkxMzFURUJsVXFrbF9JVHRBM3J2UGZfNm8wXzFXR2lB?oc=5",
+     "published": "2026-11-20T11:13:22+09:00"
+    },
+    {
+     "title": "공정위, 투썸플레이스 가맹점 물품 공급 관련 조사 착수",
+     "source": "위키리크스한국",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05X2xpVzg0LVNUdEJtVDJxSWJTS3kxNkR4alBIdzlDc1dsaEVRdzRoTVVmNjhMamg3Y3dVOUpUdDJ3NjdCV0tpTXIyTDE5b3JITF92bDFBTnVnd0dGcWJuc2lnbGpmNDRQeVJJdVZHOGI?oc=5",
+     "published": "2026-11-20T11:03:58+09:00"
+    },
+    {
+     "title": "EBITDA 1020억 투썸, 공정위 조사 발목…칼라일 매각가 영향은",
+     "source": "뉴스톱",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5LQzhRNmJQNzdQWHBuUEhvSmpyOVFfdU90S094ZUxOREp0ZW1CVmcwMFZQMzVXb0c4djRnTlZORTNqRlVYYTIyQWUtUUY4Nl9QMEpxQlRvOURaY0xKMXc?oc=5",
+     "published": "2026-11-20T11:00:00+09:00"
+    },
+    {
      "title": "부산시의회, 청소년 전자담배 사각지대 없앤다…예방 조례 정비",
      "source": "노컷뉴스",
      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE15WXdfTUtUNlB4S2VmekxEQlRXS2I3bzJxaFlaYzYyb21nMDB0cjdVb2V3SEl6YVd3LTZxYVpuUndYaGEwVU0zU0gzWjJQYWVUSFE?oc=5",
      "published": "2026-11-20T10:14:15+09:00"
+    },
+    {
+     "title": "부산시의회 교육위, 청소년 전자담배 예방 조례 개정안 2건 상임위 통과",
+     "source": "검경일보",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBaV1F1Y0pkMVZMQ3VuZjV6QVVjbHdaNlVrR0ktZ0NMdjNBMzBLWEdjOXZidUlEMjc0dGFNM3JSODN2M05aUzN2b2dTUThKMEhDS3V4N0Qzb1FpYnphdkViMl9kYmk3QQ?oc=5",
+     "published": "2026-11-20T10:00:08+09:00"
     },
     {
      "title": "문영주 투썸플레이스 대표, 공정위 '가맹점 장비 강매' 의혹 조사…POS·키오스크 2배 넘게 비싸",
@@ -22,60 +124,6 @@ window.NEWS = {
      "source": "이코노미톡뉴스",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50bGNqazQydlFyQkMxaHp6cGdPUjI0RlU5YWxQUHdnVFFiWEpFdWloZk1mX0k0X3N5TUJqaFlzWlJUQk04UzZBYkhuc0xsUUYxYTY0TnRIc3JaekNtM3RpVmdxajN1RjhKaU1hTw?oc=5",
      "published": "2026-11-20T08:00:00+09:00"
-    },
-    {
-     "title": "공정위, 투썸플레이스 '가맹점 물품 강매' 의혹 조사 착수",
-     "source": "글로벌E",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE54YmF6RWIxckFBUkh4R3M5cm1pYXpvTkJ6LXdta0FyNE1MZzZqNFNaTGt3bGt4M19KQ1RfWXpkSkxlUC1TYmVkbVlSUWgycUdIMVdkV0kxdTFSbzlmY21WT084WXgtT3RlN2lGNl9sMNIBb0FVX3lxTE54YmF6RWIxckFBUkh4R3M5cm1pYXpvTkJ6LXdta0FyNE1MZzZqNFNaTGt3bGt4M19KQ1RfWXpkSkxlUC1TYmVkbVlSUWgycUdIMVdkV0kxdTFSbzlmY21WT084WXgtT3RlN2lGNl9sMA?oc=5",
-     "published": "2026-11-19T17:58:29+09:00"
-    },
-    {
-     "title": "'가맹점 구매 강제 의혹' 투썸플레이스 \"사실 확인 중, 조사에 성실히 대응\" - 머니투데이",
-     "source": "머니투데이",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1EX0ttQnpMNnp0VWU2WjlfaFpZT0VhY2c2d1Rwby1XYUkwbHUzS1puSUY4SjV0bHdaTnFfSTJJaUdYNXZ6VlZhbGo1ckoyd0ctRi00Qjl5WFRrY2x3WUtPaDVhRl9yWVJkRk5DVkNhRdIBb0FVX3lxTE1EX0ttQnpMNnp0VWU2WjlfaFpZT0VhY2c2d1Rwby1XYUkwbHUzS1puSUY4SjV0bHdaTnFfSTJJaUdYNXZ6VlZhbGo1ckoyd0ctRi00Qjl5WFRrY2x3WUtPaDVhRl9yWVJkRk5DVkNhRQ?oc=5",
-     "published": "2026-11-19T17:05:38+09:00"
-    },
-    {
-     "title": "공정위, 투썸플레이스 가맹점 물품 강매 의혹 조사",
-     "source": "일요주간",
-     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5kaktkaGNXUVYteVhYdi1pamZkVzd0bXI3TzJjQWgzc2xmUVpGNDJLMkpPNmxKd055LXRqNXpLOTduWDc2U0JaOVFCa2RKckkzUzNkZFl2akx6SlpLM3hjVEhSMC1hVGh2M1VtTHJ2UldjU0F1UVI1dA?oc=5",
-     "published": "2026-11-19T16:40:23+09:00"
-    },
-    {
-     "title": "[ET단상] 한미 기술동맹과 플랫폼 규제, 오해를 넘어 설득으로",
-     "source": "전자신문",
-     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9EYVFrdk1VRjQ5TlRkbkt4bkxnV25KYzBka3BCOUxqVTBra1RwUWRfbjgyTUtkRDdkZFV4d0EtRTViV2tSZ2xJRGRTWHVyZw?oc=5",
-     "published": "2026-11-19T16:00:00+09:00"
-    },
-    {
-     "title": "투썸플레이스, ‘가맹사업법 위반’ 의혹 공정위 조사…점주들, ‘2~4배 폭리’ 재신고",
-     "source": "SWTV",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9uNDBPancyVDVsRGtCdVFKRjF4NzR0UGpvZ3Z6dkZQLUlWWmVOdFdZOG5jQ0ZtQklSVDlYT1hWTVJUOVZqRjAyOUczbVppOG1JY3VVQWUxdWEzMk1rUnJtcmQtRlVFeEE4M2o40gFrQVVfeXFMT240ME9qdzJUNWxEa0J1UUpGMXg3NHRQam9ndnp2RlAtSVZaZU50V1k4bmNDRm1CSVJUOVhPWFZNUlQ5VmpGMDI5RzNtWmk4bUljdVVBZTF1YTMyTWtScm1yZC1GVUV4QTgzajg?oc=5",
-     "published": "2026-11-19T15:34:44+09:00"
-    },
-    {
-     "title": "공정위 ‘조사 거부’ 과징금 인상이 “영장없는 강제조사”라는 한국경제신문",
-     "source": "미디어오늘",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBNcl9sSURfNzlxV2NmTWJ2Y19uTE1XeHVpV004REtVZEM5bnZlajJkclpaeGQ5ZHdoaVQxTVk4RXhrSGtfMS01VjVrb19xbDBVNWV6TTY0WkVsRVFNZElpTWpQLVBTb2tqdXEtT3o3Unk?oc=5",
-     "published": "2026-11-19T12:39:18+09:00"
-    },
-    {
-     "title": "친환경 소비 확산…쿠팡, '포장을 보다' 기획전 개최",
-     "source": "청년일보",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vc0NqZ0JwVTJrMXVHdjdaRXJaMFVPY0JGZ1JDSHRLbDZ0TGl1dl9zUHFuQ2dxYUREYXZTYURhWVNPTXNOcjh4amhZRm9UbWF0cVZfb0VJNzY3cFI5TTZ4Z1FkMm1FdUtPTlE?oc=5",
-     "published": "2026-11-19T11:39:47+09:00"
-    },
-    {
-     "title": "크리스마스 케이크 대목 앞둔 투썸…공정위, 가맹점 고가물품 강매 의혹 조사",
-     "source": "파이낸셜투데이",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5pZDdSV204QUo2Rkk4aXRhYXI4aXd4dmsyc2tubldJWVZ0cC1oVTZ6U0lkLUVrSF94UzNLMlhFTHg0bnZZY09OTENCd0x2N0p1YmpTVVNzeDU2Z1prcmVmdWNSTWRsTi1OamfSAW5BVV95cUxQa3A4X0VZUWNoaWhfUjNRemJJSUMwdlpxM2hjejhBblZseGJUSXlRYk5TQjU3ekRJQlNQbUZPUkRLWWR2UkFDdThhb3R6ZlpQdF9MaDM2bElKU25PaXlib3JqWVZXbXFPU1ROcmU4Zw?oc=5",
-     "published": "2026-11-19T11:07:22+09:00"
-    },
-    {
-     "title": "공정위, 투썸플레이스 ‘고가 물품 강매 의혹’ 들여다본다",
-     "source": "뉴스로드",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1uUnJUci1xbXBySC12TXczWkRtSXlTdWpxbzJNZDF4ZFZWaHN2dEZpT0ZRYi1KVDlFV25BdENkQlAzaEItVzBRczFZNHpWNnJlYzRhV2JBMFdJd1BmRnhBbUY5SzZBVkp6YTNnXzdrd9IBb0FVX3lxTE1uUnJUci1xbXBySC12TXczWkRtSXlTdWpxbzJNZDF4ZFZWaHN2dEZpT0ZRYi1KVDlFV25BdENkQlAzaEItVzBRczFZNHpWNnJlYzRhV2JBMFdJd1BmRnhBbUY5SzZBVkp6YTNnXzdrdw?oc=5",
-     "published": "2026-11-19T11:05:43+09:00"
     }
    ]
   },
@@ -84,124 +132,124 @@ window.NEWS = {
    "title": "유통 뉴스",
    "items": [
     {
-     "title": "[냠냠뷰] 아이돌 엄마의 반찬이 편의점에…‘원이 도시락’ 2종 맛보니",
-     "source": "스마트투데이",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAwNmdyTTBfSVUxaExRQTRFLXpXMUZtZEt4MGdfWVNscmxic1FfUGlaaGZ4VG1qcS03Y2FPSzY2bWt4SWhfNXNCNFBYRXJTZl9BdW9FbXlfTU5vX1A3Q3A0?oc=5",
-     "published": "2026-11-20T10:50:00+09:00"
+     "title": "GS리테일 GS25, 주류·건강기능식품 패키지로 국제 디자인 어워드 3관왕 수상",
+     "source": "로이슈",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ScVJGVi1IX2J1b2ZSeXFDaEZYZkFwTk9WeVNpek5tUWxXVWVyS0hTamtOUVNGWGdqQmUydEgtMm9fRF91SThpVVNsaHU1YUJ6WURUQVg3Yko1dlJIVjlIUUVfRTlWNEFfaGdfOVdFNjFGZ2NBOUlZOGFn?oc=5",
+     "published": "2026-11-20T19:10:36+09:00"
     },
     {
-     "title": "편의점의 변신…광명시에서는 24시간 무더위·한파 쉼터",
-     "source": "뉴시스",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03YjNTSjdVVnF3cXR4ZW9kZ25JSXBtNlllcDVVSnNjSlBwdHUzZy1MM2NoZ3RXX0o0cTRYWi1mOGNRN0JxM0ZOS3djRzltWmhjYW1YbEFZMmFGN3NHSGZxatIBeEFVX3lxTE5xT2pNbERmRHhjblhfVG1LaU5hbkVtNF9pRnhJM3d6OG5KVWdTanpVLXZ5WkJRNkJnTHRVeGFmTjZnUFFzTlJSUTNIRkx0eHREV2FWZlFSc0tFank4RGVDeGtkU3YzbklrLVU0dEFxYlB4Y1ZtSWpyRg?oc=5",
-     "published": "2026-11-20T10:45:38+09:00"
+     "title": "의류·기저귀부터 먹거리까지…유통업계, 연말 앞두고 나눔 확대",
+     "source": "세계일보",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5PQUM4SUs4ZHdXeFVhdkJiSkxlOFJHTFI4VnBtLU0tU2IwS25uemo5VFJPd0Fhb05RVktiMVU1LUVUbm83UFAxS2Z5S1ZyZ1hIVFZzTmFPTHDSAVRBVV95cUxPZ3l4d3NSTFBVblBjV3VwUzZReXFuUXh4UVR3aklvRkN4Mkp1Vkd2N2dNN0FMc2hUNHAzcld1UENDQm1ycWtvNUpGdWlYT2l4OVBmLWc?oc=5",
+     "published": "2026-11-20T19:00:00+09:00"
     },
     {
-     "title": "KFDA, ‘농업과 식재료 유통산업 상생토론회’ 개최",
-     "source": "물류신문",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5kaUdxdTBEeU9sbnF1SGY4U1h4cGNjeUxXOVRCQ1RIX1FuQ3hHVlNSLTc5ZGdhUGFTSmRSZXJVVXo4c25XcGtoVThyejE3dFdtQ3U0VkxmS1Zoc0h4c2VSZ1VqQlRib0Z3eWVZ?oc=5",
-     "published": "2026-11-20T10:42:07+09:00"
+     "title": "[임실근의 단상] 편의점 산업의 전환과 공정한 상생 경영",
+     "source": "글로벌이코노믹",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRHhPdzlhYURCWHM4Z0wxMUp6YXFkZXdEMEF1QU1MZUxTVW9mMVdPcW1ULUwzOHg1djRIYjF4NlFrY2dVRnMwdUY2MW4xemd3RXp1MUFsM3pMeTVJeVBMcm5MYUZqU0xZdkdVWVlTQ3F5SkQzQmdiMV9LR1J3UE1MUlpIeVk?oc=5",
+     "published": "2026-11-20T18:31:48+09:00"
     },
     {
-     "title": "[위클리오늘] 이마트, 쿠팡, GS25(11.20)",
-     "source": "위클리오늘",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TNS1WRi1sYUE2ZEpCTlNmUi1PWHA3QTg0YWhKTHVNZDN4MGtHRmlkd3JpVXJVOVVuX2djNjFDN3pSTUxuRGxrRFRxSmg3UXQ5cDJ6NGd1MDgwVTNSQWZYczdkZXZxVHRtU3NBZEZn?oc=5",
-     "published": "2026-11-20T10:29:57+09:00"
+     "title": "[동향과 전망] 티스테이션·LG베스트서 튼 음악 저작권료 본사 책임은 제동 왜?",
+     "source": "www.climatepol.com",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zRWZrWmZfY3FaMWdreWdaRV9yQk1mTmgyWW9SbnBYSUNPTDZZcnQ3X1ZlbE9SMmFqUVIyNDhBemQ5cjI0SENLQXBOZmtnYkhqX01Id2Q0ZU8zTjk5amhoR2VXX3llZEprUUVodg?oc=5",
+     "published": "2026-11-20T18:17:11+09:00"
     },
     {
-     "title": "“성시경 먹방하더니 라면내놨네”...세븐일레븐, 성시경 라면 출시",
-     "source": "매일경제",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81MFhLRi1QcHN1d1RqY1o4S1JJSzVwcGtHdmVIQ2p5eFVIWTQybDMxTkNoeWN1My1JTW9jTjJvcDJWbXpNOE1WSy1iVTBBczdxRkV4RHVR?oc=5",
-     "published": "2026-11-20T10:27:54+09:00"
+     "title": "손앤박, 다이소·GS25 넘어 노브랜드까지 '저가 유통망 전방위 확장'",
+     "source": "한국섬유신문",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBmN2l5NjBON05Pdk5VbFdnaFFqc3Yzd1A0a0FUUXJrZkhWbzh1cHBJeG84TkdsUjBPYUU1T1NvRXRoQl9lWkxZeDdHNlpJZXM1LTBSdlRWVlkzM3FjWEVtVTVkbFFiWGNz?oc=5",
+     "published": "2026-11-20T17:41:00+09:00"
     },
     {
-     "title": "편의점업계 ‘소비뇽레몬블랑하이볼’ 국제 디자인 어워드 3관왕·‘시경 pick 놀면리얼바지락짬뽕’ 출시",
-     "source": "여성소비자신문",
-     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE10eFo4Z245T2FMVWNKUTE3Wi1qMGpNRnVwTGpxN0JGSlQ1MVpSNmdmT2tfVG9qeTg0NjdSNG5hVV9pSlRZeHkyM3QwUGxSd1lSRUl6aHRIR3BSZDhxeU8yemFlakRmQQ?oc=5",
-     "published": "2026-11-20T10:27:15+09:00"
+     "title": "CU 편의점 역대 최초로 하루 매출 1억…‘맛피아 감자스틱’ 도대체 뭐길래?",
+     "source": "위키트리",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kanNWN0N6Um1zamZtSGNEeXBNWHZzelZ5QWlFSVJIZkJqLVpteHdxYTVvSUpiemhranRrTlZsZTg0VjNWUGdzc3RpMVV2c004NExOUjVR?oc=5",
+     "published": "2026-11-20T17:31:00+09:00"
     },
     {
-     "title": "[포토] 세븐일레븐, 성시경 협업 프리미엄 짬뽕라면 출시",
-     "source": "파이낸스투데이",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1STk1ZaXJUZFQxNU53OTZreW85RFVEY2gzNFRjWmVFZnpfTE4tYzM1VmN3NWtKQzhQTUdpRDNJeFVRLTFINUJsR0lsOTByYmUzQnZiSUdvTmNkcGVYZ1RyaTVwSGZzUnVDLUFhYQ?oc=5",
-     "published": "2026-11-20T10:18:15+09:00"
+     "title": "크라운제과 ‘미니쉘’ 딸기·아몬드맛 재출시… 가격·판매처는?",
+     "source": "금강일보",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mMTBPV1pWeUxpTUNsc2RybE5DaUZFUlhqbEFVUnR4bWktTC05eFBJOWNjaE5veXk0elpWTnJaRkVTeVpKOGQ4U3NEdnd4SHZvY3RvTTFMOWhCZ2txQlJMNHlTcEU4OWpUY1E?oc=5",
+     "published": "2026-11-20T17:26:30+09:00"
     },
     {
-     "title": "\"편의점약 단종품부터 대체…제산제·지사제 안전성 평가하자\"",
-     "source": "데일리팜",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10QktJbWdndzIyUWFaeG1yQlF6MWhyS2hjcGI3RnZPQVFBZC1aM2ppaU1OWE9iWnlFWXF6X2lZekJ4OVVramJUaE56b0JNOE5KcEgtWk5R?oc=5",
-     "published": "2026-11-20T10:10:20+09:00"
+     "title": "유통업계, 겨울 디저트 경쟁⋯브라우니향 커피부터 토피넛 도넛까지",
+     "source": "엠투데이",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA3WVNwd3Nyc2VZZGxoYlRSR3JUWTBwWTBJQkVScG5CN1RlQXJhWWp2SGxvQ1ozZGhoTTVLWnFTczJGV3hEODQ2RG9Od1lHWEhrellLS182OWllY2VHUUlpRS00S2szZkpOazRXZVM3OA?oc=5",
+     "published": "2026-11-20T17:24:54+09:00"
     },
     {
-     "title": "편의점약에 제산제·지사제 추가될까…토론회서 나온 찬반 쟁점",
-     "source": "데일리팜",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TS1JYcVVORGRqV2lkeDRXMVAzQjRzd2dJTWJpTVFPeTU5VjZIeXpzWWdvQTEwdVRxaExlZUNEX2VWV1lBcDZXaVpWejhqdllic1B6dG9n?oc=5",
-     "published": "2026-11-20T10:10:09+09:00"
+     "title": "고양이가 훔쳐 온 물건 가져가세요…편의점 앞 놓인 ‘도난품 보관함’",
+     "source": "JTBC",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IQ1A0YTAzUXpyaUIwbjhQVWZWRHBpV1lzYUh3dTM1SkdybHJMcWZsdTdSMi1wVktWX01MQlJ1dmxJTnNDZWpVZ041YThsVlJWZUs0?oc=5",
+     "published": "2026-11-20T16:56:49+09:00"
     },
     {
-     "title": "GS25, 투모로우바이투게더 컴백 맞춰 협업 샌드위치 출시",
-     "source": "경인뷰",
-     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JZ2QwUDBaOFdFNERpbGpvWXpiUGFSVmlMdF83U3hHdkIwRzUyenh3OFFUeUhaV05Gc2JuR2xWWG0xM2hPRVZpT3RDc3lYcDh2SUp6M1dqNy1IVDZTeG1fTXZn?oc=5",
-     "published": "2026-11-20T10:04:36+09:00"
-    },
-    {
-     "title": "[신제품] 세븐일레븐, 성시경 협업 바지락짬뽕 컵라면 출시",
-     "source": "파이낸셜포스트",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE52Tm9pMnJneTFGTXZvVFRfdy04R3ZVNEt3T1NQaEVnbnI5TWNMNm5xTFM3Y1hCRzVqV1VHU2xIRFFkQlJDa2pkNEJpMUpTSG9jcFJPXzVEdTlIXzMzZUVVX0dZNlpHUmMxZlpnZjUzOWROT0lF?oc=5",
-     "published": "2026-11-20T10:02:02+09:00"
-    },
-    {
-     "title": "\"담배 더 안 주면 영업정지\"…학생 협박에 재판까지 간 편의점주 - 머니투데이",
-     "source": "머니투데이",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE40ajhkRDU0Umhhdm5pM1BNeVRiVnJSc0FJMkU3aW5wMmZHYUxmMW4zX1VLLUo4TmFRMnNXQk9wcWNwVDhkNFM2NE9FWFJJZkdEQTFhcVVBMExoeXRtRjNqc0VUSHZpRVY0UXV30gFwQVVfeXFMUFdqUkcyak05cmxPLTVKOUpHdW1PZjEwdmRqcXJLcmxGejNJaXlZMmpBbjJ1YnRWT1Y5ZVByOWVINnlac1RheVRuMzBsTEZVR2FTX2s1cW5MRzRja2Jsd084bzdGaENZWEFBU19iRVhxNA?oc=5",
-     "published": "2026-11-20T09:58:39+09:00"
-    },
-    {
-     "title": "성시경이 개발한 라면…세븐일레븐, 바지락짬뽕 컵라면 출시",
-     "source": "지디넷코리아",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CYXhCSF81b2tmSlRIZERrN3E1aW5odEhZel91RnJmTldxX21rZnJWT2RKUXlCdmpWZy0xVTFmU00tZVMyV09rMkVjVHkyVDZzd3E0Q253?oc=5",
-     "published": "2026-11-20T09:56:06+09:00"
-    },
-    {
-     "title": "편의점까지 들어온 코디…쌍용C&B, GS25 입점으로 소비자 접점 확대",
-     "source": "www.reporternside.com",
-     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9VX3U3d1EwMzJoVnNaNm1vOFJQV2l3Nm1PWUhPS1ZuRGFvbFpBOEVRTHN3T2hDemJKbEVpRmlJWmVOMl9WVEFJM2Zrb2lzMjhTU3ZoRDhWZzF6dm1XT2FKbDRqaUZ4dDRBaTFDM2pDSVVrUQ?oc=5",
-     "published": "2026-11-20T09:54:10+09:00"
-    },
-    {
-     "title": "GS25 '소비뇽레몬블랑하이볼' 국제 디자인 어워드 3관왕 수상 - 머니투데이",
-     "source": "머니투데이",
-     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE54aS00TkhYTEhVRDZkbk5DWWh3YzZJZjRVWDBkSnlubjQ3VnZseHdRaTlkLURQcnR3UjdXSW1PM2lrcnkta0NvU1J0bGQ2STY0YjlSX05uM29pbGRINjRRVWkzR1daeHcxWVVjTnRNQzI4dl83NTEw0gF8QVVfeXFMUEtqQ0tkdHlhU3I1OU9Cc1BhQkdDRGh4Yy1SeVo4dDFMei1vR3VhY2dhX0pyN0lGTlJVakVKWTdFel82dmd6SE9iR0tuZlh3ZkVRREJtYzRtOTZjWXRPZ1JaaGpMZGthNFJvdW5haEl0c283QjBzQmcyWnlKUA?oc=5",
-     "published": "2026-11-20T09:51:51+09:00"
-    },
-    {
-     "title": "\"맛도 디자인도 통했다\" GS25 하이볼, 세계 디자인상 3관왕",
-     "source": "뉴시스",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4yb0cyQXhqTUhUVk4wRThIczdBdkhZYTIxdDVhSS1GRmVRdjdJbmZFR3A0LU5JR2VaUWRTU2VkR2NGT3RucDM1NG1FMGRWNHdUTlNpaS1JbXJzaU8yZDdjTQ?oc=5",
-     "published": "2026-11-20T09:38:26+09:00"
-    },
-    {
-     "title": "\"캔당 4500원\" GS25 하이볼…가맹점 객단가 구원투수 부상",
-     "source": "동행일보",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1hajNibXltcUVGVnNhSThkcDlCM1lOMzB5SUFLcFNJYTBENllHSXp4VDY1N05rNGZkYmFBMVpFd1dxS09iME5HRjRwVDJpUnJaaDB5SXpPVy1wdURJRzdQUzR5SWxJMDV0?oc=5",
-     "published": "2026-11-20T09:34:00+09:00"
-    },
-    {
-     "title": "유통업계 ‘제8회 상전유통학술상’ 시상식 개최·‘R.LUX 패션 블랙 프라이데이’ 진행",
-     "source": "여성소비자신문",
-     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pZjI4Y3U5S0NyN0VlS3JDbjZzNFZ1NUhxbkpzQUlpanhrbTNiZENRVEc4SzhqWDBkYjFqdGJyRkFmYmRQVFlzZXZWcXJPM0tYdVVkVUZEa1hpclVZUVhBSWZLRFFCUQ?oc=5",
-     "published": "2026-11-20T09:31:10+09:00"
-    },
-    {
-     "title": "세븐일레븐, 성시경과 만든 '바지락짬뽕라면' 출시",
+     "title": "쌍용C&B, '코디 에어 소프트' GS25 유통망 진입…내년 초 '1롤 화장지' 추가 출시",
      "source": "핀포인트뉴스",
-     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9tbEVwWUNhNEg3WGVwcXMzQ1RHdDB2dU1YRl9Qd2ZWNmNJYUtDT0tEcnB2R3BtNG1iNUZWSjhDWmllNzRMU1hjMDB4SndReFFzVXJJTjZoRGVKSXh2TUlOZDdJdkRoYkI5RC1UY2huRkxDNW5rSFNz0gF3QVVfeXFMT21sRXBZQ2E0SDdYZXBxczNDVEd0MHZ1TVhGX1B3ZlY2Y0lhS0NPS0RycHZHcG00bWI1RlZKOENaaWU3NExTWGMwMHhKd1F4UXNVcklONmhEZUpJeHZNSU5kN0l2RGhiQjlELVRjaG5GTEM1bmtIU3M?oc=5",
-     "published": "2026-11-20T09:17:49+09:00"
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xZDhTRm1SVVRWV3V4ME9ITFI4QjBtSFFvd0tYSzdkanpoaVEzdWZXRlBtU2w2Y2duM040T0RMWnNyNUt3YW5rN1dtTnpHVXUyaEUzWUdSUjlOT3ROODA5VG5lRWlhUTl3NHBPdlYyX25xM0d3aGNV0gF3QVVfeXFMTjFkOFNGbVJVVFZXdXgwT0hMUjhCMG1IUW93S1hLN2RqemhpUTN1ZldGUG1TbDZjZ24zTjRPRExac3I1S3dhbms3V21OekdVdTJoRTNZR1JSOU5PdE44MDlUbmVFaWFROXc0cE92VjJfbnEzR3doY1U?oc=5",
+     "published": "2026-11-20T16:52:43+09:00"
     },
     {
-     "title": "\"떡볶이 가격 올려도 못 버텨\"…동네 분식점수 10년만에 최저",
-     "source": "아시아경제",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDNVNzWTBBak1oX0xIZXFWalI2eDUxYlBkVlQ2Z3ZLUkNnVlRyRHl2TlQ3UG1lOVVsUE1FbW0yQ2Q1ZUYtZEF4R0JFdzlueTBvWEYwWFVVZ2tXTk1ESTlRVw?oc=5",
-     "published": "2026-11-20T09:14:11+09:00"
+     "title": "광명시, 편의점·금융기관 무더위·한파쉼터 지정",
+     "source": "동행미디어 시대",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5WM3lucDdydXh0YzFyYXVaSU9CLVZNN21FWGF5b1dKdDZVWWozVWF1aEZBWFlBd2VON3kzVWE2ODB0NVFueXdfakZsZGpocXVvT3RobzFyTmd1ZDVDZ3c?oc=5",
+     "published": "2026-11-20T16:49:27+09:00"
+    },
+    {
+     "title": "[신제품 오늘리뷰] LG생활건강·리엔케이·빙그레·서울우유·롯데칠성음료·세븐일레븐",
+     "source": "파이낸셜리뷰",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9qZHJ5Y3NrVzBBMXY5LVQxQzZBODMteVdpaUh2Smk1VDdCWjNVRktEYzhYYzVOeHFUQ2V2WktEcGJERm1aOWVkaFBzUGd4ajU4c09kY1VLOURBZmV2OFFYQVdwOF82RkJyNlB3bkZwZjhlVDFl?oc=5",
+     "published": "2026-11-20T16:39:07+09:00"
+    },
+    {
+     "title": "\"GS25 매출 넘어라\"...민승배 CU 사장의 '마지막 미션'",
+     "source": "지디넷코리아",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5rUDBMVmFvWXU2bXFDMEZ1NHJOeWdWMFJxc0tTRXh1NXZOZkhFdFAtSGI1VWcwODhDWGhVd1RBMHBPN3VSNXhyRzdsV2xoU1dBZ0FuU3VB?oc=5",
+     "published": "2026-11-20T16:30:47+09:00"
+    },
+    {
+     "title": "광명시, 편의점·은행 등 84곳 무더위·한파 쉼터로 활용",
+     "source": "데일리안",
+     "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPcXBvOFBBUlhadXZsU3MxbU5hVDgtdFIzcmNPSFFLTzNXV3d6QVR4RjRGVF9NdUdSTVVFdVl3VkVoLXJfVTdxazd5TFI3SEdrZWpTZnBubEtRUjEtUlEzQ0FYeXloY3NxbG4zNE5mX3dqWGJVY0Z6UlpBNzdPc2ozYlQyVWpXTkV1N2hZMkMtUGRkNHFkSkVXNjJPVDlhTFJCYk5XNVFFZ01hT0NJTS0yVnZmdFJkUk41NUJva2RUZE5SMm52Um5ocmNPaXpVc3lLSC1BdUItdWFKQTdLdlBYT2ZXOHZFTTFxWXlqMHpSd3F3WVl0Q2IwNzhQb0dvbnN1MkIzcWFiRVU3cTdxR3c?oc=5",
+     "published": "2026-11-20T16:22:00+09:00"
+    },
+    {
+     "title": "“화장지 떨어졌다고?”···이젠 GS25에서 ‘코디’ 만난다",
+     "source": "이뉴스투데이",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0xMVRJVkN0Nm9ia05Hekw3djhOeWF4YUFteTh5ZUJrajVPbGxwNzg1UVVUVE12WWNUMWFXdk4waFIxYkVvWkNKYWU1MkFWWHRhS1ZielhDUGZrY2gwcW5UdUxPVDNTS3ZiQy1wQXdDaHrSAXRBVV95cUxPT2ZWQUVUZVBfSkJKalBLdDQ5RE5nbmtoUFl3bGkzV2VSQ0N2dEoxYldXZUd3d0RPX0FMUVBEOEI3d2Voa2JRVWZrUzEwVjJpZmhhSkdldF9WdjVUbENIaW5tQ0NMWUJZNkI5QW1NSFNudFVZOQ?oc=5",
+     "published": "2026-11-20T16:20:00+09:00"
+    },
+    {
+     "title": "철판닭갈비 프랜차이즈 ‘오늘도닭갈비’ 김포사우점, 11월 19일 오픈",
+     "source": "이넷뉴스",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TMlFhREE3OHNsV3dCMFdvQVNZYWdHSlpyNm9KcVNCdXlnYkZnM044RUI4bVNMZkFjNzBLd2FCSlljZk4tZ1JuZTlHOG1qdW1XVFFTWV9faTdJdFpYdTJ1QjVEVnpqbjRHZE1IaNIBcEFVX3lxTFBIWjNUb2hZQlJzMldGLVVhUUVKOW9URVhTb3AxVVlXVHRBYzBjSXZFQUY0ZmFFVWlLcldrV0ZMaG1URGFDWFVsaUp2WlI1eDd6UU1lVFVsWGx5OXlnRzN6cDdENXJQQ3VzZ1BoTlBNeWY?oc=5",
+     "published": "2026-11-20T16:18:39+09:00"
+    },
+    {
+     "title": "14년째 감기약·소화제·파스만…편의점약 늘리나?",
+     "source": "SBS Biz",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1kYUZnNjZRNlVTUE1sdjRyWjVOeE9hOVFsZUVHS296RnFEbV9OTi1rRE9LaUdZZUtpRHdYNmxtelNxVy1CaThrUHVnVWlQNk5tdzlLSFUzcjLSAVhBVV95cUxNZGFGZzY2UTZVU1BNbHY0clo1TnhPYTlRbGVFR0tvekZxRG1fTk4ta0RPS2lHWWVLaUR3WDZsbXpTcVctQmk4a1B1Z1VpUDZObXc5S0hVM3Iy?oc=5",
+     "published": "2026-11-20T16:05:00+09:00"
+    },
+    {
+     "title": "유통업계 ‘홀리데이 푸파나잇’ 케이크 출시·보육시설 ‘꿈이 있는 마을’ 봉사활동 진행",
+     "source": "여성소비자신문",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBQX0w2c1pFczRwWHNrOWwtTDM1MWtUVUEyeUJJZF9VZzJtOEJBN0NNY1ZVUEpSR1FzVC04bzhDdHd6MG5IelpHZldVQmpseGczOHByc1drZS1vOFJoZVFmWm55T05kUQ?oc=5",
+     "published": "2026-11-20T16:00:33+09:00"
+    },
+    {
+     "title": "중국 유통시장 진입 장벽 낮아졌지만···국내 기업들 셈법 복잡",
+     "source": "서울파이낸스",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83eTJOQXJpWUdXdzBRWW9rNlVBOTFnSi1uMGdpSXI4d0ZkREN0VEZoM2lUQmpWUEVieHhsZW5DbV9hc0FwcklEMUE3VVhsR0dfRTBQUFVXWjg0YVkzdnY4OURCNlQ4VDhJVmc?oc=5",
+     "published": "2026-11-20T15:56:35+09:00"
+    },
+    {
+     "title": "‘제2회 캐나다 패션브랜드 미션’ 성료",
+     "source": "한국섬유신문",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE02dHFnSC0tVTJGZG55dWx3ZFhCb2Z5dVljVk5ZM2dTUWdoNkxDV1lad0lEYnI4RFNmNFZuWmp1cE9mZ1hFcmVRc3RVS0oyREZGVXNpRzgtMHYxRlZxV1FKaWJDU2NEbFNB?oc=5",
+     "published": "2026-11-20T15:53:49+09:00"
     }
    ]
   }
