@@ -1,20 +1,50 @@
 window.NEWS = {
- "updated": "2026-11-24T22:24:57+09:00",
+ "updated": "2026-11-25T12:53:34+09:00",
  "sections": [
   {
    "id": "law",
    "title": "법·제도",
    "items": [
     {
+     "title": "최은석 의원, 디지털자산산업발전법 발의…스테이블코인 인가제 도입",
+     "source": "블루밍비트",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9SWHZuUk1jaV9IMU9qTS02ZmtwS3RheUFYTlFmYmtJOHJqSFJId25ES2x4aHI0ZlBRRGZEUG5jVlJvU3otWDZPbVVmS19PQ3lt?oc=5",
+     "published": "2026-11-25T10:17:43+09:00"
+    },
+    {
+     "title": "법무법인 바른, '부당한 거래거절 리스크 관리' 웨비나 성료 - 머니투데이",
+     "source": "머니투데이",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyeV9KRkNQUFJzMWpnemlUVVVLZU83MlQxV250MmFBWUo0akR6MFFTWi1GQ2trZ1JGNUEzUHZZWkQ5ZElxYTRYS24zWlo0N1JoWTJuQk1TZVJ1RTlLbmNnMlhwV3pWbGR2ek5ZNlc4MknSAXBBVV95cUxQMnlfSkZDUFBSczFqZ3ppVFVVS2VPNzJUMVdudDJhQVlKNGpEejBRU1otRkNra2dSRjVBM1B2WVpEOWRJcWE0WEtuM1paNDdSaFkybkJNU2VSdUU5S25jZzJYcFd6VmxkdnpOWTZXODJJ?oc=5",
+     "published": "2026-11-25T10:03:51+09:00"
+    },
+    {
+     "title": "투썸플레이스, 가맹점 고가 장비 구매 강제 의혹…공정위 조사 : 네이버 블로그",
+     "source": "Naver Blog",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYmw3dy02elFhSG1kNGlNM2JENEZ6dDVRX2pTR1k2TFBiYWJmR1pCclhNSHhtS2xNY0V3VmE1d1p3QklkTTRSWWpEMDZ6a2hkeE5mLVFHNlJpejV5MzFGZUd1alhHUjVMNXRFTjBJSUVQQi1wanplbmhPS1haU3pNbWYzNzJMSVRUOEpJYm53?oc=5",
+     "published": "2026-11-25T09:33:00+09:00"
+    },
+    {
+     "title": "법무법인 바른, ‘부당한 거래 거절 리스크 관리’ 웨비나 마쳐",
+     "source": "Chosunbiz",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbTBEQy1nRTJ5b3JZT2p2aXN6b3RtSHIyakIwQlVnLVlBcUFpZE1zeWVTc1dJRGNEZnVNSVdiN1RBUEt5RHVkb19SXzIzdWVBYlR1aFpZTFlEdFRoRHZGcjFpcVdHOHJTN29YSGVoS1dwOFI4M2ZDNzFsanc0YXM2LXVGRdIBlwFBVV95cUxQNkxJYzVKdjJKMTdaZy05ckdHQmRySmEySGJzZl83OFZUdlZWLU9ybHFLOFZxNWlzaDRkMmRKT3BobjNnUjVyYlUxQmJuRWNocml3R3dhS1FkV285dDIxbHJpaVhOY3ZfVDc1SlZHQkd2T1gxS251aGV4TkJOOTNpT3ZHUHhVU2tFcGF3eHZOZzdnVzhzRFhn?oc=5",
+     "published": "2026-11-25T08:48:00+09:00"
+    },
+    {
+     "title": "매출 5조 눈앞 다이소, 납품업체 상생은 어디까지 왔나",
+     "source": "일간투데이",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5sNmc0UGFYMUMxTHE2VUtSejFxRmZCQ3d4a2xMTlN6bk94N3NjTnBHeWMxMnlWWXIyN3VNUEh3TUcxeHpsZDBJeXptTHFTYUkzOVhpRDRRYWlNRFZRVEpjenhnSHZEM3RFOUxZ?oc=5",
+     "published": "2026-11-25T08:22:53+09:00"
+    },
+    {
      "title": "[ 2026년 11월 25일(수) 프랜차이즈 뉴스 ] : 네이버 블로그",
      "source": "Naver Blog",
      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaXFOcEN5T0F0TmtNNHhPczEyUWs2TlFLU0lqUVNpbVNjcWxWaUJ3SXhwZlFRbktEMmljVnZEWnVWdWRlU0F2S29kV1d0bWxJNFZ6amVFSlJBM0o1UWRTN3ZKdU1rTkw1My1YTTJUMDZfYU9vRjBsTVkzQmhqcEdWUDAwZTdOVDRoWUs0eU53?oc=5",
-     "published": "2026-11-24T18:02:39+09:00"
+     "published": "2026-11-25T06:02:39+09:00"
     },
     {
      "title": "쿠팡 vs 공정위 전방위 힘겨루기…봉인된 USB 놓고 대법원까지 간다",
      "source": "일요신문",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yeEhHazctYjhwdUNiMFpWZ09tVndNcEFqWFl1SEpSRGtsQWNxS0dFX1lUUFVTZl9zNG1LanNjRVVVZFkxSkdRLW10SlFzRERRVmFzZHVVa1pubFJkZW13MA?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1DbUYteTl6ZkJ5NlhDdnhTYTdzcWFLX0lVVk4tek0yc1VqUWNPeHlBR2M5RHJIUUlpN0oxYkRFMFRZVDgxT0c1VGZXeHhCTGRmS1ZWYVVfbGNtakRTa1pPU2t2YVhjQQ?oc=5",
      "published": "2026-11-24T17:59:07+09:00"
     },
     {
@@ -28,60 +58,6 @@ window.NEWS = {
      "source": "한국강사신문",
      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBlTGF0QWs0ajlSQkozQlVHX3BsSXpsWnBrQWdMWHRxSDE4SUlRZ0F2ZDM3N25zTlI4WkQ2Y2xJak9HTG82YUZudVJldGNuZjlRU09Udi02b0prd1hTR1NoN01LLVhEY3lXdG5TbjV1R3E?oc=5",
      "published": "2026-11-24T17:05:42+09:00"
-    },
-    {
-     "title": "납품 소상공인 “대금 언제 받나” 이제 명확해진다",
-     "source": "일요시사",
-     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1sNWVxTk1wLVR5UXhucnA0RUh4QzRkMDEwYkh1SEl3OGVtX1hFQnB6dGppWXlZV0p4TmFDc3pDa0Fib05zU0xzWGQtbkhtRG5lSlJNTzJxdWoxcV92cXdFMW93?oc=5",
-     "published": "2026-11-24T17:01:45+09:00"
-    },
-    {
-     "title": "[단독]공정위, 점주단체 등록 '30명 기준' 낮췄다···가맹점 10개 미만도 협의 길 열리나",
-     "source": "뉴스웨이",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9laHhLS1V3aGJ5UkRTTDJRbTk0VTZpTElwaVlSTS1nN25fVFRhZXB3WE9tNXpaVHpQdHl5VDY0Skc2Rk9pX1Z3NnU5TmVRNjM0OWp5cUhLMjhQckN2Mk01clRubHBJX1I4cUE?oc=5",
-     "published": "2026-11-24T17:01:44+09:00"
-    },
-    {
-     "title": "쿠팡·쿠팡이츠, 소상공인 해외 진출 지원…일본서 K-푸드 행사 진행",
-     "source": "청년일보",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52SmNmMi1KUGhGdU1JcmRJSEtZZnRwVkpOMXRqa0tIZzRtU290dnFwSTEtZ1pnSjdaQjNmRXpqc3paaVE2UXMyaDFFdWE1MnJjRzlwSmFnNm1nZDFfbUhoSW1tVnBhS1U?oc=5",
-     "published": "2026-11-24T12:39:51+09:00"
-    },
-    {
-     "title": "81조 B2B 식재료 유통업, 법적 사각지대 해소해 외식·식품 산업 경쟁력 높여야",
-     "source": "식품음료신문",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1OTHJqZk9FM2tCekNWNDcxc09jZExRWExGd0lQWVBPY1A1VWkwUmNfWE5DbkRCWGdxRURZZHBhZHRaTG1IenNCOHMtMnFKaEtEbXhZUFJ0Y09GR1k3cHZGckd2ZTFteDBsXzk0YzdOOA?oc=5",
-     "published": "2026-11-24T10:49:49+09:00"
-    },
-    {
-     "title": "약손명가, '갑질' 폭로한 점주 32명에 '언론 인터뷰 금지' 가처분 신청",
-     "source": "CEO저널",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1BUkJmQjREdGxGNkdfVjFUVUw4c3pLWDhvV1otQzJkbjdoNklJWmw5UnFVaEVJUGRtTHg1d2ktTTduVEdjWGhaaFU0T1RKdTByT1NzOHZSU1RoQmMyTVg3WkY4UE9XTDFBQ2Jr0gFrQVVfeXFMTUFSQmZCNER0bEY2R19WMVRVTDhzektYOG9XWi1DMmRuN2g2SUlabDlScVVoRUlQZG1MeDV3aS1NN25UR2NYaFpoVTRPVEp1MHJPU3M4dlJTVGhCYzJNWDdaRjhQT1dMMUFDYms?oc=5",
-     "published": "2026-11-24T10:11:59+09:00"
-    },
-    {
-     "title": "한 달 앞으로 다가온 가맹점주 협의의무제, 쟁점과 과제 [지평의 공정거래 Insight]",
-     "source": "한국경제",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NSkU0SWxkc1NiWWdGakFCUDBIVXY4UHU0cFNURmRiaXp4ZEJiSFduT3BtU18xQlFCWnZoclBWMnpkSEFWeXltZDVZS1d6ejh3S3YwUkdRN3pYQQ?oc=5",
-     "published": "2026-11-24T10:00:13+09:00"
-    },
-    {
-     "title": "주 4일제 논의 속 하루 일자리 비교, 단기 일자리 5가지",
-     "source": "뉴스N연합",
-     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0ydDB6MG9LdHBNRjlQc2VXWUczQVhQazRwdFFZTmZuTl9YZ0FpQkZuU3YxR0Ryem5VMzVKTDRXZDdQVEdoRTNlU3NB?oc=5",
-     "published": "2026-11-24T09:24:27+09:00"
-    },
-    {
-     "title": "놀부 회생 기각…가맹점주 보증금 '사실상 0원' 위기",
-     "source": "동행일보",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZMnpjby1OcmFGUVROSkRhRDBJSUFtUjM5cUpsSWpYMmRXOFBFS3R2ODVNa1F2RmVzakdRN1hrTmVzSlFwQ1FBM1FRS19jeEdPdzF5b1N5X1o5eE1xWlY0dThvc3FwODRu?oc=5",
-     "published": "2026-11-24T08:37:00+09:00"
-    },
-    {
-     "title": "[맘스터치 M&A]① 점주 반란이 부른 '영국 도미노' 추락, 맘스터치 1조 딜 '기시감'",
-     "source": "넘버스",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4xMTktakNsT2JfUkhxUVZZQVQ0M3dTZ2E5cE5mdG1vRWVIcU5ULXZSQmszWUhIQ0l3ZGowejdXa3RLZU5hMGo2dTJCeDhhNDg5QTlDZElKbnZCcjRGa1RHZ0NUUDNHY1UyT29z?oc=5",
-     "published": "2026-11-24T08:20:00+09:00"
     }
    ]
   },
@@ -90,124 +66,124 @@ window.NEWS = {
    "title": "유통 뉴스",
    "items": [
     {
-     "title": "주차도 못 하더니 편의점서 술타기…병뚜껑 열자 경찰 '덜미'",
-     "source": "뉴시스",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1iWWc1aWxmYWZodTd4X1lDbjV6QzMtMGt0VmhtQnM3NzNvekUzVV9fWk5RUkhreGs5MWZDMHJSeVNTbG1fSWw1Q2NrNllOcUlCMHZJU1QwOVZaOGZxclEyb9IBeEFVX3lxTE5qeXJSRUZ5bmJpTGdTQlBPbUhnVTAxcjh5Y2ZwZjNrM2FlYTZyU2RTTmg0c2I1UXgxODQyYnFmZUc3Vi1zMmtaOXN0Q3RlZ0dBZmUwb0ZENDlzT0EySjQ2SVFJdktlZVVJTWZSQTExVzdINUZOV3dhQg?oc=5",
-     "published": "2026-11-24T21:09:44+09:00"
+     "title": "캐나다 세븐일레븐, 해외매장 인기 스낵 첫 도입 사례로 K-스낵 낙점 K-편의점 인기 스낵, 세븐일레븐 직수입 통해 캐나다 진출",
+     "source": "일간대한뉴스",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mRExCSll5bjBVWmhLeHY2RmNTLU1adG1LakxKNzczem1GUnFudzFqZnhBVm9YOHREUVBndUJZS0RlZ2lIWWg4Mm9hN3lpRzNOUnNFVFA0YndXbmx5bW1zeWlYc21DU1k?oc=5",
+     "published": "2026-11-25T12:18:05+09:00"
     },
     {
-     "title": "편의점약 품목수 대통령령으로 완화하는 개정안 '제동'",
-     "source": "약사공론",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RRU1MUm9rM3V6c0ZLYzhJaVFZczQ0bFhFcXZXU2d3VUtNYWVKR2htaWhmYkdNbGRhUkVkXzBLbnIzdlVWQ2hzMnFseHh5WTNwY0w2Q0NKQ3lQSk53MXBrSV8wVlNPSHBJSGs4LQ?oc=5",
-     "published": "2026-11-24T19:33:00+09:00"
+     "title": "영화 속 세계관부터 온돌 카페까지.. 유통업계, 이색 특화 매장으로 소비자 발길 잡는다",
+     "source": "ACROFAN",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PaUFmU2RUeWJsdGpQbDZLT3Q3VG9Cd2tnUHBlLUs4ckFES1BWTDZWdlhBZ2xnVjZvZVBuSlktcldsb1NvNjNoRHdBX1pjMjFoVmlFS1dTQkNNM3M?oc=5",
+     "published": "2026-11-25T12:17:00+09:00"
     },
     {
-     "title": "세븐일레븐, 1만원대 소용량 케이크 출시...크리스마스 수요 공략 - 머니투데이",
-     "source": "머니투데이",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Ma3NNU3NKLUJKR1JtWnVudjJieW1ySXZVbGlERERDaW1kUHNzZF83LWk5M0NyNkxEUXFKQVJHbU5nWVF2NTgyOW91czdQWEZOX2JMeE5DOFlTdlRZMENzLUFHNExUQXdrenfSAW9BVV95cUxNcWpSYl9lTHhVdUhER1UtRHdrZFNNWXFxN1VoUS1pTFhPb1dQTk1FeFE5d0dkZ2REQTFxaWdZODU5Q1RLQWMwV05OVTM5MFVxMlBMTzdfWWdDSXZiejBkaWgybWQtSnF5RnZhc3hnYzQ?oc=5",
-     "published": "2026-11-24T18:55:14+09:00"
+     "title": "중국에 깃발 꽂는 K-뷰티, 단체 관광객 노리는 백화점…유통업계 한한령 해제 촉각",
+     "source": "헤럴드경제",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrUXdzVkxpMXRBUFFDR3lDTW9OMk52Z2Rvc20xbExTR0lTSjVrTUtQZWJMN0M3cGdoT0twREQ1elY5a1ZsR3pkbjhiTTFDYUY1T1pRb09R?oc=5",
+     "published": "2026-11-25T12:11:00+09:00"
     },
     {
-     "title": "엑소(EXO), \"데뷔 초 외출 금지로 집 앞 편의점도 못 갔다\"",
-     "source": "MHN스포츠",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBPWnhia01OLTRxbHV6NlVfWkFpd29mQ05xWkNlaTNnRjVqREVRN3hMS2hKN1M3WFZ1Nk9GT2VqUm9fY3JzTXpiX0VXZk1jeURYRTNnN2hzNEZkN3kwMDdKWWRidw?oc=5",
-     "published": "2026-11-24T18:53:15+09:00"
+     "title": "‘술타기’ 하려 편의점서 소주병 땄더니 뒤따라온 경찰이 딱",
+     "source": "JTBC",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5KcmRjdE9TZW5NaFFKNHpUZWxVYUdfT0kxXzI5R2s4ejVsRUxxamp3elNhbWNNTTlySElYemF3OTQ5MS0tLWdHOWhUYXBmUjE0N2ZjdA?oc=5",
+     "published": "2026-11-25T12:10:06+09:00"
     },
     {
-     "title": "[유통소식] 크리스마스 앞두고 홀리데이 에디션 출시 확대",
-     "source": "스포츠한국",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBTSHFGTXJZTGZzOEI0Rk9xMHY3d0ltcWoxOGJXblVSc29DTFRjdEc1dmY5VS1uQnZoR1JfWXpRSGhFVTVmemRhQWQyeXZHQmlGS0VmZjh3TmhIMmN4c2hLMDFtTzY0eWMybnJhWV9mQXfSAXRBVV95cUxPLTROYVBhTmJLYlNDaUp0UmxHY2ZyRjBtQkJiTFhLVmZidzlkV2JDdDFWNFp0V3Y4V2x0RUI2MTEzaUNYLV83SURoQWNFeHdXWVBWMmtsb2UtTEtPcUxvdnhnMk1rUjVWbXRzUThLbjFDaEMwZg?oc=5",
-     "published": "2026-11-24T18:28:19+09:00"
+     "title": "파리바게뜨 21년째 자선냄비…현금 사라진 계산대 'QR 기부'로 전환",
+     "source": "동행일보",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5abjJXczlRZno5eFdjYUNIaU9FZ0M3MUpoR1RwMW9RY0xXdDllczRXWF8xQlkwTEJwSTNxT25yNjZueTRuSFhvWEdueUMzak5pc19sSm80LUxELWt4YnFHQll1WGR4ZlpL?oc=5",
+     "published": "2026-11-25T12:06:00+09:00"
     },
     {
-     "title": "이마트·SSG닷컴, 임원 고삐 죈다…월례휴무 폐지·4개사 6시 퇴근",
-     "source": "포쓰저널",
-     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9NZ0pZSkVNWXBKSTJUYXFlb0RKdlQ4QWp5OTJzdUJBQkowamVuSURZOEllUko2M1hsZU13Zm5DUTNaZlc0RENoQWI0QUtTTVlfa3d6SjdJY2ZVS0JWYll2TTZTU0s?oc=5",
-     "published": "2026-11-24T18:21:57+09:00"
+     "title": "세븐일레븐, 일본 장수 캔디·중국 토끼사탕 선보인다",
+     "source": "BBS 불교방송",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPNkdkV2Z4ZmM0bmJhU2ZMRDYzMWphNlJqLU52M3JGVGp6VlU5RmFqNFJYcTlyb2ZNdlBuUE51X1NwS2FjSFJMVDdKWHNYeFN2U1dUY2VWRUtiSk1HZ1E1T0EzX3NMbFZUQkQ0?oc=5",
+     "published": "2026-11-25T11:50:41+09:00"
     },
     {
-     "title": "포항북부서, 편의점 현금 절도 후 폭행·도주한 20대 검거",
-     "source": "경북매일",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02R3g0OE80czBaWkgwRTJidU9YX2I1LVYyQWxGb0ZMLTkyRHY2RHM2bmpRRDlXMEhNWDRneVJJRjB5YUYxUkVaak45bjJPbkhIejdVZWlmR00tZw?oc=5",
-     "published": "2026-11-24T18:20:00+09:00"
+     "title": "세븐일레븐, 글로벌 소싱 상품 매출 50% 신장…해외 인기 간식 라인업 확대",
+     "source": "스마트경제",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1XQVRFZ3k4azlpLXFjT21wb2tLVE1NV1hJd1g4QkxsXzdCR3BJbmZNMzFSY3NHYXRsdEdYUU9HZWFNWjhzQ1dHaEUyM0lsVVJkM1pCdnp2c3c4ZUlnU29XY0ZBX2JxeERtTGVta3oxMVA?oc=5",
+     "published": "2026-11-25T11:40:00+09:00"
     },
     {
-     "title": "[ 2026년 11월 25일(수) 프랜차이즈 뉴스 ] : 네이버 블로그",
-     "source": "Naver Blog",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaXFOcEN5T0F0TmtNNHhPczEyUWs2TlFLU0lqUVNpbVNjcWxWaUJ3SXhwZlFRbktEMmljVnZEWnVWdWRlU0F2S29kV1d0bWxJNFZ6amVFSlJBM0o1UWRTN3ZKdU1rTkw1My1YTTJUMDZfYU9vRjBsTVkzQmhqcEdWUDAwZTdOVDRoWUs0eU53?oc=5",
-     "published": "2026-11-24T18:02:39+09:00"
+     "title": "\"편의점 직행\" 음주운전자의 수상한 행적",
+     "source": "대한민국 정책브리핑",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA4SEg3alpHc0lBdmVvOFVEa3JZeC1wenBTLXdJajlQT09PYm9KQlZoQkJud0NhY0VhTWVUTlVZX0M1WFFXRDN5SDcxLXNnTkhvek9nNlJRODNQQWcyVlFTa3h1QUIzX05C?oc=5",
+     "published": "2026-11-25T11:35:51+09:00"
     },
     {
-     "title": "편의점에서 인터넷 가입한다...CU, SK브로드밴드와 맞손 - 머니투데이",
-     "source": "머니투데이",
-     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZbjNTczV2RlZBTWQ0LXI3VTJPeUxUV3RGQkg1UWt1TkpEOVd5eHlXRUt3ZHEybkpUOU5xOUlhQXc2RHFaTXU1emVnOHVld2hfcHBPb3RycUdMR2Z1YTM3b08yb25FUnVBVGhhUUZLM1hwOV9ySWdz0gF8QVVfeXFMUHVpM0dPa0lpaFNGLUpiTFFXczdRRlJnUmdIVUxGTjZhU19KNXhmOUQxNUF3ajluMDRMdktxVWNaMWNGZURUT1VyazlQeXliZkFfYlJ1MlA5Z0ZXbGpRY18wTXJfWnR2RmRxQ0ExWHpkaTYyWGl2MEMzajd3cw?oc=5",
-     "published": "2026-11-24T17:48:32+09:00"
+     "title": "[장중수급포착] GS리테일, 외국인/기관 동시 순매수… 주가 +5.84%",
+     "source": "뉴스핌",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5wVzE2UGphOEd2Q0N4ME5DX2JrY2l2djctWEZYbGUtWXBlNWRCUzhNaVgyWDBzSGFqS1FWZEtBdm9uc29DTURNVWVacUlucllXcmViY1g1VjBUeHBz?oc=5",
+     "published": "2026-11-25T11:32:00+09:00"
     },
     {
-     "title": "음주운전 신고 눈치 챈 50대…편의점서 ‘술타기’ 시도하다 덜미",
-     "source": "매일경제",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1HS0tMT2RHc05teFJaZHY5T29BeWlyVGtGMnFCQ1VsZHAzdG5acEVTLXhlMFBSNWdLLUhjVDdSU0s2TDg1TDFhaHlHRVUzcDNNU3pBNg?oc=5",
-     "published": "2026-11-24T17:47:37+09:00"
+     "title": "만취 사고 뒤 편의점 달려간 여성 '술타기'…소주병 따는 순간 낚아챘다[영상]",
+     "source": "뉴스1",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA3QjVlZWU2VkpEbTlYa29zY25pdG5OOXhuSkdjUnh6dVRsSmJDWUxCd1hTUzduSndSaGdOVXRFZjhqbGg5cjBnS1FwbVM5cmNQTlpyR1d3TV9JMW1odVlGRVhB?oc=5",
+     "published": "2026-11-25T11:23:41+09:00"
     },
     {
-     "title": "무신사 뷰티 바로 옆에 올영 ‘첫 색조 특화 매장’",
-     "source": "부산일보",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9vUzZKWXRZVUo0SXR4cGhuRlpodzlVbHV4TVFHUWhhcWZ4VmdOOEl6TmJDMHFVcTRwbkZKNXMwQ0VvMFAwVjU5T3duWFhTWThVWXU4cnJ1aVFpT2hDVV9OdndETzhjR3pjOV9OT0tnSW9GNGtJ?oc=5",
-     "published": "2026-11-24T17:46:25+09:00"
+     "title": "뚜껑 연 순간 '검거'...주차 마치고 편의점으로 달려간 이유 [자막뉴스]",
+     "source": "YTN",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1hMWlja3V6YWlwcFRDcFowQ29VUmpNNno5aHZKTFYyNVY4MktnSWc1aWZQOFFuNXphZVZ2NFdLUnRQcHptanVfVVB1NUhnXy12dkVGM0FKdnpfTERXcGc?oc=5",
+     "published": "2026-11-25T11:21:00+09:00"
     },
     {
-     "title": "주차장 기둥 들이받고 편의점서 소주 꺼냈다···음주운전 50대 송치",
-     "source": "경향신문",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGMlJUMmFYUlRhYTNNYUxTc2xvTXFSdTl0UjlsZ3ZhTE42cTBETUt0T296VWdzcWpCUlhySWV6d2Y1VGNPdEtXOVBJeTh4aVFiU0VWbXpuV0lVZ9IBX0FVX3lxTFA0eU9ma1A5NWJtcmJsQlJ3S05lT1ZXS1lvWTFMSFA2WlZmdTFMd2ZDS0puNkd4OUtBYjBaNENSWWc1Ti16VE5WZFRTQ3ZPMDNOOXl4WDRTZEpJeDNtSlVj?oc=5",
-     "published": "2026-11-24T17:44:00+09:00"
+     "title": "CU 사업 커질수록 계열사 거래도 확대...BGF, 상표권 수익 49억 챙겼다",
+     "source": "팝콘뉴스",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Mam83Tjh4QTN4TnZyUXlUdWJMZzB1Z3FoQmJVS1ZWa0pfZXpkd3c0VVJQelg3ZThZRWtWcmZaTV9TRG04S2dMRHhqZVg5SEk4THp5YmpPUU1XVXhZX3NQYURWR0dQN3dndUJBWmtmc9IBckFVX3lxTE1uZWhxRlNJemlDSzV0Q3pLMUVMM3ZJNUs5dmF6MERxQ1NfSTBPR29tbnptUnI3cGpvQjFBNk5xNE5lbGgwRzBvZFpaM3BmZkU4dGE1aW0zMTh2aHcwUm1xUEI5bXVieWd3TjVCRTNTakU5dw?oc=5",
+     "published": "2026-11-25T11:20:50+09:00"
     },
     {
-     "title": "음주운전 신고에 편의점 '술타기' 시도한 50대, 경찰에 덜미",
-     "source": "KBC광주방송",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5S3p5YXRqVUhid1hHU2NaZDBGckNaaGgtMENOZ3NlNVJYWmhTeTVEbjItMUVHdE1ycTZTRnMtQTE2dXhsUThGSEZ4M1BjQnVmRHJ6NXZjbFFJeGhmeTgxMQ?oc=5",
-     "published": "2026-11-24T17:41:38+09:00"
-    },
-    {
-     "title": "우리집이 붕세권...식품업계, 붕어빵부터 호빵·호떡까지 겨울 간식 시장 공략",
-     "source": "푸드투데이",
-     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE04S0Z4V3lXRXdCdUdHdVBJVFBYbUg1Y0VLVFBkYXRhaU00ZTFxdVh2Q09SdjM4N3hSSVpCT3R2bzlKV2dnaEc0bEFJY1ViWE1rd3RqVF84UlJMNHQ3TG1SX09sYkZoUQ?oc=5",
-     "published": "2026-11-24T17:41:01+09:00"
-    },
-    {
-     "title": "몸집 키우는 GS더프레시···같은 지붕 GS25 경쟁자로 등극",
-     "source": "뉴스웨이",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kQ1J0OTlqSUN2SjBEaV9MOTRJMW9aUEdxd2hwSmNwNE9lSGJsZ1JYOWltSXhNUTBNYng0YTlCZGgteUdQc1ByV2VaZEdfT2tZeW9tOEs1ZWxMZVpXS1hUamxGeGdPNUtJUkE?oc=5",
-     "published": "2026-11-24T17:40:42+09:00"
-    },
-    {
-     "title": "이마트 ‘유통환경 심상치 않다’… 임원 근무시간 1시간 연장",
-     "source": "브릿지경제",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjQkNBcURNckdIS1FSUnNRT3pLM1hZUHlzekY1ZU8wWEV1R1pYbWhiMk5yUUt1ekxLTHN6UVJsOEFUSGR6QWRlQU1vLWh5TVAzMkRhMUJFRkJNdw?oc=5",
-     "published": "2026-11-24T17:31:00+09:00"
-    },
-    {
-     "title": "신고 눈치챈 50대, 편의점서 소주 마시려다 경찰에 제지 : 사회",
+     "title": "K-스낵 캐나다 편의점 진출…초도 수출 30만달러 : 기업·산업",
      "source": "재경일보",
-     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ETUJkNkF5TUZtVDE4T3hJVVliRkxMU0JBbE9zVjd6dDQ0NXM5cGUtT3NLRTBSYlVpQVBWSERUMUx1RlVDVHFBTHRhaw?oc=5",
-     "published": "2026-11-24T17:30:29+09:00"
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE51djNTWDlxZEVqb25faUQtOHRMbnp0OFJWNWMycUFtS056Rm1GYXFQYXE5WTlhcDFqcE5Nak0yUDJBNzhxek1MWFpTYw?oc=5",
+     "published": "2026-11-25T11:10:51+09:00"
     },
     {
-     "title": "음주운전 뒤 편의점서 '술 타기' 시도한 50대女 송치",
-     "source": "노컷뉴스",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xNUt4LU5zZVpOUGpwa1BrQzUxMTdHZUQ3TEVWdHBRM3BZWEhGYzRWU1NRZFdKV1NhZmk2SEI0RGtJSjZzQWJHNXhndFdrUnNTaWc?oc=5",
-     "published": "2026-11-24T17:28:09+09:00"
+     "title": "오남용 우려 일반약 별도 지정·DUR 관리…편의점약은 심야·휴일로 제한",
+     "source": "약사공론",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QWVBzczQ5WWwwNWV2aElPa1JWc29JcDFWN1RSS2NVamIyOGRIaEVYTHF2Yi1wSU9IZDF6SndGWW9GSkxobnlXa3BEaVRpLWpDMzRCbHJjbFk0N3dKSmltSkZBU0ZBQ3Q0UVhrZg?oc=5",
+     "published": "2026-11-25T11:10:00+09:00"
     },
     {
-     "title": "GS샵·세븐일레븐, 현장 중심 AX 본격화·‘세븐셀렉트 홍시스무디’ 출시",
-     "source": "여성소비자신문",
-     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9xZkZBV3ZCbV9XYjN5ZGNXeHNHeG43NVJoSHFOVmsxaXY5Y1dud0ZXSzdXX0lmYk1ZN3Y2NHdoTnFKOHlaTmI3b01NeHZDbHVLWXB0MkdsemoyV0phQmtNTEhJN1Jmdw?oc=5",
-     "published": "2026-11-24T17:24:04+09:00"
+     "title": "K-스낵, 캐나다 세븐일레븐 입점…북미 편의점 시장 공략",
+     "source": "코리아포스트 한글판",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1WeXUyZ0xqWnBYV3g4QkxpSC1HUjluV0ZMVXY3bmZVMUo2WlJlS05fcF9ybFVNSmtlUnZMejJwVklwWTdMRlAyUmR2Z0dmWUNFSVpWZjIwQ01vVGNlSU1VZmZJZFh2c29PTV9NRXNn?oc=5",
+     "published": "2026-11-25T11:05:00+09:00"
     },
     {
-     "title": "음주운전 신고 눈치 채고 편의점서 '술타기' 시도한 50대 송치",
-     "source": "연합뉴스",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByWVZBNVBzUEZ1RkM0WFRzTXhraWIzZWxWOWY4T3FDQmw4Sm1lZkdYSmd6aTlWWHNPT3JUMVdMOUxQS1BEWmFiUFdmSnUwWjVLVDg3OU1CMGZvVG81YTF2bNIBYEFVX3lxTFByWVZBNVBzUEZ1RkM0WFRzTXhraWIzZWxWOWY4T3FDQmw4Sm1lZkdYSmd6aTlWWHNPT3JUMVdMOUxQS1BEWmFiUFdmSnUwWjVLVDg3OU1CMGZvVG81YTF2bA?oc=5",
-     "published": "2026-11-24T17:23:45+09:00"
+     "title": "점포 줄어든 세븐일레븐, 해외 직소싱으로 '생존 승부수'",
+     "source": "동행일보",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9oYS1Fd21oWDBnQVdwdWpRa0pKN0tabE1pU1RCaWN4R3RkYWMxMHlfOHJBMEFwODlWNC1hTjJaSVR4STVOTm42TGFvcUxjc1B6Uy02ZlRIeWRfM0ZyZXRyLVE1bTI2VTF5?oc=5",
+     "published": "2026-11-25T11:05:00+09:00"
+    },
+    {
+     "title": "“과자도 K-브랜드” 캐나다 세븐일레븐, 해외매장 첫 도입 K-스낵 낙점",
+     "source": "www.dt.co.kr",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5fb0Z6RWJyeG9HVndlMzluWVhGYS1HZ2wxN3haRFZWTGUycm9HWkNVNURGeHVLSERVR3VJQkRtcDJ1VE5XTGw4aklFU2FNdw?oc=5",
+     "published": "2026-11-25T11:04:56+09:00"
+    },
+    {
+     "title": "日·中 인기 간식을 韓 편의점에서...세븐일레븐, 츄잉캔디·토끼사탕 출시 - 머니투데이",
+     "source": "머니투데이",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE40NXhuMXZoOFZCZkU2ZmlOZElQa2JiUWdlcU1DYUdmdDJXUXhITW9COEVOQ043SHRjR0lrT294UldRV0RKbUF3bExaQ3luU2FsdEtDSGVKdm0wT2F1clJFaGVWNG5rTzZYX2RUcjA2MHlNVmhNN2NJ0gF8QVVfeXFMT1lEXzVrZllMVUpSZ1JDSlRoVlpRTk5lbVZHSlVRdnFUdDB5OTd6ZDkydEJzSlFXMkM0VjVsZWliY3VEb1dUM0lxcTJia0RDNEZ5Q0RXR3BsZE5rcVRKT3ZjN05CZDd3bDdqWkJxQlQ1RlI2UEVvYjJBSXY1Yw?oc=5",
+     "published": "2026-11-25T11:03:26+09:00"
+    },
+    {
+     "title": "캐나다도 반한 K편의점 스낵…30만달러 초도 수출",
+     "source": "이데일리",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQd2YwWUxoLXZMNXQyZnA1S2JjZ2ZPOTB5dTRwb1hMdXN5ZjZocGlrSzhkczBGcm9QMnZCT3hOUVlEV1dUZlZ3LVYzenRRcGN6WWRLZF81SERXRFFHdk5OUEJ4S1BwU2JsQWlXRWdOWWNBLUw2a1NzamN0MDNqS2VHUQ?oc=5",
+     "published": "2026-11-25T11:00:03+09:00"
+    },
+    {
+     "title": "허니버터 팝콘 등 K-스낵, 캐나다 세븐일레븐 진출",
+     "source": "연합뉴스 한민족센터",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5mVEYyVTFaRTNTZHRvNHlEVzN6SWFZSExtaTI1ZFEwQ29CV3pFdWNZN0hWckgzeW5sYWZZbllqbmxpY0ZLUURTelhKSTB3aUVEVU05UWIzaWtKNXozYmN0em92X3prTURzUkZjclhsRUZoT1Z4?oc=5",
+     "published": "2026-11-25T11:00:03+09:00"
     }
    ]
   }
